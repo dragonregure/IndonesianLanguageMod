@@ -4259,92 +4259,264 @@
             "winter_Thu10": "@, come closer. I'm cold.$l#$e#My hands are so dry from the winter air. I'm sorry about that.$l"
          },
          "Fields": {
-            "Introduction": { "0": "Oh! Bukankah kau yang baru saja pindah?#$b#Aku Maru. Aku sangat ingin bertemu denganmu!$h#$e#Kau tau, dengan kota kecil seperti ini, wajah baru dapat mengubah masyarakat yang dinamis. Ini menarik!" },
-            "Resort_Entering": { "0": "Willy mentioned that you helped fix the boat. Thanks for doing that!" },
-            "Resort_Leaving": { "0": "That was fun!" },
-            "Resort": { "0": "I've been noticing a few different starfish species. My favorite are the big purple ones, but they're all very interesting!" },
-            "Resort_Towel": { "0": "*gasp*... It's a solar eclipse!$3#$b#Oh... nevermind. It's just your body blocking the sun." },
-            "Resort_Towel_2": { "0": "We're so far removed from civilization out here.#$b#Imagine the stars you could see at night.#$e#Who knows, maybe we'd even see a flying saucer or two!$h" },
-            "Resort_Bar": { "0": "Mmmm... Why are tropical fruits so good?" },
-            "Resort_Shore": { "0": "I wonder if Willy would let me bring my telescope here sometime...#The sky is so clear here, I bet I could spot Pelican Town out in the horizon.#Maybe I'd even see you running around %farm Farm!" },
-            "danceRejection": { "0": "Aku tersanjung! Tapi... tidak." },
-            "divorced": { "0": "Kita tak memeiliki apapun untuk dibahas lagi.$a" },
-            "breakUp": { "0": "Not good enough for you, huh?$a#$b#Fine...$s" },
-            "dumped_Girls": { "0": "Beraninya kau bicara padaku!$a" },
-            "secondChance_Girls": { "0": "Kau telah kehilangan kepercayaanku, @... tapi aku bersedia memaafkanmu.$s" },
-            "Mon": { "0": "Setiap kali aku berjuang dengan masalah teknis, aku selalu berjalan-jalan.#$e#Ini mengejutkan berapa banyak pemandangan dapat membantu meredakan suasana." },
-            "Tue": { "0": "Kau bertemu ibuku? Dia tukang kayu." },
-            "Wed": { "0": "Pada hari Selasa dan Kamis aku bekerja di klinik Harveys.#$b#Ia mengatakan ia suka aku bekerja disana!$h#$e#Menjadi petani mudah sekali, kan?" },
-            "Thu": { "0": "Aku berencana untuk menghabiskan banyak waktu dengan teleskopku musim panas ini." },
-            "Sat": { "0": "Kau kenal ayahku, Demetrius? Dia ilmuwan. Sangat menyenangkan membantu dia keluar di laboratorium." },
-            "Fri": { "0": "Hei, maaf jika aku tampak rewel ... aku sedikit sakit dari pekerjaan kemarin.#$c .5# Aku harus membawa sepuluh kotak file medis ke loteng!#$e#Aku harus memilah catatan pasien selama empat jam! " },
-            "Sun": { "0": "Hi!#$q 3/4 Sun_01_old#Apakah menyenangkan bekerja di kebunm?#$r 3 0 Sun_01_01#Iya.#$r 4 0 Sun_01_02#Tidak." },
-            "Sun_01_old": { "0": "$p 3#Hei, Kau telah membuat kemajuan di pertanian! Sepertinya semuanya berjalan dengan baik.$h|Setiap minggu melelahkan, ya? Kau memang banyak pekerjaan...$s" },
-            "Sun_01_01": { "0": "Nah itu bagus, bukan?$h" },
-            "Sun_01_02": { "0": "Astaga! Maafkan saya. Apakah kau pernah berpikir untuk melakukan sesuatu yang berbeda...?$s" },
-            "Tue2": { "0": "Mampir ke rumah kami jika kau ingin meng-upgrade bangunan.#$e#bagus sekali punya pengunjung." },
-            "Fri4": { "0": "Ibu saya adalah seorang tukang kayu dan ayah saya adalah seorang ilmuwan. Aku kira itu masuk akal bahwa aku menjadi gadget bangunan." },
-            "Mon6": { "0": "Kadang-kadang kepalaku berantakan dengan omong kosong. Aku hampir tidak bisa berpikir. Apakah itu pernah terjadi ke padamu?#$e#Udara segar kadang membantu." },
-            "Wed8": { "0": "Pada hari Selasa dan Kamis aku bekerja di klinik Harveys.#$e#Dia baik, tapi dia bukan tipeku..." },
-            "Thu10": { "0": "Oh, @! Apakah ada sesuatu yang ingin kau berbicarakan denganku?#l" },
-            "Event_Hospital_1": { "0": "Tentu saja dia tahu bedanya! Sampel ini benar-benar hancur!%fork$s" },
-            "Event_Hospital_2": { "0": "Ok. Aku akan menyalahkanmu!$u" },
-            "Event_Hospital_3": { "0": "Kau benar. Aku seharusnya memberitahukan kebenarannya.%fork$u" },
-            "Event_Space1": { "0": "Ini menakjubkan, bukan?" },
-            "Event_Space2": { "0": "Aku kira kau bisa melihatnya seperti itu...$s#$b#Tapi itu masih luar biasa, bukan?" },
-            "Event_Cut1": { "0": "Oh no?$8#$b#Nah, kau membuatku merasa sedikit lebih baik. Terima kasih." },
-            "Event_Cut2": { "0": "Oh no! Aghh... Aku minta maaf.$s" },
-            "event_robot1": { "0": "Terima kasih. Itu berarti banyak bagiku, @.#$b#Meskipun tidak benar ... tapi aku menghargaimu karena menunjukkan minat pada apa yang aku lakukan.#$b#Aku berharap aku bisa membalas budi.$l" },
-            "event_robot2": { "0": "Apa? Dia mengatakan itu? Dnginnya...%fork$a" },
-            "event_robot3": { "0": "Heh...$8#$b#Yeah I guess he did kinda say that, didn't he?$l#$b#...Um...$l" },
-            "event_robot4": { "0": "...$8#$b#@...$8" },
-            "event_robot_explain1": { "0": "...$s#$b#You have a point, I did program her to act human... but her neural net is so complex, I can't be sure conciousness didn't emerge on its own.$8#$b#Furthermore, isn't it a little arrogant to assume that human-like consciousness is the only worthwhile vessel of existence? Computer brains are different than ours, but that doesn't mean we can disregard them.$8" },
-            "event_robot_explain2": { "0": "I see. Well it wasn't a very funny joke.$a" },
-            "event_robot_explain3": { "0": "That's horrible! What's gotten into you, @?$a#$b#I'm just going to forget about this conversation... you aren't acting yourself.$a" },
-            "summer_1": { "0": "This is going to be a great season for stargazing." },
-            "summer_Mon": { "0": "Hmm... What sort of gadget should I tinker with this summer?#$e#" },
-            "summer_Mon6": { "0": "Come to my room if you ever want to tinker with my gadgets." },
-            "summer_Tue": { "0": "Sebastian is my half-brother, if you didn't know already.#$e#We look totally different." },
-            "summer_Tue4": { "0": "Sebastian hardly ever talks to me. I wonder if he even likes me at all?#$e#It's sad, I want to have a brother but he doesn't act like one." },
-            "summer_Wed": { "0": "Are you enjoying the season?#$e#It's been so warm this year.$h" },
-            "summer_Thu": { "0": "Sorry, I was just thinking about some gadgets I'm making.#$q 35/36 Thu_01_old#I've decided I'm going to build a robot someday.#$r 35 30 Thu_0#That should be very easy for you#$r 36 -50 Thu_01_01#You should be more realistic#$r 35 40 Thu_01_02#It sounds challenging" },
-            "Thu_01_old": { "0": "See you later." },
-            "Thu_0": { "0": "Really? Are you sure you're not just trying to flatter me?" },
-            "Thu_01_01": { "0": "You don't think I could do it?$s" },
-            "Thu_01_02": { "0": "You're right, but I love a challenge!$h" },
-            "summer_Sat": { "0": "Hey, have any interesting farm stories to tell me?#$e#Guess not." },
-            "summer_Fri": { "0": "I worked at the clinic yesterday. We didn't have a single patient.#$e#I guess people get sick less during summer." },
-            "summer_Sun": { "0": "I bet you're growing some interesting crops right now.#$b#Dad says a lot of exotic plants grow in the valley this time of year." },
-            "summer_Fri2": { "0": "Hey, tell me a story about farming.#$e#That's really interesting!" },
-            "summer_Wed4": { "0": "Is it just me or did it suddenly get really hot?#$e#I guess it's just me." },
-            "summer_Sun6": { "0": "Some day I'm going to be a world-class inventor.$u#$e#You're lucky to be friends with me!#$b#...just kidding." },
-            "summer_Tue8": { "0": "@, you're looking sharp today.$h" },
-            "summer_Thu10": { "0": "How do your hands stay so soft with all that farm work?" },
-            "fall_Mon": { "0": "Have you explored the mines much? I've heard you can find some useful materials there." },
-            "fall_Tue": { "0": "The trees look beautiful today!$h" },
-            "fall_Thu": { "0": "In other parts of the world it's spring right now. Imagine that!" },
-            "fall_Wed": { "0": "Bleh... I don't feel like working tomorrow." },
-            "fall_Fri": { "0": "I bet we'll start seeing more people at the clinic this season.$s#$e#I hope everyone stays healthy." },
-            "fall_Sat": { "0": "All these falling leaves will provide food for mushrooms and other small organisms.$u#$e#Interesting, isn't it?" },
-            "fall_Sun": { "0": "Hey, here's to another good week! *toast*" },
-            "fall_Tue2": { "0": "@, I just love how the trees look right now!#$e#I know you like them too." },
-            "fall_Wed4": { "0": "If you have any extra metal laying around, I could always use it for one of my projects.#$e#But only if you don't need it yourself." },
-            "fall_Fri6": { "0": "I've been feeling especially optimistic lately...$h" },
-            "fall_Mon8": { "0": "You should come visit me at the clinic Tomorrow. I work from 10 a.m.to 4 p.m.$h" },
-            "fall_Thu10": { "0": "You have a leaf in your hair. Let me get it for you.#$e#...$h" },
-            "winter_1": { "0": "Oh man, it's so cold...$s" },
-            "winter_Mon": { "0": "Did you see the snowman I built?$h" },
-            "winter_Tue": { "0": "My hair gets so frizzy in this dry weather. *sigh*" },
-            "winter_Wed": { "0": "I guess winter is a good time to work on my gadgets.#$e#I wonder if I could make anything useful for farmers?" },
-            "winter_Thu": { "0": "Hey! What's up?#$e#It's a good time to explore the caves.#$e#I would go but my Dad would flip." },
-            "winter_Fri": { "0": "I hope I don't catch the flu this year." },
-            "winter_Sat": { "0": "Have you built a furnace yet?#$e#You can use them to turn raw material like ores into more useful products.$u" },
-            "winter_Sun": { "0": "I get so sleepy when it's cold..." },
-            "winter_Sat2": { "0": "Hey, if any of your farming machines need to be fixed, just let me know.$h" },
-            "winter_Tue4": { "0": "Hey, do you have any ideas for a new gadget I can make?#$e#Mhmm. I trust your opinion." },
-            "winter_Fri6": { "0": "You look fresh today. I guess it's that crisp winter air." },
-            "winter_Mon8": { "0": "Hi @!$h#$e#Hey, don't you think my snowman looks kind of like you?" },
-            "winter_Thu10": { "0": "@, come closer. I'm cold.$l#$e#My hands are so dry from the winter air. I'm sorry about that.$l" }
+           "Introduction": {
+             "0": "Oh! Bukankah kamu yang baru saja pindah?#$b#Aku Maru. Aku tak sabar ingin bertemu denganmu!$h#$e#Kamu tahu, dengan kota kecil seperti ini, wajah baru benar-benar dapat mengubah dinamika komunitas. Sangat mengagumkan!"
+           },
+           "Resort_Entering": {
+             "0": "Willy bilang, kau membantu memperbaiki kapalnya. Untuk itu, terimakasih banyak!"
+           },
+           "Resort_Leaving": {
+             "0": "Tadi itu menyenangkan!"
+           },
+           "Resort": {
+             "0": "Aku menemukan ternyata ada beberapa spesies bintang laut yang berbeda. Favoritku adalah yang ungu dan besar, tapi semua spesiesnya sungguh menarik!"
+           },
+           "Resort_Towel": {
+             "0": "*gasp*... Gerhana matahari!$3#$b#Oh... Oh. Ternyata tubuhmu menghalangi matahari."
+           },
+           "Resort_Towel_2": {
+             "0": "Kita berada sangat jauh dari peradaban.#$b#Bayangkan berapa banyak bintang yang bisa kau lihat pada malam hari.#$e#Siapa tau kita juga melihat satu atau dua pring terbang!$h"
+           },
+           "Resort_Bar": {
+             "0": "Mmmm... Kenapa buah tropis bisa begitu enak?"
+           },
+           "Resort_Shore": {
+             "0": "Aku penasaran, apakah Willy akan mengizinkanku membawa teleskop ke sini kapan-kapan...#Langit disini begitu cerah, aku yakin aku bisa melihat Kota Pelican dari sini.#Bahkan mungkin bisa melihatmu di kebun %farm!"
+           },
+           "danceRejection": {
+             "0": "Aku tersanjung! Tapi... Tidak."
+           },
+           "divorced": {
+             "0": "Tidak ada yang perlu kita bicarakan lagi.$a"
+           },
+           "breakUp": {
+             "0": "Kurang bagus bagimu, ya?$a#$b#Baiklah...$s"
+           },
+           "dumped_Girls": {
+             "0": "Berani-beraninya kamu bicara padaku!$a"
+           },
+           "secondChance_Girls": {
+             "0": "Kamu sudah tidak menghargaiku, @... tapi aku bersedia untuk memaafkanmu.$s"
+           },
+           "Mon": {
+             "0": "Setiap kali mengalami masalah teknis, aku selalu jalan-jalan.#$e#Mengejutkan betapa perubahan pemandangan dapat membantumu."
+           },
+           "Tue": {
+             "0": "Apa kamu sudah bertemu ibuku? Dia tukang kayu desa."
+           },
+           "Wed": {
+             "0": "Pada hari Selasa dan Kamis aku bekerja di klinik Harvey.#$b#Katanya dia suka kalau aku membantunya, karena untuk jaga-jaga kalau peralatan medisnya rusak!$h#$e#Menjadi petani pasti sangat mudah, ya?"
+           },
+           "Thu": {
+             "0": "Aku berencana menghabiskan waktu dengan teleskopku musim panas ini."
+           },
+           "Sat": {
+             "0": "Apa kamu kenal ayahku, Demetrius? Dia seorang ilmuwan. Aku senang membantunya di laboratorium."
+           },
+           "Fri": {
+             "0": "Hei, maaf kalau aku terlihat jengkel... aku agak pegal karena pekerjaan kemarin.#$c .5# Aku harus membawa sepuluh kardus arsip medis ke loteng!#$e#Aku juga mengurutkan catatan riwayat pasien selama empat jam berturut-turut!"
+           },
+           "Sun": {
+             "0": "Hai!#$q 3"
+           },
+           "Sun_01_old": {
+             "0": "$p 3#Hei, kamu sudah membuat satu pekan kemajuan lagi di ladang! Sepertinya semuanya berjalan baik untukmu.$h|Pekan yang melelahkan di pertanian, ya? Pasti banyak yang dikerjakan...$s"
+           },
+           "Sun_01_01": {
+             "0": "Yah itu bagus, bukan?$h"
+           },
+           "Sun_01_02": {
+             "0": "Astaga! Maaf. Apa kamu pernah berpikir untuk melakukan hal yang berbeda...?$s"
+           },
+           "Tue2": {
+             "0": "Mampirlah ke rumah kami kalau kamu ingin meningkatkan bangunanmu.#$e#Senang rasanya kalau ada pengunjung."
+           },
+           "Fri4": {
+             "0": "Ibuku seorang tukang kayu dan ayahku seorang ilmuwan. Kurasa masuk akal jika aku ingin membuat gawai."
+           },
+           "Mon6": {
+             "0": "Kadang-kadang kepalaku jadi berantakan dengan hal-hal tidak penting hingga aku tidak bisa berpikir. Apakah itu pernah terjadi padamu?#$e#Menghirup udara segar biasanya membantu."
+           },
+           "Wed8": {
+             "0": "Aku bekerja di klinik Harvey pada hari Selasa dan Kamis.#$e#Dia orang baik, tapi bukan tipeku..."
+           },
+           "Thu10": {
+             "0": "Oh, @! Adakah yang ingin kamu bicarakan denganku?#l"
+           },
+           "Event_Hospital_1": {
+             "0": "Tentu saja dia akan tahu bedanya! Sampel ini benar-benar hancur!%fork$s"
+           },
+           "Event_Hospital_2": {
+             "0": "Baiklah. Kalau begitu aku akan menyalahkanmu.$u"
+           },
+           "Event_Hospital_3": {
+             "0": "Kamu benar aku harus mengatakan yang sebenarnya.%fork$u"
+           },
+           "Event_Space1": {
+             "0": "Ini luar biasa, bukan?"
+           },
+           "Event_Space2": {
+             "0": "Kurasa kamu bisa menganggapnya begitu...$s#$b#Tapi ini masih luar biasa, 'kan?"
+           },
+           "Event_Cut1": {
+             "0": "Oh tidak?$8#$b#Baiklah, setidaknya itu membuatku merasa sedikit lebih baik. Makasih."
+           },
+           "Event_Cut2": {
+             "0": "Oh tidak! Aghh... Aku benar-benar minta maaf.$s"
+           },
+           "event_robot1": {
+             "0": "Terima kasih. Itu sangat berarti bagiku, @.#$b#Aku tahu kalau kamu tidak begitu paham dengan gawai... tapi aku menghargai ketertarikanmu dengan pekerjaanku.#$b#Kuharap aku bisa membalas kebaikanmu.$l"
+           },
+           "event_robot2": {
+             "0": "Apa? Setelah dia mengatakan langsung bahwa dia tidak ingin jadi budak? Betapa dinginnya...%fork$a"
+           },
+           "event_robot3": {
+             "0": "Heh...$8#$b#Ya, kurasa secara tidak langsung memang begitu.$l#$b#...Em...$l"
+           },
+           "event_robot4": {
+             "0": "...$8#$b#@...$8"
+           },
+           "event_robot_explain1": {
+             "0": "...$s#$b#Kamu ada benarnya, aku memprogramnya untuk bertindak manusiawi... tapi jaringan sarafnya sangat kompleks, aku tidak yakin kalau dia punya kesadarannya sendiri.$8#$b#Selain itu, bukankah sedikit berlebihan menganggap bahwa kesadaran seperti manusia adalah satu-satunya tubuh yang berharga? Otak komputer berbeda dari kita, tetapi itu tidak berarti kita bisa mengabaikannya begitu saja.$8"
+           },
+           "event_robot_explain2": {
+             "0": "Aku mengerti. Yah, leluconnya tidak lucu.$a"
+           },
+           "event_robot_explain3": {
+             "0": "Itu mengerikan! Apa yang sudah merasukimu, @?$a#$b#Aku akan melupakan percakapan ini... kamu tidak bertindak seperti biasanya.$a"
+           },
+           "summer_1": {
+             "0": "Ini akan jadi musim yang bagus untuk melihat bintang."
+           },
+           "summer_Mon": {
+             "0": "Hmm... Gawai apa yang harus kukerjakan di musim panas ini?"
+           },
+           "summer_Mon6": {
+             "0": "Datanglah ke kamarku kalau kamu ingin mengutak-atik gawaiku."
+           },
+           "summer_Tue": {
+             "0": "Sebastian itu kakak tiriku, kalau kamu belum tahu.#$e#Kami terlihat sangat berbeda."
+           },
+           "summer_Tue4": {
+             "0": "Sebastian hampir tidak pernah bicara padaku. Bahkan aku penasaran apa dia menyukaiku atau tidak?#$e#Menyedihkan, aku ingin punya kakak tapi dia tidak bertindak seperti itu."
+           },
+           "summer_Wed": {
+             "0": "Apa kamu menikmati musim ini?#$e#Tahun ini hangat sekali.$h"
+           },
+           "summer_Thu": {
+             "0": "Maaf, aku sedang memikirkan gawai yang sedang kubuat.#$q 35"
+           },
+           "Thu_01_old": {
+             "0": "Sampai jumpa lagi."
+           },
+           "Thu_0": {
+             "0": "Benarkah? Apa kamu yakin tidak sedang menyanjungku?"
+           },
+           "Thu_01_01": {
+             "0": "Menurutmu aku tidak bisa membuatnya?$s"
+           },
+           "Thu_01_02": {
+             "0": "Kamu benar, tapi aku suka tantangan!$h"
+           },
+           "summer_Sat": {
+             "0": "Hei, ada cerita menarik di ladang untuk diceritakan padaku?#$e#Kurasa tidak."
+           },
+           "summer_Fri": {
+             "0": "Aku bekerja di klinik kemarin. Kami tidak punya satu pasien pun.#$e#Sepertinya orang jarang sakit saat musim panas."
+           },
+           "summer_Sun": {
+             "0": "Aku yakin kamu menanam beberapa crop menarik saat ini.#$b#yah bilang banyak tanaman eksotis tumbuh di lembah sepanjang tahun ini."
+           },
+           "summer_Fri2": {
+             "0": "Hei, ceritakana padaku tentang ladangmu.#$e#Itu sangat menarik!"
+           },
+           "summer_Wed4": {
+             "0": "Cuma perasaanku saja atau memang hawanya mendadak panas?#$e#Kurasa cuma perasaanku saja."
+           },
+           "summer_Sun6": {
+             "0": "Suatu hari nanti aku akan jadi penemu kelas dunia.$u#$e#Kamu beruntung berteman denganku!#$b#...aku bercanda."
+           },
+           "summer_Tue8": {
+             "0": "@, kamu terlihat rapi hari ini.$h"
+           },
+           "summer_Thu10": {
+             "0": "Bagaimana tanganmu tetap lembut setelah bekerja lama di ladang?"
+           },
+           "fall_Mon": {
+             "0": "Sudahkah kamu menjelajahi tambang? Kudengar kamu dapat menemukan beberapa benda berguna di sana."
+           },
+           "fall_Tue": {
+             "0": "Pepohonan terlihat indah hari ini!$h"
+           },
+           "fall_Thu": {
+             "0": "Di belahan lain dunia sedang musim semi sekarang. Bayangkan itu!"
+           },
+           "fall_Wed": {
+             "0": "Bleh... Sepertinya besok aku tidak akan bekerja."
+           },
+           "fall_Fri": {
+             "0": "Aku yakin kita akan mulai melihat banyak orang ke klinik musim ini.$s#$e#Kuharap semuanya tetap sehat."
+           },
+           "fall_Sat": {
+             "0": "Semua daun yang berguguran ini akan menyediakan makanan untuk jamur dan organisme kecil lainnya.$u#$e#Menarik, 'kan?"
+           },
+           "fall_Sun": {
+             "0": "Hei, ini untuk pekan bagus lainnya! *bersulang*"
+           },
+           "fall_Tue2": {
+             "0": "@, aku suka dengan bagaimana penampilan pepohonan sekarang!#$e#Aku tahu Kamu juga menyukainya."
+           },
+           "fall_Wed4": {
+             "0": "Kalau kamu punya logam-logam sisa, aku bisa menggunakannya untuk proyekku.#$e#Asalkan kamu sudah tidak membutuhkannya."
+           },
+           "fall_Fri6": {
+             "0": "Aku sedang merasa sangat optimis akhir-akhir ini...$h"
+           },
+           "fall_Mon8": {
+             "0": "Kamu harus mengunjungiku di klinik besok. Aku kerja mulai pukul 10 pagi sampai 4 sore.$h"
+           },
+           "fall_Thu10": {
+             "0": "Ada daun di rambutmu. Sini, biar kusingkirkan itu.#$e#...$h"
+           },
+           "winter_1": {
+             "0": "Ya ampun, dingin sekali...$s"
+           },
+           "winter_Mon": {
+             "0": "Kamu lihat manusia salju yang kubuat?$h"
+           },
+           "winter_Tue": {
+             "0": "Rambutku jadi sangat keriting di cuaca kering ini. *hahh*"
+           },
+           "winter_Wed": {
+             "0": "Kurasa musim dingin adalah waktu yang tepat untuk mengerjakan gawaiku.#$e#Aku penasaran apa aku bisa membuat sesuatu yang berguna untuk petani?"
+           },
+           "winter_Thu": {
+             "0": "Hei! Apa kabar?#$e#Ini waktu yang tepat untuk menjelajahi gua.#$e#Aku ingin pergi tapi Ayahku nanti marah."
+           },
+           "winter_Fri": {
+             "0": "Kuharap aku tidak terserang flu tahun ini."
+           },
+           "winter_Sat": {
+             "0": "Apa kamu sudah merakit furnace?#$e#Kamu bisa memakainya untuk mengubah bahan mentah seperti bijih menjadi produk yang lebih bermanfaat.$u"
+           },
+           "winter_Sun": {
+             "0": "Aku jadi mengantuk berat saat udaranya dingin..."
+           },
+           "winter_Sat2": {
+             "0": "Hei, kalau ada mesin di ladangmu yang butuh perbaikan, beritahu aku ya.$h"
+           },
+           "winter_Tue4": {
+             "0": "Hei, apa kamu punya ide gawai baru apa yang harus kubuat?#$e#Mhmm. Aku percaya dengan pendapatmu."
+           },
+           "winter_Fri6": {
+             "0": "Kamu terlihat segar hari ini. Itulah pengaruh udara musim dingin yang sejuk."
+           },
+           "winter_Mon8": {
+             "0": "Hai @!$h#$e#Hei, bukankah manusia salju buatanku terlihat mirip denganmu?"
+           },
+           "winter_Thu10": {
+             "0": "@, mendekatlah. Aku kedinginan.$l#$e#Tanganku sangat kering karena udara musim dingin. Maaf soal itu.$l"
+           }
          }
       },
       {
@@ -5637,15 +5809,15 @@
          "Sun": "When it rains, strange birds visit.#$b#I try to speak to them... but they fly away.$s#$b#I guess they don't want to be friends...$s"
        },
        "Fields": {
-         "Mon": { "0": "Hai... Semua baik-baik saja?", },
-         "Mon4": { "0": "Aku sudah dengar banyak dari keluarga burung betetku...#$b#Tapi ada banyak hal di luar sana yang belum aku ketahui.$s", },
-         "Tue": { "0": "Saat Matahari sedang marah, di hutan rasanya malah nyaman.#$e#Matahari tidak bisa menemukan kita di bawah dedaunan pohon. Jadi dia tertipu! Haha...$h", },
-         "Wed": { "0": "...Maaf... Aku agak malu hari ini.$3", },
-         "Wed2": { "0": "Berhati-hatilah di gunung berapi... roh-roh di sana tidak ramah pada pendatang", },
-         "Thu": { "0": "Apa kau sudah bertemu dengan kaummu?#$b#Aku jarang bicara sama mereka. Karena aku lebih nyaman dengan kaumku sendiri...$3", },
-         "Fri": { "0": "Dulu... Aku pernah ke puncak gunung berapi pas malam hari, dan aku lihat ada cahaya dari jarak yang sangat jauh.#$b#Aku penasaran apa ada keluarga burung lain di luar sana?$3", },
-         "Fri3": { "0": "Apa rumahmu kelihatan dari puncak gunung berapi?", },
-         "Sat": { "0": "...Aku lagi sedih.$s#$e#Silakan... bersenang-senanglah. Biarkan aku bersedih.$s", },
+         "Mon": { "0": "Hai... Semua baik-baik saja?" },
+         "Mon4": { "0": "Aku sudah dengar banyak dari keluarga burung betetku...#$b#Tapi ada banyak hal di luar sana yang belum aku ketahui.$s" },
+         "Tue": { "0": "Saat Matahari sedang marah, di hutan rasanya malah nyaman.#$e#Matahari tidak bisa menemukan kita di bawah dedaunan pohon. Jadi dia tertipu! Haha...$h" },
+         "Wed": { "0": "...Maaf... Aku agak malu hari ini.$3" },
+         "Wed2": { "0": "Berhati-hatilah di gunung berapi... roh-roh di sana tidak ramah pada pendatang" },
+         "Thu": { "0": "Apa kau sudah bertemu dengan kaummu?#$b#Aku jarang bicara sama mereka. Karena aku lebih nyaman dengan kaumku sendiri...$3" },
+         "Fri": { "0": "Dulu... Aku pernah ke puncak gunung berapi pas malam hari, dan aku lihat ada cahaya dari jarak yang sangat jauh.#$b#Aku penasaran apa ada keluarga burung lain di luar sana?$3" },
+         "Fri3": { "0": "Apa rumahmu kelihatan dari puncak gunung berapi?" },
+         "Sat": { "0": "...Aku lagi sedih.$s#$e#Silakan... bersenang-senanglah. Biarkan aku bersedih.$s" },
          "Sun": { "0": "Saat hujan, ada burung aneh yang ke sini.#$b#Dan saat kudekati... mereka malah pergi.$s#$b#Kurasa mereka tidak mau berteman...$s" }
        }
      },
