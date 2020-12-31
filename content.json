@@ -5637,16 +5637,16 @@
          "Sun": "When it rains, strange birds visit.#$b#I try to speak to them... but they fly away.$s#$b#I guess they don't want to be friends...$s"
        },
        "Fields": {
-         "Mon": { "0": "Hi... Everything okay?" },
-         "Mon4": { "0": "I've learned a lot from my parrot family...#$b#But I'm sure there's a lot more out there I don't know.$s" },
-         "Tue": { "0": "When Sun is angry, it feels good in the jungle.#$e#Sun can't find us beneath the leaves. We trick him! Haha...$h" },
-         "Wed": { "0": "...Sorry... I'm shy today.$3" },
-         "Wed2": { "0": "Be careful in the volcano... the spirits don't like outsiders." },
-         "Thu": { "0": "Have you met the others like you?#$b#I don't talk to them much. I feel safer with my own kind...$3" },
-         "Fri": { "0": "One time... I was at the top of the volcano at night, and I saw lights far, far away.#$b#I wonder if there are other bird families out there?$3" },
-         "Fri3": { "0": "I wonder if I could see your home from the top of the volcano?" },
-         "Sat": { "0": "...I'm sad today.$s#$e#You go on... have fun. Let me be sad.$s" },
-         "Sun": { "0": "When it rains, strange birds visit.#$b#I try to speak to them... but they fly away.$s#$b#I guess they don't want to be friends...$s" }
+         "Mon": { "0": "Hai... Semua baik-baik saja?", },
+         "Mon4": { "0": "Aku sudah dengar banyak dari keluarga burung betetku...#$b#Tapi ada banyak hal di luar sana yang belum aku ketahui.$s", },
+         "Tue": { "0": "Saat Matahari sedang marah, di hutan rasanya malah nyaman.#$e#Matahari tidak bisa menemukan kita di bawah dedaunan pohon. Jadi dia tertipu! Haha...$h", },
+         "Wed": { "0": "...Maaf... Aku agak malu hari ini.$3", },
+         "Wed2": { "0": "Berhati-hatilah di gunung berapi... roh-roh di sana tidak ramah pada pendatang", },
+         "Thu": { "0": "Apa kau sudah bertemu dengan kaummu?#$b#Aku jarang bicara sama mereka. Karena aku lebih nyaman dengan kaumku sendiri...$3", },
+         "Fri": { "0": "Dulu... Aku pernah ke puncak gunung berapi pas malam hari, dan aku lihat ada cahaya dari jarak yang sangat jauh.#$b#Aku penasaran apa ada keluarga burung lain di luar sana?$3", },
+         "Fri3": { "0": "Apa rumahmu kelihatan dari puncak gunung berapi?", },
+         "Sat": { "0": "...Aku lagi sedih.$s#$e#Silakan... bersenang-senanglah. Biarkan aku bersedih.$s", },
+         "Sun": { "0": "Saat hujan, ada burung aneh yang ke sini.#$b#Dan saat kudekati... mereka malah pergi.$s#$b#Kurasa mereka tidak mau berteman...$s" }
        }
      },
       {
