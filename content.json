@@ -4627,10 +4627,11 @@
              "0": "Hei, maaf kalau aku terlihat jengkel... aku agak pegal karena pekerjaan kemarin.#$c .5# Aku harus membawa sepuluh kardus arsip medis ke loteng!#$e#Aku juga mengurutkan catatan riwayat pasien selama empat jam berturut-turut!"
            },
            "Sun": {
-             "0": "Hi!#$q 3/4 Sun_01_old#Apa kau menikmati kerja di kebun?#$r 3 0 Sun_01_01#Ya.#$r 4 0 Sun_01_02#Tidak."
+             "0": "Hi!#$q 3",
+             "1": "4 Sun_01_old#Apa kau menikmati kerja di kebun?#$r 3 0 Sun_01_01#Ya.#$r 4 0 Sun_01_02#Tidak."
            },
            "Sun_01_old": {
-             "0": "$p 3#Hei, kamu sudah membuat satu pekan kemajuan lagi di ladang! Sepertinya semuanya berjalan baik untukmu.$h|Pekan yang melelahkan di pertanian, ya? Pasti banyak yang dikerjakan...$s"
+             "0": "$p 3#Hei, kamu sudah membuat satu pekan kemajuan lagi di kebun! Sepertinya semuanya berjalan baik untukmu.$h|Pekan yang melelahkan di pertanian, ya? Pasti banyak yang dikerjakan...$s"
            },
            "Sun_01_01": {
              "0": "Yah itu bagus, bukan?$h"
