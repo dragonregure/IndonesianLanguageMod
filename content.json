@@ -2882,153 +2882,55 @@
             "winter_28": "It's been a great year, @. I'm looking forward to next year! Now, come closer... $l"
          },
          "Fields": {
-           "Rainy_Day_0": {
-             "0": "Dengan ruang sebesar ini, aku bisa melatih seluruh bagian badanku."
-           },
-           "Rainy_Day_1": {
-             "0": "Aku tidak punya banyak teman di desa... Kadang aku bertanya apa yang akan terjadi jika kamu tidak pindah ke sini.$9"
-           },
-           "Rainy_Day_2": {
-             "0": "Yah... Padahal aku mau jogging di luar. Tapi kalau cuacanya seperti ini tidak jadi."
-           },
-           "Rainy_Day_3": {
-             "0": "*ngomel*... baru saja bangun dan aku sudah lapar akan protein.$9"
-           },
-           "Rainy_Day_4": {
-             "0": "Kurasa aku akan mulai membaca buku. Aku tidak mau begini terus setelah menikah!"
-           },
-           "patio_Alex": {
-             "0": "Unghh... satu... Unghhh... dua... Senang rasanya angkat beban di luar!$6"
-           },
-           "Rainy_Night_0": {
-             "0": "Hei, apa harimu baik-baik saja? Aku yakin besok akan lebih baik.$h"
-           },
-           "Rainy_Night_1": {
-             "0": "Bagaimana pekerjaanmu? Aku membawa bola gridball ini seharian. Seorang lelaki hanya bisa berkhayal...$u"
-           },
-           "Rainy_Night_2": {
-             "0": "Oh... bau ini? Seharian ini aku makan bawang putih. Aku berusaha agar tetap jantan... Maaf.$l"
-           },
-           "Rainy_Night_3": {
-             "0": "Sudah lama aku menyisihkan sisa makanan untuk Dusty. Dia pantas dapat suguhan sesekali."
-           },
-           "Rainy_Night_4": {
-             "0": "Aku tadi lapar, jadi aku memasak makan malam. Ini, silahkan menikmati. [241 242 225 214 198]$h"
-           },
-           "Indoor_Day_0": {
-             "0": "Ahh... tidak ada yang bisa mengalahkan rasanya tidur di sebelah suamiku!$h^Ahh... tidak ada yang bisa mengalahkan rasanya tidur di sebelah istriku!$h"
-           },
-           "Indoor_Day_1": {
-             "0": "Hei, manis! Aku membuatkanmu sarapan panas.[195 210 211]#$e#Kalu ingin bertambah kuat, kamu juga harus makan yang banyak!"
-           },
-           "Indoor_Day_2": {
-             "0": "Kemarilah. *peluk*... Mmhmm. Tubuhmu kaku setelah bekerja di ladang."
-           },
-           "Indoor_Day_3": {
-             "0": "Aku masih membiasakan diri untuk memasak dan mencuci baju... Bukan kegiatan favoritku sih, tapi aku sudah siap dengan ini saat menikahimu.$h"
-           },
-           "Indoor_Day_4": {
-             "0": "Ada beberapa hal di rumah yang mau aku perbaiki hari ini. Jangan khawatir, aku tidak sedang bosan."
-           },
-           "Indoor_Night_0": {
-             "0": "Rasanya hebat bisa mendorong diri mencapai batas, ya? Kamu akan merasa kasurmu lebih empuk malam ini."
-           },
-           "Indoor_Night_1": {
-             "0": "Kamu habis potong rambut? Kamu kelihatan tampan hari ini. Mungkin ini karena udara segar...$l^Kamu habis potong rambut? Kamu kelihatan cantik hari ini. Mungkin ini karena udara segar...$l"
-           },
-           "Indoor_Night_2": {
-             "0": "Ceritakan aku tentang harimu. Sesekali curhat akan meringankan bebanmu."
-           },
-           "Indoor_Night_3": {
-             "0": "Hei... aku punya celana pendek baru. Siapa tahu kamu penasaran...$l"
-           },
-           "Indoor_Night_4": {
-             "0": "Kalau kamu butuh waktu sendiri, tidak masalah bagiku."
-           },
-           "Outdoor_0": {
-             "0": "Hei. Saat aku di sini dan melihat ladangmu... Aku bangga. Kerjamu bagus sekali."
-           },
-           "Outdoor_1": {
-             "0": "Ini tempat bagus untuk merawat anak. Aku akan senang kalau dulu tumbuh di tempat seperti ini. Tempatnya luas untuk berlarian!"
-           },
-           "Outdoor_2": {
-             "0": "Aku suka menikmati waktu di luar sesering mungkin. Rasanya nyaman berada di luar sini."
-           },
-           "Outdoor_3": {
-             "0": "Lihat ini, dengan kebun kecil kita. Kita terlihat seperti pasangan bahagia.$h^Hei. Mungkin ini karena matahari, tapi kamu terlihat cantik hari ini.$l"
-           },
-           "Outdoor_4": {
-             "0": "Ahh... Senang rasanya ada di luar. Stardew Valley memang tempat yang indah..."
-           },
-           "OneKid_0": {
-             "0": "Aku sedang membiasakan diri dengan kehidupan baruku sebagai ayah rumah tangga.$h"
-           },
-           "OneKid_1": {
-             "0": "Si kecil %kid1 akan tumbuh dengan kuat, sama seperti Ayahnya."
-           },
-           "OneKid_3": {
-             "0": "Aku penasaran bagaimana rasanya hamil...?$h"
-           },
-           "TwoKids_2": {
-             "0": "Mungkin %kid2 akan jadi pemain gridball profesional pertama dari Kota Pelican?$h"
-           },
-           "TwoKids_3": {
-             "0": "Akhirnya aku bisa merasakan kehidupan berkeluarga yang tidak sempat aku rasakan semasa kecil... terima kasih.$l"
-           },
-           "Good_0": {
-             "0": "@... Aku akan selalu mencintaimu.$l"
-           },
-           "Good_1": {
-             "0": "Kamu itu sangat tampan... apa sudah pernah kuberitahu?$l^Kamu itu sangat cantik... apa sudah pernah kuberitahu?$l"
-           },
-           "Good_6": {
-             "0": "Aku tahu kamu kuat, tapi kadang aku khawatir kamu akan ditelan slime... atau lebih buruk. Hati-hati, ya.$9"
-           },
-           "funLeave_Alex": {
-             "0": "Aku akan ke kota hari ini. Sampai jumpa nanti malam."
-           },
-           "funReturn_Alex": {
-             "0": "Hariku menyenangkan. Aku suka menjenguk kakek-nenekku, mereka sudah makin tua."
-           },
-           "spring_1": {
-             "0": "Akhirnya, saljunya meleleh dan matahari kembali! Tubuhku terasa hebat.$h"
-           },
-           "spring_6": {
-             "0": "Aku penasaran apa sedikit stardrop bisa membuatku lebih berotot..."
-           },
-           "spring_12": {
-             "0": "Apa kamu menantikan festival besok? Kurasa akan bagus kalau bisa mengumpulkan banyak telur gratis."
-           },
-           "spring_23": {
-             "0": "Oh... tarian bunganya besok, 'kan? Sebaiknya aku push-up lagi malam ini.$9#$e#Pakaian dansanya agak ketat... dan semuanya akan melihat dari dekat."
-           },
-           "summer_1": {
-             "0": "Musim panas adalah waktu paling energik, dan badan juga ikut merasakannya! Aku merasa kuat."
-           },
-           "summer_10": {
-             "0": "Apa kamu sudah tahu apa yang akan kamu masukkan ke sup luau?#$e#Aku tidak tahu apa yang bagus... 'kan kamu kokinya!$h"
-           },
-           "summer_27": {
-             "0": "Aw... musim panas hampir berakhir. Otot-ototku mulai mengempis...$s"
-           },
-           "fall_1": {
-             "0": "Musim panas berakhri... tapi aku akan tetap positif. Musim yang hangat itu pasti akan kembali."
-           },
-           "fall_15": {
-             "0": "Pamerannya besok, apa kita akan ikut?#$e#Aku tidak terlalu peduli sih."
-           },
-           "fall_26": {
-             "0": "Semoga kakek-nenekku baik-baik saja. Kakek terlalu pelit untuk memakai tungku penghangat."
-           },
-           "winter_1": {
-             "0": "Pastikan kamu tetap hangat di musim dingin ini. Aku khawatir akan kulitmu."
-           },
-           "winter_7": {
-             "0": "Apa kamu ikut lomba memancing besok? Kurasa kamu akan menang!"
-           },
-           "winter_28": {
-             "0": "Ini tahun yang bagus, @. Aku menantikan tahun depan! Nah, mendekatlah... $l"
-           }
+            "Rainy_Day_0": { "0": "With all this space, I can really achieve a full body workout." },
+            "Rainy_Day_1": { "0": "I never had many friends in town... I sometimes wonder how I'd end up if you never moved here.$9" },
+            "Rainy_Day_2": { "0": "Aw... I was gonna do some jogging outside. But I can't really do it in this weather." },
+            "Rainy_Day_3": { "0": "*grumble*... I just woke up and I'm hungry for some protein.$9" },
+            "Rainy_Day_4": { "0": "I think I might start reading books. I don't want to become stagnant now that I'm a married guy!" },
+            "patio_Alex": { "0": "Ugghhhh... satu... Urrghhh... dua... Sangat luar biasa berlatih diluar ruangan!$6" },
+            "Rainy_Night_0": { "0": "Hey, did you have a good day? I'm sure tomorrow will be even better.$h" },
+            "Rainy_Night_1": { "0": "How's it going? I've been carrying the old gridball around with me all day. A guy can pretend...$u" },
+            "Rainy_Night_2": { "0": "Oh... the smell? I've been eating garlic all day. I'm trying to stay manly... Sorry.$l" },
+            "Rainy_Night_3": { "0": "I've been setting aside a few scraps for Dusty. He deserves a treat now and then." },
+            "Rainy_Night_4": { "0": "I was hungry so I made some dinner. Here, I saved you a plate. [241 242 225 214 198]$h" },
+            "Indoor_Day_0": { "0": "Ahh... there's nothing like a good night's sleep next to my husband!$h^Ahh... there's nothing like a good night's sleep next to my wife!$h" },
+            "Indoor_Day_1": { "0": "Hey, honey! I made you a hot breakfast.[195 210 211]#$e#If you want to get strong, you have to eat like you mean it!" },
+            "Indoor_Day_2": { "0": "Come here. *squeeze*... Mmhmm. You're firming up from all that farm work." },
+            "Indoor_Day_3": { "0": "I'm still getting used to cooking and doing laundry... It's not exactly my favorite, but I knew what I was getting into when I married you.$h" },
+            "Indoor_Day_4": { "0": "There's a couple things around the house that I'm going to try and fix today. Don't worry about me, I'm not bored." },
+            "Indoor_Night_0": { "0": "It feels good to push yourself to the limit, doesn't it? You'll really feel like you earned your place in the soft bed tonight." },
+            "Indoor_Night_1": { "0": "Did you get a haircut or something? You're looking pretty good today. Maybe it's all that fresh air...$l" },
+            "Indoor_Night_2": { "0": "Tell me all about your day. It's good to get everything off your chest now and then." },
+            "Indoor_Night_3": { "0": "Hey... I got some new shorts. I thought you might be interested to know...$l" },
+            "Indoor_Night_4": { "0": "If you need some quiet time to yourself, that's okay with me." },
+            "Outdoor_0": { "0": "Hey. When I stand here and look out over our land... I'm really proud. You've done great work." },
+            "Outdoor_1": { "0": "This is a great place to raise children. I would've loved growing up in a place like this. So much room to run around!" },
+            "Outdoor_2": { "0": "I like to spend as much time outside as possible. It just feels better to be out here." },
+            "Outdoor_3": { "0": "Look at us, with our little farm. We make a cute couple.$h^Hey. Maybe it's the golden light, but you look beautiful today.$l" },
+            "Outdoor_4": { "0": "Ahh... It feels great to be outside. Stardew Valley really is the most beautiful place..." },
+            "OneKid_0": { "0": "I'm still getting used to my new life as a stay-at-home dad.$h" },
+            "OneKid_1": { "0": "Little %kid1 is going to grow up strong, just like Daddy." },
+            "OneKid_3": { "0": "I wonder what it's like to be pregnant...?$h" },
+            "TwoKids_2": { "0": "Maybe %kid2 will be the first professional gridball played from Pelican Town?$h" },
+            "TwoKids_3": { "0": "I finally have the family life that I missed out on as a kid... thank you.$l" },
+            "Good_0": { "0": "@... I will always love you.$l" },
+            "Good_1": { "0": "You're very handsome... have I told you that?$l^You're very beautiful... have I told you that?$l" },
+            "Good_6": { "0": "I know you're strong, but sometimes I worry that you might get eaten by slimes... or worse. Just be careful.$9" },
+            "funLeave_Alex": { "0": "I'm going into town today. I'll see you tonight." },
+            "funReturn_Alex": { "0": "I had a good day. I like to see my grandparents often, they're getting pretty old." },
+            "spring_1": { "0": "Finally, the snow has melted and the sun is back! My body feels great.$h" },
+            "spring_6": { "0": "I wonder if a powder of stardrop would help me bulk up..." },
+            "spring_12": { "0": "Are you excited for tomorrow's festival? I guess it'll be good to load up on the free eggs." },
+            "spring_23": { "0": "Oh... tomorrow's the flower dance, isn't it? I better do some extra push-ups tonight.$9#$e#Those jumpsuits are pretty tight... and everyone's going to be watching closely." },
+            "summer_1": { "0": "Summer's a very energetic time of year, and body feels it too! I feel solid." },
+            "summer_10": { "0": "Have you thought about what you're going to put in the luau soup?#$e#I have no idea what's good... you're the chef!$h" },
+            "summer_27": { "0": "Aw... summer's almost gone. My muscles are starting to deflate...$s" },
+            "fall_1": { "0": "Well, summer's over... but I'm going to stay positive. The warmer seasons will always return." },
+            "fall_15": { "0": "Tomorrow's the fair, are we going to go?#$e#I don't care one way or another." },
+            "fall_26": { "0": "I hope my grandparents are doing okay. Grandpa's too cheap to turn on the furnace until the last minute." },
+            "winter_1": { "0": "Make sure you stay warm this winter. I worry about your delicate skin." },
+            "winter_7": { "0": "Are you going to enter the fishing contest tomorrow? I think you can win it!" },
+            "winter_28": { "0": "It's been a great year, @. I'm looking forward to next year! Now, come closer... $l" }
          }
       },
       {
@@ -3091,168 +2993,60 @@
             "winter_28": "Happy new year's eve, my dear. Please accept this to celebrate. [348]"
          },
          "Fields": {
-           "Rainy_Day_0": {
-             "0": "Aku sedang terinspirasi hari ini... Kurasa aku akan menulis."
-           },
-           "Rainy_Day_1": {
-             "0": "Suara hujan ini, membuatku teringat akan kabinku di pantai.#$e#Ladangnya indah kok, tapi aku sedang rindu suara lautan."
-           },
-           "Rainy_Day_2": {
-             "0": "AKu bangun dulu dan membuatkanmu kopi.[395]#$e#Aku merasa bahwa secangkir minuman istimewa ini bisa membuat pagi jadi lebih menyenangkan."
-           },
-           "Rainy_Day_3": {
-             "0": "Kurasa aku akan di rumah saja hari ini, sayang. Hujannya bisa membuat rambutku lepek."
-           },
-           "Rainy_Day_4": {
-             "0": "Inspirasiku untuk menulis itu seperti cuaca... mudah datang dan pergi. Hari ini aku sepenuhnya bosan.$s#$e#Mungkin aku akan membaca buku lama untuk memompa kreativitasku."
-           },
-           "patio_Elliott": {
-             "0": "Ah, hari yang indah untuk membaca buku... bukankah begitu, cintaku?"
-           },
-           "Rainy_Night_0": {
-             "0": "Selamat malam. Apakah harimu produktif, @?^Selamat malam. Apakah harimu produktif, cintaku?"
-           },
-           "Rainy_Night_1": {
-             "0": "Kamu kedinginan! Sini, biar kuhangatkan.$l"
-           },
-           "Rainy_Night_2": {
-             "0": "Kemampuanku dengan kata-kata tidak tertandingi, tapi aku masih belum menemukan kata yang tepat untuk menjelaskan daya tarikmu.$l^Kemampuanku dengan kata-kata tidak tertandingi, tapi aku masih belum menemukan kata yang tepat untuk menjelaskan pesonamu.$l"
-           },
-           "Rainy_Night_3": {
-             "0": "Apa yang kulakukan hari ini? Intinya begini... butuh banyak pekerjaan untuk merawat tubuh yang ranum ini!"
-           },
-           "Rainy_Night_4": {
-             "0": "Aku menghabiskan siangku membayangkan lautan. Karena itu aku memasak makanan laut. [198 202 727 728]$h"
-           },
-           "Indoor_Day_0": {
-             "0": "Hidupku mulai terawat setelah kita menikah. Kehidupan lajangku tidak begitu menyehatkan."
-           },
-           "Indoor_Day_1": {
-             "0": "Selamat pagi, @! Aku membuat kopi untuk kita berdua.[395]#$e#Aku mendambakan aroma kuat ini hampir setiap pagi."
-           },
-           "Indoor_Day_2": {
-             "0": "Kalau ada laba-laba di rumah jangan dibunuh! Beritahu aku saja, biar kubawa makhluk kecil itu keluar."
-           },
-           "Indoor_Day_3": {
-             "0": "Hari ini akan fantastis... Aku bisa merasakannya!$h#$e#Aku merasa ada yang istimewa..."
-           },
-           "Indoor_Day_4": {
-             "0": "Aku berulang kali mimpi buruk dimana kamu memotong rambutku jadi cepak... Kamu tidak akan melakukan itu padaku, 'kan?$s#$e#Aku percaya kamu."
-           },
-           "Indoor_Night_0": {
-             "0": "Dari bintang musim dingin yang paling terang, hingga kilau warna iridium... tidak ada yang bisa menandingi priaku yang luar biasa.$l^Dari bintang musim dingin yang paling terang, hingga wangi bunga mawar... tidak ada yang bisa menandingi keindahanmu yang menawan.$l"
-           },
-           "Indoor_Night_1": {
-             "0": "Suara letupan api ini membuat rumah terasa nyaman... setiap kayu terbakar dengan caranya masing-masing."
-           },
-           "Indoor_Night_2": {
-             "0": "Aku belum pernah berhasil merawat tumbuhan di rumah lama. Semoga aku bisa dapat ilmu dari menyaksikanmu bekerja.#$e#Dalam kasus ini, kamu ahlinya dan aku hanya muridmu yang polos."
-           },
-           "Indoor_Night_3": {
-             "0": "Saat aku menatap wajah adinda, bagaikan permata yang berkilauan indah. Seketika itu pula hatiku... yang diselimuti horornya kegelapan, jadi terang oleh cahaya emas darimu.#$e#Hanya puisi yang bisa mengungkapkan perasaanku terhadapmu.$l"
-           },
-           "Indoor_Night_4": {
-             "0": "Cintaku... aku tidak akan menukarmu dengan 100 batang iridium.#$e#Tidak pula 1000...#$e#Bahkan 10,000 batangpun, tidak.$7#$e#...$7#$e#Tidak, meski 100,000 batangpun!$a#$e#...$s#$e#Ap... satu juta batang iridium murni...? Jangan membuatku bimbang...$8"
-           },
-           "Outdoor_0": {
-             "0": "Impian terliarku jadi kenyataan... lihatlah pemandangan menakjubkan ini!"
-           },
-           "Outdoor_1": {
-             "0": "Tanah subur di telapak kakiku, udara segar merasuki paru-paruku, dan hangatnya mentari menyinari kulitku... Hidup terasa menyenangkan."
-           },
-           "Outdoor_2": {
-             "0": "Aku akan di sini dulu untuk menulis puisi. Aku tiba-tiba merasa inspiratif! Kamu lanjutkan saja pekerjaanmu."
-           },
-           "Outdoor_3": {
-             "0": "Kalau aku diam membatu, mungkin akan ada kupu-kupu yang berkenan mendarat di hidungku."
-           },
-           "Outdoor_4": {
-             "0": "Aku terlalu banyak minum kopi... mulutku terasa kering seperti Gurun Calico.$s#$e#Oh... maaf kalau nafasku baunya seperti kopi.$7"
-           },
-           "OneKid_0": {
-             "0": "Apa kamu sudah meluangkan waktu dengan %kid1 hari ini? Mungkin anak kedua akan membuat kita lebih mudah."
-           },
-           "OneKid_1": {
-             "0": "Masa kecil %kid1 akan indah di sini. Ada banyak hal untuk dijelajahi."
-           },
-           "OneKid_3": {
-             "0": "Merawat bayi bukanlah keahlianku... tapi aku akan berusaha semampuku untuk jadi ayah yang baik."
-           },
-           "TwoKids_0": {
-             "0": "Aku sudah memberi %kid1 dan %kid2 makan. Anak sekecil mereka ternyata makannya banyak!"
-           },
-           "TwoKids_1": {
-             "0": "Saat aku menggendong %kid1 tadi, aku berani sumpah kalau aku dengar \"Da...da\".$h"
-           },
-           "TwoKids_2": {
-             "0": "Aku akan segera mengajari %kid1 untuk membaca! Itu cara terbaik bagi anak-anak untuk mempelajari dunia."
-           },
-           "TwoKids_3": {
-             "0": "Kita sangat beruntung, @. Pertaniannya berjalan lancar dan anak-anak kita sehat dan ceria. Aku sangat bahagia."
-           },
-           "Good_0": {
-             "0": "@... Aku sangat bangga atas semua kerja kerasmu. Aku sangat beruntung memilikimu.$l"
-           },
-           "Good_1": {
-             "0": "Aku punya buku yang berisi puisi-puisi rahasiaku untuk mengungkapkan rasa cintaku padamu.$l"
-           },
-           "Good_2": {
-             "0": "Aku datang ke lembah ini untuk menemukan menara tinggi dimana bakatku bisa menancap tinggi di atasnya. Tapi yang kutemukan malah penjara kesepian. Dan kamu menyelamatkanku dari penjara itu.$l"
-           },
-           "Good_3": {
-             "0": "Wow, kamu terlihat tampan hari ini! Kamu bercukur ya? Dagumu terlihat sempurna.$l^Pesona feminimmu membuatku tidak tahan hari ini. Aku tidak bisa memalingkan mataku darimu.$l"
-           },
-           "Good_4": {
-             "0": "Aku merasa hangus tanpa kehadiranmu. Tapi ketika aku dengar suara sepatu bot di lantai kayu, hatiku kembali bangkit dari abu."
-           },
-           "Good_5": {
-             "0": "Aku sedang meditasi sambil berjalan. Ini bagus untuk kreativitas."
-           },
-           "Good_6": {
-             "0": "Hati-hati di luar sana! Kadang aku mengkhawatirkanmu. Ada orang di dunia ini yang mau memanfaatkanmu."
-           },
-           "funLeave_Elliott": {
-             "0": "Kurasa aku akan jalan-jalan ke pantai hari ini. Selalu menyenangkan rasanya untuk melihat lautan lagi."
-           },
-           "funReturn_Elliott": {
-             "0": "Aku menikmati hariku di pantai. Ombaknya datang dan pergi, seperti waktu dulu."
-           },
-           "spring_1": {
-             "0": "Resolusi tahun baruku adalah menulis, menulis, dan menulis! Aku tidak boleh berhenti mengembangkan kemampuanku."
-           },
-           "spring_12": {
-             "0": "Ini agak aneh, tapi kadang aku mendambakan pomegranat di musim semi."
-           },
-           "spring_23": {
-             "0": "Aku menanti besok untuk menari bersamamu, cintaku."
-           },
-           "summer_1": {
-             "0": "Sulit untuk bertopang dagu saat mentari bersinar terang dan kupu-kupu menari di tengah aroma spice-berry ini.$h"
-           },
-           "summer_10": {
-             "0": "Tadinya aku mau mengambil beberapa botol tinta di kabinku, tapi aku teringat kalau besok festival Luau. Akan kuambil kapan-kapan saja."
-           },
-           "summer_27": {
-             "0": "Semua hal baik pasti ada akhirnya, termasuk hari-hari ceria di musim semi. Kuncinya adalah bisa menerimanya tanpa pertimbangan."
-           },
-           "fall_1": {
-             "0": "Megahnya musim gugur... jamuan untuk dinikmati panca indra... dan telah menginspirasi beberapa puisi terhebat sepanjang masa."
-           },
-           "fall_15": {
-             "0": "Aku akan menyingkirkan harga diriku dan melahap roti lapis barbecue dengan saus yang banyak besok."
-           },
-           "fall_26": {
-             "0": "Apakah kamu akan tetap mencintaiku kalau aku menenggak dua galon pumpkin ale di festival Spirit's Eve? Kadang laki-laki punya dorongan primal..."
-           },
-           "winter_1": {
-             "0": "Musim dingin adalah waktu yang tepat untuk membaca buku dan bermain piano. Ingatlah untuk sesekali berhenti dan menikmati suasana yang tenang."
-           },
-           "winter_7": {
-             "0": "Aku kurang berlatih, tapi aku akan ikut lomba memancing besok! Kamu akan punya lawan yang sulit, sayang."
-           },
-           "winter_28": {
-             "0": "Selamat malam tahun baru, cintaku. Terimalah ini untuk merayakannya. [348]"
-           }
+            "Rainy_Day_0": { "0": "I feel inspired today... I think I'll do some writing." },
+            "Rainy_Day_1": { "0": "The sound of rain, in some tiny way, reminds me of my cabin by the beach.#$e#The farm is wonderful, but I do miss the sound of the ocean." },
+            "Rainy_Day_2": { "0": "I got up early and made coffee.[395]#$e#I find that a cup of this exquisite brew makes the early morning a lot more pleasant." },
+            "Rainy_Day_3": { "0": "I think I'll remain indoors today, my dear. The rain causes my hair to go limp." },
+            "Rainy_Day_4": { "0": "My inspiration for writing is like the weather... it comes and goes at random. Today I feel entirely dull.$s#$e#Perhaps I'll read one of the classics to get my creative juices flowing." },
+            "patio_Elliott": { "0": "Ah, hari yang indah untuk membaca buku... bukan begitu, cintaku?" },
+            "Rainy_Night_0": { "0": "Good evening. Did you have a productive day, @?^Good evening. Did you have a productive day, my dear?" },
+            "Rainy_Night_1": { "0": "You're ice cold! Let me keep you warm.$l" },
+            "Rainy_Night_2": { "0": "My skill with words is unmatched, yet I can't find the way to properly describe your allure.$l^My skill with words is unmatched, yet I can't find the way to properly describe your beauty.$l" },
+            "Rainy_Night_3": { "0": "What did I do today? I'll just say this... it takes a lot of work to maintain this rugged physique!" },
+            "Rainy_Night_4": { "0": "I spent the afternoon daydreaming about the ocean. So I decided to cook some seafood. [198 202 727 728]$h" },
+            "Indoor_Day_0": { "0": "I've been taking much better care of myself now that we're together. The bachelor life wasn't particularly healthy for me." },
+            "Indoor_Day_1": { "0": "Good morning, @! I made us a pot of coffee.[395]#$e#I find myself craving this robust flavor nearly every morning." },
+            "Indoor_Day_2": { "0": "If you find a spider in the house, don't squash it! Just let me know and I'll take the poor thing outside." },
+            "Indoor_Day_3": { "0": "Today is going to be a fantastic day... I can feel it!$h#$e#I get this special feeling in my nose..." },
+            "Indoor_Day_4": { "0": "I've had this recurring nightmare that you gave me a buzz cut... You wouldn't ever do that to me, would you?$s#$e#I trust you." },
+            "Indoor_Night_0": { "0": "From the brightest winter star, to the shimmer of an iridium vein... nothing can compare to my wonderful man.$l^From the brightest winter star, to the fragrant fairy rose... nothing can compare with your captivating beauty.$l" },
+            "Indoor_Night_1": { "0": "A crackling fire adds wonderful ambience to the house... every piece of wood burns in a unique way." },
+            "Indoor_Night_2": { "0": "I never had much success growing plant in my old beach house. Hopefully I can pick up a thing or two by watching you.#$e#In this respect, you are the master and I only a humble apprentice." },
+            "Indoor_Night_3": { "0": "When I behold thy wondrous face, a precious jewel of form and grace, my heart... torn by the dread of night, is purified with golden light.#$e#Poetry is the only way I can begin to describe my feelings for you.$l" },
+            "Indoor_Night_4": { "0": "My love... I wouldn't trade you for 100 iridium bars.#$e#Nor 1000...#$e#Not even 10,000 bars, no.$7#$e#...$7#$e#No, not even 100,000 bars!$a#$e#...$s#$e#Wa... one million bars of pure iridium...? Don't make me do this...$8" },
+            "Outdoor_0": { "0": "My wildest dreams have come true... just look at this incredible landscape!" },
+            "Outdoor_1": { "0": "Fertile soil beneath my feet, fresh air to fill my lungs, and the sun's warmth to delight my skin... Life is going well." },
+            "Outdoor_2": { "0": "I might stay here and write some poetry. I'm feeling a sudden surge of creativity! You go on ahead and take care of business." },
+            "Outdoor_3": { "0": "If I stay perfectly still, perhaps a resplendent butterfly will bless my nose with a landing." },
+            "Outdoor_4": { "0": "I drank too much coffee... my mouth feels about as dry as the Calico Desert.$s#$e#Oh... sorry about the coffee breath.$7" },
+            "OneKid_0": { "0": "Have you had any time to entertain little %kid1 today? Maybe a second child will make things easier for both of us." },
+            "OneKid_1": { "0": "Little %kid1 is going to have the perfect childhood here. There's so much to explore." },
+            "OneKid_3": { "0": "Caring for babies isn't exactly my strong suit... but I'll do my best to be a good father." },
+            "TwoKids_0": { "0": "I already gave %kid1 and %kid2 their food. They eat a lot for such small creatures!" },
+            "TwoKids_1": { "0": "I was carrying %kid1 earlier, and I could've sworn I heard a \"Da...da\".$h" },
+            "TwoKids_2": { "0": "I'm going to teach %kid1 to read as soon as possible! That's a great way for children to learn about the world." },
+            "TwoKids_3": { "0": "We've done well, @. The farm is doing excellent and our healthy children are a great joy. I couldn't be happier." },
+            "Good_0": { "0": "@... I'm so proud of all your hard work. I'm very lucky to have you.$l" },
+            "Good_1": { "0": "I made a whole secret book of poems expressing my love for you.$l" },
+            "Good_2": { "0": "I came to the valley to find the ivory tower from which my talents could reign supreme. But what I really found was a dungeon of loneliness. You saved me from that.$l" },
+            "Good_3": { "0": "Wow, you look really handsome today! Did you shave? Your jawline is perfect.$l^Your feminine allure is irresistible today. I can't keep my eyes off you.$l" },
+            "Good_4": { "0": "I feel burnt out in your absence. But when I hear that sound of muddy boots on wood, my heart rises from the ash." },
+            "Good_5": { "0": "I'm doing a walking meditation. It's good for creativity." },
+            "Good_6": { "0": "Be careful out there! I do worry about you sometimes. There are people in the world who would take advantage of you." },
+            "funLeave_Elliott": { "0": "I think I'll walk down to the beach today. It's always nice to see the ocean again." },
+            "funReturn_Elliott": { "0": "I had a nice time at the beach by myself. I watched the waves come and go, just like old times." },
+            "spring_1": { "0": "My new year's resolution is to write, write, and write! I can never stop improving my skills." },
+            "spring_12": { "0": "It's strange, but I often have cravings for pomegranate in the spring." },
+            "spring_23": { "0": "I look forward to dancing with you tomorrow, my dear." },
+            "summer_1": { "0": "It's hard to be in a foul mood when the sun is beaming and the butterflies are dancing on a spice-berry breeze.$h" },
+            "summer_10": { "0": "I was going to grab an extra bottle of ink from my cabin today, but then I remembered the Luau is tomorrow. I'll just do it then." },
+            "summer_27": { "0": "All good things must come to an end, including the joyful days of summer. The key to happiness is to accept change without judgement." },
+            "fall_1": { "0": "The splendor of fall... a verdant banquet for all the senses to enjoy... has inspired some of the greatest poetry of all time." },
+            "fall_15": { "0": "I might set my pride aside and sink my eager teeth into a sloppy, saucy barbecue sandwich tomorrow." },
+            "fall_26": { "0": "Would you still love me if I guzzled two gallons of pumpkin ale at the Spirit's Eve festival? Sometimes a man has primitive urges..." },
+            "winter_1": { "0": "Winter is a great time to read books and play the piano. Remember to pause and enjoy a quiet moment or two." },
+            "winter_7": { "0": "I'm a little out of practice, but I plan on entering the fishing contest tomorrow! You've got some stiff competition, dear." },
+            "winter_28": { "0": "Happy new year's eve, my dear. Please accept this to celebrate. [348]" }
          }
       },
       {
@@ -3533,162 +3327,58 @@
             "winter_28": "Well, here's to a fantastic year. I have complete confidence that next year will be even better!$h"
          },
          "Fields": {
-           "Rainy_Day_0": {
-             "0": "Cuaca hujan menyebabkan flu itu mitos. Walau begitu, hati-hati jangan sampai terpeleset di lumpur!#$e#Aku sering mengkhawatirkanmu."
-           },
-           "Rainy_Day_1": {
-             "0": "Dulu aku sangat kesepian tinggal di klinik sendirian... Sekarang aku jauh lebih bahagia.$h"
-           },
-           "Rainy_Day_2": {
-             "0": "Aku tadi bangun dulu tapi aku berusaha untuk tidak mengusikmu. Kamu terlihat nyenyak sekali."
-           },
-           "Rainy_Day_3": {
-             "0": "Aku tidak keberatan dengan hujan. Memang, aku tidak bisa melihat pesawat melintas, tapi aku masih bisa mendengar transmisi radionya.#$e#Membuatnya jadi terasa lebih misterius."
-           },
-           "Rainy_Day_4": {
-             "0": "Aku punya catatan untuk tugas rumah yang ingin kuselesaikan hari ini. Ada banyak tugas yang membuatku tetap aktif!"
-           },
-           "Rainy_Night_0": {
-             "0": "Bagaimana harimu, sayang? Aku tadi mau mencuci piring tapi aku sedang asyik membaca edisi baru \"Penggemar Bedah Lutut\"."
-           },
-           "patio_Harvey": {
-             "0": "Kamu tahu, 'jurnal dinamika tendon' ini jadi bisa kubaca saat di luar sini."
-           },
-           "Rainy_Night_1": {
-             "0": "Kalau kamu menikmati hidup, siapa peduli kalau ada hal yang berulang-ulang terjadi? Itu saja maksudku."
-           },
-           "Rainy_Night_2": {
-             "0": "Kamu tampak basah. Hangatkan dirimu di dekat perapian, ya.^Kamu tampak basah, sayang. Hangatkan dirimu di dekat perapian, ya."
-           },
-           "Rainy_Night_3": {
-             "0": "Hujan membuat pikiran kita fokus pada suaranya, jadi kita tidak terganggu dengan hal yang tidak penting.#$e#Itulah teoriku kenapa hujan membuat kita merasa tenang..."
-           },
-           "Rainy_Night_4": {
-             "0": "Aku membuat makan malam sehat. Dengan bahan-bahan yang segar dan berkualitas dari lembah! [212 214 225 209 200]$h#$e#Pastikan makan yang cukup, sayang."
-           },
-           "Indoor_Day_0": {
-             "0": "Kurasa kita semua berusaha untuk mencapai keseimbangan dalam hidup. Baik mental maupun fisik.#$e#Bagiku, pindah ke sini adalah yang hal yang kubutuhkan untuk mencapai keseimbangan itu.$l"
-           },
-           "Indoor_Day_1": {
-             "0": "Selamat pagi, @? Aku membuatkanmu sarapan bergizi.[201]#$e#Telur adalah sumber nutrisi penting, jadi makanlah."
-           },
-           "Indoor_Day_2": {
-             "0": "Aku akan mempelajari jurnal-jurnal medis hari ini. Penting untuk tetap mengikuti perkembangan supaya aku bisa memberi pasienku perawatan yang terbaik!"
-           },
-           "Indoor_Day_3": {
-             "0": "Aku akan mendengarkan musik jazz dan menyelesaikan laporan medisku hari ini. Apa rencanamu hari ini?"
-           },
-           "Indoor_Day_4": {
-             "0": "Saat kamu pertama datang ke sini, aku takut padamu. Lucu kalau melihat keadaan sekarang di mana kita sudah dekat.$h"
-           },
-           "Indoor_Night_0": {
-             "0": "Kamu tampak lelah, sayang. Aku akan memijatmu nanti. Aku berjanji itu akan mengurangi peradangan pada jaringan ototmu!$l"
-           },
-           "Indoor_Night_1": {
-             "0": "Aku sedang bersantai hari ini... menghabiskan waktu membaca buku, mengotak-atik radio, dan membuat model pesawat.#$e#Penting untuk sesekali beristirahat... stress itu tidak sehat."
-           },
-           "Indoor_Night_2": {
-             "0": "Selamat malam... apa kamu sudah menyelesaikan apa yang kamu butuhkan hari ini?#$e#Tidak perlu mengkhawatirkanku. Kalau masih ada pekerjaan yang ingin kamu selesaikan, silahkan saja."
-           },
-           "Indoor_Night_3": {
-             "0": "Profesi dokter itu kadang bikin mudah stress, jadi sangat menyenangkan bisa tinggal di tempat yang damai seperti kebun %farm."
-           },
-           "Indoor_Night_4": {
-             "0": "Oh! Aku sedang melamun tentang sistem pernafasan dan lupa apa yang akan kulakukan. Masalah klasik seorang dokter."
-           },
-           "Outdoor_0": {
-             "0": "Ini tempat yang sangat aman. Silahkan lanjutkan apa yang ingin kamu kerjakan, tidak perlu mengkhawatirkanku."
-           },
-           "Outdoor_1": {
-             "0": "Secara sains, ini tempat yang ideal untuk merawat anak. Bagaimana menurutmu?"
-           },
-           "Outdoor_2": {
-             "0": "Aku mungkin bukan orang yang seru, tapi aku akan tetap setia padamu sampai akhir hidupku.$l"
-           },
-           "Outdoor_3": {
-             "0": "@... kamu... kamu adalah duniaku.$l"
-           },
-           "Outdoor_4": {
-             "0": "Sebagai seorang ilmuwan aku terpesona oleh simbiosis antara serangga dan tumbuhan."
-           },
-           "OneKid_0": {
-             "0": "Kamu dan %kid1 adalah bagian terpenting dalam hidupku."
-           },
-           "OneKid_1": {
-             "0": "Masa kecil %kid1 akan indah di sini. Kita sangat beruntung memiliki kesempatan ini."
-           },
-           "OneKid_3": {
-             "0": "Sejauh ini, aku suka jadi seorang ayah!$h"
-           },
-           "TwoKids_0": {
-             "0": "Aku sudah memberi sarapan %kid1 dan %kid2. Aku mencoba mengajari mereka untuk makan makanan sehat!"
-           },
-           "TwoKids_1": {
-             "0": "Anak-anak harusnya diperbolehkan untuk bermain dan menjelajah sepuas hati mereka. Karena jadi anak-anak itu cuma sekali."
-           },
-           "TwoKids_2": {
-             "0": "Mungkin %kid2 akan tumbuh menjadi pilot, seperti cita-citaku?"
-           },
-           "TwoKids_3": {
-             "0": "Hidupku sekarang kuabdikan padamu dan anak kita, aku sangat bahagia. Aku selalu bermimpi punya keluarga harmonis.$l#$e#Meski aku pernah bermimpi buruk akan jomblo selamanya.... Aku sangat mencintaimu.$l"
-           },
-           "Good_0": {
-             "0": "@...Aku masih tidak percaya kalau kita sudah menikah...$l"
-           },
-           "Good_1": {
-             "0": "Kamu menyelamatkanku dari kesepian, dan mengisi kekosongan hatiku. Terima kasih.$l"
-           },
-           "Good_2": {
-             "0": "Aku tahu kamulah jodohku saat kamu pindah ke sini... $l^Aku tahu kamulah jodohku saat pertama kamu pindah ke sini...$l"
-           },
-           "Good_3": {
-             "0": "Wow, kamu terlihat sangat tampan hari ini! Apa kamu bercukur?$l^Astaga... kamu terlihat cantik hari ini.$l"
-           },
-           "Good_6": {
-             "0": "Hati-hati di luar sana! Aku pernah mimpi buruk melihat tubuhmu dibawa ke ruang gawat darurat.$7"
-           },
-           "funLeave_Harvey": {
-             "0": "Kurasa aku akan jalan-jalan hari ini. Aku butuh udara segar."
-           },
-           "funReturn_Harvey": {
-             "0": "Hariku menyenangkan. Sesekali meluangkan waktu sendirian ternyata menyenangkan. Bagaimana dengan harimu, manis?"
-           },
-           "spring_1": {
-             "0": "Senang melihat semua tanaman kembali hidup. Pemandangan hijau ini menyegarkan setelah musim dingin."
-           },
-           "spring_12": {
-             "0": "Oh, besok ada festival, 'kan? Kerumunan, kegiatan... *glek*$s"
-           },
-           "spring_23": {
-             "0": "M... Maukah kamu menari denganku di festival besok?$7#$e#Aku selalu saja malu-malu.$7"
-           },
-           "summer_1": {
-             "0": "Jangan sampai sinar mantahari menyengatmu, sayang! Itu sangat berbahaya bagi kulitmu.$8#$e#Sebagai seorang dokter dan suamimu, aku mengutamakan kesehatan dan keselamatanmu!"
-           },
-           "summer_10": {
-             "0": "Apa kamu sudah merencanakan apa yang ingin kamu taru ke dalam sup Luau?#$e#Aku akan menaruh item berharga dan berkualitas. Kita harus meninggalkan kesan baik bagi Gubernur!"
-           },
-           "summer_27": {
-             "0": "Akhir musim panas semakin dekat, dan cuacanya semakin dingin, beban kerjaku juga ikut meningkat. Jadi maaf kalau suasana hatiku ikut memburuk..."
-           },
-           "fall_1": {
-             "0": "Pastikan memanen banyak jenis tumbuhan di musim gugur ini, sayangku.#$e#Atau tanam cranberry saja... Itu terserah kamu, sih. Aku kurang paham soal itu."
-           },
-           "fall_15": {
-             "0": "Besok festival. Makanannya kaya rasanya dan asin, tapi tidak apa-apa sesekali makan banyak.$h"
-           },
-           "fall_26": {
-             "0": "Kuakui, festival spirit's eve biasanya membuat perutku sakit... tapi aku akan memberanikan diri."
-           },
-           "winter_1": {
-             "0": "Udaranya sangat kering di musim dingin. Karena itu kulit kita kadang kena iritasi.#$e#Tidak usah khawatir, aku akan mengolesimu minyak truffle setiap malam.$l"
-           },
-           "winter_7": {
-             "0": "Apa kita akan datang ke festival es besok? Aku senang melihat igloo..."
-           },
-           "winter_28": {
-             "0": "Baiklah, tahun ini luar biasa. Aku percaya bahwa tahun depan akan lebih baik lagi!$h"
-           }
+            "Rainy_Day_0": { "0": "It's a myth that rainy weather causes the flu. However, take care that you don't slip on the mud!#$e#I often worry about you." },
+            "Rainy_Day_1": { "0": "It was so incredibly lonely living above the clinic by myself... I'm much happier now.$h" },
+            "Rainy_Day_2": { "0": "I woke up early, but I made sure not to wake you. You looked so peaceful." },
+            "Rainy_Day_3": { "0": "I don't mind the rain. Sure, I can't watch the planes go by, but I can still listen to the radio chatter.#$e#It makes the whole thing a little more mysterious." },
+            "Rainy_Day_4": { "0": "I have a backlog of house chores I want to complete today. I've got plenty to keep me busy!" },
+            "Rainy_Night_0": { "0": "How was your day, honey? I was going to do the dishes but I got absorbed in the latest issue of \"Knee Surgery Enthusiast\"." },
+            "patio_Harvey": { "0": "Kau tau, buku 'journal of tendon dynamics' sangat menyenangkan jika dibaca diluar." },
+            "Rainy_Night_1": { "0": "If you're enjoying life, who cares if it's a little repetitive? That's what I say." },
+            "Rainy_Night_2": { "0": "You look a little soggy, hun. Why don't you warm yourself by the fire?^You look a little soggy, dear. Why don't you warm yourself by the fire?" },
+            "Rainy_Night_3": { "0": "The sound of rain gives our minds something to focus on, so we're not distracted by random thoughts.#$e#That's my theory for why it's so soothing..." },
+            "Rainy_Night_4": { "0": "I made us a nice healthy dinner. Only fresh, wholesome ingredients from the valley! [212 214 225 209 200]$h#$e#Just make sure to eat a reasonable portion, dear." },
+            "Indoor_Day_0": { "0": "I think we're all striving to reach some kind of balance in life. An equilibrium of complexity.#$e#For me, moving here was exactly what my body needed to find that balance.$l" },
+            "Indoor_Day_1": { "0": "Good morning, @! I made you a nutritious breakfast.[201]#$e#Eggs are a good source of essential nutrients, so eat up." },
+            "Indoor_Day_2": { "0": "I'm going to study the medical literature today. It's important for me to keep up-to-date so I can give my patients the best care possible!" },
+            "Indoor_Day_3": { "0": "I'm going to listen to some jazz music and finalize my medical reports today. What do you have planned?" },
+            "Indoor_Day_4": { "0": "I was afraid of you when we first met. It's funny to think about now that we've come so far.$h" },
+            "Indoor_Night_0": { "0": "You look exhausted, dear. Let me give you a massage tonight. I promise it will reduce the inflammation in your muscle tissue!$l" },
+            "Indoor_Night_1": { "0": "I took it easy today... spent some time reading books, fiddled with my radio, and worked on a model airplane.#$e#It's important to take a day off now and then to relax... stress is unhealthy." },
+            "Indoor_Night_2": { "0": "Good evening... did you finish everything you needed to do today?#$e#Don't worry about me. I'm very self-sufficient. If you have more work to do go right ahead." },
+            "Indoor_Night_3": { "0": "It's stressful to be a doctor, so it's really great to live somewhere as relaxing as %farm Farm." },
+            "Indoor_Night_4": { "0": "Oh! I was just daydreaming about the circulatory system and forgot what I was trying to do. It's a classic doctor's problem." },
+            "Outdoor_0": { "0": "This is a very safe spot. You go on ahead and take care of business, don't worry about me." },
+            "Outdoor_1": { "0": "I believe this must be the ideal place to raise children, scientifically. What do you think?" },
+            "Outdoor_2": { "0": "I may not be the most exciting guy, but I'll stay loyal to you for the rest of my life.$l" },
+            "Outdoor_3": { "0": "@... you... you mean the world to me.$l" },
+            "Outdoor_4": { "0": "As a scientist I'm fascinated by the delicate interplay of insect and plant life." },
+            "OneKid_0": { "0": "You and %kid1 are the most important parts of my life." },
+            "OneKid_1": { "0": "Little %kid1 is going to have the perfect childhood here. We're really fortunate to have this opportunity." },
+            "OneKid_3": { "0": "So far, I really like being a father!$h" },
+            "TwoKids_0": { "0": "I already gave %kid1 and %kid2 their breakfasts. I'm trying to teach them to enjoy healthy food!" },
+            "TwoKids_1": { "0": "I believe a child should be allowed to play and explore to their heart's content. You're only a kid once." },
+            "TwoKids_2": { "0": "Maybe %kid2 will grow up to become a pilot, like I never could?" },
+            "TwoKids_3": { "0": "My life is devoted to you and the children now, and I'm very happy about it. I always dreamed of having a wonderful family.$l#$e#I had nightmares of being a bachelor forever.... I love you so much.$l" },
+            "Good_0": { "0": "@...I still can't believe we're married...$l" },
+            "Good_1": { "0": "You rescued me from a life of loneliness, and filled the emptiness in my heart. Thank you.$l" },
+            "Good_2": { "0": "I knew you were the one from the moment you moved here... $l^I knew you were the one from the moment you moved here...$l" },
+            "Good_3": { "0": "Wow, you look really handsome today! Did you shave?$l^Oh, my... you look beautiful today.$l" },
+            "Good_6": { "0": "Be careful out there! I have nightmares about your limp body being wheeled into the emergency room.$7" },
+            "funLeave_Harvey": { "0": "I think I'll take a little walk today. I need to unwind." },
+            "funReturn_Harvey": { "0": "I had a nice day. It's refreshing to spend some time alone now and then. Did you have a good day, honey?" },
+            "spring_1": { "0": "It's wonderful to see all the plants return to life. The greenery is refreshing after a monochrome winter." },
+            "spring_12": { "0": "Oh, it's a festival tomorrow, isn't it? Large crowds, activities... *gulp*$s" },
+            "spring_23": { "0": "W...Will you dance with me at the festival tomorrow?$7#$e#It's always a little embarrassing.$7" },
+            "summer_1": { "0": "Make sure you don't get sunburnt, dear! It's very dangerous for your skin.$8#$e#As your husband and doctor, I consider your health and safety my top priority!" },
+            "summer_10": { "0": "Have you thought about what you're going to put in the luau soup?#$e#I would put an item of high value and quality. We all want to leave a great impression on the governor!" },
+            "summer_27": { "0": "As summer draws to a close, and the colder season begins, my workload tends to increase. Sorry in advance if I'm a little moody..." },
+            "fall_1": { "0": "Make sure and diversify your harvests this fall, my dear.#$e#Or just grow cranberries... It's really up to you. What do I know?" },
+            "fall_15": { "0": "Tomorrow's the fair. The food is very rich and salty, but I'm fine with splurging once in a while.$h" },
+            "fall_26": { "0": "I'll admit, the spirit's eve festival usually gives me intestinal pain... but I'll do my best to be brave." },
+            "winter_1": { "0": "The air is very dry during winter. That's why our skin tends to become irritated.#$e#Don't worry, I'll rub a little truffle oil onto your back every night.$l" },
+            "winter_7": { "0": "Are we going to stop by the ice festival tomorrow? I do enjoy the igloos..." },
+            "winter_28": { "0": "Well, here's to a fantastic year. I have complete confidence that next year will be even better!$h" }
          }
       },
       {
@@ -4569,265 +4259,92 @@
             "winter_Thu10": "@, come closer. I'm cold.$l#$e#My hands are so dry from the winter air. I'm sorry about that.$l"
          },
          "Fields": {
-           "Introduction": {
-             "0": "Oh! Bukankah kamu yang baru saja pindah?#$b#Aku Maru. Aku tak sabar ingin bertemu denganmu!$h#$e#Kamu tahu, dengan kota kecil seperti ini, wajah baru benar-benar dapat mengubah dinamika komunitas. Sangat mengagumkan!"
-           },
-           "Resort_Entering": {
-             "0": "Willy bilang, kau membantu memperbaiki kapalnya. Untuk itu, terimakasih banyak!"
-           },
-           "Resort_Leaving": {
-             "0": "Tadi itu menyenangkan!"
-           },
-           "Resort": {
-             "0": "Aku menemukan ternyata ada beberapa spesies bintang laut yang berbeda. Favoritku adalah yang ungu dan besar, tapi semua spesiesnya sungguh menarik!"
-           },
-           "Resort_Towel": {
-             "0": "*gasp*... Gerhana matahari!$3#$b#Oh... Oh. Ternyata tubuhmu menghalangi matahari."
-           },
-           "Resort_Towel_2": {
-             "0": "Kita berada sangat jauh dari peradaban.#$b#Bayangkan berapa banyak bintang yang bisa kau lihat pada malam hari.#$e#Siapa tau kita juga melihat satu atau dua pring terbang!$h"
-           },
-           "Resort_Bar": {
-             "0": "Mmmm... Kenapa buah tropis bisa begitu enak?"
-           },
-           "Resort_Shore": {
-             "0": "Aku penasaran, apakah Willy akan mengizinkanku membawa teleskop ke sini kapan-kapan...#Langit disini begitu cerah, aku yakin aku bisa melihat Kota Pelican dari sini.#Bahkan mungkin bisa melihatmu di kebun %farm!"
-           },
-           "danceRejection": {
-             "0": "Aku tersanjung! Tapi... Tidak."
-           },
-           "divorced": {
-             "0": "Tidak ada yang perlu kita bicarakan lagi.$a"
-           },
-           "breakUp": {
-             "0": "Kurang bagus bagimu, ya?$a#$b#Baiklah...$s"
-           },
-           "dumped_Girls": {
-             "0": "Berani-beraninya kamu bicara padaku!$a"
-           },
-           "secondChance_Girls": {
-             "0": "Kamu sudah tidak menghargaiku, @... tapi aku bersedia untuk memaafkanmu.$s"
-           },
-           "Mon": {
-             "0": "Setiap kali mengalami masalah teknis, aku selalu jalan-jalan.#$e#Mengejutkan betapa perubahan pemandangan dapat membantumu."
-           },
-           "Tue": {
-             "0": "Apa kamu sudah bertemu ibuku? Dia tukang kayu desa."
-           },
-           "Wed": {
-             "0": "Pada hari Selasa dan Kamis aku bekerja di klinik Harvey.#$b#Katanya dia suka kalau aku membantunya, karena untuk jaga-jaga kalau peralatan medisnya rusak!$h#$e#Menjadi petani pasti sangat mudah, ya?"
-           },
-           "Thu": {
-             "0": "Aku berencana menghabiskan waktu dengan teleskopku musim panas ini."
-           },
-           "Sat": {
-             "0": "Apa kamu kenal ayahku, Demetrius? Dia seorang ilmuwan. Aku senang membantunya di laboratorium."
-           },
-           "Fri": {
-             "0": "Hei, maaf kalau aku terlihat jengkel... aku agak pegal karena pekerjaan kemarin.#$c .5# Aku harus membawa sepuluh kardus arsip medis ke loteng!#$e#Aku juga mengurutkan catatan riwayat pasien selama empat jam berturut-turut!"
-           },
-           "Sun": {
-             "0": "Hi!#$q 3",
-             "1": "4 Sun_01_old#Apa kau menikmati kerja di kebun?#$r 3 0 Sun_01_01#Ya.#$r 4 0 Sun_01_02#Tidak."
-           },
-           "Sun_01_old": {
-             "0": "$p 3#Hei, kamu sudah membuat satu pekan kemajuan lagi di kebun! Sepertinya semuanya berjalan baik untukmu.$h|Pekan yang melelahkan di pertanian, ya? Pasti banyak yang dikerjakan...$s"
-           },
-           "Sun_01_01": {
-             "0": "Yah itu bagus, bukan?$h"
-           },
-           "Sun_01_02": {
-             "0": "Astaga! Maaf. Apa kamu pernah berpikir untuk melakukan hal yang berbeda...?$s"
-           },
-           "Tue2": {
-             "0": "Mampirlah ke rumah kami kalau kamu ingin meningkatkan bangunanmu.#$e#Senang rasanya kalau ada pengunjung."
-           },
-           "Fri4": {
-             "0": "Ibuku seorang tukang kayu dan ayahku seorang ilmuwan. Kurasa masuk akal jika aku ingin membuat gawai."
-           },
-           "Mon6": {
-             "0": "Kadang-kadang kepalaku jadi berantakan dengan hal-hal tidak penting hingga aku tidak bisa berpikir. Apakah itu pernah terjadi padamu?#$e#Menghirup udara segar biasanya membantu."
-           },
-           "Wed8": {
-             "0": "Aku bekerja di klinik Harvey pada hari Selasa dan Kamis.#$e#Dia orang baik, tapi bukan tipeku..."
-           },
-           "Thu10": {
-             "0": "Oh, @! Adakah yang ingin kamu bicarakan denganku?#l"
-           },
-           "Event_Hospital_1": {
-             "0": "Tentu saja dia akan tahu bedanya! Sampel ini benar-benar hancur!%fork$s"
-           },
-           "Event_Hospital_2": {
-             "0": "Baiklah. Kalau begitu aku akan menyalahkanmu.$u"
-           },
-           "Event_Hospital_3": {
-             "0": "Kamu benar aku harus mengatakan yang sebenarnya.%fork$u"
-           },
-           "Event_Space1": {
-             "0": "Ini luar biasa, bukan?"
-           },
-           "Event_Space2": {
-             "0": "Kurasa kamu bisa menganggapnya begitu...$s#$b#Tapi ini masih luar biasa, 'kan?"
-           },
-           "Event_Cut1": {
-             "0": "Oh tidak?$8#$b#Baiklah, setidaknya itu membuatku merasa sedikit lebih baik. Makasih."
-           },
-           "Event_Cut2": {
-             "0": "Oh tidak! Aghh... Aku benar-benar minta maaf.$s"
-           },
-           "event_robot1": {
-             "0": "Terima kasih. Itu sangat berarti bagiku, @.#$b#Aku tahu kalau kamu tidak begitu paham dengan gawai... tapi aku menghargai ketertarikanmu dengan pekerjaanku.#$b#Kuharap aku bisa membalas kebaikanmu.$l"
-           },
-           "event_robot2": {
-             "0": "Apa? Setelah dia mengatakan langsung bahwa dia tidak ingin jadi budak? Betapa dinginnya...%fork$a"
-           },
-           "event_robot3": {
-             "0": "Heh...$8#$b#Ya, kurasa secara tidak langsung memang begitu.$l#$b#...Em...$l"
-           },
-           "event_robot4": {
-             "0": "...$8#$b#@...$8"
-           },
-           "event_robot_explain1": {
-             "0": "...$s#$b#Kamu ada benarnya, aku memprogramnya untuk bertindak manusiawi... tapi jaringan sarafnya sangat kompleks, aku tidak yakin kalau dia punya kesadarannya sendiri.$8#$b#Selain itu, bukankah sedikit berlebihan menganggap bahwa kesadaran seperti manusia adalah satu-satunya tubuh yang berharga? Otak komputer berbeda dari kita, tetapi itu tidak berarti kita bisa mengabaikannya begitu saja.$8"
-           },
-           "event_robot_explain2": {
-             "0": "Aku mengerti. Yah, leluconnya tidak lucu.$a"
-           },
-           "event_robot_explain3": {
-             "0": "Itu mengerikan! Apa yang sudah merasukimu, @?$a#$b#Aku akan melupakan percakapan ini... kamu tidak bertindak seperti biasanya.$a"
-           },
-           "summer_1": {
-             "0": "Ini akan jadi musim yang bagus untuk melihat bintang."
-           },
-           "summer_Mon": {
-             "0": "Hmm... Gawai apa yang harus kukerjakan di musim panas ini?"
-           },
-           "summer_Mon6": {
-             "0": "Datanglah ke kamarku kalau kamu ingin mengutak-atik gawaiku."
-           },
-           "summer_Tue": {
-             "0": "Sebastian itu kakak tiriku, kalau kamu belum tahu.#$e#Kami terlihat sangat berbeda."
-           },
-           "summer_Tue4": {
-             "0": "Sebastian hampir tidak pernah bicara padaku. Bahkan aku penasaran apa dia menyukaiku atau tidak?#$e#Menyedihkan, aku ingin punya kakak tapi dia tidak bertindak seperti itu."
-           },
-           "summer_Wed": {
-             "0": "Apa kamu menikmati musim ini?#$e#Tahun ini hangat sekali.$h"
-           },
-           "summer_Thu": {
-             "0": "Maaf, aku sedang memikirkan gawai yang sedang kubuat.#$q 35"
-           },
-           "Thu_01_old": {
-             "0": "Sampai jumpa lagi."
-           },
-           "Thu_0": {
-             "0": "Benarkah? Apa kamu yakin tidak sedang menyanjungku?"
-           },
-           "Thu_01_01": {
-             "0": "Menurutmu aku tidak bisa membuatnya?$s"
-           },
-           "Thu_01_02": {
-             "0": "Kamu benar, tapi aku suka tantangan!$h"
-           },
-           "summer_Sat": {
-             "0": "Hei, ada cerita menarik di ladang untuk diceritakan padaku?#$e#Kurasa tidak."
-           },
-           "summer_Fri": {
-             "0": "Aku bekerja di klinik kemarin. Kami tidak punya satu pasien pun.#$e#Sepertinya orang jarang sakit saat musim panas."
-           },
-           "summer_Sun": {
-             "0": "Aku yakin kamu menanam beberapa crop menarik saat ini.#$b#yah bilang banyak tanaman eksotis tumbuh di lembah sepanjang tahun ini."
-           },
-           "summer_Fri2": {
-             "0": "Hei, ceritakana padaku tentang ladangmu.#$e#Itu sangat menarik!"
-           },
-           "summer_Wed4": {
-             "0": "Cuma perasaanku saja atau memang hawanya mendadak panas?#$e#Kurasa cuma perasaanku saja."
-           },
-           "summer_Sun6": {
-             "0": "Suatu hari nanti aku akan jadi penemu kelas dunia.$u#$e#Kamu beruntung berteman denganku!#$b#...aku bercanda."
-           },
-           "summer_Tue8": {
-             "0": "@, kamu terlihat rapi hari ini.$h"
-           },
-           "summer_Thu10": {
-             "0": "Bagaimana tanganmu tetap lembut setelah bekerja lama di ladang?"
-           },
-           "fall_Mon": {
-             "0": "Sudahkah kamu menjelajahi tambang? Kudengar kamu dapat menemukan beberapa benda berguna di sana."
-           },
-           "fall_Tue": {
-             "0": "Pepohonan terlihat indah hari ini!$h"
-           },
-           "fall_Thu": {
-             "0": "Di belahan lain dunia sedang musim semi sekarang. Bayangkan itu!"
-           },
-           "fall_Wed": {
-             "0": "Bleh... Sepertinya besok aku tidak akan bekerja."
-           },
-           "fall_Fri": {
-             "0": "Aku yakin kita akan mulai melihat banyak orang ke klinik musim ini.$s#$e#Kuharap semuanya tetap sehat."
-           },
-           "fall_Sat": {
-             "0": "Semua daun yang berguguran ini akan menyediakan makanan untuk jamur dan organisme kecil lainnya.$u#$e#Menarik, 'kan?"
-           },
-           "fall_Sun": {
-             "0": "Hei, ini untuk pekan bagus lainnya! *bersulang*"
-           },
-           "fall_Tue2": {
-             "0": "@, aku suka dengan bagaimana penampilan pepohonan sekarang!#$e#Aku tahu Kamu juga menyukainya."
-           },
-           "fall_Wed4": {
-             "0": "Kalau kamu punya logam-logam sisa, aku bisa menggunakannya untuk proyekku.#$e#Asalkan kamu sudah tidak membutuhkannya."
-           },
-           "fall_Fri6": {
-             "0": "Aku sedang merasa sangat optimis akhir-akhir ini...$h"
-           },
-           "fall_Mon8": {
-             "0": "Kamu harus mengunjungiku di klinik besok. Aku kerja mulai pukul 10 pagi sampai 4 sore.$h"
-           },
-           "fall_Thu10": {
-             "0": "Ada daun di rambutmu. Sini, biar kusingkirkan itu.#$e#...$h"
-           },
-           "winter_1": {
-             "0": "Ya ampun, dingin sekali...$s"
-           },
-           "winter_Mon": {
-             "0": "Kamu lihat manusia salju yang kubuat?$h"
-           },
-           "winter_Tue": {
-             "0": "Rambutku jadi sangat keriting di cuaca kering ini. *hahh*"
-           },
-           "winter_Wed": {
-             "0": "Kurasa musim dingin adalah waktu yang tepat untuk mengerjakan gawaiku.#$e#Aku penasaran apa aku bisa membuat sesuatu yang berguna untuk petani?"
-           },
-           "winter_Thu": {
-             "0": "Hei! Apa kabar?#$e#Ini waktu yang tepat untuk menjelajahi gua.#$e#Aku ingin pergi tapi Ayahku nanti marah."
-           },
-           "winter_Fri": {
-             "0": "Kuharap aku tidak terserang flu tahun ini."
-           },
-           "winter_Sat": {
-             "0": "Apa kamu sudah merakit furnace?#$e#Kamu bisa memakainya untuk mengubah bahan mentah seperti bijih menjadi produk yang lebih bermanfaat.$u"
-           },
-           "winter_Sun": {
-             "0": "Aku jadi mengantuk berat saat udaranya dingin..."
-           },
-           "winter_Sat2": {
-             "0": "Hei, kalau ada mesin di ladangmu yang butuh perbaikan, beritahu aku ya.$h"
-           },
-           "winter_Tue4": {
-             "0": "Hei, apa kamu punya ide gawai baru apa yang harus kubuat?#$e#Mhmm. Aku percaya dengan pendapatmu."
-           },
-           "winter_Fri6": {
-             "0": "Kamu terlihat segar hari ini. Itulah pengaruh udara musim dingin yang sejuk."
-           },
-           "winter_Mon8": {
-             "0": "Hai @!$h#$e#Hei, bukankah manusia salju buatanku terlihat mirip denganmu?"
-           },
-           "winter_Thu10": {
-             "0": "@, mendekatlah. Aku kedinginan.$l#$e#Tanganku sangat kering karena udara musim dingin. Maaf soal itu.$l"
-           }
+            "Introduction": { "0": "Oh! Bukankah kau yang baru saja pindah?#$b#Aku Maru. Aku sangat ingin bertemu denganmu!$h#$e#Kau tau, dengan kota kecil seperti ini, wajah baru dapat mengubah masyarakat yang dinamis. Ini menarik!" },
+            "Resort_Entering": { "0": "Willy mentioned that you helped fix the boat. Thanks for doing that!" },
+            "Resort_Leaving": { "0": "That was fun!" },
+            "Resort": { "0": "I've been noticing a few different starfish species. My favorite are the big purple ones, but they're all very interesting!" },
+            "Resort_Towel": { "0": "*gasp*... It's a solar eclipse!$3#$b#Oh... nevermind. It's just your body blocking the sun." },
+            "Resort_Towel_2": { "0": "We're so far removed from civilization out here.#$b#Imagine the stars you could see at night.#$e#Who knows, maybe we'd even see a flying saucer or two!$h" },
+            "Resort_Bar": { "0": "Mmmm... Why are tropical fruits so good?" },
+            "Resort_Shore": { "0": "I wonder if Willy would let me bring my telescope here sometime...#The sky is so clear here, I bet I could spot Pelican Town out in the horizon.#Maybe I'd even see you running around %farm Farm!" },
+            "danceRejection": { "0": "Aku tersanjung! Tapi... tidak." },
+            "divorced": { "0": "Kita tak memeiliki apapun untuk dibahas lagi.$a" },
+            "breakUp": { "0": "Not good enough for you, huh?$a#$b#Fine...$s" },
+            "dumped_Girls": { "0": "Beraninya kau bicara padaku!$a" },
+            "secondChance_Girls": { "0": "Kau telah kehilangan kepercayaanku, @... tapi aku bersedia memaafkanmu.$s" },
+            "Mon": { "0": "Setiap kali aku berjuang dengan masalah teknis, aku selalu berjalan-jalan.#$e#Ini mengejutkan berapa banyak pemandangan dapat membantu meredakan suasana." },
+            "Tue": { "0": "Kau bertemu ibuku? Dia tukang kayu." },
+            "Wed": { "0": "Pada hari Selasa dan Kamis aku bekerja di klinik Harveys.#$b#Ia mengatakan ia suka aku bekerja disana!$h#$e#Menjadi petani mudah sekali, kan?" },
+            "Thu": { "0": "Aku berencana untuk menghabiskan banyak waktu dengan teleskopku musim panas ini." },
+            "Sat": { "0": "Kau kenal ayahku, Demetrius? Dia ilmuwan. Sangat menyenangkan membantu dia keluar di laboratorium." },
+            "Fri": { "0": "Hei, maaf jika aku tampak rewel ... aku sedikit sakit dari pekerjaan kemarin.#$c .5# Aku harus membawa sepuluh kotak file medis ke loteng!#$e#Aku harus memilah catatan pasien selama empat jam! " },
+            "Sun": { "0": "Hi!#$q 3/4 Sun_01_old#Apakah menyenangkan bekerja di kebunm?#$r 3 0 Sun_01_01#Iya.#$r 4 0 Sun_01_02#Tidak." },
+            "Sun_01_old": { "0": "$p 3#Hei, Kau telah membuat kemajuan di pertanian! Sepertinya semuanya berjalan dengan baik.$h|Setiap minggu melelahkan, ya? Kau memang banyak pekerjaan...$s" },
+            "Sun_01_01": { "0": "Nah itu bagus, bukan?$h" },
+            "Sun_01_02": { "0": "Astaga! Maafkan saya. Apakah kau pernah berpikir untuk melakukan sesuatu yang berbeda...?$s" },
+            "Tue2": { "0": "Mampir ke rumah kami jika kau ingin meng-upgrade bangunan.#$e#bagus sekali punya pengunjung." },
+            "Fri4": { "0": "Ibu saya adalah seorang tukang kayu dan ayah saya adalah seorang ilmuwan. Aku kira itu masuk akal bahwa aku menjadi gadget bangunan." },
+            "Mon6": { "0": "Kadang-kadang kepalaku berantakan dengan omong kosong. Aku hampir tidak bisa berpikir. Apakah itu pernah terjadi ke padamu?#$e#Udara segar kadang membantu." },
+            "Wed8": { "0": "Pada hari Selasa dan Kamis aku bekerja di klinik Harveys.#$e#Dia baik, tapi dia bukan tipeku..." },
+            "Thu10": { "0": "Oh, @! Apakah ada sesuatu yang ingin kau berbicarakan denganku?#l" },
+            "Event_Hospital_1": { "0": "Tentu saja dia tahu bedanya! Sampel ini benar-benar hancur!%fork$s" },
+            "Event_Hospital_2": { "0": "Ok. Aku akan menyalahkanmu!$u" },
+            "Event_Hospital_3": { "0": "Kau benar. Aku seharusnya memberitahukan kebenarannya.%fork$u" },
+            "Event_Space1": { "0": "Ini menakjubkan, bukan?" },
+            "Event_Space2": { "0": "Aku kira kau bisa melihatnya seperti itu...$s#$b#Tapi itu masih luar biasa, bukan?" },
+            "Event_Cut1": { "0": "Oh no?$8#$b#Nah, kau membuatku merasa sedikit lebih baik. Terima kasih." },
+            "Event_Cut2": { "0": "Oh no! Aghh... Aku minta maaf.$s" },
+            "event_robot1": { "0": "Terima kasih. Itu berarti banyak bagiku, @.#$b#Meskipun tidak benar ... tapi aku menghargaimu karena menunjukkan minat pada apa yang aku lakukan.#$b#Aku berharap aku bisa membalas budi.$l" },
+            "event_robot2": { "0": "Apa? Dia mengatakan itu? Dnginnya...%fork$a" },
+            "event_robot3": { "0": "Heh...$8#$b#Yeah I guess he did kinda say that, didn't he?$l#$b#...Um...$l" },
+            "event_robot4": { "0": "...$8#$b#@...$8" },
+            "event_robot_explain1": { "0": "...$s#$b#You have a point, I did program her to act human... but her neural net is so complex, I can't be sure conciousness didn't emerge on its own.$8#$b#Furthermore, isn't it a little arrogant to assume that human-like consciousness is the only worthwhile vessel of existence? Computer brains are different than ours, but that doesn't mean we can disregard them.$8" },
+            "event_robot_explain2": { "0": "I see. Well it wasn't a very funny joke.$a" },
+            "event_robot_explain3": { "0": "That's horrible! What's gotten into you, @?$a#$b#I'm just going to forget about this conversation... you aren't acting yourself.$a" },
+            "summer_1": { "0": "This is going to be a great season for stargazing." },
+            "summer_Mon": { "0": "Hmm... What sort of gadget should I tinker with this summer?#$e#" },
+            "summer_Mon6": { "0": "Come to my room if you ever want to tinker with my gadgets." },
+            "summer_Tue": { "0": "Sebastian is my half-brother, if you didn't know already.#$e#We look totally different." },
+            "summer_Tue4": { "0": "Sebastian hardly ever talks to me. I wonder if he even likes me at all?#$e#It's sad, I want to have a brother but he doesn't act like one." },
+            "summer_Wed": { "0": "Are you enjoying the season?#$e#It's been so warm this year.$h" },
+            "summer_Thu": { "0": "Sorry, I was just thinking about some gadgets I'm making.#$q 35/36 Thu_01_old#I've decided I'm going to build a robot someday.#$r 35 30 Thu_0#That should be very easy for you#$r 36 -50 Thu_01_01#You should be more realistic#$r 35 40 Thu_01_02#It sounds challenging" },
+            "Thu_01_old": { "0": "See you later." },
+            "Thu_0": { "0": "Really? Are you sure you're not just trying to flatter me?" },
+            "Thu_01_01": { "0": "You don't think I could do it?$s" },
+            "Thu_01_02": { "0": "You're right, but I love a challenge!$h" },
+            "summer_Sat": { "0": "Hey, have any interesting farm stories to tell me?#$e#Guess not." },
+            "summer_Fri": { "0": "I worked at the clinic yesterday. We didn't have a single patient.#$e#I guess people get sick less during summer." },
+            "summer_Sun": { "0": "I bet you're growing some interesting crops right now.#$b#Dad says a lot of exotic plants grow in the valley this time of year." },
+            "summer_Fri2": { "0": "Hey, tell me a story about farming.#$e#That's really interesting!" },
+            "summer_Wed4": { "0": "Is it just me or did it suddenly get really hot?#$e#I guess it's just me." },
+            "summer_Sun6": { "0": "Some day I'm going to be a world-class inventor.$u#$e#You're lucky to be friends with me!#$b#...just kidding." },
+            "summer_Tue8": { "0": "@, you're looking sharp today.$h" },
+            "summer_Thu10": { "0": "How do your hands stay so soft with all that farm work?" },
+            "fall_Mon": { "0": "Have you explored the mines much? I've heard you can find some useful materials there." },
+            "fall_Tue": { "0": "The trees look beautiful today!$h" },
+            "fall_Thu": { "0": "In other parts of the world it's spring right now. Imagine that!" },
+            "fall_Wed": { "0": "Bleh... I don't feel like working tomorrow." },
+            "fall_Fri": { "0": "I bet we'll start seeing more people at the clinic this season.$s#$e#I hope everyone stays healthy." },
+            "fall_Sat": { "0": "All these falling leaves will provide food for mushrooms and other small organisms.$u#$e#Interesting, isn't it?" },
+            "fall_Sun": { "0": "Hey, here's to another good week! *toast*" },
+            "fall_Tue2": { "0": "@, I just love how the trees look right now!#$e#I know you like them too." },
+            "fall_Wed4": { "0": "If you have any extra metal laying around, I could always use it for one of my projects.#$e#But only if you don't need it yourself." },
+            "fall_Fri6": { "0": "I've been feeling especially optimistic lately...$h" },
+            "fall_Mon8": { "0": "You should come visit me at the clinic Tomorrow. I work from 10 a.m.to 4 p.m.$h" },
+            "fall_Thu10": { "0": "You have a leaf in your hair. Let me get it for you.#$e#...$h" },
+            "winter_1": { "0": "Oh man, it's so cold...$s" },
+            "winter_Mon": { "0": "Did you see the snowman I built?$h" },
+            "winter_Tue": { "0": "My hair gets so frizzy in this dry weather. *sigh*" },
+            "winter_Wed": { "0": "I guess winter is a good time to work on my gadgets.#$e#I wonder if I could make anything useful for farmers?" },
+            "winter_Thu": { "0": "Hey! What's up?#$e#It's a good time to explore the caves.#$e#I would go but my Dad would flip." },
+            "winter_Fri": { "0": "I hope I don't catch the flu this year." },
+            "winter_Sat": { "0": "Have you built a furnace yet?#$e#You can use them to turn raw material like ores into more useful products.$u" },
+            "winter_Sun": { "0": "I get so sleepy when it's cold..." },
+            "winter_Sat2": { "0": "Hey, if any of your farming machines need to be fixed, just let me know.$h" },
+            "winter_Tue4": { "0": "Hey, do you have any ideas for a new gadget I can make?#$e#Mhmm. I trust your opinion." },
+            "winter_Fri6": { "0": "You look fresh today. I guess it's that crisp winter air." },
+            "winter_Mon8": { "0": "Hi @!$h#$e#Hey, don't you think my snowman looks kind of like you?" },
+            "winter_Thu10": { "0": "@, come closer. I'm cold.$l#$e#My hands are so dry from the winter air. I'm sorry about that.$l" }
          }
       },
       {
@@ -6120,15 +5637,15 @@
          "Sun": "When it rains, strange birds visit.#$b#I try to speak to them... but they fly away.$s#$b#I guess they don't want to be friends...$s"
        },
        "Fields": {
-         "Mon": { "0": "Hai... Semua baik-baik saja?" },
-         "Mon4": { "0": "Aku sudah dengar banyak dari keluarga burung betetku...#$b#Tapi ada banyak hal di luar sana yang belum aku ketahui.$s" },
-         "Tue": { "0": "Saat Matahari sedang marah, di hutan rasanya malah nyaman.#$e#Matahari tidak bisa menemukan kita di bawah dedaunan pohon. Jadi dia tertipu! Haha...$h" },
-         "Wed": { "0": "...Maaf... Aku agak malu hari ini.$3" },
-         "Wed2": { "0": "Berhati-hatilah di gunung berapi... roh-roh di sana tidak ramah pada pendatang" },
-         "Thu": { "0": "Apa kau sudah bertemu dengan kaummu?#$b#Aku jarang bicara sama mereka. Karena aku lebih nyaman dengan kaumku sendiri...$3" },
-         "Fri": { "0": "Dulu... Aku pernah ke puncak gunung berapi pas malam hari, dan aku lihat ada cahaya dari jarak yang sangat jauh.#$b#Aku penasaran apa ada keluarga burung lain di luar sana?$3" },
-         "Fri3": { "0": "Apa rumahmu kelihatan dari puncak gunung berapi?" },
-         "Sat": { "0": "...Aku lagi sedih.$s#$e#Silakan... bersenang-senanglah. Biarkan aku bersedih.$s" },
+         "Mon": { "0": "Hai... Semua baik-baik saja?", },
+         "Mon4": { "0": "Aku sudah dengar banyak dari keluarga burung betetku...#$b#Tapi ada banyak hal di luar sana yang belum aku ketahui.$s", },
+         "Tue": { "0": "Saat Matahari sedang marah, di hutan rasanya malah nyaman.#$e#Matahari tidak bisa menemukan kita di bawah dedaunan pohon. Jadi dia tertipu! Haha...$h", },
+         "Wed": { "0": "...Maaf... Aku agak malu hari ini.$3", },
+         "Wed2": { "0": "Berhati-hatilah di gunung berapi... roh-roh di sana tidak ramah pada pendatang", },
+         "Thu": { "0": "Apa kau sudah bertemu dengan kaummu?#$b#Aku jarang bicara sama mereka. Karena aku lebih nyaman dengan kaumku sendiri...$3", },
+         "Fri": { "0": "Dulu... Aku pernah ke puncak gunung berapi pas malam hari, dan aku lihat ada cahaya dari jarak yang sangat jauh.#$b#Aku penasaran apa ada keluarga burung lain di luar sana?$3", },
+         "Fri3": { "0": "Apa rumahmu kelihatan dari puncak gunung berapi?", },
+         "Sat": { "0": "...Aku lagi sedih.$s#$e#Silakan... bersenang-senanglah. Biarkan aku bersedih.$s", },
          "Sun": { "0": "Saat hujan, ada burung aneh yang ke sini.#$b#Dan saat kudekati... mereka malah pergi.$s#$b#Kurasa mereka tidak mau berteman...$s" }
        }
      },
@@ -12299,7 +11816,7 @@
            "0": "Terima kasih sudah bergabung denganku semalam... Benar-benar menyenangkan.^Aku senang beruang itu muncul!^^Sampai jumpa nanti^^ Love, Emily"
          },
          "foundLostTools": {
-           "0": "Dear @,^Someone dropped your tools into the lost and found bin last night.^^I came in and set them next to your bed.^Hope I didn't wake you... ^^ -Mayor Lewis"
+           "0": "Kepada @,^Tadi malam ada orang yang menaruh alat-alatmu di kotak barang temuan.^^Dan aku kembalikan di dekat tempat tidurmu.^Semoga tidurmu tidak terganggu... ^^  -Mayor Lewis"
          },
          "fishing2": {
            "0": "Aku punya stok barang baru...^Sebuah deluxe fishing pole dan beberapa bait yang bisa kau kaitkan!^Kau bisa gunakan bait supaya ikan cepat tertangkap. Sampai jumpa nanti! ^ -Willy"
@@ -12476,100 +11993,100 @@
            "0": "@, cintaku,^^Aku baru saja tiba di Grampleton untuk memulai tour. Dan aku baru ingat betapa ramainya kota ini! Jalanan dipenuhi oleh orang... Banyak dari mereka terburu-buru, atau hanya melamun, mereka tidak menyadari kondisi di sekitar mereka. Dan belum apa-apa, aku sudah kangen kot Pelican!^^Aku mulai tour malam ini ke toko buku lokal. Harus ku akui, aku sedikit gugup jika membayangkan berbicara di depan umum... Perutku mual seperti terlilit. Doakan aku!^^-Love, Elliott^^P.S. Kuharap tidurmu nyenyak dan tidak kesepian di rumah sebesar itu! %item conversationTopic ElliottGone2 0 %%[#]Letter From My Husband"
          },
          "elliottLetter2": {
-           "0": "My dear @,^^The first reading went well, though the audience was a bit smaller than I'd hoped. Still, I sold enough copies of the book to pay for my (bug-infested) hotel room!^^In a few hours, I leave for Zuzu City. If yesterday's reading was a warm-up, this next one will be a true napalm blast...^^I miss you very much. Remember to eat well! Oh, and don't forget the leftover crab cakes I put in the fridge...^-Love, Elliott %item conversationTopic ElliottGone3 0 %%[#]Letter From My Husband 2"
+           "0": "Pujaan hatiku @,^^Pembacaan pertama berjalan lancar, meskipun pendengarnya lebih sedikit dari yang kuharapkan. Tapi aku menjual buku yang cukup untuk membayar kamar hotel (yang penuh serangga)!^^Beberapa jam lagi, aku berangkat ke Zuzu City. Kalau pembacaan kemarin masih pemanasan, yang berikutnya akan menjadi ledakan bom...^^Aku sangat merindukanmu. Jangan lupa makan yang enak! Oh, dan jangan lupa ada sisa crab cake di lemari es...^-Dengan cinta, Elliott %item conversationTopic ElliottGone3 0 %%[#]Letter From My Husband 2"
          },
          "elliottLetter3": {
-           "0": "My sweet @,^^Last night in Zuzu City was quite the experience! It seems there's a large literary scene here... a few dozen people showed up at my reading!^^I even signed a couple of autographs... it's strange to be seen as someone important. It's all a matter of framing, a grand illusion... for truly I am no one special. Only your devoted Elliott, as always.^^Currently I'm alone, in my hotel room, 'ingesting' a Joja Value Meal...^^Should this be called 'food'?^Or 'edible matter'?^I needn't long brood^It must be the latter^^I look forward to returning home soon. Hope you enjoyed the crab cakes.^^-Love, Elliott %item conversationTopic ElliottGone4 0 %%[#]Letter From My Husband 3"
+           "0": "Cintaku @,^^Semalam di Zuzu City merupakan pengalaman baru! Sepertinya sastra adalah hal terkenal di sini... beberapa lusin orang datang ke pembacaanku!^^Aku bahkan menandatangani beberapa buku... aneh rasanya bagiku dianggap sebagai orang penting. Ini cuma masalah kemasan dan ilusi besar... karena kenyataannya aku bukan orang yang istimewa. Hanya Elliottmu yang setia, seperti biasa.^^Saat ini aku sendirian, di kamar hotel, 'menelan' Joja Value Meal...^^Pantaskah ini disebut 'makanan'?^Atau 'benda yang bisa dimakan'?^Aku tidak mau merenung lama^Rasanya sangat tidak enak^^Aku akan segera pulang. Semoga kamu menikmati crab cake-nya.^^-Dengan cinta, Elliott %item conversationTopic ElliottGone4 0 %%[#]Letter From My Husband 3"
          },
          "elliottLetter4": {
-           "0": "In dreams, when graced with lofty view^I gaze upon the sunlit sea^What distant shores I've travelled to^But time now clouds my memory^^There is but one eternal place^Where I shall someday pass beyond^In Valley dear, where my love waits:^Our little home beside the pond^^-Elliott %item conversationTopic ElliottGone5 0 %%[#]Letter From My Husband 4"
+           "0": "Dalam mimpi, saat aku diberkahi dengan pemandangan yang indah^Aku menatap laut yang disinari matahari^Pantai jauh yang pernah kukunjungi^Tapi sekarang waktu menyamarkan ingatanku^^Hanya ada satu tempat abadi^Di mana suatu hari nanti akan aku lampaui^Di Lembah tersayang, tempat di mana cintaku menunggu:^Rumah kecil kita di samping kolam^^-Elliott %item conversationTopic ElliottGone5 0 %%[#]Letter From My Husband 4"
          },
          "elliottLetter5": {
-           "0": "My dear @,^^I won't bore you with any more details about my readings. They are mostly the same.^^I'm sure your time has been much more exciting! I can't wait to return and see what progress has been made.^^On these long travels between towns, I amuse myself by closing my eyes and envisioning the farm... I see kegs pulsing with sweet wine, a furnace ablaze with precious ore, and our little kitchen with the smell of cinnamon and nutmeg. There's a lot to enjoy!^^Just don't stay out too late in the mines, my love. It's dangerous in there! If you must go... bring plenty of food.^^-Love, Elliott %item conversationTopic ElliottGone6 0 %%[#]Letter From My Husband 5"
+           "0": "Sayangku @,^^Aku tak ingin kamu bosan dengan cerita panjang soal pembacaanku. Sebagian besar sama.^^Aku yakin waktu yang kaulewati jauh lebih menarik! Aku tidak sabar untuk kembali dan melihat apa saja yang berubah.^^Dalam perjalanan panjang antar kota ini, aku menghibur diri dengan menutup mata lalu membayangkan ladang... Aku melihat Keg-Keg berisi wine manis berdenyut-denyut, furnace membakar ore berharga, dan dapur kecil kita dengan aroma kayu manis dan pala. Ada banyak hal yang bisa dinikmati!^^Jangan terlalu larut di tambang, sayangku. Berbahaya di sana! Kalau mau pergi ke sana... bawalah banyak makanan.^^-Dengan cinta, Elliott %item conversationTopic ElliottGone6 0 %%[#]Letter From My Husband 5"
          },
          "elliottLetter6": {
-           "0": "My dear @,^^This will be my last letter before I return home. I've had a fine trip... though nothing too exciting. It's been nice to meet people who enjoy my work, but I'm eager to return home.^^I look forward to the comfort of our little house, the satisfying farm work, a home-cooked meal, and most of all, cozying into the flannel sheets with you.^^See you soon!^-Love, Elliott %item conversationTopic ElliottGone7 0 %%[#]Letter From My Husband 6"
+           "0": "Sayangku @,^^Ini akan jadi surat terakhirku sebelum pulang. Perjalananku selama ini baik-baik saja... meskipun tidak terlalu menarik. Menyenangkan bisa bertemu orang-orang yang menikmati pekerjaanku, tapi aku ingin sekali pulang ke rumah.^^Aku menantikan kenyamanan rumah kecil kita, membantu di pertanian, menikmati makanan yang dimasak di rumah, dan yang paling penting, tidur dibawah selimut flanel bersamamu.^^Sampai jumpa!^-Dengan cinta, Elliott %item conversationTopic ElliottGone7 0 %%[#]Letter From My Husband 6"
          },
          "MarlonRecovery": {
-           "0": "@,^Found your lost item.^^Be more careful next time!^ -Marlon%item itemRecovery %%[#]Marlon Found Your Item"
+           "0": "@,^Aku menemukan barangmu yang hilang.^^Lain kali berhati-hatilah!^   -Marlon%item itemRecovery %%[#]Marlon Found Your Item"
          },
          "RarecrowSociety": {
-           "0": "Dear @,^^Your dedication is truly impressive...^^Only a select few manage to acquire the complete Rarecrow collection!^^Please accept this blueprint to commemorate your achievement.^ -The Z.C. Rarecrow Society%item craftingRecipe Deluxe_Scarecrow %%[#]From The Rarecrow Society"
+           "0": "Kepada @,^^Dedikasi Anda sungguh mengesankan...^^Hanya beberapa orang terpilih yang berhasil mengoleksi semua Rarecrow!^^Terimalah rancangan ini untuk mengenang pencapaian Anda.^   -Himpunan Z.C. Rarecrow %item craftingRecipe Deluxe_Scarecrow %%[#]From The Rarecrow Society"
          },
          "CarolineTea": {
-           "0": "Dear @,^^Thanks for stopping by my sunroom yesterday. I usually drink tea alone, but it was fun to share with you!^^I've enclosed instructions on how to prepare and grow your own tea. No pressure, but if you do end up growing some, make sure to bring me a cup!^^-Caroline%item craftingRecipe Tea_Sapling %%[#]Caroline's Tea Note"
+           "0": "Kepada @,^^Terima kasih telah mampir di ruang berjemurku kemarin. Aku biasanya minum teh sendirian, tapi menyenangkan bisa berbagi denganmu!^^Aku sudah melampirkan instruksi tentang cara menyiapkan dan menanam tehmu sendiri. Tidak ada paksaan, tapi kalau kamu mau menanamnya, jangan lupa untuk membawakanku secangkir!^^-Caroline%item craftingRecipe Tea_Sapling %%[#]Caroline's Tea Note"
          },
          "WoodChipper": {
-           "0": "Hey @,^^Just wanted to let you know about a new item I'm carrying... it's called a 'Wood Chipper'.^^You can use it to break hardwood into several pieces of regular wood!^^I know wood can be hard to come by in the winter, so if your supply gets low, consider picking one up.^ -Robin[#]Wood Chipper Notice"
+           "0": "Hei @,^^Hanya ingin memberitahumu soal benda baru yang kujual... namanya 'Wood Chipper'.^^Kamu bisa memakainya untuk memecah hardwood menjadi beberapa potong kayu biasa!^^Aku tahu kayu bisa sulit didapat saat musim dingin, jadi kalau persediaanmu hampir habis, pertimbangkan untuk membelinya.^       -Robin[#]Wood Chipper Notice"
          },
          "willyBackRoomInvitation": {
-           "0": "@,^^I've unlocked the back room of the shop.^Come by when you have a chance.^There's something I want to show you.^^-Willy[#]Willy's Back Room Invitation"
+           "0": "@,^^Aku sudah membuka pintu ruangan belakang di toko.^Mampirlah kalau sempat.^Ada sesuatu yang ingin kutunjukkan padamu.^^-Willy[#]Willy's Back Room Invitation"
          },
          "KrobusCrafting": {
-           "0": "@, I'm not sure how the human message system works, so I asked Wizard to help me write this letter.^^I hope you are doing okay.^^I wanted to share this with you... it's notes on how my people build a certain item.^^ -Krobus%item craftingRecipe Dark_Sign %%[#]A letter from Krobus"
+           "0": "@, aku tidak tahu bagaimana sistem pos kaum manusia bekerja, jadi aku minta tolong ke Penyihir untuk menulis surat ini.^^Semoga kabarmu baik-baik saja.^^Aku ingin memberikan ini padamu... itu catatan dari kaumku untuk merakit sebuah item.^^ -Krobus%item craftingRecipe Dark_Sign %%[#]A letter from Krobus"
          },
          "georgeGifts": {
-           "0": "Dear @,^^Thank you so much for the leeks. They look fresh and delicious. George will love them.^^Today, I'm going to surprise him with 12 little gift-wrapped treasures (thanks to you!). Stop by if you want to be there!^^-Evelyn^^P.S. Please accept this gift. I think you'll enjoy it!%item bigobject 246 %%[#]Evelyn's thank-you note"
+           "0": "Kepada @,^^Terima kasih banyak atas Leek-Leeknya. Semuanya enak dan segar. George pasti akan suka.^^Hari ini, aku menyiapkan 12 kado kecil berisi harta karun (terima kasih!). Mampirlah kalau ingin ikut!^^-Evelyn^^N.B. Terimalah hadiah ini. Kurasa kamu akan suka!%item bigobject 246 %%[#]Evelyn's thank-you note"
          },
          "robinResource": {
-           "0": "Hey @,^^Congratulations on completing my little challenge. I'm impressed!^^As an added bonus, I've included the blueprints for a new type of chest. Enjoy!^^-Robin^^^^P.S. -- Now that you have all those resources laying around, why not swing by for some construction work?%item craftingRecipe Stone_Chest %%[#]Robin's Resource Rush"
+           "0": "Hei @,^^Selamat sudah menyelesaikan tantangan kecilku. Aku kagum!^^Sebagai bonus, aku juga melampirkan rancangan 'chest' tipe baru. Selamat!^^-Robin^^^^N.B. -- Setelah kamu mengumpulkan semua material itu, mampirlah dan sewa aku untuk membangun sesuatu, kalau mau sih.%item craftingRecipe Stone_Chest %%[#]Robin's Resource Rush"
          },
          "ClintReward": {
-           "0": "Um, Hello... ^Thanks for helping me clear out those monsters.^^I'm not scared at all! ...But it should make the mines safer for everyone else... right?^^Take this blueprint. (Hope it doesn't make me obsolete...)^^ -Clint, the blacksmith%item craftingRecipe Geode_Crusher %%[#]Clint's Thank-you"
+           "0": "Eng, Halo... ^Terima kasih sudah membantu membasmi monster-monster itu.^^Aku nggak takut kok! ...Tapi itu akan membuat tambang lebih aman bagi orang lain... iya kan?^^Terimalah rancangan ini. (Semoga alat ini tidak menggantikanku...)^^ -Clint, si pandai besi%item craftingRecipe Geode_Crusher %%[#]Clint's Thank-you"
          },
          "ClintReward2": {
-           "0": "Um, Hello... ^Thanks for helping me clear out more monsters.^^Maybe next time, I'll take care of them myself... if I have time!^^Take this item. I found it in the back room...^^ -Clint, the blacksmith%item object 286 10 287 5 231 3 %%[#]Clint's Alternate Thank-you"
+           "0": "Eng, Halo... ^Terima kasih sudah membantu membasmi monster-monster lagi.^^Mungkin lain kali, aku akan melawannya sendiri... kalau sempat!^^Terimalah ini. Aku menemukan ini di gudang...^^ -Clint, si pandai besi%item object 286 10 287 5 231 3 %%[#]Clint's Alternate Thank-you"
          },
          "willyBugWadCutscene": {
            "0": "^^ -Willy%item craftingRecipe Quality_Bobber %%[#]Willy's Thank-you"
          },
          "MSB_Pierre": {
-           "0": "Dear @,^^I guess people didn't take to 'Pierre's Prime Produce' like I'd hoped...^^Anyways, here's my old 'Mini-Shipping Bin'.^The next time you get your hands on some produce worthy of the 'Pierre's Prime' luxury brand, maybe you could have them shipped my way?^^ -Pierre%item bigobject 248 %%[#]Pierre's Prime Produce"
+           "0": "Kepada @,^^Kurasa orang-orang kurang menerima 'Pierre's Prime Produce' dengan baik...^^Oh iya, ini 'Mini-Shipping Bin' lamaku.^Lain kali kalau punya produk yang pantas masuk kategori mewah 'Pierre's Prime', kau bisa mengirimnya padaku.^^ -Pierre%item bigobject 248 %%[#]Pierre's Prime Produce"
          },
          "MSB_Lewis": {
-           "0": "@,^I wanted to thank you for taking care of my special order. All of the hard work you've done has been a great boost to Pelican Town's image.^Here's a 'Mini-Shipping Bin' as a token of my appreciation.^Place it anywhere and I'll be sure to make a stop when I make my rounds.^^ -Lewis%item bigobject 248 %%[#]Lewis's Thank You"
+           "0": "@,^Aku ingin berterima kasih karena sudah menyelesaikan 'special order'ku. Semua kerja kerasmu telah menaikkan citra Pelican Town sangat tinggi.^Ini adalah 'Mini-Shipping Bin', sebegai ucapan terima kasihku.^Letakkan di mana saja dan aku akan mengeceknya kalau ke sana.^^ -Lewis%item bigobject 248 %%[#]Lewis's Thank You"
          },
          "WizardReward": {
-           "0": "The specimen you delivered offered great insight into the machinations of the fell beings we call 'monsters'.^^I've formulated a pungent tincture that these beings find intoxicating. Use it with caution...^^ -M. Rasmodius, Wizard%item craftingRecipe Monster_Musk %%[#]The Wizard's Discovery"
+           "0": "Sampel yang kau kirim memberiku wawasan luar biasa tentang intrik makhluk yang kena pengaruh jahat yang kita sebut 'monster'.^^Aku telah membuat ramuan berbau tajam yang akan memabukkan makhluk itu. Gunakan dengan waspada...^^ -M. Rasmodius, Wizard%item craftingRecipe Monster_Musk %%[#]The Wizard's Discovery"
          },
          "WizardReward2": {
-           "0": "Thanks to the ectoplasm you delivered to me, I've made a major breakthrough in the field of arcane engineering.^^Enclosed, you'll find blueprints for a most useful machine...^^ -M. Rasmodius, Wizard%item craftingRecipe Mini-Obelisk %%[#]The Wizard's Breakthrough"
+           "0": "Terima kasih atas ektoplasma yang kau kirim, aku telah membuat terobosan besar di bidang teknik sihir.^^Di lampiran, ada rancangan untuk mesin paling berguna...^^ -M. Rasmodius, Wizard%item craftingRecipe Mini-Obelisk %%[#]The Wizard's Breakthrough"
          },
          "DemetriusReward": {
-           "0": "Hi @,^^Thanks for your help with the fish.^Nature is usually good at keeping things balanced, but sometimes artificial factors can cause an imbalance.^^I've enclosed a blueprint from a science magazine that you might find interesting.^^-Demetrius%item craftingRecipe Farm_Computer %%[#]Demetrius' Thank You"
+           "0": "Hai @,^^Thanks for your help with the fish.^Nature is usually good at keeping things balanced, but sometimes artificial factors can cause an imbalance.^^I've enclosed a blueprint from a science magazine that you might find interesting.^^-Demetrius%item craftingRecipe Farm_Computer %%[#]Demetrius' Thank You"
          },
          "willyHours": {
-           "0": "Good news!^^The ol' boat is seaworthy once again, thanks to you!^^Stop by the back room whenever you want a ride.^^My shop is now open at 8AM every day, so you can get an early start.^^-Willy[#]Willy's Boat"
+           "0": "Kabar baik!^^Kapal tuanya sudah bisa berlayar, terima kasih!^^Mampirlah ke ruangan belakang kalau mau mencobanya.^^Tokoku sekarang buka jam 8AM setiap hari, jadi kamu bisa mulai lebih awal.^^-Willy[#]Willy's Boat"
          },
          "linusTrashCleanup": {
-           "0": "Hi @,^^Thanks for helping me clean up around the valley.^The waters are looking much cleaner. I think everyone will appreciate it. I know I will.^As a way of saying 'thanks', I wanted to teach you how to grow your own fiber. I hope it's useful.^^-Linus%item craftingRecipe Fiber_Seeds %%[#]Linus' Thank You"
+           "0": "Hai @,^^Terima kasih sudah membantuku membersihkan lembah.^Airnya tampak lebih jernih. Kurasa semuanya akan suka. Seperti aku.^Sebagai ucapan terima kasih, aku mau mengajarimu cara menanam 'Fiber'. Semoga bermanfaat.^^-Linus%item craftingRecipe Fiber_Seeds %%[#]Linus' Thank You"
          },
          "gusGiantOmelet": {
-           "0": "Hi @,^^Thanks for the eggs.^The yolks look amazing... I think this will be my best omelet yet!^^Please accept this gift.^^-Gus%item bigobject 216 %%[#]Gus' Famous Omelet"
+           "0": "Hai @,^^Terima kasih telurnya.^Kuning telurnya tampak lezat... kurasa ini akan jadi omelet terbaikku!^^Terimalah hadiah ini.^^-Gus%item bigobject 216 %%[#]Gus' Famous Omelet"
          },
          "pamNewChannel": {
-           "0": "Hey kid,^^Thanks for the 'juice'. It definitely had a ...one-of-a-kind... flavor.^^By the way, have you ever tuned in to channel 736? It's a seasonal fishing program that you might find interesting.^^Take care,^-Pam[#]Pam's Tip"
+           "0": "Hei nak,^^Terima kasih 'jus'nya. Rasanya... sangatlah unik.^^Oh iya, apa kamu pernah lihat saluran 736? Di sana ada acara memancing musiman yang mungkin kamu suka.^^Jaga dirimu,^-Pam[#]Pam's Tip"
          },
          "emilyStones": {
-           "0": "Hi @,^^Thanks again for the wonderful gemstones.^These will be perfect for my energy re-alignment work!^I wanted to thank you with this special gift. I hope you create some wonderful items with it!^^-Emily%item bigobject 247 %%[#]Emily's Gemstones"
+           "0": "Hai @,^^Terima kasih atas batu permatanya.^Semua bantunya pas buat meditasi energi!^Aku ingin berterima kasih dengan hadiah ini. Semoga kamu membuat item-item indah dengan ini!^^-Emily%item bigobject 247 %%[#]Emily's Gemstones"
          },
          "carolineSO": {
-           "0": "Hi @,^^Lewis told me that you've been shipping a lot of ingredients from the island! It's great to have access to new produce... it really opens a whole new world of culinary possibilities!^I'm including a gift for you... some blueprints you might find useful.^^-Caroline%item craftingRecipe Solar_Panel %%[#]Caroline's Tropical Ingredients"
+           "0": "Hai @,^^Lewis bilang kau mengirim banyak bahan dari pulau! Senang bisa dapat produk baru... itu akan membuka dunia baru dalam bidang kuliner!^Aku melampirkan hadiah buatmu... semoga rancangan ini berguna buatmu.^^-Caroline%item craftingRecipe Solar_Panel %%[#]Caroline's Tropical Ingredients"
          },
          "WillyTropicalFish": {
-           "0": "@,^^Congrats on a successful island fishing trip. I'm proud of ya!^^Here, take this special fish tank. It'll make a great piece in your house.^^-Willy%item furniture 2312 %%[#]Willy's Tropical Challenge"
+           "0": "@,^^Selamat atas wisata yang sukses ke pulau. Aku bangga!^^Terimalah akuarium ini. Ini akan jadi hiasan indah di rumah.^^-Willy%item furniture 2312 %%[#]Willy's Tropical Challenge"
          },
          "passedOutIsland": {
-           "0": "@,^^You never showed up at the boat, so I went lookin' for ya.^^Found you sprawled out in the dirt, with a couple o' parrots pulling gold out of your pockets!^^Had to drag you all the way down to the boat. Me legs feel like two freshwater shrimp...^-Willy"
+           "0": "@,^^Kau tidak segera kembali, jadi aku mencarimu.^^Aku menemukanmu tergeletak penuh pasir, dan ada betet-betet yang mencuri isi kantongmu!^^Aku harus menyeretmu ke perahu. Kakiku langsung pegal rasanya...^-Willy"
          },
          "passedOutIsland_Leo": {
-           "0": "Hi @,^^Last night, I found you slumbering in the dark.^It wasn't a very safe place, so the bird friends air-lifted you to your bed.^Please be careful from now on.^^-Leo^^P.S. Willy helped me write this."
+           "0": "Hai @,^^Semalam aku menemukanmu pingsan.^Di sana bukan tempat yang aman, jadi teman-temanku menggotongmu ke kamar.^Tolong lebih hati-hati lagi.^^-Leo^^N.B. Willy membantuku menulis surat ini."
          },
          "guntherBones": {
-           "0": "Hi @,^^Thanks for all the bones. I've got a lot to sort through here! To think, each fragment belonged to a living, breathing body from the past. Fascinating.^^Please accept this unique crafting recipe as a thank-you gift!^^-Gunther%item craftingRecipe Bone_Mill %%[#]Gunther's Note"
+           "0": "Hai @,^^Terima kasih atas tulang-tulangnya. Ada banyak yang harus kusortir! Menakjubkan mengingat bahwa setiap tulang ini dulunya milik makhluk hidup.^^Terimalah resep rakitan unik ini sebagai ucapan terima kasih!^^-Gunther%item craftingRecipe Bone_Mill %%[#]Gunther's Note"
          },
          "LeoCooking": {
-           "0": "@,^Here's a food from my home, that me and my family enjoy. Hope you like it. ^^ -Leo^^P.S. Willy helped me write this.%item cookingRecipe %%[#]Leo's Recipe"
+           "0": "@,^Aku mengirim makanan khas rumahku, yang sering aku dan keluargaku nikmati. Semoga kamu suka. ^^ -Leo^^N.B. Willy membantuku menulis surat ini.%item cookingRecipe %%[#]Leo's Recipe"
          }
        }
      }
