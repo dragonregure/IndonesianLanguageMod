@@ -9100,64 +9100,64 @@
          },
          "Fields": {
             "0": {
-               "5": "Sejumput rumput tak berguna."
+               "5": "Gulma. Sejumput rumput tak berguna."
             },
             "2": {
-               "5": "Material yang sangat berguna setelah dipecah oleh Pickaxe."
+               "5": "Batu. Material yang sangat berguna setelah dipecah oleh Pickaxe."
             },
             "4": {
-               "5": "Material yang sangat berguna setelah dipecah oleh Pickaxe."
+               "5": "Batu. Material yang sangat berguna setelah dipecah oleh Pickaxe."
             },
             "16": {
-               "5": "Akar rempah-rempah yang tumbuh saat musim semi."
+               "5": "Lobak Pedas Liar. Akar rempah-rempah yang tumbuh saat musim semi."
             },
             "18": {
-               "5": "Bunga tradisional yang bagus untuk hadiah."
+               "5": "Bunga Narsis. Bunga tradisional yang bagus untuk hadiah."
             },
             "20": {
-               "5": "Keluarga bawang, sangat enak."
+               "5": "Bawang Prei. Keluarga bawang, sangat enak."
             },
             "22": {
-               "5": "Bukan bunga yang indah, tapi daun nya dapat dijadikan salad."
+               "5": "Randa Tapak. Bukan bunga yang indah, tapi daun nya dapat dijadikan salad."
             },
             "24": {
                "5": "Umbi musim semi yang sekeluarga dengan Wortel. Punya rasa unik dan penuh nutrisi."
             },
             "25": {
-               "5": "There's mussels in this stone."
+               "5": "Ada kerang di batu ini."
             },
             "30": {
                "5": "Bahan serba guna, bisa digunakan untuk Buildings dan bahan bakar."
             },
             "60": {
-               "5": "Batu berharga dengan warna hijau bersinar."
+               "5": "Zamrud. Batu berharga dengan warna hijau bersinar."
             },
             "62": {
                "5": "Batu yang bersinar biru kehijauan."
             },
             "64": {
-               "5": "Batu berharga yang sangat dicari karena kaya akan warna dan sangat indah."
+               "5": "Merah Delima. Batu berharga yang sangat dicari karena kaya akan warna dan sangat indah."
             },
             "66": {
-               "5": "Variasi quartz berwarna ungu."
+               "5": "Batu Kecubung. Variasi quartz berwarna ungu."
             },
             "68": {
                "5": "Cukup mudah ditemukan, tapi tetap berharga karena keindahannya."
             },
             "69": {
-               "5": "Takes 28 days to produce a mature Banana tree. Bears fruit in the summer, or all year round when planted on Ginger Island."
+               "5": "Tunas Pisang. Dewasa dalam 28 hari. Berbuah di musim panas, atau sepanjang tahun jika ditanam di Ginger Island."
             },
             "70": {
-               "5": "Batu ornamen berwarna hijau pucat."
+               "5": "Giok. Batu ornamen berwarna hijau pucat."
             },
             "71": {
-               "5": "Purple silk shorts trimmed in luxurious gold..."
+               "5": "Celana pendek sutra berwarna ungu dengan garis emas mewah..."
             },
             "72": {
-               "5": "Permata langka yang sangat mahal."
+               "5": "Berlian. Permata langka yang sangat mahal."
             },
             "73": {
-               "5": "To the parrots of Ginger Island, this nut is the finest delicacy."
+               "5": "Kacang Kenari Emas. Bagi burung betet di Ginger Island, kacang ini adalah makanan mewah."
             },
             "74": {
                "5": "Substansi yang sangat langka dan kuat yang asalnya tak diketahui."
@@ -9172,16 +9172,16 @@
                "5": "..."
             },
             "78": {
-               "5": "Snack mengandung tepung yang ditemukan di gua. Membantu penambang bekerja lebih lama.."
+               "5": "Wortel Gua. Snack mengandung tepung yang ditemukan di gua. Membantu penambang bekerja lebih lama.."
             },
             "79": {
-               "5": "Tua dan kusut, tapi jika diperhatikan lebih dekat, kau bisa melihat detailnya..."
+               "5": "Catatan Rahasia. Tua dan kusut, tapi jika diperhatikan lebih dekat, kau bisa melihat detailnya..."
             },
             "80": {
-               "5": "Kristal jernih yang sering ditemukan di gua dan gunung."
+               "5": "Kuarsa. Kristal jernih yang sering ditemukan di gua dan gunung."
             },
             "82": {
-               "5": "Kristal merah menyala yang sering ditemukan dekat lava panas."
+               "5": "Kuarsa Api. Kristal merah menyala yang sering ditemukan dekat lava panas."
             },
             "84": {
                "5": "Kristal yang katanya tercipta dari air mata Yeti yang membeku."
@@ -9193,22 +9193,22 @@
                "5": "Biji pohon kelapa. Banyak digunakan untuk memasak."
             },
             "90": {
-               "5": "Buah manis dari pohon kaktus."
+               "5": "Buah Kaktus. Buah manis dari pohon kaktus."
             },
             "91": {
-               "5": "A sweet, starchy tropical fruit."
+               "5": "Pisang. Buah tropis yang manis dan berpati."
             },
             "92": {
-               "5": "Cairan yang didapatkan dari pohon."
+               "5": "Getah. Cairan yang didapatkan dari pohon."
             },
             "93": {
-               "5": "Memberi sedikit cahaya."
+               "5": "Obor. Memberi sedikit cahaya."
             },
             "94": {
                "5": "Masih menjadi pertanyaan, darimana datangnya warna biru tersebut..."
             },
             "95": {
-               "5": "Contains radioactive ore"
+               "5": "Mengandung bijih radioaktif"
             },
             "96": {
                "5": "Perkamen kekuningan yang berisi skrip bahasa Dwarf. Terikat dengan pita merah."
@@ -9223,22 +9223,22 @@
                "5": "Perkamen kekuningan yang berisi skrip bahasa Dwarf. Terikat dengan rantai emas."
             },
             "100": {
-               "5": "Wadah purba yang terbuat dari keramik. Dipakai untuk memindahkan bahan kering atau basah."
+               "5": "Amphora Cuil. Wadah purba yang terbuat dari keramik. Dipakai untuk memindahkan bahan kering atau basah."
             },
             "101": {
-               "5": "Ujung kasar kuno yang digunakan untuk berburu."
+               "5": "Kepala Panah. Ujung kasar kuno yang digunakan untuk berburu."
             },
             "102": {
-               "5": "Kumpulan tulisan dari berbagai zaman."
+               "5": "Buku yang Hilang. Kumpulan tulisan dari berbagai zaman."
             },
             "103": {
-               "5": "Boneka kuno yang dipenuhi debu. Ini mungkin digunakan sebagai mainan, dekorasi, atau sebuah ritual."
+               "5": "Boneka Kuno. Penuh debu. Ini mungkin digunakan sebagai mainan, dekorasi, atau sebuah ritual."
             },
             "104": {
-               "5": "Kotor tapi tetap indah. Dari samping terlihat skrip yang menurut orang adalah bahasa kuno para elf. Keberadaan Elf masih dipertanyakan."
+               "5": "Perhiasan Elf. Kotor tapi tetap indah. Dari samping terlihat skrip yang menurut orang adalah bahasa kuno para elf. Keberadaan Elf masih dipertanyakan."
             },
             "105": {
-               "5": "Orang dulu mengunyah ini untuk menjaga gigi mereka tetap bersih."
+               "5": "Siwak. Orang dulu mengunyah ini untuk menjaga gigi mereka tetap bersih."
             },
             "106": {
                "5": "Kipas eksotis ini dulunya milik wanita bangsawan. Sejarawan percaya Stardew Valley dulunya tempat berlibur orang-orang kaya dari era victoria."
@@ -9307,28 +9307,28 @@
                "5": "???"
             },
             "128": {
-               "5": "Menggembung ketika terancam."
+               "5": "Ikan Buntal. Menggembung ketika terancam."
             },
             "129": {
-               "5": "Ikan kecil berwarna perak yang ada dilautan."
+               "5": "Ikan Teri. Ikan kecil berwarna perak yang ada dilautan."
             },
             "130": {
                "5": "Ikan besar yang berasal dari laut."
             },
             "131": {
-               "5": "Ikan yang umum dilaut."
+               "5": "Ikan Sarden. Ikan yang umum dilaut."
             },
             "132": {
                "5": "Ikan umum sungai yang aktif saat malam."
             },
             "136": {
-               "5": "Ikan populer yang hidup di Danau."
+               "5": "Ikan Kakap Hitam. Ikan populer yang hidup di Danau."
             },
             "137": {
                "5": "Ikan air tawar yang sangat sensitif dengan polusi."
             },
             "138": {
-               "5": "Trout air tawar dengan warna yang bermacam."
+               "5": "Ikan Trout air tawar dengan warna yang bermacam."
             },
             "139": {
                "5": "Berenang ke hulu untuk menaruh telur mereka."
@@ -9337,10 +9337,10 @@
                "5": "Ikan air tawar yang aktif saat malam."
             },
             "141": {
-               "5": "Ikan air tawar musim dingin."
+               "5": "Ikan Kakap Putih. Ikan air tawar musim dingin."
             },
             "142": {
-               "5": "Ikan yang suka dimasukan di Kolam."
+               "5": "Ikan Mas. Ikan yang suka dimasukan di Kolam."
             },
             "143": {
                "5": "Ikan yang sedikit langka, ditemukan di aliran sungai."
@@ -9349,46 +9349,46 @@
                "5": "Ikan air tawar yang sulit untuk ditangkap."
             },
             "145": {
-               "5": "Ikan sungai biasa."
+               "5": "Ikan Mola-Mola. Ikan sungai biasa."
             },
             "146": {
-               "5": "Dahulu kala, ini disimpan sebagai peliharaan."
+               "5": "Ikan Belanak Merah. Dahulu kala, ini disimpan sebagai peliharaan."
             },
             "147": {
                "5": "Ikan laut biasa."
             },
             "148": {
-               "5": "Ikan panjang dan licin."
+               "5": "Sidat. Ikan panjang dan licin."
             },
             "149": {
-               "5": "Makhluk misterius yang pintar."
+               "5": "Gurita. Makhluk misterius yang pintar."
             },
             "150": {
-               "5": "Ikan populer dengan warna merah yang bagus."
+               "5": "Ikan Kakap Merah. Ikan populer dengan warna merah yang bagus."
             },
             "151": {
-               "5": "Hewan laut dalam yang ukurannya bisa sangat mengerikan."
+               "5": "Cumi-Cumi. Hewan laut dalam yang ukurannya bisa sangat mengerikan."
             },
             "152": {
-               "5": "Bisa digunakan untuk memasak."
+               "5": "Rumput Laut. Bisa digunakan untuk memasak."
             },
             "153": {
-               "5": "Ini sungguh berlendir."
+               "5": "Alga Hijau. Ini sungguh berlendir."
             },
             "154": {
-               "5": "Makhluk licin dan berlendir yang suka ditemukan dilantai laut."
+               "5": "Teripang. Makhluk licin dan berlendir yang suka ditemukan dilantai laut."
             },
             "155": {
-               "5": "Sea cucumber berwarna ungu yang langka."
+               "5": "Teripang berwarna ungu yang langka."
             },
             "156": {
                "5": "Ikan buta dan pucat yang ditemukan di Danau dalam gua."
             },
             "157": {
-               "5": "Ini sangat berlendir."
+               "5": "Alga Putih. Ini sangat berlendir."
             },
             "158": {
-               "5": "Ikan aneh yang berbentuk batu."
+               "5": "Ikan Batu. Ikan aneh yang berbentuk seperti batu."
             },
             "159": {
                "5": "Ikan laut dalam, tapi suka menaruh telurnya di air musim panas yang hangat."
@@ -9400,7 +9400,7 @@
                "5": "Ikan langka yang berkembang biak di temperatur yang sangat dingin."
             },
             "162": {
-               "5": "Entah bagaimana ikan ini bisa bertahan di aliran lava."
+               "5": "Sidat Lava. Entah bagaimana ikan ini bisa bertahan di aliran lava."
             },
             "163": {
                "5": "Raja dari semua ikan! Mereka bilang ikan ini tak mungkin bisa ditangkap."
@@ -9412,7 +9412,7 @@
                "5": "Seperti Carp biasa, namun memiliki sengat tajam."
             },
             "166": {
-               "5": "Wow, penuh dengan harta! Pasti dapat menghasilkan banyak uang."
+               "5": "Harta Karun. Wow, penuh dengan harta! Pasti dapat menghasilkan banyak uang."
             },
             "167": {
                "5": "Produk unggulan Joja Corporation."
@@ -9421,31 +9421,31 @@
                "5": "Sampah."
             },
             "169": {
-               "5": "Sepotong kayu dari laut."
+               "5": "Ranting Hanyut. Sepotong kayu dari laut."
             },
             "170": {
-               "5": "Sepertinya seseorang kehilangan kacamatanya. Mereka ceroboh."
+               "5": "Kacamata Pecah. Sepertinya seseorang kehilangan kacamatanya. Mereka ceroboh."
             },
             "171": {
-               "5": "Ini CD trial Jojanet versi 2.0. Mereka pasti membuat berjuta-juta benda ini."
+               "5": "CD Rusak. Ini CD trial Jojanet versi 2.0. Mereka pasti membuat berjuta-juta benda ini."
             },
             "172": {
-               "5": "Ini sampah."
+               "5": "Koran Basah. Ini sampah."
             },
             "174": {
-               "5": "Ini telur putih besar yang jarang!"
+               "5": "Ini telur putih besar yang langka!"
             },
             "176": {
-               "5": "Telur ayam putih reguler."
+               "5": "Telur ayam putih biasa."
             },
             "178": {
-               "5": "Rumput kering yang digunakan untuk pakan hewan."
+               "5": "Jerami. Rumput kering yang digunakan untuk pakan hewan."
             },
             "180": {
-               "5": "Telur ayam coklat reguler."
+               "5": "Telur ayam coklat biasa."
             },
             "182": {
-               "5": "Ini telur coklat besar yang jarang!"
+               "5": "Ini telur coklat besar yang langka!"
             },
             "184": {
                "5": "Sebotol susu sapi."
@@ -9454,64 +9454,64 @@
                "5": "Sebotol besar susu sapi."
             },
             "188": {
-               "5": "Kacang segar yang krispi."
+               "5": "Buncis. Kacang segar yang krispi."
             },
             "190": {
-               "5": "Berharga, tapi pertumbuhannya lambat. Walaupun warnanya pucat, sayur ini penuh nutrisi."
+               "5": "Kol. Berharga, tapi pertumbuhannya lambat. Walaupun warnanya pucat, sayur ini penuh nutrisi."
             },
             "191": {
-               "5": "A fancy necklace found in the water outside of the bath house. It's still wet..."
+               "5": "Kalung mewah yang ditemukan di depan pemandian. Masih basah..."
             },
             "192": {
-               "5": "Umbi yang banyak dibudidayakan."
+               "5": "Kentang. Jenis umbi yang banyak dibudidayakan."
             },
             "194": {
                "5": "Telur mata sapi."
             },
             "195": {
-               "5": "Ini sangat halus."
+               "5": "Ini sangat empuk."
             },
             "196": {
                "5": "Salad yang sangat menyehatkan."
             },
             "197": {
-               "5": "Aromanya sungguh lezat!"
+               "5": "Kol Keju. Aromanya sungguh lezat!"
             },
             "198": {
                "5": "Ikan bakar disertai rempah-rempah."
             },
             "199": {
-               "5": "Ini segar dan sehat."
+               "5": "Sup Parsnip. Ini segar dan sehat."
             },
             "200": {
-               "5": "Ini sangat bernutrisi."
+               "5": "Tumis Sayur Mayur. Ini sangat bernutrisi."
             },
             "201": {
-               "5": "Kau merasa siap untuk menghadapi dunia!"
+               "5": "Sarapan Lengkap. Kau merasa siap untuk menghadapi dunia!"
             },
             "202": {
-               "5": "Ini sangat kenyal."
+               "5": "Cumi Goreng. Ini sangat kenyal."
             },
             "203": {
-               "5": "Apa isinya?"
+               "5": "Roti Aneh. Apa isinya?"
             },
             "204": {
-               "5": "Makanan kecil spesial."
+               "5": "Makan Siang Hoki. Makanan kecil spesial."
             },
             "205": {
-               "5": "Beraroma dan sangat lezat."
+               "5": "Jamur Goreng. Beraroma dan sangat lezat."
             },
             "206": {
                "5": "Apapun alasannya, ini sangat populer."
             },
             "207": {
-               "5": "Tak diragukan lagi ini sehat."
+               "5": "Sup Pot Buncis. Tak diragukan lagi ini sehat."
             },
             "208": {
-               "5": "Manis dan memuaskan... The sugar gives it a hint of caramel."
+               "5": "Ubi Jalar Manis. Manis dan memuaskan... The sugar gives it a hint of caramel."
             },
             "209": {
-               "5": "Lunak dan berminyak."
+               "5": "Kejutan Ikan Mas. Lunak dan berminyak."
             },
             "210": {
                "5": "Krispi dan berwarna coklat keemasan!"
@@ -9520,13 +9520,13 @@
                "5": "Pancake yang lembut dan bertumpuk."
             },
             "212": {
-               "5": "Perasan lemon membuatnya semakin spesial."
+               "5": "Makan Malam Salmon. Perasan lemon membuatnya semakin spesial."
             },
             "213": {
-               "5": "Beraroma enak."
+               "5": "Taco Ikan. Beraroma enak."
             },
             "214": {
-               "5": "Wow, campuran tepungnya sangat sempurna."
+               "5": "Kakap Krispi. Wow, campuran tepungnya sangat sempurna."
             },
             "215": {
                "5": "Paprika pedas berisi keju yang dibalut tepung."
@@ -9538,28 +9538,28 @@
                "5": "Rasanya luarbiasa!"
             },
             "219": {
-               "5": "Cukup asin."
+               "5": "Sup Ikan Trout. Cukup asin."
             },
             "220": {
-               "5": "Kaya rasa manis dan lembab, serta dilapisi gula."
+               "5": "Kue Coklat. Kaya rasa manis dan lembab, serta dilapisi gula."
             },
             "221": {
-               "5": "Ada permen hati kecil dipuncaknya."
+               "5": "Kue Merah Muda. Ada permen hati kecil dipuncaknya."
             },
             "222": {
                "5": "Mmm, wangi dan manis!"
             },
             "223": {
-               "5": "Sangat renyah."
+               "5": "Kukis. Sangat renyah."
             },
             "224": {
                "5": "Salah satu favorit semua orang."
             },
             "225": {
-               "5": "Berminyak tapi kaya akan rasa."
+               "5": "Sidat Goreng. Berminyak tapi kaya akan rasa."
             },
             "226": {
-               "5": "Hati-hati! Sangat pedas."
+               "5": "Sidat Pedas. Hati-hati! Sangat pedas."
             },
             "227": {
                "5": "Ikan mentah yang di iris tipis."
@@ -9568,163 +9568,163 @@
                "5": "Ikan dan nasi terbungkus dalam rumput laut."
             },
             "229": {
-               "5": "Bisa diolah dulu atau langsung dimakan."
+               "5": "Bisa diolah lagi atau langsung dimakan."
             },
             "230": {
                "5": "Penuh dengan anti oksida."
             },
             "231": {
-               "5": "Beraroma tajam, keju, dan luarbiasa."
+               "5": "Parmesan Terong. Beraroma tajam, keju, dan luarbiasa."
             },
             "232": {
-               "5": "Ini creamy, manis, dan menyenangkan untuk dimakan."
+               "5": "Pudding Nasi. Ini creamy, manis, dan menyenangkan untuk dimakan."
             },
             "233": {
-               "5": "Sulit menemukan orang yang tak suka ini."
+               "5": "Es Krim. Sulit menemukan orang yang tak suka ini."
             },
             "234": {
-               "5": "Lembut dan menyegarkan."
+               "5": "Tar Bluberi. Lembut dan menyegarkan."
             },
             "235": {
                "5": "Rasa yang mewakili musim gugur."
             },
             "236": {
-               "5": "Makanan favorit musim gugur."
+               "5": "Sup Labu. Makanan favorit musim gugur."
             },
             "237": {
-               "5": "Makanan yang membuatmu bertenaga."
+               "5": "Hidangan Super. Makanan yang membuatmu bertenaga."
             },
             "238": {
-               "5": "Biasanya ada saat festival."
+               "5": "Saus Kranberi. Biasanya ada saat festival."
             },
             "239": {
                "5": "Ahh... aroma dari roti hangat."
             },
             "240": {
-               "5": "Ini akan membuatmu tetap bekerja."
+               "5": "Makan Siang Petani. Ini akan membuatmu tetap bekerja."
             },
             "241": {
-               "5": "Snack favorit para petualang."
+               "5": "Burger Dadakan. Snack favorit para petualang."
             },
             "242": {
-               "5": "Ini akan membuatmu tetap hangat di cuaca laut yang dingin."
+               "5": "Hidangan Laut. Ini akan membuatmu tetap hangat di cuaca laut yang dingin."
             },
             "243": {
-               "5": "Menjaga energi tetap penuh."
+               "5": "Camilan Penambang. Menjaga energi tetap penuh."
             },
             "244": {
                "5": "Ini akan membuatmu terus menambang."
             },
             "245": {
-               "5": "Menambah rasa manis pada kue dan permen. Terlalu banyak tak baik untuk kesehatan."
+               "5": "Gula. Menambah rasa manis pada kue dan permen. Terlalu banyak tak baik untuk kesehatan."
             },
             "246": {
-               "5": "Bahan memasak sehari-hari yang berasal dari biji gandum yang dihancurkan."
+               "5": "Tepung Terigu. Bahan memasak sehari-hari yang berasal dari biji gandum yang dihancurkan."
             },
             "247": {
                "5": "Minyak goreng serba guna."
             },
             "248": {
-               "5": "Menambah rasa luarbiasa pada makanan. Bawang berkualitas tinggi akan menambah rasa pedas."
+               "5": "Bawang Putih. Menambah rasa luarbiasa pada makanan. Bawang berkualitas tinggi akan menambah rasa pedas."
             },
             "250": {
                "5": "Cocok dijadikan sup atau stir fry."
             },
             "251": {
-               "5": "Takes 20 days to mature. Produces tea leaves during the final week of each season, except winter. No watering necessary!"
+               "5": "Tunas Teh. Dewasa dalam 20 hari. Memproduksi daun teh di pekan akhir pada setiap musim. Tidak perlu disiram!"
             },
             "252": {
                "5": "Sangat asam, tapi menjadi enak jika diberi pemanis."
             },
             "253": {
-               "5": "It's more potent than regular coffee!"
+               "5": "Lebih kuat dari kopi biasa!"
             },
             "254": {
                "5": "Menyegarkan, cocok untuk musim panas."
             },
             "256": {
-               "5": "Rasanya Kaya dan sedikit tajam, punya banyak kegunaan dibidang kuliner."
+               "5": "Tomat. Rasanya Kaya dan sedikit tajam, punya banyak kegunaan dibidang kuliner."
             },
             "257": {
                "5": "Dicari karena rasa pedasnya yang unik."
             },
             "258": {
-               "5": "Beri yang katanya mempunyai banyak fungsi di bidang kesehatan. Nutrisi utama ada pada kulit birunya."
+               "5": "Bluberi. Beri yang katanya mempunyai banyak fungsi di bidang kesehatan. Nutrisi utama ada pada kulit birunya."
             },
             "259": {
-               "5": "Tunas mudanya khusus untuk dimakan."
+               "5": "Sayur Pakis. Tunas mudanya khusus untuk dimakan."
             },
             "260": {
-               "5": "Sangat pedas dengan sedikit rasa manis."
+               "5": "Cabai. Sangat pedas dengan sedikit rasa manis."
             },
             "261": {
-               "5": "Warp directly to Calico Desert. Consumed on use."
+               "5": "Langsung berteleportasi ke Calico Desert bila dimakan."
             },
             "262": {
-               "5": "Satu dari biji yang banyak dibudidayakan. Dapat diolah menjadi tepung."
+               "5": "Gandum. Salah satu jenis biji-bijian yang banyak dibudidayakan. Dapat diolah menjadi tepung."
             },
             "264": {
-               "5": "Akar sayur yang renyah dan menyegarkan, sangat enak bila dicampur sedikit pepper."
+               "5": "Lobak. Umbi sayur yang renyah dan menyegarkan, sangat enak bila dicampur sedikit lada."
             },
             "265": {
-               "5": "This briny pudding will really get you into the maritime mindset!"
+               "5": "Puding gurih ini akan mengingatkanmu dengan lautan!"
             },
             "266": {
-               "5": "Biasa digunakan untuk salad dan selada. Warnanya dapat berubah tergantung kondisi tanah."
+               "5": "Kubis Merah. Biasa digunakan untuk salad dan selada. Warnanya dapat berubah tergantung kondisi tanah."
             },
             "267": {
-               "5": "It lives on the bottom, so both eyes are on top of its head."
+               "5": "Ikan Sebelah. Tinggal di lantai laut, jadi mata mereka ada di atas kepala."
             },
             "268": {
-               "5": "Buah yang sangat juicy yang tumbuh ditemperatur panas dan lembab. Sedikit manis dengan rasa asam."
+               "5": "Belimbing. Buah yang sangat juicy yang tumbuh ditemperatur panas dan lembab. Sedikit manis dengan rasa asam."
             },
             "269": {
-               "5": "This shy fish only feels comfortable at night."
+               "5": "Ikan pemalu ini cuma muncul di malam hari."
             },
             "270": {
-               "5": "Salah satu biji yang populer. Rasa manisnya membuat tanaman ini favorit saat musim panas."
+               "5": "Jagung. Salah satu biji-bijian yang populer. Rasa manisnya membuat tanaman ini disukai saat musim panas."
             },
             "271": {
-               "5": "Rice in its rawest form. Run this through a mill to increase the value."
+               "5": "Gabah. Nasi dalam bentuk paling mentah. Masukkan ke Mill untuk menaikkan harganya."
             },
             "272": {
-               "5": "Keluarga tomat yang enak dan menyehatkan. Enak digoreng ataupun direbus."
+               "5": "Terong. Keluarga tomat yang enak dan menyehatkan. Enak digoreng ataupun direbus."
             },
             "273": {
-               "5": "Plant these in the spring. Takes 8 days to mature. Grows faster if planted near a body of water. Harvest with the scythe."
+               "5": "Bibit Padi. Tanam di musim semi. Dewasa dalam 8 hari. Tumbuh lebih cepat jika ditanam dekat sumber air. Panen dengan sabit."
             },
             "274": {
-               "5": "Pucuk tanaman thistle. Daun luar berduri menyembunyikan isinya."
+               "5": "Articok. Pucuk tanaman thistle. Daun luar berduri menyembunyikan isinya."
             },
             "275": {
-               "5": "A blacksmith can open this for you. These troves often contain ancient relics and curiosities."
+               "5": "Pandai besi bisa membukanya. Harta karun ini kadang berisi relik kuno dan benda-benda unik."
             },
             "276": {
-               "5": "Favorit musim gugur, ditaman untuk bijinya yang renyah dan dagingnya yang enak. Sebagai bonus, wajah hantu bisa diukir sebagai dekorasi."
+               "5": "Labu. Favorit musim gugur, ditaman untuk bijinya yang renyah dan dagingnya yang enak. Sebagai bonus, wajah hantu bisa diukir sebagai dekorasi."
             },
             "277": {
-               "5": "A gift that shows you want to stop dating someone."
+               "5": "Buket Layu. Hadiah untuk seseorang yang hendak kamu putus hubungannya."
             },
             "278": {
-               "5": "Sayuran hijau dan tangkai berserat sangat menyehatkan."
+               "5": "Sawi Sendok. Sayuran hijau dan tangkai berserat sangat menyehatkan."
             },
             "279": {
-               "5": "A rare and powerful candy infused with the essence of the prismatic shard."
+               "5": "Permen Keras Ajaib. Permen langka dan ajaib dari sari prismatic shard."
             },
             "280": {
-               "5": "Sebuah umbi tepung dengan banyak fleksibilitas di kuliner."
+               "5": "Sejenis Ubi Jalar. Sebuah ubi berpati dengan yang serbaguna di kuliner."
             },
             "281": {
-               "5": "Jamur lezat dengan aroma buah dan sedikit pepper."
+               "5": "Jamur lezat dengan aroma buah dan rasanya sedikit mirip lada."
             },
             "282": {
-               "5": "Bisa digunakan untuk membuat tart cranberies, salah satu makanan tradisional musim dingin."
+               "5": "Kranberi. Bisa digunakan untuk membuat tart cranberies, salah satu makanan tradisional musim dingin."
             },
             "283": {
                "5": "Daun dan buahnya yang merah menyala membuatnya menjadi dekorasi bagus di musim dingin."
             },
             "284": {
-               "5": "Akar yang manis dan beraroma tanah. Sebagai bonus, daunnya bisa dijadikan salad."
+               "5": "Buah Bit. Akar yang manis dan beraroma tanah. Sebagai bonus, daunnya bisa dijadikan salad."
             },
             "286": {
                "5": "Membuat ledakan kecil. Mundur!"
@@ -9736,16 +9736,16 @@
                "5": "Membuat ledakan yang besar. Gunakan dengan hati-hati."
             },
             "289": {
-               "5": "It may be the world's largest egg."
+               "5": "Telur Burung Unta. Ini mungkin telur terbesar di dunia."
             },
             "290": {
                "5": "..."
             },
             "292": {
-               "5": "This can be planted to grow a mahogany tree."
+               "5": "Benih Mahoni. Ini dapat ditanam jadi pohon mahoni."
             },
             "293": {
-               "5": "Place on the ground to create paths or to decorate your floors."
+               "5": "Lantai Bata. Taruh di tanah untuk membuat jalan setapak atau menghiasi lantai."
             },
             "294": {
                "5": "..."
@@ -9757,49 +9757,49 @@
                "5": "Beri musim semi dengan rasa yang berasal dari hutan."
             },
             "297": {
-               "5": "Tanam ini dikebun dan biarkan mereka tumbuh sendiri."
+               "5": "Bibit Rumput. Tanam ini dikebun dan biarkan mereka tumbuh sendiri."
             },
             "298": {
                "5": "Pagar yang kualitasnya paling kuat."
             },
             "299": {
-               "5": "Tanam saat musim gugur. Butuh 7 hari untuk tumbuh. Panen dengan sabit."
+               "5": "Benih Bayam Merah. Tanam saat musim gugur. Butuh 7 hari untuk tumbuh. Panen dengan sabit."
             },
             "300": {
-               "5": "Biji ungu yang sudah dibudidayakan sejak dulu kala."
+               "5": "Bayam Merah. Biji-bijian ungu yang sudah dibudidayakan sejak dulu kala."
             },
             "301": {
-               "5": "Tanam saat musim gugur. Butuh 10 hari untuk tumbuh, tapi tetap produksi setelahnya. Tumbuh di terali."
+               "5": "Bibit Anggur. Tanam saat musim gugur. Butuh 10 hari untuk tumbuh, tapi tetap produksi setelahnya. Tumbuh di terali."
             },
             "302": {
-               "5": "Tanam saat musim panas. Butuh 11 hari untuk tumbuh, tapi tetap produksi setelahnya. Tumbuh di terali."
+               "5": "Bibit Hop. Tanam saat musim panas. Butuh 11 hari untuk tumbuh, tapi tetap produksi setelahnya. Tumbuh di terali."
             },
             "303": {
                "5": "Minum secukupnya."
             },
             "304": {
-               "5": "Bunga berbau tajam dan pahit, digunakan untuk memberi rasa pada bir."
+               "5": "Hop. Bunga berbau tajam dan pahit, digunakan untuk memberi rasa pada bir."
             },
             "305": {
                "5": "Telur hitam pekat dengan bintik merah. Hangat saat disentuh."
             },
             "306": {
-               "5": "Kelihatannya dapat dioles."
+               "5": "Mayones. Kelihatannya dapat dioles."
             },
             "307": {
-               "5": "Mayonnaise kuning kaya akan rasa."
+               "5": "Mayones kuning kaya akan rasa."
             },
             "308": {
                "5": "Pasta hitam pekat yang bau nya seperti rambut terbakar."
             },
             "309": {
-               "5": "Tanam dikebun mu agar tumbuh menjadi pohon oak."
+               "5": "Biji Pohon Ek. Tanam dikebun mu agar tumbuh menjadi pohon ek."
             },
             "310": {
-               "5": "Tanam dikebun mu agar tumbuh menjadi pohon maple."
+               "5": "Biji Pohon Mapel. Tanam dikebun mu agar tumbuh menjadi pohon maple."
             },
             "311": {
-               "5": "Tanam dikebun mu agar tumbuh menjadi pohon pinus."
+               "5": "Biji Pohon Pinus. Tanam dikebun mu agar tumbuh menjadi pohon pinus."
             },
             "313": {
                "5": "..."
@@ -9829,19 +9829,19 @@
                "5": "..."
             },
             "322": {
-               "5": "Membatasi hewan dan rumput!"
+               "5": "Pagar Kayu. Membatasi hewan dan rumput!"
             },
             "323": {
-               "5": "Bertahan lebih lama dari wood fence."
+               "5": "Pagar Batu. Bertahan lebih lama dari wood fence."
             },
             "324": {
-               "5": "Bertahan lebih lama dari stone fence."
+               "5": "Pagar Besi. Bertahan lebih lama dari stone fence."
             },
             "325": {
-               "5": "Berguna agar dapat melewati pagar."
+               "5": "Gerbang. Berguna agar dapat melewati pagar."
             },
             "326": {
-               "5": "Mengajarkan mu bahasa dwarf."
+               "5": "Mengajarkanmu bahasa dwarf."
             },
             "328": {
                "5": "Taruh ditanah untuk membuat jalan atau untuk mendekorasi lantai mu."
@@ -9853,10 +9853,10 @@
                "5": "Dipakai untuk crafting dan bahan bangunan."
             },
             "331": {
-               "5": "Taruh ditanah untuk membuat jalan atau untuk merapihkan lantai mu."
+               "5": "Lantai Kayu. Taruh di tanah untuk membuat jalan setapak atau menghiasi lantai."
             },
             "333": {
-               "5": "Taruh ditanah untuk membuat jalan atau untuk merapihkan lantai mu."
+               "5": "Lantai Kristal. Taruh di tanah untuk membuat jalan setapak atau menghiasi lantai."
             },
             "334": {
                "5": "Sebatang perunggu murni."
@@ -9871,28 +9871,28 @@
                "5": "Sebatang iridium murni."
             },
             "338": {
-               "5": "Quartz murni."
+               "5": "Bentuk kuarsa yang lebih murni."
             },
             "340": {
-               "5": "Sirup manis ciptaan para lebah."
+               "5": "Madu. Sirup manis ciptaan para lebah."
             },
             "341": {
-               "5": "Porselen yang bagus."
+               "5": "Set Minum Teh. Porselen yang bagus."
             },
             "342": {
-               "5": "Se toples asinan buatan rumah."
+               "5": "Setoples asinan buatan rumah."
             },
             "343": {
                "5": "Batu."
             },
             "344": {
-               "5": "Gooey."
+               "5": "Lengket."
             },
             "346": {
                "5": "Minum secukupnya."
             },
             "347": {
-               "5": "Tanam dimusim gugur. Butuh semusim untuk tumbuh."
+               "5": "Benih Langka. Tanam dimusim gugur. Butuh semusim untuk tumbuh."
             },
             "348": {
                "5": "Minum secukupnya."
@@ -9901,16 +9901,16 @@
                "5": "Mengembalikan banyak energi."
             },
             "350": {
-               "5": "Minuman manis dan bernutrisi."
+               "5": "Jus. Minuman manis dan bernutrisi."
             },
             "351": {
                "5": "Ketika kau bekerja sangat keras, minum ini untuk menghilangkan rasa capek."
             },
             "368": {
-               "5": "Menaikan sedikit kualitas tanah, menambah kemungkinan dalam menumbuhkan tanaman berkualitas. Campur ke tanah yang sudah digarap."
+               "5": "Pupuk Biasa. Menaikan sedikit kualitas tanah, menambah kemungkinan dalam menumbuhkan tanaman berkualitas. Campur ke tanah yang sudah digarap."
             },
             "369": {
-               "5": "Menaikan kualitas tanah, menambah kemungkinan dalam menumbuhkan tanaman berkualitas. Campur ke tanah yang sudah digarap."
+               "5": "Pupuk Berkualitas. Menaikan kualitas tanah, menambah kemungkinan dalam menumbuhkan tanaman berkualitas. Campur ke tanah yang sudah digarap."
             },
             "370": {
                "5": "Memungkinkan tanaman tetap basah dikemudian hari. Campur ke tanah yang sudah digarap."
@@ -9919,109 +9919,109 @@
                "5": "Sangat memungkinkan tanaman tetap basah dikemudian hari. Campur ke tanah yang sudah digarap."
             },
             "372": {
-               "5": "Sesuatu pernah hidup disini."
+               "5": "Kerang. Ada yang pernah tinggal disini."
             },
             "373": {
-               "5": "Mahal, tapi tak ada gunanya."
+               "5": "Labu Emas. Mahal, tapi tak ada gunanya."
             },
             "376": {
-               "5": "Selain bunganya yang berwarna, Poppy banyak digunakan dalah hal kuliner dan kesehatan."
+               "5": "Bunga Candu. Selain bunganya yang berwarna, Poppy banyak digunakan dalam hal kuliner dan kesehatan."
             },
             "378": {
-               "5": "Mineral umum yang bisa dilebur menjadi batangan."
+               "5": "Bijih Perunggu. Mineral umum yang bisa dilebur menjadi batangan."
             },
             "380": {
-               "5": "Mineral yang cukup mudah ditemukan, dapat dilebur menjadi batangan."
+               "5": "Bijih Besi. Mineral yang cukup mudah ditemukan, dapat dilebur menjadi batangan."
             },
             "382": {
-               "5": "Batu yang dapat menyala, bisa digunakan untuk crafting atau smelting."
+               "5": "Batu Bara. Batu mudah terbakar yang bisa digunakan untuk perakitan atau peleburan."
             },
             "384": {
-               "5": "Mineral berharga yang dapat dilebur menjadi batangan."
+               "5": "Bijih Emas. Mineral berharga yang dapat dilebur menjadi batangan."
             },
             "386": {
-               "5": "Mineral langka dan indah yang fungsinya masih banyak tak diketahui. Bisa dilebur menjadi batangan."
+               "5": "Bijih Iridium. Mineral langka dan indah yang fungsinya masih banyak tak diketahui. Bisa dilebur menjadi batangan."
             },
             "388": {
-               "5": "Material yang keras dan fleksibel serta banyak kegunaanya."
+               "5": "Kayu. Material yang keras dan fleksibel serta banyak kegunaanya."
             },
             "390": {
-               "5": "Material yang sering digunakan untuk Crafting dan Building."
+               "5": "Batu. Material yang sering digunakan untuk rakitan dan bangunan."
             },
             "392": {
                "5": "Cangkang purba."
             },
             "393": {
-               "5": "Koloni makhluk kecil yang bersatu membentuk struktur yang indah."
+               "5": "Koral. Koloni makhluk kecil yang bersatu membentuk struktur yang indah."
             },
             "394": {
-               "5": "Sungguh cangkang yang indah."
+               "5": "Cankang Pelangi. Sungguh cangkang yang indah."
             },
             "395": {
-               "5": "Aromanya enak. Ini akan menyegarkan mu."
+               "5": "Kopi. Aromanya enak. Ini akan menyegarkan mu."
             },
             "396": {
                "5": "Udara dipenuhi oleh bau tajam."
             },
             "397": {
-               "5": "Makhluk berduri yang bergerak lambat, kata orang makhluk ini enak dimakan."
+               "5": "Landak Laut. Makhluk berduri yang bergerak lambat, kata orang makhluk ini enak dimakan."
             },
             "398": {
-               "5": "Kumpulan buah yang terkenal manis."
+               "5": "Anggur. Kumpulan buah yang terkenal manis."
             },
             "399": {
-               "5": "Ini tumbuh liar saat musim semi."
+               "5": "Daun Bawang. Ini tumbuh liar saat musim semi."
             },
             "400": {
-               "5": "Buah manis dan segar dengan warna merah yang menggoda."
+               "5": "Stroberi. Buah manis dan segar dengan warna merah yang menggoda."
             },
             "401": {
-               "5": "Taruh ditanah untuk membuat jalan atau untuk merapihkan lantai mu."
+               "5": "Lantai Jerami. Taruh di tanah untuk membuat jalan setapak atau menghiasi lantai."
             },
             "402": {
                "5": "Bunga musim panas yang harum."
             },
             "403": {
-               "5": "Snack siap saji yang cepat mengisi perut petualang."
+               "5": "Camilan Sawah. Kudapan siap saji yang cepat mengisi perut petualang."
             },
             "404": {
-               "5": "Sedikit pedas dengan tekstur yang bagus."
+               "5": "Jamur Biasa. Sedikit pedas dengan tekstur yang bagus."
             },
             "405": {
-               "5": "Taruh ditanah untuk membuat jalan atau untuk merapihkan lantai mu."
+               "5": "Taruh di tanah untuk membuat jalan setapak atau menghiasi lantai."
             },
             "406": {
-               "5": "Asam dan segar dengan aroma tajam."
+               "5": "Plum Liar. Asam dan segar dengan aroma tajam."
             },
             "407": {
-               "5": "Taruh ditanah untuk membuat jalan atau untuk merapihkan lantai mu."
+               "5": "Taruh di tanah untuk membuat jalan setapak atau menghiasi lantai."
             },
             "408": {
-               "5": "Ini sebuah hazelnut yang besar!"
+               "5": "Ini sebuah kacang hazel yang besar!"
             },
             "409": {
-               "5": "Taruh ditanah untuk membuat jalan atau untuk merapihkan lantai mu."
+               "5": "Taruh di tanah untuk membuat jalan setapak atau menghiasi lantai."
             },
             "410": {
                "5": "Banyak tumbuh saat fall."
             },
             "411": {
-               "5": "Taruh ditanah untuk membuat jalan atau untuk merapihkan lantai mu."
+               "5": "Taruh di tanah untuk membuat jalan setapak atau menghiasi lantai."
             },
             "412": {
-               "5": "Umbi yang mengandung tepung."
+               "5": "Ubi Musim Dingin. Umbi yang mengandung tepung."
             },
             "413": {
-               "5": "Bisa ditetaskan lewat Slime incubator."
+               "5": "Telur Slime Biru. Bisa ditetaskan lewat Slime incubator."
             },
             "414": {
                "5": "Buah lembut yang muncul dari salju."
             },
             "415": {
-               "5": "Taruh ditanah untuk membuat jalan atau untuk merapihkan lantai mu."
+               "5": "Taruh di tanah untuk membuat jalan setapak atau menghiasi lantai."
             },
             "416": {
-               "5": "Ubi kecil ini tersembunyi dibawah salju."
+               "5": "Ubi Salju. Ubi kecil ini tersembunyi dibawah salju."
             },
             "417": {
                "5": "Sejauh ini, buah inilah yang aromanya paling manis."
@@ -10030,49 +10030,49 @@
                "5": "Bunga yang dapat mekar di musim dingin."
             },
             "419": {
-               "5": "Cairan yang difermentasi bertahun-tahun, sangat berguna untuk memasak."
+               "5": "Cuka. Cairan yang difermentasi bertahun-tahun, sangat berguna untuk memasak."
             },
             "420": {
-               "5": "Jamur yang kadang terlihat didalam gua."
+               "5": "Jamur Merah. Jamur yang kadang terlihat didalam gua."
             },
             "421": {
-               "5": "Orang-orang masih salah faham kalau bunga ini menghadap matahari."
+               "5": "Bunga Matahari. Orang-orang masih salah faham kalau bunga ini menghadap matahari."
             },
             "422": {
-               "5": "Jamur langka yang tumbuh di gua terdalam."
+               "5": "Jamur Ungu. Jamur langka yang tumbuh di gua terdalam."
             },
             "423": {
-               "5": "Biji utama yang biasanya dihidangkan dengan sayur."
+               "5": "Beras. Biji-bijian umum yang biasanya dihidangkan dengan sayur."
             },
             "424": {
                "5": "Ini adalah keju."
             },
             "425": {
-               "5": "Tanam saat musim gugur. Butuh 12 hari agar bunganya mekar. Warnanya macam-macam."
+               "5": "Benih Fairy. Tanam saat musim gugur. Butuh 12 hari agar bunganya mekar. Warnanya macam-macam."
             },
             "426": {
                "5": "Keju lembut terbuat dari susu kambing."
             },
             "427": {
-               "5": "Tanam saat musim semi. Butuh 6 hari agar bunganya mekar. Warnanya macam-macam."
+               "5": "Benih Tulip. Tanam saat musim semi. Butuh 6 hari agar bunganya mekar. Warnanya macam-macam."
             },
             "428": {
-               "5": "Gulungan kain wool yang bagus."
+               "5": "Gulungan kain wol yang bagus."
             },
             "429": {
-               "5": "Tanam saat musim semi. Butuh 7 hari agar bunga puffball biru mekar."
+               "5": "Benih Jazz. Tanam saat musim semi. Butuh 7 hari agar bunga puffball biru mekar."
             },
             "430": {
                "5": "Jamur kuliner kelas atas karena rasanya yang enak."
             },
             "431": {
-               "5": "Tanam saat musim panas atau gugur. Butuh 8 hari agar mekar sempurna. Memberi banyak biji saat dipanen."
+               "5": "Benih Bunga Matahari. Tanam saat musim panas atau gugur. Butuh 8 hari agar mekar sempurna. Memberi banyak biji saat dipanen."
             },
             "432": {
-               "5": "Bahan memasak kelas atas."
+               "5": "Minyak Truffle. Bahan memasak kelas atas."
             },
             "433": {
-               "5": "Tanam saat musim semi atau panas untuk menumbuhkan tanaman kopi. Gunakan lima biji kopi di keg untuk membuat kopi."
+               "5": "Biji Kopi. Tanam saat musim semi atau panas untuk menumbuhkan tanamannya. Gunakan lima biji kopi di Keg untuk membuat minumannya."
             },
             "434": {
                "5": "Buah misterius yang memberi kekuatan pada yang memakannya. Rasanya seperti mimpi... memberi pengalaman luarbiasa bahkan sulit untuk diceritakan pada oranglain."
@@ -10081,67 +10081,67 @@
                "5": "Susu kambing."
             },
             "437": {
-               "5": "Bisa ditetaskan lewat Slime incubator."
+               "5": "Telur Slime Merah. Bisa ditetaskan lewat Slime incubator."
             },
             "438": {
                "5": "Segalon susu kambing."
             },
             "439": {
-               "5": "Bisa ditetaskan lewat Slime incubator."
+               "5": "Telur Slime Ungu. Bisa ditetaskan lewat Slime incubator."
             },
             "440": {
-               "5": "Wool yang lembut dan empuk."
+               "5": "Wol yang lembut dan empuk."
             },
             "441": {
-               "5": "Tembak ini menggunakan katapel."
+               "5": "Peluru Peledak. Tembak ini menggunakan katapel."
             },
             "442": {
-               "5": "Ini masih hangat."
+               "5": "Telur Bebek. Ini masih hangat."
             },
             "444": {
-               "5": "Ini sungguh berwarna."
+               "5": "Bulu Bebek. Warnanya bagus."
             },
             "445": {
-               "5": "The cured roe of a sturgeon fish. Considered to be a luxurious delicacy!"
+               "5": "Kaviar. Telur ikan sturgeon yang diawetkan. Dianggap sebagai makanan mewah!"
             },
             "446": {
-               "5": "Mitos mengatakan kalau ini membawa keberuntungan."
+               "5": "Kaki Kelinci. Mitos mengatakan kalau ini membawa keberuntungan."
             },
             "447": {
-               "5": "Fish eggs aged in salt to bring out the flavor."
+               "5": "Telur ikan yang diawetkan dengan garam untuk mengeluarkan rasanya."
             },
             "449": {
                "5": "Blok batu yang simpel."
             },
             "450": {
-               "5": "Stone."
+               "5": "Batu."
             },
             "452": {
-               "5": "Sejumput rumput kering."
+               "5": "Gulma. Sejumput rumput kering."
             },
             "453": {
-               "5": "Tanam saat musim panas. Menghasilkan bunga merah menyala saat berumur 7 hari."
+               "5": "Biji Bunga Candu. Tanam saat musim panas. Menghasilkan bunga merah menyala saat berumur 7 hari."
             },
             "454": {
                "5": "Ini sudah tak tumbuh sejak ribuan tahun lalu."
             },
             "455": {
-               "5": "Tanam saat musim panas. Butuh 8 hari untuk menghasilkan bunga tropis. Warnanya macam-macam."
+               "5": "Bibit Spangle. Tanam saat musim panas. Butuh 8 hari untuk menghasilkan bunga tropis. Warnanya macam-macam."
             },
             "456": {
-               "5": "Ini sedikit berlendir."
+               "5": "Sup Alga. Ini sedikit berlendir."
             },
             "457": {
-               "5": "Kaldu halus dengan sedikit bau belerang."
+               "5": "Kaldu Pale. Kaldu halus dengan sedikit bau belerang."
             },
             "458": {
-               "5": "Hadiah yang menjelaskan pada seseorang kalau kau tertarik padanya."
+               "5": "Buket. Hadiah untuk menembak hati seseorang."
             },
             "459": {
                "5": "Minuman yang difermentasi dari madu. Minum secukupnya."
             },
             "460": {
-               "5": "Beri ini pada seseorang yang ingin dinikahi."
+               "5": "Berikan ini pada seseorang yang mau kau lamar."
             },
             "461": {
                "5": "Replika dari pot kunot."
@@ -10159,73 +10159,73 @@
                "5": "Merangsang pertumbuhan tanaman. Menaikan kecepatan pertumbuhan tanaman 25%. Campur pada tanah yang sudah digarap."
             },
             "472": {
-               "5": "Tanam saat musim semi. Butuh 4 hari untuk tumbuh."
+               "5": "Benih Parsnip. Tanam saat musim semi. Butuh 4 hari untuk tumbuh."
             },
             "473": {
-               "5": "Tanam saat musim semi. Butuh 10 hari untuk tumbuh, tapi tetap produksi setelahnya. Memberi banyak biji saat dipanen. Tumbuh di terali."
+               "5": "Bibit Buncis. Tanam saat musim semi. Butuh 10 hari untuk tumbuh, tapi tetap produksi setelahnya. Memberi banyak biji saat dipanen. Tumbuh di terali."
             },
             "474": {
-               "5": "Tanam saat musim semi. Butuh 12 hari untuk tumbuh dewasa."
+               "5": "Benih Kol. Tanam saat musim semi. Butuh 12 hari untuk tumbuh dewasa."
             },
             "475": {
-               "5": "Tanam saat musim semi. Butuh 6 hari untuk tumbuh dewasa, dan kemungkinan menghasilkan banyak kentang dalam sekali panen."
+               "5": "Benih Kentang. Tanam saat musim semi. Butuh 6 hari untuk tumbuh dewasa, dan kemungkinan menghasilkan banyak kentang dalam sekali panen."
             },
             "476": {
-               "5": "Tanam saat musim semi. Butuh 4 hari untuk tumbuh dewasa."
+               "5": "Benih Bawang Putih. Tanam saat musim semi. Butuh 4 hari untuk tumbuh dewasa."
             },
             "477": {
-               "5": "Tanam saat musim semi. Butuh 6 hari untuk tumbuh dewasa. Panen menggunakan sabit."
+               "5": "Benih Kale. Tanam saat musim semi. Butuh 6 hari untuk tumbuh dewasa. Panen menggunakan sabit."
             },
             "478": {
-               "5": "Tanam saat musim semi. Butuh 13 hari untuk tumbuh dewasa."
+               "5": "Benih Rhubarb. Tanam saat musim semi. Butuh 13 hari untuk tumbuh dewasa."
             },
             "479": {
-               "5": "Tanam saat musim panas. Butuh 12 hari untuk tumbuh dewasa."
+               "5": "Benih Melon. Tanam saat musim panas. Butuh 12 hari untuk tumbuh dewasa."
             },
             "480": {
-               "5": "Tanam saat musim panas. Butuh 11 hari untuk tumbuh dewasa, dan terus memproduksi setelahnya."
+               "5": "Benih Tomat. Tanam saat musim panas. Butuh 11 hari untuk tumbuh dewasa, dan terus memproduksi setelahnya."
             },
             "481": {
-               "5": "Tanam saat musim panas. Butuh 13 hari untuk tumbuh dewasa, dan terus memproduksi setelahnya."
+               "5": "Benih Bluberi. Tanam saat musim panas. Butuh 13 hari untuk tumbuh dewasa, dan terus memproduksi setelahnya."
             },
             "482": {
-               "5": "Tanam saat musim panas. Butuh 5 hari untuk tumbuh dewasa, dan terus memproduksi setelahnya."
+               "5": "Benih Cabai. Tanam saat musim panas. Butuh 5 hari untuk tumbuh dewasa, dan terus memproduksi setelahnya."
             },
             "483": {
-               "5": "Tanam saat musim gugur. Butuh 4 hari untuk tumbuh dewasa. Panen menggunakan sabit."
+               "5": "Benih Gandum. Tanam saat musim gugur. Butuh 4 hari untuk tumbuh dewasa. Panen menggunakan sabit."
             },
             "484": {
-               "5": "Tanam saat musim panas. Butuh 6 hari untuk tumbuh dewasa."
+               "5": "Benih Lobak. Tanam saat musim panas. Butuh 6 hari untuk tumbuh dewasa."
             },
             "485": {
-               "5": "Tanam saat musim panas. Butuh 9 hari untuk tumbuh dewasa."
+               "5": "Benis Kubis Merah. Tanam saat musim panas. Butuh 9 hari untuk tumbuh dewasa."
             },
             "486": {
-               "5": "Tanam saat musim panas. Butuh 13 hari untuk tumbuh dewasa."
+               "5": "Benih Belimbing. Tanam saat musim panas. Butuh 13 hari untuk tumbuh dewasa."
             },
             "487": {
-               "5": "Tanam saat musim panas atau gugur. Butuh 14 hari untuk tumbuh dewasa, dan terus memproduksi setelahnya."
+               "5": "Benih Jagung. Tanam saat musim panas atau gugur. Butuh 14 hari untuk tumbuh dewasa, dan terus memproduksi setelahnya."
             },
             "488": {
-               "5": "Tanam saat musim gugur. Butuh 5 hari untuk tumbuh dewasa, dan terus memproduksi setelahnya."
+               "5": "Benih Terong. Tanam saat musim gugur. Butuh 5 hari untuk tumbuh dewasa, dan terus memproduksi setelahnya."
             },
             "489": {
-               "5": "Tanam saat musim gugur. Butuh 8 hari untuk tumbuh dewasa."
+               "5": "Benih Articok. Tanam saat musim gugur. Butuh 8 hari untuk tumbuh dewasa."
             },
             "490": {
-               "5": "Tanam saat musim gugur. Butuh 13 hari untuk tumbuh dewasa."
+               "5": "Benih Labu. Tanam saat musim gugur. Butuh 13 hari untuk tumbuh dewasa."
             },
             "491": {
-               "5": "Tanam saat musim gugur. Butuh 4 hari untuk tumbuh dewasa."
+               "5": "Benih Sawi Sendok. Tanam saat musim gugur. Butuh 4 hari untuk tumbuh dewasa."
             },
             "492": {
-               "5": "Tanam saat musim gugur. Butuh 10 hari untuk tumbuh dewasa."
+               "5": "Benih Yam. Tanam saat musim gugur. Butuh 10 hari untuk tumbuh dewasa."
             },
             "493": {
-               "5": "Tanam saat musim gugur. Butuh 7 hari untuk tumbuh dewasa, dan terus memproduksi setelahnya."
+               "5": "Benih Kranberi. Tanam saat musim gugur. Butuh 7 hari untuk tumbuh dewasa, dan terus memproduksi setelahnya."
             },
             "494": {
-               "5": "Tanam saat musim gugur. Butuh 6 hari untuk tumbuh dewasa."
+               "5": "Benih Bit. Tanam saat musim gugur. Butuh 6 hari untuk tumbuh dewasa."
             },
             "495": {
                "5": "Bermacam-macam benih tanaman liar musim semi."
@@ -10300,13 +10300,13 @@
                "5": "Meningkatkan damage sebesar 10%."
             },
             "535": {
-               "5": "Blacksmith bisa memecah ini untukmu."
+               "5": "Pandai besi bisa memecah ini untukmu."
             },
             "536": {
-               "5": "Blacksmith bisa memecah ini untukmu."
+               "5": "Pandai besi bisa memecah ini untukmu."
             },
             "537": {
-               "5": "Blacksmith bisa memecah ini untukmu."
+               "5": "Pandai besi bisa memecah ini untukmu."
             },
             "538": {
                "5": "Fluoresensi yang khas membuatnya menjadi favorit di kalangan kolektor batu."
@@ -10321,10 +10321,10 @@
                "5": "Entah kenapa kristal ini bercahaya."
             },
             "542": {
-               "5": "Kristal kuning ini memiliki bintik yang bercahaya."
+               "5": "Kalsit. Kristal kuning ini memiliki bintik yang bercahaya."
             },
             "543": {
-               "5": "Terdapat pada terumbu karang, biasanya dekat dengan lava."
+               "5": "Dolomit. Terdapat pada terumbu karang, biasanya dekat dengan lava."
             },
             "544": {
                "5": "Kristal ini menyala hijau ketika disentuh."
@@ -10345,13 +10345,13 @@
                "5": "Terbentuk dari banyaknya kristal kecil membuatnya berkilauan."
             },
             "550": {
-               "5": "Permukaannya yang geometris selembut kaca."
+               "5": "Kianit. Permukaannya yang geometris selembut kaca."
             },
             "551": {
                "5": "Bola kecil yang membentuk kumpulan."
             },
             "552": {
-               "5": "Batu ornamen populer, digunakan untuk membuat patung dan lukisan berwarna hijau."
+               "5": "Malasit. Batu ornamen populer, digunakan untuk membuat patung dan lukisan berwarna hijau."
             },
             "553": {
                "5": "Kristal hitam pekat yang luar biasa merefleksikan objek."
@@ -10366,13 +10366,13 @@
                "5": "Disamping racunnya yang tinggi, Mineral ini digunakan untuk manufaktur dan obat-obatan."
             },
             "557": {
-               "5": "Sobat kecil ini mungkin sudah berumur 100.000 tahun."
+               "5": "Slime yang Mengeras. Sobat kecil ini mungkin sudah berumur 100.000 tahun."
             },
             "558": {
                "5": "Menurut legenda, spirit thunder yang marah saling melempar ini satu sama lain."
             },
             "559": {
-               "5": "Biasanya dikenal sebagai \"Fool's Gold\"."
+               "5": "Pirit. Biasanya dikenal sebagai \"Emas Palsu\"."
             },
             "560": {
                "5": "Legenda mengatakan batu ini terbuat dari mosaik putri duyung."
@@ -10390,25 +10390,25 @@
                "5": "Struktur dalamnya memantulkan cahaya pelangi."
             },
             "565": {
-               "5": "Variasi opal langka, dinamakan karena titiknya yang berwarna merah."
+               "5": "Opal Api. Variasi opal langka, dinamakan karena titiknya yang berwarna merah."
             },
             "566": {
                "5": "Beberapa bentuk kehidupan awal berasal dari ini."
             },
             "567": {
-               "5": "Material yang sangat populer untuk membuat patung dan konstruksi."
+               "5": "Marmer. Material yang sangat populer untuk membuat patung dan konstruksi."
             },
             "568": {
-               "5": "Batu umum dengan garis merah dan coklat."
+               "5": "Batu Pasir. Batu umum dengan garis merah dan coklat."
             },
             "569": {
-               "5": "Mineral berbintik yang biasanya digunakan untuk konstruksi."
+               "5": "Granit. Mineral berbintik yang biasanya digunakan untuk konstruksi."
             },
             "570": {
-               "5": "Terbentuk didekat magma panas yang membakar."
+               "5": "Basal. Terbentuk didekat magma panas yang membakar."
             },
             "571": {
-               "5": "Batu yang sering ditemukan. Tak begitu berharga."
+               "5": "Gamping. Batu yang sering ditemukan. Tak begitu berharga."
             },
             "572": {
                "5": "Karena kelembutannya, batu ini sangat populer untuk diukir."
@@ -10417,13 +10417,13 @@
                "5": "Mineral besi dengan sifat magnet yang menarik."
             },
             "574": {
-               "5": "Batu halus yang terbentuk dari lumpur tua."
+               "5": "Batu Lumpur. Batu halus yang terbentuk dari lumpur tua."
             },
             "575": {
                "5": "Batu kaca vulkanik yang tercipta karena lava yang mendingin tiba-tiba."
             },
             "576": {
-               "5": "Sangat tahan terhadap air, membuatnya bagus menjadi bahan atap."
+               "5": "Batusabak. Sangat tahan terhadap air, membuatnya bagus menjadi bahan atap."
             },
             "577": {
                "5": "Legenda dari para penambang, kalau batu ini berasal dari tulang para peri."
@@ -10432,7 +10432,7 @@
                "5": "Tak ada yang tau asal benda ini. Beberapa ilmuwan mengatakan struktur benda ini sangat tak wajar."
             },
             "579": {
-               "5": "Biasanya disebut \"shoulder blade\"... Masih tak jelas berasal dari spesies apa."
+               "5": "Biasanya disebut \"tulang belikat\"... Masih tak jelas berasal dari spesies apa."
             },
             "580": {
                "5": "Tulang kaki yang tebal dan keras."
@@ -10465,7 +10465,7 @@
                "5": "Keluarga kepiting yang sudah lama punah."
             },
             "590": {
-               "5": "Uh... bagaimana benda ini ada di inventory mu? Kera membuat kesalahan."
+               "5": "Uh... bagaimana benda ini ada di inventory mu? Ape bikin kesalahan."
             },
             "591": {
                "5": "Bunga musim semi yang paling populer. Memiliki aroma manis yang sedikit samar."
@@ -10489,31 +10489,31 @@
                "5": "Ini begitu dingin dan segar."
             },
             "606": {
-               "5": "Sari sayuran diatas nasi."
+               "5": "Tumisan. Sari sayuran diatas nasi."
             },
             "607": {
-               "5": "Proses pemanggangannya menciptakan aroma yang lezat."
+               "5": "Kacang Hazel Bakar. Proses pemanggangannya menciptakan aroma yang lezat."
             },
             "608": {
-               "5": "Krim labu yang lembut didalam lapisan yang renyah."
+               "5": "Pai Labu. Krim labu yang lembut didalam lapisan yang renyah."
             },
             "609": {
-               "5": "Lobaknya sungguh renyah!"
+               "5": "Salad Lobak. Lobaknya sungguh renyah!"
             },
             "610": {
-               "5": "Kombinasi enak dari buah musim panas."
+               "5": "Salad Buah. Kombinasi enak dari buah musim panas."
             },
             "611": {
                "5": "Tidak ada satupun yang seperti ini."
             },
             "612": {
-               "5": "Ini cukup manis untuk menutupi buahnya yang pahit."
+               "5": "Permen Kranberi. Ini cukup manis untuk menutupi buahnya yang pahit."
             },
             "613": {
-               "5": "Buah yang biasanya dijadikan jus dan sari buah."
+               "5": "Apel. Buah yang biasanya dijadikan jus dan sari buah."
             },
             "614": {
-               "5": "A pleasant, energizing beverage made from lightly processed tea leaves."
+               "5": "Teh Hijau. A pleasant, energizing beverage made from lightly processed tea leaves."
             },
             "618": {
                "5": "Tomat panggang didalam roti yang empuk."
@@ -10522,37 +10522,37 @@
                "5": "Mengairi 8 ubin yang berdekatan setiap pagi."
             },
             "628": {
-               "5": "Butuh 28 hari untuk tumbuh menjadi pohon cherry dewasa. Berbuah saat musim semi. Hanya tumbuh jika 8 \"tiles\" di sekelilingnya kosong."
+               "5": "Bibit Ceri. Butuh 28 hari untuk tumbuh menjadi pohon cherry dewasa. Berbuah saat musim semi. Hanya tumbuh jika 8 \"tiles\" di sekelilingnya kosong."
             },
             "629": {
-               "5": "Butuh 28 hari untuk tumbuh menjadi pohon aprikot dewasa. Berbuah saat musim semi. Hanya tumbuh jika 8 \"tiles\" di sekelilingnya kosong."
+               "5": "Bibit Aprikot. Butuh 28 hari untuk tumbuh menjadi pohon aprikot dewasa. Berbuah saat musim semi. Hanya tumbuh jika 8 \"tiles\" di sekelilingnya kosong."
             },
             "630": {
-               "5": "Butuh 28 hari untuk tumbuh menjadi pohon jeruk dewasa. Berbuah saat musim panas. Hanya tumbuh jika 8 \"tiles\" di sekelilingnya kosong."
+               "5": "Bibit Jeruk. Butuh 28 hari untuk tumbuh menjadi pohon jeruk dewasa. Berbuah saat musim panas. Hanya tumbuh jika 8 \"tiles\" di sekelilingnya kosong."
             },
             "631": {
-               "5": "Butuh 28 hari untuk tumbuh menjadi pohon persik dewasa. Berbuah saat musim panas. Hanya tumbuh jika 8 \"tiles\" di sekelilingnya kosong."
+               "5": "Bibit Pir. Butuh 28 hari untuk tumbuh menjadi pohon persik dewasa. Berbuah saat musim panas. Hanya tumbuh jika 8 \"tiles\" di sekelilingnya kosong."
             },
             "632": {
-               "5": "Butuh 28 hari untuk tumbuh menjadi pohon delima dewasa. Berbuah saat musim gugur. Hanya tumbuh jika 8 \"tiles\" di sekelilingnya kosong."
+               "5": "Bibit Delima. Butuh 28 hari untuk tumbuh menjadi pohon delima dewasa. Berbuah saat musim gugur. Hanya tumbuh jika 8 \"tiles\" di sekelilingnya kosong."
             },
             "633": {
-               "5": "Butuh 28 hari untuk tumbuh menjadi pohon apel dewasa. Berbuah saat musim gugur. Hanya tumbuh jika 8 \"tiles\" di sekelilingnya kosong \"tiles\" are empty."
+               "5": "Bibit Apel. Butuh 28 hari untuk tumbuh menjadi pohon apel dewasa. Berbuah saat musim gugur. Hanya tumbuh jika 8 \"tiles\" di sekelilingnya kosong \"tiles\" are empty."
             },
             "634": {
-               "5": "Buah lembut dengan biji sekeras batu."
+               "5": "Buah Aprikot. Buah lembut dengan biji sekeras batu."
             },
             "635": {
-               "5": "Juicy, aroma tajam, dan mengeluarkan aroma musim panas."
+               "5": "Buah Jeruk. Juicy, aroma tajam, dan mengeluarkan aroma musim panas."
             },
             "636": {
-               "5": "Sangat berbulu saat disentuh."
+               "5": "Buah Pir. Sangat berbulu saat disentuh."
             },
             "637": {
-               "5": "Didalam buahnya terdapat segerombolan biji berair."
+               "5": "Buah Delima. Didalam buahnya terdapat segerombolan biji berair."
             },
             "638": {
-               "5": "Sangat populer, dan lebih cepat matang daripada buah yang lain."
+               "5": "Buah Ceri. Sangat populer, dan lebih cepat matang daripada buah yang lain."
             },
             "645": {
                "5": "Mengairi 24 ubin yang berdekatan setiap pagi."
@@ -10594,7 +10594,7 @@
                "5": "Bisa ditetaskan lewat Slime incubator."
             },
             "681": {
-               "5": "Aktifkan untuk meningkatkan kemungkinan hujan besok hari. Sekali pakai."
+               "5": "Konsumsi ini untuk meningkatkan peluang turun hujan besok."
             },
             "682": {
                "5": "Air aneh dari sewer membuat ikan ini berubah wujud seperti monster."
@@ -10603,7 +10603,7 @@
                "5": "Gumpalan berair dari daging serangga."
             },
             "685": {
-               "5": "Membuat ikan lebih cepat menangkap kail. Harus dipasang di fishing rod."
+               "5": "Umpan Pancing. Membuat ikan lebih cepat menangkap kail. Harus dipasang di fishing rod."
             },
             "686": {
                "5": "Bentuknya membuat ia dapat berputar didalam air. Meningkatkan sedikit kemungkinan ikan memakan umpan."
@@ -10642,10 +10642,10 @@
                "5": "Hybrid langka dari trout yang tak bisa melanjutkan spesiesnya sendiri."
             },
             "700": {
-               "5": "Keluarga catfish yang suka makan dari dasar danau."
+               "5": "Ikan Lele. Keluarga catfish yang suka makan dari dasar danau."
             },
             "701": {
-               "5": "Ikan vegetarian yang suka air hangat."
+               "5": "Ikan Nila. Ikan vegetarian yang suka air hangat."
             },
             "702": {
                "5": "Ikan air tawar umum yang terkenal rakus."
@@ -10654,10 +10654,10 @@
                "5": "Meningkatkan kemungkinan dapat harta karun. Tetapi, ikan tak begitu suka dengan rasanya."
             },
             "704": {
-               "5": "Karnivor dengan sisik orange terang."
+               "5": "Ikan Lemadang. Karnivor dengan sisik orange terang."
             },
             "705": {
-               "5": "Lebih suka temperatur yang \"edges\" dimana dingin dan hangat bertemu."
+               "5": "Ikan Albakora. Lebih suka temperatur yang \"edges\" dimana dingin dan hangat bertemu."
             },
             "706": {
                "5": "Tinggal dilaut, tapi kesungai untuk bertelur."
@@ -10675,13 +10675,13 @@
                "5": "Taruh di air, masukan umpan, dan cek esok hari apa kau mendapat sesuatu. Bekerja di sungai, danau, dan laut."
             },
             "715": {
-               "5": "Seekor crustacean besar bawah laut dengan ekor yang kuat."
+               "5": "Seekor krustasea besar bawah laut dengan ekor yang kuat."
             },
             "716": {
                "5": "Keluarga lobster yang hidup di air tawar."
             },
             "717": {
-               "5": "Crustacean laut dengan dua capit kuat."
+               "5": "Kepiting. Krustasea laut dengan dua capit kuat."
             },
             "718": {
                "5": "Kerang laut umum."
@@ -10690,22 +10690,22 @@
                "5": "Kerang umum yang biasanya hidup berkelompok."
             },
             "720": {
-               "5": "Makhluk yang suka makan didasar laut. Dagingnya sangat mahal."
+               "5": "Udang. Makhluk yang suka makan didasar laut. Dagingnya sangat mahal."
             },
             "721": {
-               "5": "Sebuah moluska umum yang hidup didalam cangkang yang berputar."
+               "5": "Siput. Sebuah moluska umum yang hidup didalam cangkang yang berputar."
             },
             "722": {
                "5": "Siput air tawar kecil yang hidup di cangkang biru."
             },
             "723": {
-               "5": "Menyaring air untuk mencari makanan. Makhluk ini dapat menghilangkan limbah dari lingkungan sekitar."
+               "5": "Tiram. Menyaring air untuk mencari makanan. Makhluk ini dapat menghilangkan limbah dari lingkungan sekitar."
             },
             "724": {
-               "5": "Sirup manis dengan rasa unik."
+               "5": "Sirup Mapel. Sirup manis dengan rasa unik."
             },
             "725": {
-               "5": "Substansi lengket dan harum berasal dari getah pohon oak."
+               "5": "Resin Pohon Ek. Substansi lengket dan harum berasal dari getah pohon oak."
             },
             "726": {
                "5": "Substansi berbau tajam dari getah pohon pinus."
@@ -10714,7 +10714,7 @@
                "5": "Cara sempurna untuk menjagamu tetap hangat setelah semalaman di laut."
             },
             "728": {
-               "5": "Berbau seperti laut. Tapi rasanya enak."
+               "5": "Rebusan Ikan. Berbau seperti laut. Tapi rasanya enak."
             },
             "729": {
                "5": "Siput dilumuri mentega yang dimasak sempurna."
@@ -10726,7 +10726,7 @@
                "5": "Donat manis dengan topping lapisan es maple."
             },
             "732": {
-               "5": "Kepiting, tepung roti, dan telur dibentuk menjadi patty dan digoreng kecoklatan."
+               "5": "Kue Kepiting. Kepiting, tepung roti, dan telur dibentuk menjadi patty dan digoreng kecoklatan."
             },
             "733": {
                "5": "A sumptuous appetizer made with freshly-caught shrimp."
@@ -10735,7 +10735,7 @@
                "5": "Ikan yang sangat sensitif yang hanya bisa hidup di danau dalam hutan."
             },
             "745": {
-               "5": "Tanam saat musim semi. Butuh 8 hari untuk tumbuh, tapi tetap produksi setelahnya."
+               "5": "Benih Stroberi. Tanam saat musim semi. Butuh 8 hari untuk tumbuh, tapi tetap produksi setelahnya."
             },
             "746": {
                "5": "Dekorasi musim gugur yang aneh."
@@ -10762,10 +10762,10 @@
                "5": "..."
             },
             "764": {
-               "5": "gold ore"
+               "5": "bijih emas"
             },
             "765": {
-               "5": "iridium ore"
+               "5": "bijih iridium"
             },
             "766": {
                "5": "Bersinar, seperti jelly dan tak berbau."
@@ -10783,7 +10783,7 @@
                "5": "Semuanya ada disini. Tanam dan lihat apa yang tumbuh!"
             },
             "771": {
-               "5": "Material mentah yang berasal dari tanaman."
+               "5": "Serat. Material mentah yang berasal dari tanaman."
             },
             "772": {
                "5": "Minum ini dan monster yang lemah tak akan mengganggumu."
@@ -10819,7 +10819,7 @@
                "5": "Kainnya ternodai oleh sari buah."
             },
             "791": {
-               "5": "This is one tough nut to crack, but a professional might be able to break it open."
+               "5": "Kelapa Emas. Sangat sulit dibuka, tapi kalau sudah ahli mudah membukanya."
             },
             "792": {
                "5": "Rumput yang jelek."
@@ -10831,13 +10831,13 @@
                "5": "Rumput yang jelek."
             },
             "795": {
-               "5": "Day^Spring Summer"
+               "5": "Seekor salmon, yang kena energi void. Dagingnya berwarna hitam pekay, tapi lama-lama akan jadi merah muda jika terkena udara."
             },
             "796": {
                "5": "Ia terbungkus dengan berlapis-lapis kulit slime. Sangat licin dan susah dipegang!"
             },
             "797": {
-               "5": "Harta langka dari laut."
+               "5": "Mutiara. Harta langka dari laut."
             },
             "798": {
                "5": "Makhluk aneh dan misterius dari kedalaman laut yang gelap."
@@ -10846,43 +10846,43 @@
                "5": "Matanya yang besar dapat mendeteksi mangsanya yang jauh."
             },
             "800": {
-               "5": "Makhluk aneh ini beREnang di lantai laut, memakan apapun yang enak di jalur berenangnya."
+               "5": "Makhluk aneh ini berenang di lantai laut, memakan apapun yang enak di jalur berenangnya."
             },
             "801": {
-               "5": "Tradisi kota tua Zuzu... Dulunya dipakai melamar sesama petani."
+               "5": "Cincin Pernikahan. Tradisi kota tua Zuzu... Dulunya dipakai melamar sesama petani."
             },
             "802": {
-               "5": "Hanya dapat tumbuh di dalam ruangan. Butuh 12 hari untuk tumbuh, dan terus berbuah setiap 3 hari."
+               "5": "Bibit Kaktus. Hanya dapat tumbuh di dalam ruangan. Butuh 12 hari untuk tumbuh, dan terus berbuah setiap 3 hari."
             },
             "803": {
-               "5": "Susu yang tidak diketahui darimana asalnya..."
+               "5": "Susu Iridium. Susu yang tidak diketahui darimana asalnya..."
             },
             "805": {
-               "5": "Sprinkle on a wild tree to ensure rapid growth, even in winter. Doesn't work on fruit trees."
+               "5": "Pupuk Pohon. Taburkan di pohon liar untuk mempercepat pertumbuhan, bahkan di musim semi. Tidak bisa dipakai pada pohon buah."
             },
             "807": {
-               "5": "It's thick and creamy, with a vivid green hue. It smells like grass and leather."
+               "5": "Mayones Dinosaurus. Kental dan lembut, berwarna hijau cerah. Baunya seperti rumput dan kulit."
             },
             "808": {
-               "5": "It's symbolic to the shadow people. As a gift, it signifies the desire to move in together as friends."
+               "5": "Sebuah simbol menurut Shadow People. Kalau digunakan sebagai hadiah, berarti menunjukkan hasrat untuk tinggal bersama sebagai teman."
             },
             "809": {
-               "5": "Admits one to the movie theater. Giving this to a friend invites them to the movies with you."
+               "5": "Tiket Bioskop. Ajak temanmu nonton bersama dengan memberikan tiket ini padanya."
             },
             "810": {
-               "5": "The top of the ring is made from enchanted crab shell."
+               "5": "Ujung cincinnya terbuat dari cangkang kepiting yang dimantrai."
             },
             "811": {
-               "5": "When you defeat an enemy, they explode."
+               "5": "Saat kau mengalahkan musuh, mereka akan meledak."
             },
             "812": {
-               "5": "Fresh fish eggs. These can be aged in a preserves jar to bring out more flavor."
+               "5": "Telur ikan segar. Bisa diawetkan di Preserves Jar untuk mengeluarkan rasanya."
             },
             "814": {
-               "5": "Squid use this ink to confuse would-be predators."
+               "5": "Tinta Cumi. Cumi-cumi menggunakan tinta ini untuk melindungi diri dari predator."
             },
             "815": {
-               "5": "The young leaves of the tea plant. Can be brewed into the popular, energizing beverage."
+               "5": "Daun teh muda dari tanaman teh. Bisa direbus untuk dijadikan minuman terkenal yang memberi energi."
             },
             "816": {
                "5": "..."
@@ -10897,73 +10897,73 @@
                "5": "..."
             },
             "820": {
-               "5": "It's a perfect specimen!"
+               "5": "Spesimen yang utuh!"
             },
             "821": {
-               "5": "A column of interlocking vertebrae."
+               "5": "Satu kolom tulang belankang yang bersambungan."
             },
             "822": {
-               "5": "This tail has a club-like feature at the tip."
+               "5": "Ekornya memiliki bentuk seperti pentungan di ujungnya."
             },
             "823": {
-               "5": "A thick and sturdy leg bone."
+               "5": "Tulang kaki yang tebal dan kokoh."
             },
             "824": {
-               "5": "Long ago, these ribs protected the body of a large animal."
+               "5": "Dulu, tulang rusuk ini melindungi organ seekor binatang besar."
             },
             "825": {
-               "5": "A preserved skull that once belonged to a snake."
+               "5": "Tengkorak milik seekor ular."
             },
             "826": {
-               "5": "It appears this serpent may have been extremely flexible."
+               "5": "Sepertinya tubuh ular ini sangat fleksibel."
             },
             "827": {
-               "5": "The delicate wings have been perfectly preserved."
+               "5": "Sayapnya yang halus telah diawetkan."
             },
             "828": {
-               "5": "This ancient frog may have lived in the jungle canopy."
+               "5": "Katak kuno ini dulunya mungkin tinggal di lapisan atas hutan."
             },
             "829": {
-               "5": "This sharp, spicy root is said to increase vitality."
+               "5": "Jahe. Tanaman yang pedas dan tajam rasanya ini konon katanya bisa meningkatkan daya tahan tubuh."
             },
             "830": {
-               "5": "This starchy root is one of the most ancient crops."
+               "5": "Talas. Ubi berpati ini adalah salah satu tanaman kuno."
             },
             "831": {
-               "5": "Plant these in warm weather. Takes 10 days to mature. Grows faster if planted near a body of water."
+               "5": "Bibit Talas. Tanam ini di cuaca yang hangat. Dewasa dalam 10 hari. Tumbuh lebuh cepat kalau ditanam dekat sumber air."
             },
             "832": {
-               "5": "A sweet and tangy tropical treat."
+               "5": "Nanas. Buah tropis yang masam dan manis."
             },
             "833": {
-               "5": "Plant these in warm weather. Takes 14 days to mature, and keeps producing fruit after that."
+               "5": "Benih Nanas. Tanam ini di cuaca yang hangat. Dewasa dalam 14 hari, dan terus berbuah setelahnya."
             },
             "834": {
-               "5": "A big, sweet tropical fruit with a unique flavor."
+               "5": "Mangga. Buah tropis yang besar dan manis dengan rasa yang unik."
             },
             "835": {
-               "5": "Takes 28 days to produce a mature Mango tree. Bears fruit in the summer, or all year round when planted on Ginger Island."
+               "5": "Bibit Mangga. Dewasa dalam 28 hari dan akan berbuah Mangga. Berbuah di musim panas, atau sepanjang tahun kalau ditanam di Ginger Island."
             },
             "836": {
-               "5": "Despite having a toxic stinger, these fish are shy and prefer to avoid humans."
+               "5": "Ikan Pari. Meski punya sengat yang beracun, ikan ini sebenarnya pemalu dan tidak ingin mendekati manusia."
             },
             "837": {
-               "5": "An aggressive, predatory fish with venomous spines."
+               "5": "Ikan Lepu Ayam. Ikan predator agresif yang duri-durinya beracun."
             },
             "838": {
-               "5": "A brightly colored tropical fish that is popular in aquariums."
+               "5": "Ikan tropis berwarna cerah yang populer untuk akuarium."
             },
             "839": {
-               "5": "When enemies damage you, they will take damage themselves."
+               "5": "Saat musuh menyerangmu, mereka yang akan terluka."
             },
             "840": {
-               "5": "Place on the ground to create paths or to decorate your floors."
+               "5": "Taruh di tanah untuk membuat jalan setapak atau menghiasi lantai."
             },
             "841": {
-               "5": "Place on the ground to create paths or to decorate your floors."
+               "5": "Taruh di tanah untuk membuat jalan setapak atau menghiasi lantai."
             },
             "842": {
-               "5": "A damp tattered page torn from an old journal..."
+               "5": "Halaman basah yang disobek dari jurnal tua..."
             },
             "843": {
                "5": "..."
@@ -10981,7 +10981,7 @@
                "5": "..."
             },
             "848": {
-               "5": "You can feel a warm glow from within this stone."
+               "5": "Kau bisa merasakan pancaran hangat dari batu ini."
             },
             "849": {
                "5": "..."
@@ -10990,82 +10990,82 @@
                "5": "..."
             },
             "851": {
-               "5": "A very rare mushroom that lives next to pools of lava."
+               "5": "Jamur sangat langka yang hidup di dekat kolam lava."
             },
             "852": {
-               "5": "These are rumored to be the teeth of ancient serpents. The enamel is made of pure iridium!"
+               "5": "Rumornya ini adalah gigi dari ular kuno. Enamelnya murni terbuat dari iridium!"
             },
             "856": {
-               "5": "Increases your chance to catch rare fish."
+               "5": "Meningkatkan peluang untuk menangkap ikan langka."
             },
             "857": {
-               "5": "Can be hatched in a slime incubator. Use with extreme caution!"
+               "5": "Disa ditetaskan di Slime Incubator. Gunakan dengan hati-hati!"
             },
             "858": {
-               "5": "A special currency honored by Mr. Qi."
+               "5": "Mata uang yang diagungkan oleh Mr. Qi."
             },
             "859": {
-               "5": "The lunar emblem is said to bring good luck to whoever wears it."
+               "5": "Lambang bulannya dikatakan membawa keberuntungan bagi pemakainya."
             },
             "860": {
-               "5": "Greatly increases your chance to find coffee drinks when slaying monsters."
+               "5": "Secara drastis meningkatkan peluangmu untuk menemukan kopi saat membunuh monster."
             },
             "861": {
-               "5": "Stay invincible for a little while longer after taking damage."
+               "5": "Mempertahankan kekebalan lebih lama setelah menerima serangan."
             },
             "862": {
-               "5": "Gain a little bit of energy every time you slay a monster."
+               "5": "Sedikit demi sedikit menerima energi setiap kali membunuh monster."
             },
             "863": {
-               "5": "Once a day, regain some health after being knocked out in combat."
+               "5": "Satu kali dalam sehari, kamu bisa memulihkan kesehatan setelah kalah dalam pertarungan."
             },
             "864": {
-               "5": "It's a faded photograph of a soldier..."
+               "5": "Foto seorang tentara yang sudah pudar..."
             },
             "865": {
-               "5": "A rare, delicious and savory salt."
+               "5": "Garam gurih yang langka dan lezat."
             },
             "866": {
-               "5": "A rose that reminds you of the valley. It smells heavenly."
+               "5": "Mawar yang mengingatkanmu pada lembah. Baunya sangat wangi."
             },
             "867": {
-               "5": "It has more buttons than a regular remote. Perfect for the avid TV watcher!"
+               "5": "Punya tombol lebih banyak dari remot biasa. Cocok buat penonton TV akut!"
             },
             "868": {
-               "5": "This shard glows with an otherworldly blue light."
+               "5": "Beling ini menyinarkan cahaya biru yang sangat indah."
             },
             "869": {
-               "5": "It's a wriggling, wet worm."
+               "5": "Ular hidup yang menggeliat."
             },
             "870": {
-               "5": "It's an old pirate's keepsake."
+               "5": "Kenang-kenangan dari perompak tua."
             },
             "872": {
-               "5": "Sprinkle on kegs, furnaces, and other refining equipment to instantly receive their product."
+               "5": "Taburkan di Keg, Furnace, dan mesin-mesin lain untuk langsung mendapatkan produk secara instan."
             },
             "873": {
-               "5": "Drink in moderation."
+               "5": "Minum secukupnya."
             },
             "874": {
-               "5": "The last resort of the hungry cave diver."
+               "5": "Pilihan terakhir para penjelah gua."
             },
             "875": {
-               "5": "A thick, slimy goop that the Wizard wants for some reason."
+               "5": "Gumpalan yang tebal dan lengket yang diinginkan Penyihir untuk sesuatu."
             },
             "876": {
-               "5": "Harvested from the rare and elusive prismatic slime."
+               "5": "Dipanen dari Prismatic Slime yang langka."
             },
             "877": {
-               "5": "Boosts the quality of fish that you catch."
+               "5": "Meningkatkan kualitas ikan yang kamu tangkap."
             },
             "879": {
-               "5": "Spray this on to draw more monsters out of hiding."
+               "5": "Semprot ini untuk memancing monster agar keluar dari persembunyian."
             },
             "880": {
                "5": "..."
             },
             "881": {
-               "5": "A small piece of bone."
+               "5": "Bagian kecil dari tulang."
             },
             "882": {
                "5": "..."
@@ -11077,106 +11077,106 @@
                "5": "..."
             },
             "885": {
-               "5": "Plant these in any season. Does not require watering. Harvest with the scythe. Takes 7 days to grow."
+               "5": "Benih Fiber. Tanam ini di musim apapun. Tidak perlu disiram. Panen dengan sabit. Tumbuh dalam 7 hari."
             },
             "886": {
-               "5": "Warp directly to Ginger Island. Consumed on use."
+               "5": "Konsumsi untuk teleportasi ke Ginger Island."
             },
             "887": {
-               "5": "The top of the ring is made from enchanted purple wool."
+               "5": "Ujung cincinnya terbuat dari wol ungu yang dimantrai."
             },
             "888": {
-               "5": "Emits a constant light, and also increases your radius for collecting items."
+               "5": "Memancarkan cahaya secara konstan, dan meningkatkan jarak daya tarik item."
             },
             "889": {
-               "5": "Mr. Qi has challenged you to ship 1000 of these strange melons."
+               "5": "Mr. Qi menantangmu untuk menjual 1000 buah melon aneh ini."
             },
             "890": {
-               "5": "Plant these in any season. Water every day to produce a Qi Fruit. Takes 4 days to mature."
+               "5": "Buncis Qi. Tanam di musim Apapun. Siram setiap hari untuk memproduksi Qi Fruit. Dewasa dalam 4 hari."
             },
             "891": {
-               "5": "Place this on your farm to plant a mushroom tree."
+               "5": "Bibit Pohon Jamur. Tanam ini di ladang untuk menumbuhkan Pohon Jamur."
             },
             "892": {
-               "5": "Warp to Qi's Arena. Be prepared for a challenge!."
+               "5": "Menteleportasi ke Qi's Arena. Bersiaplah menghadapi sebuah tantangan!."
             },
             "893": {
-               "5": "An old tradition for celebrations and festivities. Handle with care!"
+               "5": "Sebuah tradisi lama untuk perayaan dan festival. Gunakan dengan hati-hati!"
             },
             "894": {
-               "5": "An old tradition for celebrations and festivities. Handle with care!"
+               "5": "Sebuah tradisi lama untuk perayaan dan festival. Gunakan dengan hati-hati!"
             },
             "895": {
-               "5": "An old tradition for celebrations and festivities. Handle with care!"
+               "5": "Sebuah tradisi lama untuk perayaan dan festival. Gunakan dengan hati-hati!"
             },
             "896": {
-               "5": "Forge 3 of these into a Galaxy weapon to unleash its final form."
+               "5": "Tempa 3 benda ini ke senjata Galaxy untuk mengubahnya ke wujud terakhir."
             },
             "897": {
-               "5": "Pierre might be interested in this."
+               "5": "Pierre mungkin sedang mencari ini."
             },
             "898": {
-               "5": "He hatched in the warm summer water, and followed in the footsteps of his father."
+               "5": "Dia menetas di perairag hangat musim panas, dan mengikuti jejak ayahnya."
             },
             "899": {
-               "5": "Uses a bioluminescent dangler to attract prey."
+               "5": "Menggunakan cahaya untuk menarik mangsanya."
             },
             "900": {
-               "5": "The successor to the original Legend."
+               "5": "Penerus ikan Legend."
             },
             "901": {
-               "5": "A carp that spent one too many years in toxic sludge."
+               "5": "Seekor Carp yang terlalu lama hinggap di kubangan racun."
             },
             "902": {
-               "5": "The original Glacierfish had a son..."
+               "5": "Anak dari Glacierfish..."
             },
             "903": {
-               "5": "A zesty soda known for its soothing effect on the stomach."
+               "5": "Sebuah minuman soda yang punya rasa menenangkan pada perut."
             },
             "904": {
-               "5": "A creamy dessert with a wonderful tropical flavor."
+               "5": "Puding Pisang. Hidangan penutup lembut dengan cita rasa tropis."
             },
             "905": {
-               "5": "Sweet mango and coconut transforms this rice into something very special."
+               "5": "Mangga dan kelapa yang manis mengubah nasi ini jadi sesuatu yang spesial."
             },
             "906": {
-               "5": "A traditional food with a delicate, sweet flavor when eaten fresh."
+               "5": "Makanan tadisional dengan rasa yang manis dan lezat saat dimakan panas."
             },
             "907": {
-               "5": "An exotic, fragrant curry served in a pineapple bowl."
+               "5": "Kare yang wangi dan khas dihidangkan di mangkuk nanas."
             },
             "908": {
-               "5": "Allows you to catch fish from any season, time, or weather, from whichever type of water you cast into."
+               "5": "Umpan Ajaib. Kamu bisa menangkap ikan dari musim dan cuaca apapun kapan saja dari perairan yang kau pancing."
             },
             "909": {
-               "5": "It's glowing with dangerous energy... Can be smelted into bars."
+               "5": "Memancarkan energi berbahaya... Bisa dilebur jadi batangan."
             },
             "910": {
-               "5": "Known by the Zuzu City Safety Commission to cause irreversible bodily harm."
+               "5": "Bijih Radioaktif. Menurut Komisi Keamanan Zuzu City benda ini dapat menyebabkan luka yang tak dapat disembuhkan."
             },
             "911": {
-               "5": "Playing this flute will summon your horse. Only works outdoors."
+               "5": "Seruling Kuda. Meniup seruling ini akan memanggil kudamu. Hanya berfungsi di luar ruangan."
             },
             "913": {
-               "5": "Place on a sprinkler and load with fertilizer to automatically apply it when planting seeds nearby."
+               "5": "Taruh di sebuah Sprinkler dan isi dengan pupuk agar langsung ditabur saat menanam bibit di sekitarnya."
             },
             "915": {
-               "5": "Place on a sprinkler to increase its watering range."
+               "5": "Taruh di sebuah Sprinkler untuk meningkatkan jarak penyiraman."
             },
             "917": {
-               "5": "Just a dash will elevate any dish to extraordinary heights. Automatically applied when cooking."
+               "5": "Hanya dengan sejumput, hidangan apapun akan jadi sangat nikmat. Langsung terpakai saat memasak."
             },
             "918": {
-               "5": "Greatly stimulates leaf production. Guaranteed to increase growth rate by at least 33%. Mix into tilled soil."
+               "5": "Meningkatkan stimulasi pertumbuhan daun. Dijamin akan meningkatkan kadar pertumbuhan minimal 33%. Campurkan di tanah yang sudah dicangkul."
             },
             "919": {
-               "5": "Greatly improves soil quality, increasing your chance to grow quality crops. Mix into tilled soil."
+               "5": "Meningkatkan kualitas tanah secara drastis, dan meningkatkan peluang untuk menghasilkan buah berkualitas. Campurkan di tanah yang sudah dicangkul."
             },
             "920": {
-               "5": "This soil has a 100% chance of staying watered overnight. Mix into tilled soil."
+               "5": "Tanah ini punya peluang 100% tetap basah semalaman. Campurkan di tanah yang sudah dicangkul."
             },
             "921": {
-               "5": "Temporarily protects from debuffs."
+               "5": "Sementara melindungimu dari debuff."
             },
             "922": {
                "5": "..."
@@ -11188,19 +11188,19 @@
                "5": "..."
             },
             "925": {
-               "5": "Use this to transport a domesticated slime to another location."
+               "5": "Pakai ini untuk memindahkan slime jinak ke tempat lain."
             },
             "926": {
-               "5": "Use this to create a cooking campfire, allowing you to cook on-the-go!"
+               "5": "Api unggun untuk memasak. Kamu bisa masak langsung tanpa harus ke dapur!"
             },
             "927": {
-               "5": "This allows you to cook anywhere, and is not consumed on use."
+               "5": "Dengan ini kamu bisa memasak di mana saja, dan bisa dipakai berkali-kali."
             },
             "928": {
-               "5": "A very rare and special egg with a solid gold shell."
+               "5": "Telur langka dan spesial dengan cangkang emas."
             },
             "929": {
-               "5": "A shaped bush that acts like a fence."
+               "5": "Semak yang dibentuk sama untuk pagar."
             },
             "930": {
                "5": "???"
