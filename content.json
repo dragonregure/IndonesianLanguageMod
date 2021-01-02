@@ -12301,7 +12301,7 @@
            "0": "Terima kasih sudah bergabung denganku semalam... Benar-benar menyenangkan.^Aku senang beruang itu muncul!^^Sampai jumpa nanti^^ Love, Emily"
          },
          "foundLostTools": {
-           "0": "Dear @,^Someone dropped your tools into the lost and found bin last night.^^I came in and set them next to your bed.^Hope I didn't wake you... ^^ -Mayor Lewis"
+           "0": "Kepada @,^Tadi malam ada orang yang menaruh alat-alatmu di kotak barang temuan.^^Dan aku kembalikan di dekat tempat tidurmu.^Semoga tidurmu tidak terganggu... ^^  -Mayor Lewis"
          },
          "fishing2": {
            "0": "Aku punya stok barang baru...^Sebuah deluxe fishing pole dan beberapa bait yang bisa kau kaitkan!^Kau bisa gunakan bait supaya ikan cepat tertangkap. Sampai jumpa nanti! ^ -Willy"
@@ -12478,100 +12478,100 @@
            "0": "@, cintaku,^^Aku baru saja tiba di Grampleton untuk memulai tour. Dan aku baru ingat betapa ramainya kota ini! Jalanan dipenuhi oleh orang... Banyak dari mereka terburu-buru, atau hanya melamun, mereka tidak menyadari kondisi di sekitar mereka. Dan belum apa-apa, aku sudah kangen kot Pelican!^^Aku mulai tour malam ini ke toko buku lokal. Harus ku akui, aku sedikit gugup jika membayangkan berbicara di depan umum... Perutku mual seperti terlilit. Doakan aku!^^-Love, Elliott^^P.S. Kuharap tidurmu nyenyak dan tidak kesepian di rumah sebesar itu! %item conversationTopic ElliottGone2 0 %%[#]Letter From My Husband"
          },
          "elliottLetter2": {
-           "0": "My dear @,^^The first reading went well, though the audience was a bit smaller than I'd hoped. Still, I sold enough copies of the book to pay for my (bug-infested) hotel room!^^In a few hours, I leave for Zuzu City. If yesterday's reading was a warm-up, this next one will be a true napalm blast...^^I miss you very much. Remember to eat well! Oh, and don't forget the leftover crab cakes I put in the fridge...^-Love, Elliott %item conversationTopic ElliottGone3 0 %%[#]Letter From My Husband 2"
+           "0": "Pujaan hatiku @,^^Pembacaan pertama berjalan lancar, meskipun pendengarnya lebih sedikit dari yang kuharapkan. Tapi aku menjual buku yang cukup untuk membayar kamar hotel (yang penuh serangga)!^^Beberapa jam lagi, aku berangkat ke Zuzu City. Kalau pembacaan kemarin masih pemanasan, yang berikutnya akan menjadi ledakan bom...^^Aku sangat merindukanmu. Jangan lupa makan yang enak! Oh, dan jangan lupa ada sisa crab cake di lemari es...^-Dengan cinta, Elliott %item conversationTopic ElliottGone3 0 %%[#]Letter From My Husband 2"
          },
          "elliottLetter3": {
-           "0": "My sweet @,^^Last night in Zuzu City was quite the experience! It seems there's a large literary scene here... a few dozen people showed up at my reading!^^I even signed a couple of autographs... it's strange to be seen as someone important. It's all a matter of framing, a grand illusion... for truly I am no one special. Only your devoted Elliott, as always.^^Currently I'm alone, in my hotel room, 'ingesting' a Joja Value Meal...^^Should this be called 'food'?^Or 'edible matter'?^I needn't long brood^It must be the latter^^I look forward to returning home soon. Hope you enjoyed the crab cakes.^^-Love, Elliott %item conversationTopic ElliottGone4 0 %%[#]Letter From My Husband 3"
+           "0": "Cintaku @,^^Semalam di Zuzu City merupakan pengalaman baru! Sepertinya sastra adalah hal terkenal di sini... beberapa lusin orang datang ke pembacaanku!^^Aku bahkan menandatangani beberapa buku... aneh rasanya bagiku dianggap sebagai orang penting. Ini cuma masalah kemasan dan ilusi besar... karena kenyataannya aku bukan orang yang istimewa. Hanya Elliottmu yang setia, seperti biasa.^^Saat ini aku sendirian, di kamar hotel, 'menelan' Joja Value Meal...^^Pantaskah ini disebut 'makanan'?^Atau 'benda yang bisa dimakan'?^Aku tidak mau merenung lama^Rasanya sangat tidak enak^^Aku akan segera pulang. Semoga kamu menikmati crab cake-nya.^^-Dengan cinta, Elliott %item conversationTopic ElliottGone4 0 %%[#]Letter From My Husband 3"
          },
          "elliottLetter4": {
-           "0": "In dreams, when graced with lofty view^I gaze upon the sunlit sea^What distant shores I've travelled to^But time now clouds my memory^^There is but one eternal place^Where I shall someday pass beyond^In Valley dear, where my love waits:^Our little home beside the pond^^-Elliott %item conversationTopic ElliottGone5 0 %%[#]Letter From My Husband 4"
+           "0": "Dalam mimpi, saat aku diberkahi dengan pemandangan yang indah^Aku menatap laut yang disinari matahari^Pantai jauh yang pernah kukunjungi^Tapi sekarang waktu menyamarkan ingatanku^^Hanya ada satu tempat abadi^Di mana suatu hari nanti akan aku lampaui^Di Lembah tersayang, tempat di mana cintaku menunggu:^Rumah kecil kita di samping kolam^^-Elliott %item conversationTopic ElliottGone5 0 %%[#]Letter From My Husband 4"
          },
          "elliottLetter5": {
-           "0": "My dear @,^^I won't bore you with any more details about my readings. They are mostly the same.^^I'm sure your time has been much more exciting! I can't wait to return and see what progress has been made.^^On these long travels between towns, I amuse myself by closing my eyes and envisioning the farm... I see kegs pulsing with sweet wine, a furnace ablaze with precious ore, and our little kitchen with the smell of cinnamon and nutmeg. There's a lot to enjoy!^^Just don't stay out too late in the mines, my love. It's dangerous in there! If you must go... bring plenty of food.^^-Love, Elliott %item conversationTopic ElliottGone6 0 %%[#]Letter From My Husband 5"
+           "0": "Sayangku @,^^Aku tak ingin kamu bosan dengan cerita panjang soal pembacaanku. Sebagian besar sama.^^Aku yakin waktu yang kaulewati jauh lebih menarik! Aku tidak sabar untuk kembali dan melihat apa saja yang berubah.^^Dalam perjalanan panjang antar kota ini, aku menghibur diri dengan menutup mata lalu membayangkan ladang... Aku melihat Keg-Keg berisi wine manis berdenyut-denyut, furnace membakar ore berharga, dan dapur kecil kita dengan aroma kayu manis dan pala. Ada banyak hal yang bisa dinikmati!^^Jangan terlalu larut di tambang, sayangku. Berbahaya di sana! Kalau mau pergi ke sana... bawalah banyak makanan.^^-Dengan cinta, Elliott %item conversationTopic ElliottGone6 0 %%[#]Letter From My Husband 5"
          },
          "elliottLetter6": {
-           "0": "My dear @,^^This will be my last letter before I return home. I've had a fine trip... though nothing too exciting. It's been nice to meet people who enjoy my work, but I'm eager to return home.^^I look forward to the comfort of our little house, the satisfying farm work, a home-cooked meal, and most of all, cozying into the flannel sheets with you.^^See you soon!^-Love, Elliott %item conversationTopic ElliottGone7 0 %%[#]Letter From My Husband 6"
+           "0": "Sayangku @,^^Ini akan jadi surat terakhirku sebelum pulang. Perjalananku selama ini baik-baik saja... meskipun tidak terlalu menarik. Menyenangkan bisa bertemu orang-orang yang menikmati pekerjaanku, tapi aku ingin sekali pulang ke rumah.^^Aku menantikan kenyamanan rumah kecil kita, membantu di pertanian, menikmati makanan yang dimasak di rumah, dan yang paling penting, tidur dibawah selimut flanel bersamamu.^^Sampai jumpa!^-Dengan cinta, Elliott %item conversationTopic ElliottGone7 0 %%[#]Letter From My Husband 6"
          },
          "MarlonRecovery": {
-           "0": "@,^Found your lost item.^^Be more careful next time!^ -Marlon%item itemRecovery %%[#]Marlon Found Your Item"
+           "0": "@,^Aku menemukan barangmu yang hilang.^^Lain kali berhati-hatilah!^   -Marlon%item itemRecovery %%[#]Marlon Found Your Item"
          },
          "RarecrowSociety": {
-           "0": "Dear @,^^Your dedication is truly impressive...^^Only a select few manage to acquire the complete Rarecrow collection!^^Please accept this blueprint to commemorate your achievement.^ -The Z.C. Rarecrow Society%item craftingRecipe Deluxe_Scarecrow %%[#]From The Rarecrow Society"
+           "0": "Kepada @,^^Dedikasi Anda sungguh mengesankan...^^Hanya beberapa orang terpilih yang berhasil mengoleksi semua Rarecrow!^^Terimalah rancangan ini untuk mengenang pencapaian Anda.^   -Himpunan Z.C. Rarecrow %item craftingRecipe Deluxe_Scarecrow %%[#]From The Rarecrow Society"
          },
          "CarolineTea": {
-           "0": "Dear @,^^Thanks for stopping by my sunroom yesterday. I usually drink tea alone, but it was fun to share with you!^^I've enclosed instructions on how to prepare and grow your own tea. No pressure, but if you do end up growing some, make sure to bring me a cup!^^-Caroline%item craftingRecipe Tea_Sapling %%[#]Caroline's Tea Note"
+           "0": "Kepada @,^^Terima kasih telah mampir di ruang berjemurku kemarin. Aku biasanya minum teh sendirian, tapi menyenangkan bisa berbagi denganmu!^^Aku sudah melampirkan instruksi tentang cara menyiapkan dan menanam tehmu sendiri. Tidak ada paksaan, tapi kalau kamu mau menanamnya, jangan lupa untuk membawakanku secangkir!^^-Caroline%item craftingRecipe Tea_Sapling %%[#]Caroline's Tea Note"
          },
          "WoodChipper": {
-           "0": "Hey @,^^Just wanted to let you know about a new item I'm carrying... it's called a 'Wood Chipper'.^^You can use it to break hardwood into several pieces of regular wood!^^I know wood can be hard to come by in the winter, so if your supply gets low, consider picking one up.^ -Robin[#]Wood Chipper Notice"
+           "0": "Hei @,^^Hanya ingin memberitahumu soal benda baru yang kujual... namanya 'Wood Chipper'.^^Kamu bisa memakainya untuk memecah hardwood menjadi beberapa potong kayu biasa!^^Aku tahu kayu bisa sulit didapat saat musim dingin, jadi kalau persediaanmu hampir habis, pertimbangkan untuk membelinya.^       -Robin[#]Wood Chipper Notice"
          },
          "willyBackRoomInvitation": {
-           "0": "@,^^I've unlocked the back room of the shop.^Come by when you have a chance.^There's something I want to show you.^^-Willy[#]Willy's Back Room Invitation"
+           "0": "@,^^Aku sudah membuka pintu ruangan belakang di toko.^Mampirlah kalau sempat.^Ada sesuatu yang ingin kutunjukkan padamu.^^-Willy[#]Willy's Back Room Invitation"
          },
          "KrobusCrafting": {
-           "0": "@, I'm not sure how the human message system works, so I asked Wizard to help me write this letter.^^I hope you are doing okay.^^I wanted to share this with you... it's notes on how my people build a certain item.^^ -Krobus%item craftingRecipe Dark_Sign %%[#]A letter from Krobus"
+           "0": "@, aku tidak tahu bagaimana sistem pos kaum manusia bekerja, jadi aku minta tolong ke Penyihir untuk menulis surat ini.^^Semoga kabarmu baik-baik saja.^^Aku ingin memberikan ini padamu... itu catatan dari kaumku untuk merakit sebuah item.^^ -Krobus%item craftingRecipe Dark_Sign %%[#]A letter from Krobus"
          },
          "georgeGifts": {
-           "0": "Dear @,^^Thank you so much for the leeks. They look fresh and delicious. George will love them.^^Today, I'm going to surprise him with 12 little gift-wrapped treasures (thanks to you!). Stop by if you want to be there!^^-Evelyn^^P.S. Please accept this gift. I think you'll enjoy it!%item bigobject 246 %%[#]Evelyn's thank-you note"
+           "0": "Kepada @,^^Terima kasih banyak atas Leek-Leeknya. Semuanya enak dan segar. George pasti akan suka.^^Hari ini, aku menyiapkan 12 kado kecil berisi harta karun (terima kasih!). Mampirlah kalau ingin ikut!^^-Evelyn^^N.B. Terimalah hadiah ini. Kurasa kamu akan suka!%item bigobject 246 %%[#]Evelyn's thank-you note"
          },
          "robinResource": {
-           "0": "Hey @,^^Congratulations on completing my little challenge. I'm impressed!^^As an added bonus, I've included the blueprints for a new type of chest. Enjoy!^^-Robin^^^^P.S. -- Now that you have all those resources laying around, why not swing by for some construction work?%item craftingRecipe Stone_Chest %%[#]Robin's Resource Rush"
+           "0": "Hei @,^^Selamat sudah menyelesaikan tantangan kecilku. Aku kagum!^^Sebagai bonus, aku juga melampirkan rancangan 'chest' tipe baru. Selamat!^^-Robin^^^^N.B. -- Setelah kamu mengumpulkan semua material itu, mampirlah dan sewa aku untuk membangun sesuatu, kalau mau sih.%item craftingRecipe Stone_Chest %%[#]Robin's Resource Rush"
          },
          "ClintReward": {
-           "0": "Um, Hello... ^Thanks for helping me clear out those monsters.^^I'm not scared at all! ...But it should make the mines safer for everyone else... right?^^Take this blueprint. (Hope it doesn't make me obsolete...)^^ -Clint, the blacksmith%item craftingRecipe Geode_Crusher %%[#]Clint's Thank-you"
+           "0": "Eng, Halo... ^Terima kasih sudah membantu membasmi monster-monster itu.^^Aku nggak takut kok! ...Tapi itu akan membuat tambang lebih aman bagi orang lain... iya kan?^^Terimalah rancangan ini. (Semoga alat ini tidak menggantikanku...)^^ -Clint, si pandai besi%item craftingRecipe Geode_Crusher %%[#]Clint's Thank-you"
          },
          "ClintReward2": {
-           "0": "Um, Hello... ^Thanks for helping me clear out more monsters.^^Maybe next time, I'll take care of them myself... if I have time!^^Take this item. I found it in the back room...^^ -Clint, the blacksmith%item object 286 10 287 5 231 3 %%[#]Clint's Alternate Thank-you"
+           "0": "Eng, Halo... ^Terima kasih sudah membantu membasmi monster-monster lagi.^^Mungkin lain kali, aku akan melawannya sendiri... kalau sempat!^^Terimalah ini. Aku menemukan ini di gudang...^^ -Clint, si pandai besi%item object 286 10 287 5 231 3 %%[#]Clint's Alternate Thank-you"
          },
          "willyBugWadCutscene": {
            "0": "^^ -Willy%item craftingRecipe Quality_Bobber %%[#]Willy's Thank-you"
          },
          "MSB_Pierre": {
-           "0": "Dear @,^^I guess people didn't take to 'Pierre's Prime Produce' like I'd hoped...^^Anyways, here's my old 'Mini-Shipping Bin'.^The next time you get your hands on some produce worthy of the 'Pierre's Prime' luxury brand, maybe you could have them shipped my way?^^ -Pierre%item bigobject 248 %%[#]Pierre's Prime Produce"
+           "0": "Kepada @,^^Kurasa orang-orang kurang menerima 'Pierre's Prime Produce' dengan baik...^^Oh iya, ini 'Mini-Shipping Bin' lamaku.^Lain kali kalau punya produk yang pantas masuk kategori mewah 'Pierre's Prime', kau bisa mengirimnya padaku.^^ -Pierre%item bigobject 248 %%[#]Pierre's Prime Produce"
          },
          "MSB_Lewis": {
-           "0": "@,^I wanted to thank you for taking care of my special order. All of the hard work you've done has been a great boost to Pelican Town's image.^Here's a 'Mini-Shipping Bin' as a token of my appreciation.^Place it anywhere and I'll be sure to make a stop when I make my rounds.^^ -Lewis%item bigobject 248 %%[#]Lewis's Thank You"
+           "0": "@,^Aku ingin berterima kasih karena sudah menyelesaikan 'special order'ku. Semua kerja kerasmu telah menaikkan citra Pelican Town sangat tinggi.^Ini adalah 'Mini-Shipping Bin', sebegai ucapan terima kasihku.^Letakkan di mana saja dan aku akan mengeceknya kalau ke sana.^^ -Lewis%item bigobject 248 %%[#]Lewis's Thank You"
          },
          "WizardReward": {
-           "0": "The specimen you delivered offered great insight into the machinations of the fell beings we call 'monsters'.^^I've formulated a pungent tincture that these beings find intoxicating. Use it with caution...^^ -M. Rasmodius, Wizard%item craftingRecipe Monster_Musk %%[#]The Wizard's Discovery"
+           "0": "Sampel yang kau kirim memberiku wawasan luar biasa tentang intrik makhluk yang kena pengaruh jahat yang kita sebut 'monster'.^^Aku telah membuat ramuan berbau tajam yang akan memabukkan makhluk itu. Gunakan dengan waspada...^^ -M. Rasmodius, Wizard%item craftingRecipe Monster_Musk %%[#]The Wizard's Discovery"
          },
          "WizardReward2": {
-           "0": "Thanks to the ectoplasm you delivered to me, I've made a major breakthrough in the field of arcane engineering.^^Enclosed, you'll find blueprints for a most useful machine...^^ -M. Rasmodius, Wizard%item craftingRecipe Mini-Obelisk %%[#]The Wizard's Breakthrough"
+           "0": "Terima kasih atas ektoplasma yang kau kirim, aku telah membuat terobosan besar di bidang teknik sihir.^^Di lampiran, ada rancangan untuk mesin paling berguna...^^ -M. Rasmodius, Wizard%item craftingRecipe Mini-Obelisk %%[#]The Wizard's Breakthrough"
          },
          "DemetriusReward": {
-           "0": "Hi @,^^Thanks for your help with the fish.^Nature is usually good at keeping things balanced, but sometimes artificial factors can cause an imbalance.^^I've enclosed a blueprint from a science magazine that you might find interesting.^^-Demetrius%item craftingRecipe Farm_Computer %%[#]Demetrius' Thank You"
+           "0": "Hai @,^^Thanks for your help with the fish.^Nature is usually good at keeping things balanced, but sometimes artificial factors can cause an imbalance.^^I've enclosed a blueprint from a science magazine that you might find interesting.^^-Demetrius%item craftingRecipe Farm_Computer %%[#]Demetrius' Thank You"
          },
          "willyHours": {
-           "0": "Good news!^^The ol' boat is seaworthy once again, thanks to you!^^Stop by the back room whenever you want a ride.^^My shop is now open at 8AM every day, so you can get an early start.^^-Willy[#]Willy's Boat"
+           "0": "Kabar baik!^^Kapal tuanya sudah bisa berlayar, terima kasih!^^Mampirlah ke ruangan belakang kalau mau mencobanya.^^Tokoku sekarang buka jam 8AM setiap hari, jadi kamu bisa mulai lebih awal.^^-Willy[#]Willy's Boat"
          },
          "linusTrashCleanup": {
-           "0": "Hi @,^^Thanks for helping me clean up around the valley.^The waters are looking much cleaner. I think everyone will appreciate it. I know I will.^As a way of saying 'thanks', I wanted to teach you how to grow your own fiber. I hope it's useful.^^-Linus%item craftingRecipe Fiber_Seeds %%[#]Linus' Thank You"
+           "0": "Hai @,^^Terima kasih sudah membantuku membersihkan lembah.^Airnya tampak lebih jernih. Kurasa semuanya akan suka. Seperti aku.^Sebagai ucapan terima kasih, aku mau mengajarimu cara menanam 'Fiber'. Semoga bermanfaat.^^-Linus%item craftingRecipe Fiber_Seeds %%[#]Linus' Thank You"
          },
          "gusGiantOmelet": {
-           "0": "Hi @,^^Thanks for the eggs.^The yolks look amazing... I think this will be my best omelet yet!^^Please accept this gift.^^-Gus%item bigobject 216 %%[#]Gus' Famous Omelet"
+           "0": "Hai @,^^Terima kasih telurnya.^Kuning telurnya tampak lezat... kurasa ini akan jadi omelet terbaikku!^^Terimalah hadiah ini.^^-Gus%item bigobject 216 %%[#]Gus' Famous Omelet"
          },
          "pamNewChannel": {
-           "0": "Hey kid,^^Thanks for the 'juice'. It definitely had a ...one-of-a-kind... flavor.^^By the way, have you ever tuned in to channel 736? It's a seasonal fishing program that you might find interesting.^^Take care,^-Pam[#]Pam's Tip"
+           "0": "Hei nak,^^Terima kasih 'jus'nya. Rasanya... sangatlah unik.^^Oh iya, apa kamu pernah lihat saluran 736? Di sana ada acara memancing musiman yang mungkin kamu suka.^^Jaga dirimu,^-Pam[#]Pam's Tip"
          },
          "emilyStones": {
-           "0": "Hi @,^^Thanks again for the wonderful gemstones.^These will be perfect for my energy re-alignment work!^I wanted to thank you with this special gift. I hope you create some wonderful items with it!^^-Emily%item bigobject 247 %%[#]Emily's Gemstones"
+           "0": "Hai @,^^Terima kasih atas batu permatanya.^Semua bantunya pas buat meditasi energi!^Aku ingin berterima kasih dengan hadiah ini. Semoga kamu membuat item-item indah dengan ini!^^-Emily%item bigobject 247 %%[#]Emily's Gemstones"
          },
          "carolineSO": {
-           "0": "Hi @,^^Lewis told me that you've been shipping a lot of ingredients from the island! It's great to have access to new produce... it really opens a whole new world of culinary possibilities!^I'm including a gift for you... some blueprints you might find useful.^^-Caroline%item craftingRecipe Solar_Panel %%[#]Caroline's Tropical Ingredients"
+           "0": "Hai @,^^Lewis bilang kau mengirim banyak bahan dari pulau! Senang bisa dapat produk baru... itu akan membuka dunia baru dalam bidang kuliner!^Aku melampirkan hadiah buatmu... semoga rancangan ini berguna buatmu.^^-Caroline%item craftingRecipe Solar_Panel %%[#]Caroline's Tropical Ingredients"
          },
          "WillyTropicalFish": {
-           "0": "@,^^Congrats on a successful island fishing trip. I'm proud of ya!^^Here, take this special fish tank. It'll make a great piece in your house.^^-Willy%item furniture 2312 %%[#]Willy's Tropical Challenge"
+           "0": "@,^^Selamat atas wisata yang sukses ke pulau. Aku bangga!^^Terimalah akuarium ini. Ini akan jadi hiasan indah di rumah.^^-Willy%item furniture 2312 %%[#]Willy's Tropical Challenge"
          },
          "passedOutIsland": {
-           "0": "@,^^You never showed up at the boat, so I went lookin' for ya.^^Found you sprawled out in the dirt, with a couple o' parrots pulling gold out of your pockets!^^Had to drag you all the way down to the boat. Me legs feel like two freshwater shrimp...^-Willy"
+           "0": "@,^^Kau tidak segera kembali, jadi aku mencarimu.^^Aku menemukanmu tergeletak penuh pasir, dan ada betet-betet yang mencuri isi kantongmu!^^Aku harus menyeretmu ke perahu. Kakiku langsung pegal rasanya...^-Willy"
          },
          "passedOutIsland_Leo": {
-           "0": "Hi @,^^Last night, I found you slumbering in the dark.^It wasn't a very safe place, so the bird friends air-lifted you to your bed.^Please be careful from now on.^^-Leo^^P.S. Willy helped me write this."
+           "0": "Hai @,^^Semalam aku menemukanmu pingsan.^Di sana bukan tempat yang aman, jadi teman-temanku menggotongmu ke kamar.^Tolong lebih hati-hati lagi.^^-Leo^^N.B. Willy membantuku menulis surat ini."
          },
          "guntherBones": {
-           "0": "Hi @,^^Thanks for all the bones. I've got a lot to sort through here! To think, each fragment belonged to a living, breathing body from the past. Fascinating.^^Please accept this unique crafting recipe as a thank-you gift!^^-Gunther%item craftingRecipe Bone_Mill %%[#]Gunther's Note"
+           "0": "Hai @,^^Terima kasih atas tulang-tulangnya. Ada banyak yang harus kusortir! Menakjubkan mengingat bahwa setiap tulang ini dulunya milik makhluk hidup.^^Terimalah resep rakitan unik ini sebagai ucapan terima kasih!^^-Gunther%item craftingRecipe Bone_Mill %%[#]Gunther's Note"
          },
          "LeoCooking": {
-           "0": "@,^Here's a food from my home, that me and my family enjoy. Hope you like it. ^^ -Leo^^P.S. Willy helped me write this.%item cookingRecipe %%[#]Leo's Recipe"
+           "0": "@,^Aku mengirim makanan khas rumahku, yang sering aku dan keluargaku nikmati. Semoga kamu suka. ^^ -Leo^^N.B. Willy membantuku menulis surat ini.%item cookingRecipe %%[#]Leo's Recipe"
          }
        }
      }
