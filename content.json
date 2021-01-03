@@ -12688,7 +12688,7 @@
            "9": "Bisa digunakan buat menyimpan rumput untuk pakan ternak."
          },
          "Mill": {
-           "9": "Mesin Giling. Bisa digunakan untuk membuat tepung dari wheat dan gula dari beet."
+           "9": "Bisa digunakan untuk membuat tepung dari wheat dan gula dari beet."
          },
          "Earth Obelisk": {
            "9": "Dipakai untuk teleportasi ke gunung."
@@ -12703,46 +12703,46 @@
            "9": "Dipakai untuk teleportasi ke Pulau Ginger."
          },
          "Junimo Hut": {
-           "9": "Gubuk Junimo. Para Junimo akan memanen crop yang ditanam di sekitar gubuk ini."
+           "9": "Para Junimo akan memanen crop yang ditanam di sekitar gubuk ini."
          },
          "Gold Clock": {
-           "9": "Jam Emas. Mencegah puing-puing (ranting, batu, rumput liar) muncul di kebunmu. Dan mencegah pagar rusak."
+           "9": "Mencegah puing-puing (ranting, batu, rumput liar) muncul di kebunmu. Dan mencegah pagar rusak."
          },
          "Stable": {
-           "9": "Kandang Kuda. Memungkinkanmu untuk memelihara dan mengendarai kuda. Kuda sudah termasuk."
+           "9": "Memungkinkanmu untuk memelihara dan mengendarai kuda. Kuda sudah termasuk."
          },
          "Well": {
-           "9": "Sumur. Menyediakan tempat bagimu untuk mengisi ulang watering can."
+           "9": "Menyediakan tempat bagimu untuk mengisi ulang watering can."
          },
          "Shipping Bin": {
            "9": "Taruh barang ke dalam untuk menjualnya di malam hari."
          },
          "Coop": {
-           "9": "Rumah bagi 4 hewan ternak kecil."
+           "9": "Rumah bagi 4 hewan ternak."
          },
          "Big Coop": {
-           "9": "Rumah bagi 8 hewan ternak kecil. Dilengkapi dengan inkubator. Membuka bebek."
+           "9": "Rumah bagi 8 hewan ternak. Dilengkapi dengan inkubator. Membuka bebek."
          },
          "Deluxe Coop": {
-           "9": "Rumah bagi 12 hewan ternak kecil. Dilengkapi dengan sistem pakan otomatis. Membuka kelinci."
+           "9": "Rumah bagi 12 hewan ternak. Dilengkapi dengan sistem pakan otomatis. Membuka kelinci."
          },
          "Barn": {
-           "9": "Rumah bagi 4 hewan ternak besar."
+           "9": "Rumah bagi 4 hewan ternak."
          },
          "Big Barn": {
-           "9": "Rumah bagi 8 hewan ternak besar. Memungkinkan hewan untuk hamil. Membuka kambing dan burung unta."
+           "9": "Rumah bagi 8 hewan ternak. Memungkinkan hewan untuk hamil. Membuka kambing."
          },
          "Deluxe Barn": {
-           "9": "Rumah bagi 12 hewan ternak besar. Dilengkapi dengan sistem pakan otomatis. Membuka domba dan babi."
+           "9": "Rumah bagi 12 hewan ternak. Dilengkapi dengan sistem pakan otomatis. Membuka domba dan babi."
          },
          "Slime Hutch": {
-           "9": "Kandang Slime. Bisa dihuni 20 slimes. Isi airnya dan slime akan membuat slime ball."
+           "9": "Bisa dihuni 20 slimes. Isi airnya dan slime akan membuat slime ball."
          },
          "Shed": {
-           "9": "Gudang. Bangunan kosong. Isi dengan apa pun yang kamu suka! Interiornya juga dapat didekorasi!"
+           "9": "Bangunan kosong. Isi dengan apa pun yang kamu suka! Interiornya juga dapat didekorasi!"
          },
          "Big Shed": {
-           "9": "Gudang Besar. Dua kali ukuran shed biasa. Interiornya dapat didekorasi."
+           "9": "Dua kali ukuran shed biasa. Interiornya dapat didekorasi."
          },
          "Stone Cabin": {
            "9": "Rumah untuk temanmu! Disubsidi oleh dana pertanian kota."
@@ -12754,31 +12754,31 @@
            "9": "Rumah untuk temanmu! Disubsidi oleh dana pertanian kota."
          },
          "Greenhouse": {
-           "9": "Rumah Kaca. Tempat menanam crop dari musim apa pun, sepanjang tahun!"
+           "9": "Tempat menanam crop dari musim apa pun, sepanjang tahun!"
          },
          "Mine Elevator": {
            "9": "Lakukan perjalanan cepat antar elevator yang kamu buat. Hanya dapat membangun satu per level."
          },
          "Fish Pond": {
-           "9": "Kolam Ikan. Ternak ikan dan panen hasilnya. Ikan berkembang biak seiring waktu."
+           "9": "Ternak ikan dan panen hasilnya. Ikan berkembang biak seiring waktu."
          },
          "Chicken": {
-           "5": "Ayam. Telurnya lezat. Hadir dalam dua warna."
+           "5": "Telurnya lezat. Hadir dalam dua warna."
          },
          "Duck": {
-           "5": "Bebek. Bertelur dan terkadang menjatuhkan bulunya."
+           "5": "Bertelur dan terkadang menjatuhkan bulunya."
          },
          "Rabbit": {
            "5": "Ini kelinci yang dipenuhi bulu!"
          },
          "Cow": {
-           "5": "Sapi. Menghasilkan susu kental yang kaya gizi."
+           "5": "Menghasilkan susu kental yang kaya gizi."
          },
          "Sheep": {
-           "5": "Domba. Dapat dicukur untuk wolnya yang berharga."
+           "5": "Dapat dicukur untuk wolnya yang berharga."
          },
          "Goat": {
-           "5": "Kambing. Menghasilkan susu kambing yang lezat!"
+           "5": "Menghasilkan susu kambing yang lezat!"
          },
          "Pig": {
            "5": "Babi yang dilatih khusus untuk menemukan truffle."
@@ -12813,7 +12813,7 @@
            "1": "Agak tipis ... tapi modis!"
          },
          "505": {
-           "1": "Perlindungan dari berbagai elemen."
+           "1": "Perlindungan dari elemen."
          },
          "506": {
            "1": "Kulitnya sangat lentur."
@@ -12843,7 +12843,7 @@
            "1": "Tenunan iridium memberi sepatu kilauan ungu."
          },
          "515": {
-           "1": "Puncak fesyen country."
+           "1": "Puncak mode country."
          },
          "804": {
            "1": "Diciptakan dengan cinta oleh Emily. 100% bisa didaur ulang!"
@@ -13113,7 +13113,7 @@
            "1": "Ini pastinya labu yang besar sekali..."
          },
          "49": {
-           "1": "Versi prasejarah dari bando rambut."
+           "1": "A versi prasejarah dari bando rambut."
          },
          "50": {
            "1": "Terlihat seperti asli!"
@@ -13191,61 +13191,61 @@
            "1": "Berkilauan dengan energi prismatik"
          },
          "75": {
-           "1": "Golden Coconut yang dipotong setengah."
+           "1": "It's half of a golden coconut."
          },
          "76": {
-           "1": "Cuma bajak laut terkenal yang bisa tampil keren memakai ini."
+           "1": "Only the most infamous pirate could pull off this look."
          },
          "77": {
-           "1": "Dasi kupu-kupunya besar juga!"
+           "1": "This huge bow makes quite a statement!"
          },
          "78": {
-           "1": "Teman berlendir di kepalamu."
+           "1": "A slimy friend that lives on your dome."
          },
          "79": {
-           "1": "Topi dengan gaya yang lebih aerodinamis."
+           "1": "It's a more aerodynamic style of cap."
          },
          "80": {
-           "1": "Pakai ini biar mirip dengan si burung pedagang di pulau."
+           "1": "Wear this to look just like your favorite island trader."
          },
          "81": {
-           "1": "Topi koboi dengan bentuk yang lebih ekstrem."
+           "1": "A cowboy hat with a more extreme shape."
          },
          "82": {
-           "1": "Sebuah replika topi ikonik Mr. Qi."
+           "1": "A replica of Mr. Qi's iconic hat."
          },
          "83": {
-           "1": "Topi koboi dengan warna hitam yang modis."
+           "1": "A cowboy hat in fashionable black."
          },
          "84": {
-           "1": "Tidak memberikan perlindungan apapun terhadap radiasi."
+           "1": "Doesn't actually provide any protection from radiation."
          },
          "85": {
-           "1": "Tampilan klasik tokoh swashbuckler."
+           "1": "The classic swashbuckler look."
          },
          "86": {
            "1": "???"
          },
          "87": {
-           "1": "Topi merah dengan bintang di atasnya."
+           "1": "A red hat with stars on it."
          },
          "88": {
-           "1": "Pakai ini untuk tampil rileks."
+           "1": "These give you a relaxed look."
          },
          "89": {
-           "1": "Pakai ini supaya lebih safety."
+           "1": "These will make you look very safe."
          },
          "90": {
-           "1": "Kegemaran seorang peramban."
+           "1": "It's a forager's delight."
          },
          "91": {
-           "1": "Membuatmu tampak indah seperti harimau."
+           "1": "Makes you look like a beautiful tiger."
          },
          "92": {
            "1": "???"
          },
          "93": {
-           "1": "Cangkang telur burung unta yang dijadikan helm."
+           "1": "An Ostrich eggshell repurposed into a helmet."
          }
        }
      },
@@ -13367,37 +13367,37 @@
            "0": "^^ Aku 'meminjam' kalung dari Ibu, tapi aku menghilangkannya di sekitar pemandian... Dia akan panik kalau tahu kalungnya hilang!"
          },
          "1001": {
-           "0": "Hari Pertama^^...Kapalku karam... Dihancurkan oleh kejamnya badai laut^^Sekarang aku terdampar, di tanah asing. Kru kapalku lenyap, tinggal aku seorang. Mungkin dewi fortuna telah mengutuk tulang-tulangku ini... Atau dia punya rencana lain...^^Bagaimanapun juga, tak ada pilihan lagi selain bertahan hidup. Di sini ada banyak air segar, makanan untuk diambil, dan tanah subur untuk digarap.^^Pertama aku akan membuat tempat berlindung...^^(Ada halaman yang hilang)"
+           "0": "Day 1^^...My ship is lost... Shattered by a tempest in the unforgiving sea.^^I find myself stranded now, on these strange shores. My crew has perished, but I still live. Perhaps lady luck has blessed these wicked bones of mine... Or has her own designs for my fate...^^At any rate, I've no choice but to make a life for myself here. There's fresh water in abundance, food to forage, and fertile soil to work.^^First I'll build a shelter...^^(There are some pages missing)"
          },
          "1002": {
-           "0": "Hari ke-6^^Aku takkan kelaparan... perairannya penuh dengan ikan yang bisa dimakan. (lezat malah!)^^Aku juga menangkap stingray di gua sebelah tenggara pesisir. Padahal aku tidak tahu cara menangkapnya!^^Di lain hari, aku juga menangkap sejumlah golden walnut saat memancing. Buah itu banyak tersebar di pulau ini. Burung Betet di sini sangat menyukainya!"
+           "0": "Day 6^^I won't go hungry here... the waters are full of edible (nay, delicious!) fish.^^I even caught a stingray in the caves by the southeast shore. I haven't a clue what to do with it, though!^^The other day, I even fished up a couple of golden walnuts. They seem to be all over the island. The local parrots go crazy for them!"
          },
          "1003": {
-           "0": "Hari ke-14^^Setelah berada di pulau ini selama setengah bulan, kurang lebih aku sudah tahu cara mencari kacang emas itu.^^Kita harus mencari petunjuk. Kalau ada yang aneh, mungkin ada kacang emas di sana.^^Aku mengenali tanda di pasir... dan tanda di dedaunan...^^Bahkan aku juga lihat ada kacang di atas pohon dekat gunung berapi. Andai saja aku memetiknya dari bawah...^^Setiap kali ketemu tanamannya, pasti ada cara untuk meraihnya."
+           "0": "Day 14^^After half a month on this island, I've learned a thing or two about finding these golden nuts.^^One must keep their eyes peeled for subtle clues. If something looks unusual, there may be a hidden nut nearby.^^I've noticed signs in the sand... and signs in the leaves...^^I even saw a nut up in a tree near the volcano. If only I had a way of shooting it down...^^Whenever I've spotted a nut plant, I've always found a way to reach it."
          },
          "1004": {
            "0": "!image 10"
          },
          "1005": {
-           "0": "Hari ke-23^^Gunung berapinya menyimpan banyak rahasia.^^Aku pernah lihat ada orang kecil dengan mata menyala, bergerak cepat di kegelapan... seperti kucing di malam hari.^^(Apakah itu dwarf, yang disebut-sebut M. Jasper dalam buku perjalanan terkenalnya?)^^Juga ada mesin aneh. Bahkan manusia belum ada yang membuat mesin seperti itu.^^Di atasnya, ada jalan menuju kaldera gunung berapi. Dan, di sana ada mesin aneh, yang setengahnya tenggelam di lava... semacam \"penempa\". ^^Akan kuselidiki lagi besok."
+           "0": "Day 23^^The local volcano holds many secrets.^^I've seen little men with glowing eyes, skittering about in the dark... like cats in the night.^^(Could these be the fabled dwarf-men, mentioned by M. Jasper in his 'Famous Journeys'?)^^Strange machines, too. Uncanny... not like anything known to man.^^At the top, I found a passage to the caldera of the volcano. And, half submerged in the bubbling lava, a peculiar machine... a kind of \"forge\". ^^I'll investigate further tomorrow."
          },
          "1006": {
            "0": "!image 8"
          },
          "1007": {
-           "0": "--Forging Table--^^Topaz -- Defense^Emerald -- Speed^Jade -- Critical Strike Power^Aquamarine -- Critical Strike Chance^Amethyst -- Knockback^Ruby -- Damage^^Prismatic Shard -- Enchantment^^Catatan: Senjata hanya bisa ditempa 3 kali dengan permata, dan hanya bisa dipikat sekali dengan prismatic shard.^^Peralatan hanya bisa dipikat(enchant), tidak bisa ditempa(forge)."
+           "0": "--Forging Table--^^Topaz -- Defense^Emerald -- Speed^Jade -- Critical Strike Power^Aquamarine -- Critical Strike Chance^Amethyst -- Knockback^Ruby -- Damage^^Prismatic Shard -- Enchantment^^Note: Weapons can be forged up to 3 times with gems, and can also be enchanted once with a prismatic shard.^^Tools can only be enchanted, not forged."
          },
          "1008": {
-           "0": "--Weapon Enchantments--^^Artful: Membuatmu bisa mengeluarkan \"special moves\" lebih cepat^^Bug Killer: Memberi serangan lebih pada monster serangga.^^Vampiric: Sesekali menyedot health dari monster.^^Crusader: Memberi serangan lebih pada monster yang \"tidak suci\".^^Haymaker: Saat menyiangi Weeds, kamu bisa dapat Fiber lebih, dan berpeluang dapat Hay.^^--Tool Enchantments--^^Powerful: Lebih kuat memecah batu, menebang pohon, dsb.^^Reaching: Meningkatkan kapasitas 'charge-up' untuk area yang lebih luas.^^Shaving: Peluang dapat kayu tambahan saat menebang.^^Bottomless: Alat penyiram tidak akan pernah kering.^^Generous: Menggali lebih banyak item dari tanah.^^Archaeologist: Meningkatkan peluang untuk menemukan artefak dan tulang-belulang.^^Efficient: Tidak mengurangi energi saat digunakan.^^Swift: Mengayunkan alat lebih cepat.^^Master: Meningkatkan level memancing.^^Auto-Hook: Ikan dapat langsung ditarik saat mereka menggigit umpan.^^Preserving: Memberi peluang 50% pada bait dan tackle agar lebih awet."
+           "0": "--Weapon Enchantments--^^Artful: Allows you to do \"special moves\" more rapidly^^Bug Killer: Do more damage to bugs.^^Vampiric: Occasionally siphon health from a monster.^^Crusader: Do more damage to \"unholy\" monsters.^^Haymaker: When cutting weeds, you get more fiber, and also a chance to collect hay.^^--Tool Enchantments--^^Powerful: Do more tool damage to stones, trees, and the like.^^Reaching: Increases your charge-up capacity, for a greater area of effect.^^Shaving: Chance to peel off additional wood when chopping.^^Bottomless: Watering can will never run dry.^^Generous: Dig up more from beneath the earth.^^Archaeologist: Greater chance to find artifacts and bones.^^Efficient: Takes no energy to use.^^Swift: Swing the tool faster.^^Master: Increases fishing level.^^Auto-Hook: Automatically hooks fish when they bite.^^Preserving: Bait and tackle have a 50% chance to not be consumed."
          },
          "1009": {
-           "0": "'Di hari yang hujannya deras, aku melihat putri duyung di Lonely Rock^^Dari kisah yang kudengar mereka menyanyikan lagu yang merdu,^namun dia diam membisu...^^Esok paginya aku melihat jejeran batu di pinggir laut...^-----------------^Ya... batu-batu yang berbentuk seperti koin...^-----------------^Kalau dia tidak bisa bernyanyi, mungkin dia bisa memberi petunjuk menuju harta karun..."
+           "0": "'Twas a rain drenched day, and upon a lonely rock a beautiful maiden saw I^^Tales I'd heard of sea-born maidens singing siren's songs,^Yet nary a note could she muster...^^The next morning I spied an arrangement of stone upon the foamy bank...^-----------------^Aye... stones as big as pennies and stones as big as nickels were they...^-----------------^If but this harried sea dog a tune could howl, perhaps to Blackgull's treasure would she lead..."
          },
          "1010": {
            "0": "!image 9"
          },
          "1011": {
-           "0": "Hari ke-37^^Saat aku berusia 10 tahun, ayah memberiku Glow Ring dan Magnet Ring. Yang selalu kupakai sampai saat ini.^^Tapi, saat ada di atas gunung berapi... aku mendadak dapat ide aneh.^^Aku lepas cincinku, dan kutempa keduanya.^^Dan lihatlah! Mereka menyatu!^^Sekarang aku punya satu cincin yang bisa memberi cahaya dan punya efek magnet... Semoga ayah tidak keberatan, beristirahatlah dengan tenang, ayah..."
+           "0": "Day 37^^When I was a boy of ten year old, my father gave me a glow ring and a magnet ring. They've never left my fingers since.^^However, when I was standing on top of the volcano... a strange idea came over me.^^I took my two rings, and cast them into the forge.^^Lo and behold! They combined into one!^^Now I've got one glowing magnet ring... I hope old pappy doesn't mind, rest his soul..."
          }
        }
      }
