@@ -11925,7 +11925,7 @@
             }
          }
       },
-     {
+      {
        "Action": "EditData",
        "Target": "Data/mail",
        "Entries": {
@@ -12642,6 +12642,762 @@
          },
          "LeoCooking": {
            "0": "@,^Aku mengirim makanan khas rumahku, yang sering aku dan keluargaku nikmati. Semoga kamu suka. ^^ -Leo^^N.B. Willy membantuku menulis surat ini.%item cookingRecipe %%[#]Leo's Recipe"
+         }
+       }
+     },
+      {
+       "Action": "EditData",
+       "Target": "Data/Blueprints",
+       "Entries": {
+         "Silo": "390 100 330 10 334 5/3/3/-1/-1/-2/-1/null/Silo/Allows you to cut and store grass for feed./Buildings/none/48/128/-1/null/Farm/100/false",
+         "Mill": "388 150 390 50 428 4/4/2/-1/-1/-2/-1/null/Mill/Allows you to mill wheat, beets and rice./Buildings/none/64/128/-1/null/Farm/2500/false",
+         "Earth Obelisk": "337 10 86 10/3/2/-1/-1/-2/-1/null/Earth Obelisk/Warps you to the mountains./Buildings/none/48/128/-1/null/Farm/500000/true",
+         "Water Obelisk": "337 5 372 10 393 10/3/2/-1/-1/-2/-1/null/Water Obelisk/Warps you to the beach./Buildings/none/48/128/-1/null/Farm/500000/true",
+         "Desert Obelisk": "337 20 88 10 90 10/3/2/-1/-1/-2/-1/null/Desert Obelisk/Warps you to the desert./Buildings/none/48/128/-1/null/Farm/1000000/true",
+         "Island Obelisk": "337 10 852 10 91 10/3/2/-1/-1/-2/-1/null/Island Obelisk/Warps you to Ginger Island./Buildings/none/48/128/-1/null/Farm/1000000/true",
+         "Junimo Hut": "390 200 268 9 771 100/3/2/-1/-1/-2/-1/null/Junimo Hut/Junimos will harvest crops around the hut for you./Buildings/none/48/64/-1/null/Farm/20000/true",
+         "Gold Clock": "/3/2/-1/-1/-2/-1/null/Gold Clock/Prevents debris from appearing on your farm. Keeps fences from decaying./Buildings/none/48/80/-1/null/Farm/10000000/true",
+         "Stable": "709 100 335 5/4/2/-1/-1/-2/-1/null/Stable/Allows you to keep and ride a horse. Horse included./Buildings/none/64/96/-1/null/Farm/10000/false",
+         "Well": "390 75/3/3/-1/-1/-1/-1/null/Well/Provides a place for you to refill your watering can./Buildings/none/32/32/-1/null/Farm/1000/false",
+         "Shipping Bin": "388 150/2/1/-1/-1/-1/-1/null/Shipping Bin/Throw items inside to sell them overnight./Buildings/none/48/80/-1/null/Farm/250/false/0",
+         "Coop": "388 300 390 100/6/3/1/2/2/2/Coop/Coop/Houses 4 coop-dwelling animals./Buildings/none/64/96/4/null/Farm/4000/false",
+         "Big Coop": "388 400 390 150/6/3/1/2/2/2/Coop2/Big Coop/Houses 8 coop-dwelling animals. Comes with an incubator. Unlocks ducks./Upgrades/Coop/64/96/8/null/Farm/10000/false",
+         "Deluxe Coop": "388 500 390 200/6/3/1/2/2/2/Coop3/Deluxe Coop/Houses 12 coop-dwelling animals. Comes with an auto-feed system. Unlocks rabbits./Upgrades/Big Coop/64/96/12/null/Farm/20000/false",
+         "Barn": "388 350 390 150/7/4/1/3/3/3/Barn/Barn/Houses 4 barn-dwelling animals./Buildings/none/96/96/4/null/Farm/6000/false",
+         "Big Barn": "388 450 390 200/7/4/1/3/4/3/Barn2/Big Barn/Houses 8 barn-dwelling animals. Allows animals to give birth. Unlocks goats./Upgrades/Barn/96/96/8/null/Farm/12000/false",
+         "Deluxe Barn": "388 550 390 300/7/4/1/3/4/3/Barn3/Deluxe Barn/Houses 12 barn-dwelling animals. Comes with an auto-feed system. Unlocks sheep and pigs./Upgrades/Big Barn/96/96/12/null/Farm/25000/false",
+         "Slime Hutch": "390 500 338 10 337 1/11/6/5/5/-1/-1/SlimeHutch/Slime Hutch/Raise up to 20 slimes. Fill water troughs and slimes will create slime balls./Buildings/none/96/96/20/null/Farm/10000/false",
+         "Shed": "388 300/7/3/3/2/-1/-1/Shed/Shed/An empty building. Fill it with whatever you like! The interior can be decorated./Buildings/none/96/96/20/null/Farm/15000/false",
+         "Big Shed": "388 550 390 300/7/3/3/2/-1/-1/Shed2/Big Shed/Doubles the size of the shed. The interior can be decorated./Upgrades/Shed/96/96/20/null/Farm/20000/false",
+         "Stone Cabin": "390 10/5/3/2/1/-1/-1/Cabin/Cabin/A home for a friend! Subsidized by the town agricultural fund./Buildings/none/96/96/20/null/Farm/100/false/0",
+         "Plank Cabin": "388 5 771 10/5/3/2/1/-1/-1/Cabin/Cabin/A home for a friend! Subsidized by the town agricultural fund./Buildings/none/96/96/20/null/Farm/100/false/0",
+         "Log Cabin": "388 10/5/3/2/1/-1/-1/Cabin/Cabin/A home for a friend! Subsidized by the town agricultural fund./Buildings/none/96/96/20/null/Farm/100/false/0",
+         "Greenhouse": "/7/6/3/5/-1/-1/null/Greenhouse/A place to grow crops from any season, year round!/Buildings/none/64/96/-1/null/Farm/-1/false/0/2 6 3 6 4 6 2 7 3 7 4 7",
+         "Mine Elevator": "388 30 390 15 334 5/4/2/1/1/-1/-1/null/Mine Elevator/Quickly travel between any mine elevators you construct. You can only build one per mine level./Buildings/none/64/64/-1/MineElevator/UndergroundMine",
+         "Fish Pond": "390 200 152 5 153 5/5/5/-1/-1/-2/-1/null/Fish Pond/Raise fish and harvest their produce. Fish multiply over time./Buildings/none/76/78/10/null/Farm/5000/false/2",
+         "Chicken": "animal/500/64/64/Chicken/Lays delicious eggs. Comes in two colors./null/Farm",
+         "Duck": "animal/1000/64/64/Duck/Lays eggs and occasionally drops feathers./null/Farm",
+         "Rabbit": "animal/1500/64/64/Rabbit/These are wooly rabbits!/null/Farm",
+         "Cow": "animal/1000/64/96/Cow/Produces rich, creamy milk./null/Farm",
+         "Sheep": "animal/1500/64/96/Sheep/Can be sheared for valuable wool./null/Farm",
+         "Goat": "animal/1500/64/96/Goat/Produces tasty goat's milk!/null/Farm",
+         "Pig": "animal/2000/64/96/Pig/These are specially trained to find truffles./null/Farm"
+       },
+       "Fields": {
+         "Silo": {
+           "9": "Bisa digunakan buat menyimpan rumput untuk pakan ternak."
+         },
+         "Mill": {
+           "9": "Bisa digunakan untuk membuat tepung dari wheat dan gula dari beet."
+         },
+         "Earth Obelisk": {
+           "9": "Dipakai untuk teleportasi ke gunung."
+         },
+         "Water Obelisk": {
+           "9": "Dipakai untuk teleportasi ke pantai."
+         },
+         "Desert Obelisk": {
+           "9": "Dipakai untuk teleportasi ke gurun."
+         },
+         "Island Obelisk": {
+           "9": "Dipakai untuk teleportasi ke Pulau Ginger."
+         },
+         "Junimo Hut": {
+           "9": "Para Junimo akan memanen crop yang ditanam di sekitar gubuk ini."
+         },
+         "Gold Clock": {
+           "9": "Mencegah puing-puing (ranting, batu, rumput liar) muncul di kebunmu. Dan mencegah pagar rusak."
+         },
+         "Stable": {
+           "9": "Memungkinkanmu untuk memelihara dan mengendarai kuda. Kuda sudah termasuk."
+         },
+         "Well": {
+           "9": "Menyediakan tempat bagimu untuk mengisi ulang watering can."
+         },
+         "Shipping Bin": {
+           "9": "Taruh barang ke dalam untuk menjualnya di malam hari."
+         },
+         "Coop": {
+           "9": "Rumah bagi 4 hewan ternak."
+         },
+         "Big Coop": {
+           "9": "Rumah bagi 8 hewan ternak. Dilengkapi dengan inkubator. Membuka bebek."
+         },
+         "Deluxe Coop": {
+           "9": "Rumah bagi 12 hewan ternak. Dilengkapi dengan sistem pakan otomatis. Membuka kelinci."
+         },
+         "Barn": {
+           "9": "Rumah bagi 4 hewan ternak."
+         },
+         "Big Barn": {
+           "9": "Rumah bagi 8 hewan ternak. Memungkinkan hewan untuk hamil. Membuka kambing."
+         },
+         "Deluxe Barn": {
+           "9": "Rumah bagi 12 hewan ternak. Dilengkapi dengan sistem pakan otomatis. Membuka domba dan babi."
+         },
+         "Slime Hutch": {
+           "9": "Bisa dihuni 20 slimes. Isi airnya dan slime akan membuat slime ball."
+         },
+         "Shed": {
+           "9": "Bangunan kosong. Isi dengan apa pun yang kamu suka! Interiornya juga dapat didekorasi!"
+         },
+         "Big Shed": {
+           "9": "Dua kali ukuran shed biasa. Interiornya dapat didekorasi."
+         },
+         "Stone Cabin": {
+           "9": "Rumah untuk temanmu! Disubsidi oleh dana pertanian kota."
+         },
+         "Plank Cabin": {
+           "9": "Rumah untuk temanmu! Disubsidi oleh dana pertanian kota."
+         },
+         "Log Cabin": {
+           "9": "Rumah untuk temanmu! Disubsidi oleh dana pertanian kota."
+         },
+         "Greenhouse": {
+           "9": "Tempat menanam crop dari musim apa pun, sepanjang tahun!"
+         },
+         "Mine Elevator": {
+           "9": "Lakukan perjalanan cepat antar elevator yang kamu buat. Hanya dapat membangun satu per level."
+         },
+         "Fish Pond": {
+           "9": "Ternak ikan dan panen hasilnya. Ikan berkembang biak seiring waktu."
+         },
+         "Chicken": {
+           "5": "Telurnya lezat. Hadir dalam dua warna."
+         },
+         "Duck": {
+           "5": "Bertelur dan terkadang menjatuhkan bulunya."
+         },
+         "Rabbit": {
+           "5": "Ini kelinci yang dipenuhi bulu!"
+         },
+         "Cow": {
+           "5": "Menghasilkan susu kental yang kaya gizi."
+         },
+         "Sheep": {
+           "5": "Dapat dicukur untuk wolnya yang berharga."
+         },
+         "Goat": {
+           "5": "Menghasilkan susu kambing yang lezat!"
+         },
+         "Pig": {
+           "5": "Babi yang dilatih khusus untuk menemukan truffle."
+         }
+       }
+     },
+      {
+       "Action": "EditData",
+       "Target": "Data/Boots",
+       "Entries": {
+         "504": "Sneakers/A little flimsy... but fashionable!/50/1/0/0",
+         "505": "Rubber Boots/Protection from the elements./50/0/1/1",
+         "506": "Leather Boots/The leather is very supple./50/1/1/2",
+         "507": "Work Boots/Steel-toed for extra protection./50/2/0/3",
+         "508": "Combat Boots/Reinforced with iron mesh./150/3/0/4",
+         "509": "Tundra Boots/The fuzzy lining keeps your ankles so warm./150/2/1/5",
+         "510": "Thermal Boots/Designed with extreme weather in mind./50/1/2/6",
+         "511": "Dark Boots/Made from thick black leather./250/4/2/7",
+         "512": "Firewalker Boots/It's said these can withstand the hottest magma./250/3/3/8",
+         "513": "Genie Shoes/A curious energy permeates the fabric./250/1/6/9",
+         "514": "Space Boots/An iridium weave gives them a purple sheen./450/4/4/10",
+         "515": "Cowboy Boots/It's the height of country fashion./250/2/2/11",
+         "804": "Emily's Magic Boots/Made with love by Emily. 100% compostable!/250/4/4/13",
+         "806": "Leprechaun Shoes/The buckle's made of solid gold./250/2/1/14",
+         "853": "Cinderclown Shoes/These magic shoes belonged to a famous Dwarvish jester./1000/6/5/15",
+         "854": "Mermaid Boots/Mermaid scales gives these boots a protective aura./1000/5/8/16",
+         "855": "Dragonscale Boots/These shimmering boots are extremely tough./1000/7/0/17",
+         "878": "Crystal Shoes/These sparkling shoes will keep your feet very safe./1000/3/5/18"
+       },
+       "Fields": {
+         "504": {
+           "1": "Agak tipis ... tapi modis!"
+         },
+         "505": {
+           "1": "Perlindungan dari elemen."
+         },
+         "506": {
+           "1": "Kulitnya sangat lentur."
+         },
+         "507": {
+           "1": "Dengan ujung baja untuk perlindungan ekstra."
+         },
+         "508": {
+           "1": "Diperkuat dengan jaring besi."
+         },
+         "509": {
+           "1": "Lapisan berbulu membuat pergelangan kakimu hangat."
+         },
+         "510": {
+           "1": "Dirancang untuk cuaca ekstrem."
+         },
+         "511": {
+           "1": "Terbuat dari kulit hitam tebal."
+         },
+         "512": {
+           "1": "Dikatakan bisa tahan terhadap magma terpanas."
+         },
+         "513": {
+           "1": "Arwah penasaran meresapi kain."
+         },
+         "514": {
+           "1": "Tenunan iridium memberi sepatu kilauan ungu."
+         },
+         "515": {
+           "1": "Puncak mode country."
+         },
+         "804": {
+           "1": "Diciptakan dengan cinta oleh Emily. 100% bisa didaur ulang!"
+         },
+         "806": {
+           "1": "Gesper terbuat dari emas padat."
+         },
+         "853": {
+           "1": "Sepatu sihir ini dulunya milik Dwarvish jester yang terkenal."
+         },
+         "854": {
+           "1": "Sisik Mermaid memberi aura protektif pada sepatu ini."
+         },
+         "855": {
+           "1": "Boots berkilau ini sangat kuat."
+         },
+         "878": {
+           "1": "Sepatu berkilau ini akan membuat kakimu sangat aman."
+         }
+       }
+     },
+      {
+       "Action": "EditData",
+       "Target": "Data/hats",
+       "Entries": {
+         "0": "Cowboy Hat/The leather is old and cracked, but surprisingly supple. It smells musty./false/true",
+         "1": "Bowler Hat/Made from smooth felt./false/true",
+         "2": "Top Hat/A gentleman's classic./false/true",
+         "3": "Sombrero/A festively decorated hat made from woven straw./false/true",
+         "4": "Straw Hat/Light and cool, it's a farmer's delight./false/true",
+         "5": "Official Cap/Looks like it belonged to a postman or policeman. Either way, it's still very soft and smells okay./false/true",
+         "6": "Blue Bonnet/Harken back to simpler times with this prairie bonnet./false/true",
+         "7": "Plum Chapeau/Looks alright./false/true",
+         "8": "Skeleton Mask/The red eyes are glowing mysteriously./true/true",
+         "9": "Goblin Mask/Freak out the neighborhood with this creepy mask. Rubber ear joints for effect./true/true",
+         "10": "Chicken Mask/You'll be sure to get them grinning with this one./true/true",
+         "11": "Earmuffs/Keep your ears toasty. Lined with artisanal velvet from Castle Village./true/false",
+         "12": "Delicate Bow/Little pink jewels glisten as you examine it./true/false",
+         "13": "Tropiclip/It's shaped like a little palm tree./true/false",
+         "14": "Butterfly Bow/This one is very soft./true/false",
+         "15": "Hunter's Cap/The wool lining should stay warm deep into the forest./false/true",
+         "16": "Trucker Hat/Mesh in the back to keep your head cool./false/true",
+         "17": "Sailor's Cap/It's fresh and starchy./false/true",
+         "18": "Good Ol' Cap/A floppy old topper with a creased bill. Looks like it's been through a lot./false/true",
+         "19": "Fedora/A city-slicker's standard./false/true",
+         "20": "Cool Cap/It looks really faded, but it used to be a vibrant blue./false/true",
+         "21": "Lucky Bow/The middle is made of solid gold./true/false",
+         "22": "Polka Bow/This one's sure to be turn heads./true/false",
+         "23": "Gnome's Cap/This gnome had a very large head./false/true",
+         "24": "Eye Patch/You can't tell if it's real or just from a costume shop./true/true",
+         "25": "Santa Hat/Celebrate the magical season./false/true",
+         "26": "Tiara/This one has a big amethyst encircled by gold./true/true",
+         "27": "Hard Hat/Keep your dome in one piece./false/true",
+         "28": "Sou'wester/The shape helps to keep sailors dry during storms./false/true",
+         "29": "Daisy/A fresh spring daisy to put in your hair./true/false",
+         "30": "Watermelon Band/The color scheme was inspired by the beloved summer melon./true/false",
+         "31": "Mouse Ears/Made from synthetic fibers./true/true",
+         "32": "Cat Ears/Whiskers included./true/true",
+         "33": "Cowgal Hat/The band is studded with fake diamonds./false/true",
+         "34": "Cowpoke Hat/For dairy experts./false/true",
+         "35": "Archer's Cap/Fashionable whether you're an archer or not./false/true",
+         "36": "Panda Hat/A lovely panda hat./false/true",
+         "37": "Blue Cowboy Hat/A denim cowboy hat in cool blue./false/true",
+         "38": "Red Cowboy Hat/An eye-catching cowboy hat in red suede./false/true",
+         "39": "Cone Hat/A curiosity from a distant land./false/true",
+         "40": "Living Hat/It absorbs moisture from your scalp. No watering needed!/false/true",
+         "41": "Emily's Magic Hat/Made with love by Emily. It's 100% organic!/false/true",
+         "42": "Mushroom Cap/It smells earthy./false/true",
+         "43": "Dinosaur Hat/A hat fashioned to look like a small dinosaur./false/true",
+         "44": "Totem Mask/Don't worry, it won't warp your face.../true/true",
+         "45": "Logo Cap/A red cap with a logo on the front./false/true",
+         "46": "Wearable Dwarf Helm/A slightly larger, human sized version of the helmets worn by dwarves./hide/true",
+         "47": "Fashion Hat/A fashionable hat with a feather in the brim./false/true",
+         "48": "Pumpkin Mask/This must have been a pretty big pumpkin once.../hide/true",
+         "49": "Hair Bone/A prehistoric version of the hair bow./true/false",
+         "50": "Knight's Helmet/It looks just like the real thing!/hide/true",
+         "51": "Squire's Helmet/The face is exposed to increase air flow./hide/true",
+         "52": "Spotted Headscarf/A red polka-dot scarf tied around the head./hide/true",
+         "53": "Beanie/A warm hat with a pretty tight fit./hide/true",
+         "54": "Floppy Beanie/A warm hat with a looser fit./hide/true",
+         "55": "Fishing Hat/The wide brim keeps you shaded when you're fishing on the riverbank./false/true",
+         "56": "Blobfish Mask/Just as spongy as the real thing!/true/true",
+         "57": "Party Hat/A goofy red hat that makes any celebration more fun./false/true",
+         "58": "Party Hat/A goofy blue hat that makes any celebration more fun./false/true",
+         "59": "Party Hat/A goofy green hat that makes any celebration more fun./false/true",
+         "60": "Arcane Hat/The type of cowboy hat worn by a wizard./false/true",
+         "61": "Chef Hat/The traditional hat worn by a head chef./hide/true",
+         "62": "Pirate Hat/A captain's hat with a horrible skull on the front./false/true",
+         "63": "Flat Topped Hat/An old style of hat once considered very fashionable./false/true",
+         "64": "Elegant Turban/A fine black silk turban with gold trim./false/true",
+         "65": "White Turban/A fine white silk turban with blue trim./false/true",
+         "66": "Garbage Hat/It's a garbage can lid 'upcycled' into a hat.../false/true",
+         "67": "Golden Mask/A faithful recreation of the Calico Desert relic!/true/true",
+         "68": "Propeller Hat/A goofy hat with a propeller on top./false/true",
+         "69": "Bridal Veil/The traditional headwear for a bride./false/true",
+         "70": "Witch Hat/A pointy hat popular with witches./false/true",
+         "71": "Copper Pan/You place the copper pan on your head.../false/true",
+         "72": "Green Turban/A green silk turban with a gold ornament on the front./false/true",
+         "73": "Magic Cowboy Hat/It's shimmering with prismatic energy/false/true/Prismatic",
+         "74": "Magic Turban/It's shimmering with prismatic energy/false/true/Prismatic",
+         "75": "Golden Helmet/It's half of a golden coconut./false/true",
+         "76": "Deluxe Pirate Hat/Only the most infamous pirate could pull off this look./false/true",
+         "77": "Pink Bow/This huge bow makes quite a statement!/true/false",
+         "78": "Frog Hat/A slimy friend that lives on your dome./hide/true",
+         "79": "Small Cap/It's a more aerodynamic style of cap./false/true",
+         "80": "Bluebird Mask/Wear this to look just like your favorite island trader./hide/true",
+         "81": "Deluxe Cowboy Hat/A cowboy hat with a more extreme shape./false/true",
+         "82": "Mr. Qi's Hat/A replica of Mr. Qi's iconic hat./false/true",
+         "83": "Dark Cowboy Hat/A cowboy hat in fashionable black./false/true",
+         "84": "Radioactive Goggles/Doesn't actually provide any protection from radiation./true/true",
+         "85": "Swashbuckler Hat/The classic swashbuckler look./false/true",
+         "86": "Qi Mask/???/hide/true",
+         "87": "Star Helmet/A red hat with stars on it./false/true",
+         "88": "Sunglasses/These give you a relaxed look./true/true",
+         "89": "Goggles/These will make you look very safe./true/true",
+         "90": "Forager's Hat/It's a forager's delight./false/true",
+         "91": "Tiger Hat/Makes you look like a beautiful tiger./hide/true",
+         "92": "???/???/hide/true",
+         "93": "Warrior Helmet/An Ostrich eggshell repurposed into a helmet./false/true"
+       },
+       "Fields": {
+         "0": {
+           "1": "Kulitnya tua dan pecah-pecah, tapi masih lentur. Baunya apek."
+         },
+         "1": {
+           "1": "Terbuat dari kain yang halus."
+         },
+         "2": {
+           "1": "Topi klasik para pria."
+         },
+         "3": {
+           "1": "Topi dengan dekorasi meriah yang terbuat dari anyaman jerami."
+         },
+         "4": {
+           "1": "Ringan dan teduh, kesukaan para petani."
+         },
+         "5": {
+           "1": "Sepertinya itu milik tukang pos atau polisi. Siapa pun itu, masih sangat lembut dan baunya oke."
+         },
+         "6": {
+           "1": "Harken kembali ke masa yang lebih sederhana dengan kap padang ini."
+         },
+         "7": {
+           "1": "Kelihatan biasa."
+         },
+         "8": {
+           "1": "Mata merahnya bersinar secara misterius."
+         },
+         "9": {
+           "1": "Kagetkan tetanggamu dengan topeng menyeramkan ini. Sambungan telinga karet untuk efek tambahan."
+         },
+         "10": {
+           "1": "Kamu akan membuat orang lain tersenyum dengan yang satu ini."
+         },
+         "11": {
+           "1": "Jaga agar telingamu tetap hangat. Dilapisi beludru dari Castle Village."
+         },
+         "12": {
+           "1": "Permata pink kecil berkilau saat kamu memeriksanya."
+         },
+         "13": {
+           "1": "Bentuknya seperti pohon palem kecil."
+         },
+         "14": {
+           "1": "Yang ini sangat lembut."
+         },
+         "15": {
+           "1": "Lapisan wol yang tetap hangat saat di dalam hutan."
+         },
+         "16": {
+           "1": "Mesh di belakang agar kepala tetap dingin."
+         },
+         "17": {
+           "1": "Segar dan bertepung."
+         },
+         "18": {
+           "1": "Topi tua berkerut. Sepertinya sudah melalui banyak hal."
+         },
+         "19": {
+           "1": "Topi standar orang kota."
+         },
+         "20": {
+           "1": "Terlihat sangat pudar, tapi aslinya berwarna biru cerah."
+         },
+         "21": {
+           "1": "Bagian tengahnya terbuat dari emas padat."
+         },
+         "22": {
+           "1": "Yang ini pasti akan membuat orang menoleh."
+         },
+         "23": {
+           "1": "Gnome ini memiliki kepala yang sangat besar."
+         },
+         "24": {
+           "1": "Kamu tidak tahu apakah itu asli atau dari toko kostum."
+         },
+         "25": {
+           "1": "Rayakan musim ajaib."
+         },
+         "26": {
+           "1": "Memiliki batu kecubung besar yang dikelilingi oleh emas."
+         },
+         "27": {
+           "1": "Menjaga kepalamu tetap utuh."
+         },
+         "28": {
+           "1": "Bentuknya membantu pelaut tetap kering selama badai."
+         },
+         "29": {
+           "1": "Daisy segar musim semi untuk rambutmu."
+         },
+         "30": {
+           "1": "Skema warna yang terinspirasi oleh melon di musim panas yang dicintai."
+         },
+         "31": {
+           "1": "Terbuat dari serat sintetis."
+         },
+         "32": {
+           "1": "Kumis sudah termasuk."
+         },
+         "33": {
+           "1": "Pitanya dipenuhi berlian palsu."
+         },
+         "34": {
+           "1": "Untuk ahli perah."
+         },
+         "35": {
+           "1": "Tetap modis entah kamu seorang pemanah atau bukan."
+         },
+         "36": {
+           "1": "Topi panda yang indah."
+         },
+         "37": {
+           "1": "Topi koboi denim dengan warna biru dingin."
+         },
+         "38": {
+           "1": "Topi koboi yang menarik dengan suede merah."
+         },
+         "39": {
+           "1": "Rasa ingin tahu dari tanah yang jauh."
+         },
+         "40": {
+           "1": "Menyerap kelembaban dari kulit kepala. Tidak perlu disiram!"
+         },
+         "41": {
+           "1": "Dibuat dengan cinta oleh Emily. 100% organik!"
+         },
+         "42": {
+           "1": "Baunya seperti tanah."
+         },
+         "43": {
+           "1": "Topi yang dibuat agar terlihat seperti dinosaurus kecil."
+         },
+         "44": {
+           "1": "Jangan khawatir, itu tidak akan menteleportasi wajahmu..."
+         },
+         "45": {
+           "1": "Topi merah dengan logo di bagian depan."
+         },
+         "46": {
+           "1": "Helm dengan ukuran lebih besar dan manusiawi dari yang dipakai kurcaci."
+         },
+         "47": {
+           "1": "Topi modis dengan bulu di pinggirannya."
+         },
+         "48": {
+           "1": "Ini pastinya labu yang besar sekali..."
+         },
+         "49": {
+           "1": "A versi prasejarah dari bando rambut."
+         },
+         "50": {
+           "1": "Terlihat seperti asli!"
+         },
+         "51": {
+           "1": "Bagian wajah terbuka untuk meningkatkan aliran udara."
+         },
+         "52": {
+           "1": "Syal polka-dot merah yang diikatkan di kepala."
+         },
+         "53": {
+           "1": "Topi hangat yang cukup ketat."
+         },
+         "54": {
+           "1": "Topi hangat yang agak longgar."
+         },
+         "55": {
+           "1": "Pinggiran lebar membuatmu teduh saat memancing di tepi sungai."
+         },
+         "56": {
+           "1": "Teksturnya sama dengan aslinya!"
+         },
+         "57": {
+           "1": "Topi merah konyol yang membuat perayaan apa pun lebih menyenangkan."
+         },
+         "58": {
+           "1": "Topi biru konyol yang membuat perayaan apa pun lebih menyenangkan."
+         },
+         "59": {
+           "1": "Topi hijau konyol yang membuat perayaan apa pun lebih menyenangkan."
+         },
+         "60": {
+           "1": "Jenis topi koboi yang dipakai oleh penyihir."
+         },
+         "61": {
+           "1": "Topi tradisional yang dipakai kepala koki.."
+         },
+         "62": {
+           "1": "Topi kapten dengan tengkorak mengerikan di bagian depan."
+         },
+         "63": {
+           "1": "Topi gaya lama yang pernah dianggap sangat modis."
+         },
+         "64": {
+           "1": "Turban sutra hitam halus dengan hiasan emas."
+         },
+         "65": {
+           "1": "Turban sutra putih dengan trim biru."
+         },
+         "66": {
+           "1": "Tutup tempat sampah yang didaur ulang jadi topi..."
+         },
+         "67": {
+           "1": "Tiruan dari relik Gurun Calico Desert!"
+         },
+         "68": {
+           "1": "Topi konyol dengan baling-baling di atasnya."
+         },
+         "69": {
+           "1": "Biasanya dipakai oleh pengantin wanita."
+         },
+         "70": {
+           "1": "Topi runcing yang populer di kalangan penyihir."
+         },
+         "71": {
+           "1": "Kamu menaruh copper di kepalamu..."
+         },
+         "72": {
+           "1": "Sorban sutra hijau dengan ornamen emas di bagian depan."
+         },
+         "73": {
+           "1": "Berkilauan dengan energi prismatik"
+         },
+         "74": {
+           "1": "Berkilauan dengan energi prismatik"
+         },
+         "75": {
+           "1": "It's half of a golden coconut."
+         },
+         "76": {
+           "1": "Only the most infamous pirate could pull off this look."
+         },
+         "77": {
+           "1": "This huge bow makes quite a statement!"
+         },
+         "78": {
+           "1": "A slimy friend that lives on your dome."
+         },
+         "79": {
+           "1": "It's a more aerodynamic style of cap."
+         },
+         "80": {
+           "1": "Wear this to look just like your favorite island trader."
+         },
+         "81": {
+           "1": "A cowboy hat with a more extreme shape."
+         },
+         "82": {
+           "1": "A replica of Mr. Qi's iconic hat."
+         },
+         "83": {
+           "1": "A cowboy hat in fashionable black."
+         },
+         "84": {
+           "1": "Doesn't actually provide any protection from radiation."
+         },
+         "85": {
+           "1": "The classic swashbuckler look."
+         },
+         "86": {
+           "1": "???"
+         },
+         "87": {
+           "1": "A red hat with stars on it."
+         },
+         "88": {
+           "1": "These give you a relaxed look."
+         },
+         "89": {
+           "1": "These will make you look very safe."
+         },
+         "90": {
+           "1": "It's a forager's delight."
+         },
+         "91": {
+           "1": "Makes you look like a beautiful tiger."
+         },
+         "92": {
+           "1": "???"
+         },
+         "93": {
+           "1": "An Ostrich eggshell repurposed into a helmet."
+         }
+       }
+     },
+      {
+       "Action": "EditData",
+       "Target": "Data/SecretNotes",
+       "Entries": {
+         "1": "It's a page from Abigail's Diary^^'Things I love: the smell of carved pumpkin, keeping an amethyst under my pillow, chocolate cake, the thrill of spicy eel, and the comfort of Mom's blackberry cobbler (I like to eat!)'%revealtasteAbigail276%revealtasteAbigail66%revealtasteAbigail220%revealtasteAbigail226%revealtasteAbigail611",
+         "2": "It's Sam's holiday shopping list^^Everyone's favorites^^Sebastian: Frozen Tear, Sashimi^Penny: Emerald, Poppy^Vincent: Grape, Cranberry Candy^Mom: Crispy Bass, Pancakes^Dad: Risotto, Roasted Hazelnuts^Me: Cactus, Maple Bar, Pizza%revealtasteSebastian84%revealtasteSebastian227%revealtastePenny60%revealtastePenny376%revealtasteVincent398%revealtasteVincent612%revealtasteJodi214%revealtasteJodi211%revealtasteKent649%revealtasteKent607%revealtasteSam90%revealtasteSam731%revealtasteSam206",
+         "3": "It's written in Leah's handwriting^^My idea of a perfect dinner would be salad, goat cheese, truffle, and wine. For dessert I'd need a poppyseed muffin. Yum! If someone gave me one of those things, I'd melt.%revealtasteLeah196%revealtasteLeah426%revealtasteLeah430%revealtasteLeah348%revealtasteLeah651",
+         "4": "It's a note of Maru's^^Parts still needed for my greatest invention yet!^^*Gold Bar^*Iridium Bar^*Battery Pack^*Diamond^*Strawberries%revealtasteMaru336%revealtasteMaru337%revealtasteMaru787%revealtasteMaru72%revealtasteMaru400",
+         "5": "It's Penny's handwriting:^^I want to get everyone something they love!^^Mom: Parsnip, Glazed Yams, NO BEER!^Jas: Fairy Rose, Plum Pudding^Vincent: Pink Cake, Grape^Mr. Mullner: Leek, Fried Mushroom^Granny Mullner: Beet, Tulip%revealtastePam24%revealtastePam208%revealtastePam346%revealtasteJas595%revealtasteJas604%revealtasteVincent398%revealtasteVincent221%revealtasteGeorge20%revealtasteGeorge205%revealtasteEvelyn284%revealtasteEvelyn591",
+         "6": "Stardrop Saloon Special Orders^^Mayor Lewis: Autumn's Bounty^(Double order of high-fiber bread on the side)^^Marnie: Pumpkin Pie^(extra whipped cream!)^^Demetrius: Bean Hotpot^(Make it spicy)^^Caroline: Fish Taco^(she wants triple the sauce! Better throw in a few extra napkins...)%revealtasteLewis235%revealtasteMarnie608%revealtasteDemetrius207%revealtasteCaroline213",
+         "7": "It's a page from someone's diary...^^...There are only a few 'older' bachelors in town, and none of them are perfect! Harvey is really anxious and weak, but I know he would make a loyal and devoted husband. He likes coffee and pickles.^^Elliott is a bit foppish and melodramatic, but he does have a nice chin. He likes crab cakes and pomegranates.^^Shane is messy and anti-social. But I think his gruff exterior is a defense mechanism, insulating his softness from the world. He likes Beer, Pizza, and Pepper Poppers.%revealtasteHarvey395%revealtasteHarvey342%revealtasteElliott732%revealtasteElliott637%revealtasteShane346%revealtasteShane206%revealtasteShane215",
+         "8": "^To Haley and Emily^^Hope you two are doing well! We've sent you your favorite gifts: Pink Cake and Sunflowers for Haley, Gemstones and Wool for Emily!^^-Love Mom and Dad%revealtasteHaley221%revealtasteHaley421%revealtasteEmily440%revealtasteEmily66%revealtasteEmily62%revealtasteEmily60%revealtasteEmily70%revealtasteEmily64%revealtasteEmily68",
+         "9": "Alex's Strength Training Diet:^^*Complete Breakfast^*Salmon Dinner^^(I've learned to love this food... I can feel the protein!!)%revealtasteAlex201%revealtasteAlex212",
+         "10": "Someone is ^    waiting for you ^        on level 100 ^         in^          the^             skull cavern...",
+         "11": "!image 6",
+         "12": "I've found some good things by looking in the garbage cans, on lucky days.^^Sometimes you'll find the 'dish of the day' behind the saloon... usually fresh!^^For dessert, I'll check the Mullners' can for cookies.^^For treasures, check the cans by the blacksmith and museum.",
+         "13": "^^12 o' clock noon SHARP. Last day of the season. Check the bush above the playground.",
+         "14": "^^^    I hid something behind the community center.",
+         "15": "^^       Mermaid Show: 1-5-4-2-3",
+         "16": "!image 0",
+         "17": "!image 1",
+         "18": "!image 3",
+         "19": "!image 2",
+         "20": "!image 4",
+         "21": "!image 5",
+         "22": "Greetings, @...^^Have you found my 'secret' in the dark tunnel?^^I look forward to meeting you!^^    -Qi",
+         "23": "^^^If yoo can reed dis... come to seecrit wuds. Pleez bring may-pal serrup.",
+         "24": "It's a page from M. Jasper's book:^^...the creatures, known by some as \"Forest Spirits\" or \"Junimos\", are said to appear in abandoned buildings after they've \"gone to seed\".^^As a general rule... when humans leave, and nature begins to reclaim her territory, the Junimos will undoubtedly appear.^^Folk wisdom holds that the Junimos display some kind of resonant affinity with gemstones that are placed inside their little huts...^^Of course, all these claims come from dubious, unverified sources... As far as I know, even the mere existence of these creatures has never been proven!",
+         "25": "^^ I 'borrowed' a necklace from Mom, but lost it somewhere near the bath house... She's going to freak out if she notices it's missing!",
+         "1001": "Day 1^^...My ship is lost... Shattered by a tempest in the unforgiving sea.^^I find myself stranded now, on these strange shores. My crew has perished, but I still live. Perhaps lady luck has blessed these wicked bones of mine... Or has her own designs for my fate...^^At any rate, I've no choice but to make a life for myself here. There's fresh water in abundance, food to forage, and fertile soil to work.^^First I'll build a shelter...^^(There are some pages missing)",
+         "1002": "Day 6^^I won't go hungry here... the waters are full of edible (nay, delicious!) fish.^^I even caught a stingray in the caves by the southeast shore. I haven't a clue what to do with it, though!^^The other day, I even fished up a couple of golden walnuts. They seem to be all over the island. The local parrots go crazy for them!",
+         "1003": "Day 14^^After half a month on this island, I've learned a thing or two about finding these golden nuts.^^One must keep their eyes peeled for subtle clues. If something looks unusual, there may be a hidden nut nearby.^^I've noticed signs in the sand... and signs in the leaves...^^I even saw a nut up in a tree near the volcano. If only I had a way of shooting it down...^^Whenever I've spotted a nut plant, I've always found a way to reach it.",
+         "1004": "!image 10",
+         "1005": "Day 23^^The local volcano holds many secrets.^^I've seen little men with glowing eyes, skittering about in the dark... like cats in the night.^^(Could these be the fabled dwarf-men, mentioned by M. Jasper in his 'Famous Journeys'?)^^Strange machines, too. Uncanny... not like anything known to man.^^At the top, I found a passage to the caldera of the volcano. And, half submerged in the bubbling lava, a peculiar machine... a kind of \"forge\". ^^I'll investigate further tomorrow.",
+         "1006": "!image 8",
+         "1007": "--Forging Table--^^Topaz -- Defense^Emerald -- Speed^Jade -- Critical Strike Power^Aquamarine -- Critical Strike Chance^Amethyst -- Knockback^Ruby -- Damage^^Prismatic Shard -- Enchantment^^Note: Weapons can be forged up to 3 times with gems, and can also be enchanted once with a prismatic shard.^^Tools can only be enchanted, not forged.",
+         "1008": "--Weapon Enchantments--^^Artful: Allows you to do \"special moves\" more rapidly^^Bug Killer: Do more damage to bugs.^^Vampiric: Occasionally siphon health from a monster.^^Crusader: Do more damage to \"unholy\" monsters.^^Haymaker: When cutting weeds, you get more fiber, and also a chance to collect hay.^^--Tool Enchantments--^^Powerful: Do more tool damage to stones, trees, and the like.^^Reaching: Increases your charge-up capacity, for a greater area of effect.^^Shaving: Chance to peel off additional wood when chopping.^^Bottomless: Watering can will never run dry.^^Generous: Dig up more from beneath the earth.^^Archaeologist: Greater chance to find artifacts and bones.^^Efficient: Takes no energy to use.^^Swift: Swing the tool faster.^^Master: Increases fishing level.^^Auto-Hook: Automatically hooks fish when they bite.^^Preserving: Bait and tackle have a 50% chance to not be consumed.",
+         "1009": "'Twas a rain drenched day, and upon a lonely rock a beautiful maiden saw I^^Tales I'd heard of sea-born maidens singing siren's songs,^Yet nary a note could she muster...^^The next morning I spied an arrangement of stone upon the foamy bank...^-----------------^Aye... stones as big as pennies and stones as big as nickels were they...^-----------------^If but this harried sea dog a tune could howl, perhaps to Blackgull's treasure would she lead...",
+         "1010": "!image 9",
+         "1011": "Day 37^^When I was a boy of ten year old, my father gave me a glow ring and a magnet ring. They've never left my fingers since.^^However, when I was standing on top of the volcano... a strange idea came over me.^^I took my two rings, and cast them into the forge.^^Lo and behold! They combined into one!^^Now I've got one glowing magnet ring... I hope old pappy doesn't mind, rest his soul..."
+       },
+       "Fields": {
+         "1": {
+           "0": "Ini adalah halaman dari Buku Harian Abigail^^'Hal yang aku sukai: aroma pumpkin berukir, menyimpan amethyst di bawah bantal, kue coklat, sensasi belut pedas, dan lezatnya cobbler blackberry buatan ibu (aku suka makan!)'%revealtasteAbigail276%revealtasteAbigail66%revealtasteAbigail220%revealtasteAbigail226%revealtasteAbigail611"
+         },
+         "2": {
+           "0": "Ini daftar belanja liburan Sam^^Favorit semua orang^^Sebastian: Frozen Tear, Sashimi^Penny: Emerald, Poppy^Vincent: Grape, Cranberry Candy^Ibu: Crispy Bass, Pancakes^Ayah: Risotto, Roasted Hazelnuts^Aku: Cactus, Maple Bar, Pizza%revealtasteSebastian84%revealtasteSebastian227%revealtastePenny60%revealtastePenny376%revealtasteVincent398%revealtasteVincent612%revealtasteJodi214%revealtasteJodi211%revealtasteKent649%revealtasteKent607%revealtasteSam90%revealtasteSam731%revealtasteSam206"
+         },
+         "3": {
+           "0": "Ini tulisan tangan Leah^^Makan malam yang pas buatku adalah salad, goat cheese, truffle, dan wine. Untuk hidangan penutup aku butuh poppyseed muffin. Nyam! Kalau ada orang yang memberiku salah satu dari yang kusebutkan di atas, aku akan meleleh.%revealtasteLeah196%revealtasteLeah426%revealtasteLeah430%revealtasteLeah348%revealtasteLeah651"
+         },
+         "4": {
+           "0": "Ini catatannya Maru^^Bagian yang masih dibutuhkan untuk penemuan terbesarku!^^*Gold Bar^*Iridium Bar^*Battery Pack^*Diamond^*Strawberries%revealtasteMaru336%revealtasteMaru337%revealtasteMaru787%revealtasteMaru72%revealtasteMaru400"
+         },
+         "5": {
+           "0": "Ini tulisan tangan Penny:^^Aku ingin memberikan semua orang sesuatu yang mereka cintai!^^Ibu: Parsnip, Glazed Yams, JANGAN BEER!^Jas: Fairy Rose, Plum Pudding^Vincent: Pink Cake, Grape^Tn. Mullner: Leek, Fried Mushroom^Nenek Mullner: Beet, Tulip%revealtastePam24%revealtastePam208%revealtastePam346%revealtasteJas595%revealtasteJas604%revealtasteVincent398%revealtasteVincent221%revealtasteGeorge20%revealtasteGeorge205%revealtasteEvelyn284%revealtasteEvelyn591"
+         },
+         "6": {
+           "0": "Pesanan Spesial Bar Stardrop^^Lurah Lewis: Autumn's Bounty^(Dengan pesanan ganda roti berserat tinggi)^^Marnie: Pumpkin Pie^(ditambah krim kocok!)^^Demetrius: Bean Hotpot^(Bikin yang pedas)^^Caroline: Fish Taco^(dia ingin saosnya tiga porsi! Lebih baik tambahkan serbetnya...)%revealtasteLewis235%revealtasteMarnie608%revealtasteDemetrius207%revealtasteCaroline213"
+         },
+         "7": {
+           "0": "Ini dari buku harian seseorang...^^...Hanya ada beberapa bujangan 'tua' di kota, dan tidak ada yang sempurna! Harvey benar-benar cemas dan lemah, tapi aku tahu dia akan jadi suami yang setia dan berbakti. Dia suka coffee dan pickle.^^Elliott agak pesolek dan melodramatik, tapi dia punya dagu yang bagus. Dia suka crab cake dan pomegranate.^^Shane berantakan dan anti-sosial. Tapi kurasa penampilan luar kasarnya adalah mekanisme pertahanan, yang mengisolasi kelembutannya dari dunia. Dia suka Beer, Pizza, dan Pepper Poppers.%revealtasteHarvey395%revealtasteHarvey342%revealtasteElliott732%revealtasteElliott637%revealtasteShane346%revealtasteShane206%revealtasteShane215"
+         },
+         "8": {
+           "0": "^Untuk Haley dan Emily^^Semoga kalian berdua baik-baik saja! Kami telah mengirim hadiah favorit kalian: Pink Cake dan Sunflowers buat Haley, Gemstones dan Wool buat Emily!^^-Dengan cinta, Ayah dan Ibu%revealtasteHaley221%revealtasteHaley421%revealtasteEmily440%revealtasteEmily66%revealtasteEmily62%revealtasteEmily60%revealtasteEmily70%revealtasteEmily64%revealtasteEmily68"
+         },
+         "9": {
+           "0": "Diet Latihan Kekuatan Alex:^^*Complete Breakfast^*Salmon Dinner^^(Aku mulai cinta dengan makanan ini... Proteinnya berasa!!)%revealtasteAlex201%revealtasteAlex212"
+         },
+         "10": {
+           "0": "Seseorang ^ menunggumu ^ di level 100 ^ di^ dalam^ skull cavern..."
+         },
+         "11": {
+           "0": "!image 6"
+         },
+         "12": {
+           "0": "Aku menemukan beberapa barang bagus di tong sampah, saat hari keberuntunganku.^^Kadang kamu akan menemukan 'menu hari itu' di belakang bar... kadang masih segar!^^Untuk hidangan penutupnya, aku akan memeriksa tong sampah keluarga Mullner untuk cookies.^^Untuk harta karun, periksa tong sampah milik pandai besi dan museum."
+         },
+         "13": {
+           "0": "^^pukul 12 siang TEPAT. Di hari terakhir musim apapun. Periksa semak di atas taman bermain."
+         },
+         "14": {
+           "0": "^^^ Aku menyembunyikan sesuatu di belakang pusat komunitas."
+         },
+         "15": {
+           "0": "^^ Pertunjukan Putri Duyung: 1-5-4-2-3"
+         },
+         "16": {
+           "0": "!image 0"
+         },
+         "17": {
+           "0": "!image 1"
+         },
+         "18": {
+           "0": "!image 3"
+         },
+         "19": {
+           "0": "!image 2"
+         },
+         "20": {
+           "0": "!image 4"
+         },
+         "21": {
+           "0": "!image 5"
+         },
+         "22": {
+           "0": "Salam, @...^^Apa kamu sudah menemukan 'rahasia'ki di terowongan gelap?^^Aku menanti untuk bertemu denganmu!^^ -Qi"
+         },
+         "23": {
+           "0": "^^^Kalo kamoe bisa batca inih... datanglah ke seecrit wuds. Tolonk bawain joega may-pal serrup."
+         },
+         "24": {
+           "0": "Ini halaman dari buku M. Jasper:^^...makhluk itu, yang biasa disebut sebagai \"Roh Hutan\" atau \"Junimo\"dikatakan muncul di bangunan yang diabaikan setelah bangunan tersebut \"mengakar\".^^Seperti aturan pada umunya... setelah manusia pergi, dan alam mulai mengambil alih wilayah mereka, maka para Junimo tidak diragukan lagi akan muncul.^^Kepercayaan masyarakat menyatakan bahwa para Junimo akan menunjukkan kesamaan gema dengan batuan berharga yang diletakkan pada gubuk kecil mereka...^^Tentu saja, semua pengakuan ini berasal dari sumber yang meragukan, dan tidak terverifikasi... Sejauh yang kutahu, bahkan keberadaan makhluk ini pun belum pernah terbukti!"
+         },
+         "25": {
+           "0": "^^ Aku 'meminjam' kalung dari Ibu, tapi aku menghilangkannya di sekitar pemandian... Dia akan panik kalau tahu kalungnya hilang!"
+         },
+         "1001": {
+           "0": "Day 1^^...My ship is lost... Shattered by a tempest in the unforgiving sea.^^I find myself stranded now, on these strange shores. My crew has perished, but I still live. Perhaps lady luck has blessed these wicked bones of mine... Or has her own designs for my fate...^^At any rate, I've no choice but to make a life for myself here. There's fresh water in abundance, food to forage, and fertile soil to work.^^First I'll build a shelter...^^(There are some pages missing)"
+         },
+         "1002": {
+           "0": "Day 6^^I won't go hungry here... the waters are full of edible (nay, delicious!) fish.^^I even caught a stingray in the caves by the southeast shore. I haven't a clue what to do with it, though!^^The other day, I even fished up a couple of golden walnuts. They seem to be all over the island. The local parrots go crazy for them!"
+         },
+         "1003": {
+           "0": "Day 14^^After half a month on this island, I've learned a thing or two about finding these golden nuts.^^One must keep their eyes peeled for subtle clues. If something looks unusual, there may be a hidden nut nearby.^^I've noticed signs in the sand... and signs in the leaves...^^I even saw a nut up in a tree near the volcano. If only I had a way of shooting it down...^^Whenever I've spotted a nut plant, I've always found a way to reach it."
+         },
+         "1004": {
+           "0": "!image 10"
+         },
+         "1005": {
+           "0": "Day 23^^The local volcano holds many secrets.^^I've seen little men with glowing eyes, skittering about in the dark... like cats in the night.^^(Could these be the fabled dwarf-men, mentioned by M. Jasper in his 'Famous Journeys'?)^^Strange machines, too. Uncanny... not like anything known to man.^^At the top, I found a passage to the caldera of the volcano. And, half submerged in the bubbling lava, a peculiar machine... a kind of \"forge\". ^^I'll investigate further tomorrow."
+         },
+         "1006": {
+           "0": "!image 8"
+         },
+         "1007": {
+           "0": "--Forging Table--^^Topaz -- Defense^Emerald -- Speed^Jade -- Critical Strike Power^Aquamarine -- Critical Strike Chance^Amethyst -- Knockback^Ruby -- Damage^^Prismatic Shard -- Enchantment^^Note: Weapons can be forged up to 3 times with gems, and can also be enchanted once with a prismatic shard.^^Tools can only be enchanted, not forged."
+         },
+         "1008": {
+           "0": "--Weapon Enchantments--^^Artful: Allows you to do \"special moves\" more rapidly^^Bug Killer: Do more damage to bugs.^^Vampiric: Occasionally siphon health from a monster.^^Crusader: Do more damage to \"unholy\" monsters.^^Haymaker: When cutting weeds, you get more fiber, and also a chance to collect hay.^^--Tool Enchantments--^^Powerful: Do more tool damage to stones, trees, and the like.^^Reaching: Increases your charge-up capacity, for a greater area of effect.^^Shaving: Chance to peel off additional wood when chopping.^^Bottomless: Watering can will never run dry.^^Generous: Dig up more from beneath the earth.^^Archaeologist: Greater chance to find artifacts and bones.^^Efficient: Takes no energy to use.^^Swift: Swing the tool faster.^^Master: Increases fishing level.^^Auto-Hook: Automatically hooks fish when they bite.^^Preserving: Bait and tackle have a 50% chance to not be consumed."
+         },
+         "1009": {
+           "0": "'Twas a rain drenched day, and upon a lonely rock a beautiful maiden saw I^^Tales I'd heard of sea-born maidens singing siren's songs,^Yet nary a note could she muster...^^The next morning I spied an arrangement of stone upon the foamy bank...^-----------------^Aye... stones as big as pennies and stones as big as nickels were they...^-----------------^If but this harried sea dog a tune could howl, perhaps to Blackgull's treasure would she lead..."
+         },
+         "1010": {
+           "0": "!image 9"
+         },
+         "1011": {
+           "0": "Day 37^^When I was a boy of ten year old, my father gave me a glow ring and a magnet ring. They've never left my fingers since.^^However, when I was standing on top of the volcano... a strange idea came over me.^^I took my two rings, and cast them into the forge.^^Lo and behold! They combined into one!^^Now I've got one glowing magnet ring... I hope old pappy doesn't mind, rest his soul..."
          }
        }
      }
