@@ -13404,18 +13404,6 @@
 
      {
        "Action": "EditData",
-       "Target": "Data/Events/AbandonedJojaMart",
-       "Entries": {
-         "missingBundleComplete": "communityCenter/-2000 -2000/farmer 9 8 3 Junimo 8 8 1/skippable/pause 1000/positionOffset Junimo 0 32/viewport 8 8 true/animate Junimo true true 50 16 17 18 19 20 21 22 23/pause 3000/playSound junimoMeep1/animate Junimo true true 50 0 1 2 3 4 5 6 7/pause 3000/playSound junimoMeep1/animate Junimo true true 50 16 17 18 19 20 21 22 23/pause 3000/fade/viewport -1000 -1000 true/specificTemporarySprite junimoSpotlight/animate Junimo true true 50 0 1 2 3 4 5 6 7/warp Junimo -1000 -1000/pause 3000/playSound junimoMeep1/spriteText 3 \"All the others made it back, except me... \"/playSound junimoMeep1/playMusic none/spriteText 3 \"Now I can go home, too. Thank you! Thank you! \"/pause 1000/animate Junimo true true 100 28 29 30 31/playSound junimoMeep1/pause 5000/screenFlash 1/warp Junimo -9999 -9999/specificTemporarySprite missingJunimoStars/playSound wand/pause 4000/playSound boulderCrack/pause 50/playSound boulderCrack/pause 130/playSound boulderCrack/pause 140/playSound boulderCrack/pause 177/playSound boulderCrack/pause 330/playSound boulderCrack/pause 180/playSound boulderCrack/pause 67/playSound boulderCrack/pause 230/playSound boulderCrack/pause 88/playSound boulderCrack/pause 128/pause 200/playSound boulderCrack/pause 50/playSound boulderCrack/pause 130/playSound boulderCrack/pause 140/playSound boulderCrack/pause 177/playSound boulderCrack/pause 330/playSound boulderCrack/pause 380/playSound boulderCrack/pause 67/playSound boulderCrack/pause 120/playSound boulderCrack/pause 88/playSound boulderCrack/spriteText 4 \"Something good will happen soon... \"/pause 1028/end"
-       },
-       "Fields": {
-         "22": "spriteText 3 \"All the others made it back, except me... \"",
-         "25": "spriteText 3 \"Now I can go home, too. Thank you! Thank you! \"",
-         "75": "spriteText 4 \"Something good will happen soon... \""
-       }
-     },
-     {
-       "Action": "EditData",
        "Target": "Data/Events/AnimalShop",
        "Entries": {
          "92/e 91/i 78/t 900 1700": "jaunty/13 17/farmer 13 19 0 Marnie 13 14 2/move farmer 0 -1 0/removeQuest 21/removeItem 78/friendship Marnie 100/skippable/emote Marnie 16/speed Marnie 4/move Marnie 0 -1 2/speed Marnie 4/move Marnie 2 0 2/speed Marnie 4/move Marnie 0 3 2/move Marnie -2 0 2/pause 300/speak Marnie \"Oh! You brought the cave carrot! Thank you so much, Mr. @.$h^Oh! You brought the cave carrot! Thank you so much, Ms. @.$h\"/pause 500/move farmer 0 -1 1/faceDirection farmer 1/pause 500/playSound woodyStep/addObject 14 17 78/showFrame 35/pause 500/showFrame 6/pause 400/faceDirection farmer 1/move Marnie 1 0 2/emote Marnie 32/speak Marnie \"This looks great... I almost want to eat it myself!$h#$b#...almost.\"/faceDirection farmer 1/pause 600/speak Marnie \"I hope it wasn't too much trouble... I really do appreciate it.\"/pause 300/removeObject 14 17/pause 400/end dialogue Marnie \"Thanks again for helping me out.$h#$e#...and my goats say 'thanks' too.\"",
