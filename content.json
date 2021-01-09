@@ -8226,13 +8226,13 @@
                "2": "Terima kasih! ini bagus sekali!",
                "4": "Um... kenapa?",
                "6": "Apa...? Ini buruk sekali!",
-               "8": "Terima kasih.."
+               "8": "Terima kasih. Mungkin akan berguna."
             },
             "Demetrius": {
                "0": "Kau memberiku ini? Ini menakjubkan!",
-               "2": "Terima kasih!ini sangat berguna.",
+               "2": "Terima kasih! Ini spesimen yang menarik.",
                "4": "...Apa ini?",
-               "6": "ini menjijikkan.",
+               "6": "Ini menjijikkan.",
                "8": "Kau sangat rendah hati."
             },
             "Maru": {
@@ -8240,119 +8240,119 @@
                "2": "Ini hadiah yang istimewa! Terima kasih!",
                "4": "Oh... Itu untukku? Aku akan menurahnya disana...",
                "6": "Yuck! Kau pikir aku suka ini?",
-               "8": "Thanks."
+               "8": "Makasih."
             },
             "Sebastian": {
                "0": "Aku sangat suka ini. Bagaimana kau tau?",
                "2": "Terim kasih, aku suka ini.",
                "4": "...?",
                "6": "...Aku benci ini.",
-               "8": "...thanks."
+               "8": "...makasih."
             },
             "Linus": {
-               "0": "Ini sangat bagus! Kau membuat hariku spesial.",
+               "0": "Ini sangat bagus! Kau membuat hariku jadi spesial.",
                "2": "Ini hadiah yang bagus. Terima kasih!",
                "4": "Hmm... Aku tidak begitu menyukainya.",
-               "6": "Kenapa kau memberikanku ini? Kau pikir aku sampah karena tinggal di tenda? Ini mengecewakan.",
+               "6": "Kenapa kau memberiku ini? Kau pikir aku sampah karena tinggal di tenda? Ini mengecewakan.",
                "8": "Hadiah? bagus sekali."
             },
             "Pierre": {
                "0": "Ini favoritku! Terima kasih!",
-               "2": "Ini sangat baik. Aku suka ini.",
+               "2": "Kamu baik sekali. Aku suka ini.",
                "4": "Ini bukan favoritku...",
                "6": "Tolong jangan beri aku ini lagi.",
-               "8": "Hadiah? Thanks!"
+               "8": "Hadiah? Makasih!"
             },
             "Caroline": {
-               "0": "Kau memberikanku ini... ? Aku terkesan.",
-               "2": "Oh, tuhan! Kau yakin?",
+               "0": "Kau memberiku ini... ? Aku terkesan.",
+               "2": "Oh, Tuhan! Kau yakin?",
                "4": "Tidak, tidak, tidak...",
-               "6": "Ini sampah. Kanapa kau ini?",
+               "6": "Ini sampah. Kenapa kau ini?",
                "8": "Oh, Terima kasih."
             },
             "Abigail": {
                "0": "Aku sangat suka ini! Kau yang terbaik, @!",
-               "2": "heym kenapa kau tau aku lapar? Sepertinya enak!",
+               "2": "Hei, kenapa kau tau aku lapar? Sepertinya enak!",
                "4": "Apa yang akan aku lakukan dengan ini?",
                "6": "Apa yang kau pikirkan? Ini tidak berguna!",
-               "8": "Kau memberikanku hadiah? Thanks."
+               "8": "Kau memberiku hadiah? Makasih."
             },
             "Alex": {
                "0": "Keren! Aku suka ini!",
                "2": "Keren! Terima kasih.",
-               "4": "Um... Okey. Thanks.",
+               "4": "Um... Oke. Makasih.",
                "6": "Apa kau serius? Ini sampah.",
-               "8": "Thanks!"
+               "8": "Makasih!"
             },
             "George": {
                "0": "Ini kesukaanku! Terima kasih.",
-               "2": "Thanks.",
+               "2": "Terima kasih.",
                "4": "Ini hadiah yang buruk.",
                "6": "Ini hadiah terburuk yang pernah aku terima.",
                "8": "Hadiah? Hmm...#$e#Aku ingin aku kembalikan?"
             },
             "Evelyn": {
-               "0": "*gasp*... Ini benar-benar menakjubkan!$u#$e#Kau membuat hari tuaku bahagia.",
-               "2": "Ini terlihat bagus!.",
+               "0": "*Hah!*... Ini benar-benar menakjubkan!$u#$e#Kau membuat orang tua ini bahagia.",
+               "2": "Ya ampun. Ini terlihat bagus!.",
                "4": "Um, Dimana aku akan menaruhnya?",
                "6": "...ini mengerikan.",
-               "8": "Bagus sekali. Terima kasih, sayang."
+               "8": "Bagus sekali. Terima kasih, cu."
             },
             "Lewis": {
                "0": "Wow, ini favoritku! Terima kasih!",
                "2": "Terima kasih ini bagus!",
-               "4": "Aku harap aku kurang menyukainya...",
+               "4": "Yah, setidaknya niatmu baik...",
                "6": "Ini membuatku sakit. Buruk sekali.",
-               "8": "Ini bagus. Thanks."
+               "8": "Ini bagus. Terima kasih."
             },
             "Clint": {
-               "0": "Yes! Itu yang aku cari selama ini!",
+               "0": "Ya! Itu yang aku cari selama ini!",
                "2": "Ini hadiah yang menarik. Terima kasih!",
-               "4": "*Sigh*...",
+               "4": "*Hahh~*...",
                "6": "Ini membuatku depresi.",
-               "8": "Thanks."
+               "8": "Makasih."
             },
             "Penny": {
                "0": "Terima kasih! Aku benar-benar menyukainya!",
-               "2": "Terima kasih!kelihatannya spesial.",
-               "4": "Uh, untukku? ...Thanks.",
+               "2": "Terima kasih! Kelihatannya spesial.",
+               "4": "Uh, untukku? ...Makasih.",
                "6": "Ugh...Maaf, tapi aku benci ini.",
-               "8": "Thanks, ini terlihat baik."
+               "8": "Makasih, kamu baik."
             },
             "Pam": {
-               "0": "Hey, hey! Ini sangat menakjubkan! Terima kasih banyak, nak.",
-               "2": "Kau melakukannya dengan baik, nak. Thanks!",
-               "4": "Ini bukan yang aku pikirkan.",
-               "6": "Sekarang kau memberiku hal yang hina ini.$u#$e#(Ini lelucon?)",
+               "0": "Hei, hei! Ini menakjubkan! Terima kasih banyak, nak.",
+               "2": "Kau melakukannya dengan baik, nak. Makasih!",
+               "4": "Ini bukan seleraku.",
+               "6": "Sekarang kau memberiku hal yang hina ini.$u#$e#(Apa ini lelucon baginya?)",
                "8": "Terima kasih, nak."
             },
             "Emily": {
                "0": "Hadiah ini menakjubkan! Terima kasih banyak!",
-               "2": "Terima kasih! Aku merasakan ada energi positif.",
+               "2": "Terima kasih! Aku merasakan energi positif dari ini.",
                "4": "Maaf, @. Aku tidak suka ini.",
-               "6": "Hadiah ini mempunyai efek negatif.",
-               "8": "Thanks!"
+               "6": "Hadiah ini berenergi negatif. Aku tidak tahan",
+               "8": "Makasih!"
             },
             "Haley": {
-               "0": "Oh my god, ini kesukaanku!!",
-               "2": "*gasp*...untukku? Terima kasih!",
-               "4": "Ugh...ini hadiah yang bodoh.",
-               "6": "Gross!",
+               "0": "Ya Tuhan, ini kesukaanku!!",
+               "2": "*Hah!*...untukku? Terima kasih!",
+               "4": "Ihh...ini hadiah yang bodoh.",
+               "6": "Jorok!",
                "8": "Terima kasih. Aku suka hadiah."
             },
             "Jas": {
-               "0": "*gasp*...Wow!! Terima kasih!$h",
+               "0": "*Hah!*...Wow!! Terima kasih!$h",
                "2": "Aku suka hadiah! Terima kasih!",
                "4": "Ini hadiah? Oh...$s",
-               "6": "Ew. Ini menjijikan.$s",
+               "6": "Ihh... Ini menjijikan.$s",
                "8": "Terima kasih!"
             },
             "Vincent": {
                "0": "Wow, Terima kasih banyak! Ini hebat!",
-               "2": "Untukku? Wow, thanks!",
+               "2": "Untukku? Wow, makasih!",
                "4": "Ini tidak lucu...$s",
                "6": "Yuck, apa ini?$s",
-               "8": "Thanks!"
+               "8": "Makasih!"
             },
             "Jodi": {
                "0": "Kau benar-benar baik! Aku sangat menyukainya!",
@@ -8365,36 +8365,36 @@
                "0": "Oh...! Ini mengigatkanku dengan ibuku. Ibuku memberiku ini saat aku kecil. Terima kasih.",
                "2": "Hey, ini hadiah yang bagus. Thanks.",
                "4": "Ah... Ini.. apa ini? Hmm...",
-               "6": "Ini... Mereka memberikanku saat aku di penjara Gotoro.Aku sduah melupakannya. *shudder*",
-               "8": "keluarga akan melakukannya seperti ini."
+               "6": "Ini... Mereka memberi ini saat aku di penjara Gotoro. Aku ingin melupakannya. *merinding*",
+               "8": "Kamu baik sekali. Keluargaku akan suka ini."
             },
             "Sam": {
-               "0": "Aw, yea! ini benar-benar kesukaanku!",
-               "2": "Thanks! Aku menyukainya.",
+               "0": "Aw, yea! Ini kesukaanku!",
+               "2": "Makasih! Aku menyukainya.",
                "4": "Hmm.. ini... menarik.",
-               "6": "Kau tidak mengerti, huh?",
-               "8": "Kau memberikannya kepadaku? Thanks!"
+               "6": "Kau tidak mengerti, ya?",
+               "8": "Kau memberi ini padaku? Makasih!"
             },
             "Leah": {
                "0": "Oh! Ini yang aku inginkan! Terima kasih!",
                "2": "Ini hadiah yang bagus! Terima kasih!",
-               "4": "Hmm... Aku pikir setiap orang punya selera yang berbeda.",
-               "6": "Ini hadiah yang buruk, kan?",
+               "4": "Hmm... Setiap orang seleranya beda-beda.",
+               "6": "Ini hadiah yang buruk.",
                "8": "Terima kasih."
             },
             "Shane": {
                "0": "Oh wow, @! Kenapa kau tau favoritku?",
-               "2": "Ini bagus! Thanks!",
+               "2": "Ini bagus! Makasih!",
                "4": "Aku tidak terlalu menyukainya.",
                "6": "Kenapa kau memberiku sampah?",
-               "8": "Oh, kau memberiku sesuatu? Thanks!"
+               "8": "Oh, kau memberiku sesuatu? Makasih!"
             },
             "Marnie": {
-               "0": "Ini hadiah yang tak terdugat! Thanks!!",
+               "0": "Ini hadiah yang tak terduga! Makasih!!",
                "2": "Terima kasih!",
-               "4": "Oh. Aku akan mengambilnya.",
+               "4": "Oh. Akan kuterima.",
                "6": "Ini tidak berguna. Aku tidak paham denganmu.",
-               "8": "Terima kasih!Kelihatannya bagus."
+               "8": "Terima kasih! Kelihatannya bagus."
             },
             "Elliott": {
                "0": "@, ini hadiah yang luar biasa! Terima kasih!",
@@ -8405,58 +8405,58 @@
             },
             "Gus": {
                "0": "Hadiah ini... untukku? Aku terkesan.",
-               "2": "Oh, goodness! Kau yakin?",
-               "4": "No, no, no...",
-               "6": "This is absolute junk. I'm offended.",
-               "8": "Oh, that's sweet. Terima kasih."
+               "2": "Oh, Tuhan! Kau yakin?",
+               "4": "Tidak, tidak...",
+               "6": "Ini sampah! Apa maksudmu!?.",
+               "8": "Oh. Terima kasih."
             },
             "Dwarf": {
-               "0": "Hey, aku suka ini. Kau bisa menemukannya di tambang.",
-               "2": "Ah, this reminds me of home.",
-               "4": "Hmm... Is this what humans like?",
-               "6": "I don't care what species you are. This is worthless garbage.",
-               "8": "An offering! Terima kasih."
+               "0": "Hei, aku suka ini. Kau bisa menemukannya di tambang.",
+               "2": "Ah, mengingatkanku dengan rumah.",
+               "4": "Hmm... Apa ini yang disukai manusia?",
+               "6": "Aku tidak peduli kaum apa kamu. Tapi ini sampah.",
+               "8": "Persembahan! Terima kasih."
             },
             "Wizard": {
-               "0": "Ahh, ini bisa menambah kekuatanku. Ini sangat berguna. Terima kasih!",
-               "2": "Terima kasih banyak. Ini sangat menarik.",
-               "4": "Ini?... Aku akan membakarnya dan apa yang akan terjadi.",
-               "6": "Ughh... Ini membosankan. Tolong jangan menggangguku.",
+               "0": "Ahh, ini dipenuhi energi magis. Berguna untuk studiku. Terima kasih!",
+               "2": "Benda ini punya struktur yang menarik.",
+               "4": "Ini?... Aku akan membakarnya dan lihat apa yang terjadi.",
+               "6": "Ughh... Ini buang-buang waktu.Lain kali jangan menggangguku dengan ini lagi.",
                "8": "Terima kasih. Aku pikir ini akan berguna."
             },
             "Harvey": {
-               "0": "Ini untukku? Ini kesukaanku! Kau bisa membaca pikiranku.",
+               "0": "Untukku? Ini kesukaanku! Kau bisa membaca pikiranku.",
                "2": "Ini hadiah yang bagus. Terima kasih!",
                "4": "Hmm... Apa kau yakin ini menyehatkan?",
                "6": "...Aku alergi ini.",
-               "8": "Thanks. Kelihatannya bagus."
+               "8": "Makasih. Kelihatannya bagus."
             },
             "Sandy": {
-               "0": "Ooo! Aku sangat suka bunga. Aku senang sekali!~",
+               "0": "Ooo! Aku suka bunga dari lembah. Aku senang sekali!~",
                "2": "Kelihatannya bagus. Terima kasih banyak!",
                "4": "Oh... Um. Thanks.",
-               "6": "*sniff* ...apa ini?",
+               "6": "*Endus~* ...apa ini?",
                "8": "Untukku? Terima kasih!"
             },
             "Willy": {
-               "0": "Ini hebat! Aku sangat menyukainya.",
+               "0": "Ini hebat! Kalau saja ayahku masih ada, dia akan suka ini.",
                "2": "Ini bagus. Terima kasih!",
-               "4": "Hmmm... Kau suka ini? Huh.",
-               "6": "... *sniff*... Aku bisa melempar ini ke tong sampah.",
-               "8": "Hadiah! Thanks."
+               "4": "Hmmm... Kau suka ini? Hah.",
+               "6": "... *Endus~*... Yah, setidaknya bisa kucampur buat umpan.",
+               "8": "Hadiah! Makasih."
             },
             "Krobus": {
-               "0": "Ini hadiah yang luar biasa. Ini suatu kebanggan bisa menerimanya.",
+               "0": "Ini hadiah yang luar biasa. Bagi kaumku, suatu kebanggan bisa menerimanya.",
                "2": "Terima kasih banyak.",
                "4": "Manusia punya... selera yang menarik.",
-               "6": "Oh... Um. Aku harap bisa menerimanya.",
+               "6": "Oh... Um. Aku akan menerimanya.",
                "8": "Terima kasih."
             },
             "Leo": {
-               "0": "Aku suka ini. Aku akan menaruhnya di sarangku.",
-               "2": "Apa kau yakin? Wow baik sekali...",
+               "0": "Aku suka ini. Akan kutaruh di sarangku.",
+               "2": "Apa kau yakin? Wow, kamu baik sekali...",
                "4": "Oh... Aku tidak tau apa aku bisa menelan ini...",
-               "6": "*sniff* *sniff*... Kenapa kau beri ini padaku? Kau ingin aku membuangnya?",
+               "6": "*Endus~* *Endus~*... Kenapa kau beri ini padaku? Kau ingin menguburnya?",
                "8": "Aku terima hadiahmu."
             }
          }
@@ -17468,285 +17468,5 @@
          }
        }
      },
-     {
-       "Action": "EditData",
-       "Target": "Data/NPCGiftTastes",
-       "Entries": {
-         "Robin": "This is for me? Wow, I absolutely love it!!/224 426 636/Thanks! This is really nice!/-6 -79 424 709/Um... why?/16 330/What the...? This is terrible!/2/Thank you. This might come in handy.//",
-         "Demetrius": "You're giving this to me? This is amazing!/207 232 233 400/Thank you! This is a very interesting specimen./-5 -79 422/...What is this?/80 330/This is disgusting./2/That was very thoughtful of you./-4/",
-         "Maru": "Is that...? Oh wow, @! This is spectacular!/72 197 190 215 222 243 336 337 400 787 910/This is a super gift! Thank you!/-260 62 64 66 68 70 334 335 725 726 909/Oh... That's for me? I'll just put it over here.../-4 330 414 410 404 724/Yuck! You thought I would like this?/340 342 2 430 416/Thanks.//",
-         "Sebastian": "I really love this. How did you know?/84 227 236 575 305/Thanks, I like this./267 614 276/...?/-81 30 -80/...I hate this./-5 2 459 195 201 240 330 -26 873/...thanks./-4/",
-         "Linus": "This is wonderful! You've really made my day special./88 90 234 242 280/This is a great gift. Thank you!/-5 -6 -79 -81/Hmm... This doesn't really do much for me./-2 330/Why would you give this to me? Do you think I like junk just because I live in a tent? That's terrible./2/A gift? How nice./-4/",
-         "Pierre": "This is my all-time favorite! Thank you!/202/That's very kind of you. I like this./-5 -6 -7 18 22 402 418 259/This isn't exactly my favorite.../-2 -81 330/Please, never bring this to me again./167 -4 199 270 229 248/A present? Thanks!//",
-         "Caroline": "You're giving this... to me? I'm speechless./213 614 593 907/Oh, goodness! Are you sure?/-7 18 815 402 418/No, no, no.../-81 330 300 306 307/This is absolute junk. I'm offended./80 296/Oh, that's sweet. Thank you.//",
-         "Abigail": "I seriously love this! You're the best, @!/66 128 220 226 276 611 904/Hey, how'd you know I was hungry? This looks delicious!//What am I supposed to do with this?/-5 -75 -79 16 245 246/What were you thinking? This is awful!/330/You brought me a present? Thanks.//",
-         "Alex": "Hey, awesome! I love this stuff!/201 212 662 664/This is cool! Thanks./-5/Um... Okay. Thanks./16 330/Are you serious? This is garbage./80/Thanks!//",
-         "George": "This is my favorite thing! Thank you./20 205/Thanks./18 195 199 200 214 219 223 231 233/That's a terrible gift./-80 16/This is probably the worst gift I've ever seen. Thanks a lot./22 80 330/A gift? Hmm...#$e#Do you want something in return?//",
-         "Evelyn": "*gasp*... This is absolutely marvelous!$u#$e#You've made an old lady very happy./72 220 239 284 591 595/Oh my, it looks wonderful! That's very kind of you./-6 18 402 418/Um, Where will I put this?/16 80/...it smells awful./225 226 227 228 219 396 397 393 372 248 296 -4 330/How nice. Thank you, dear.//",
-         "Lewis": "Wow, this is my favorite! Thank you!/200 208 235 614 260/Thanks, this is great!/-80 24 88 90 192 258 264 272 274 278/Well, I guess it's the thought that counts.../-6 16 330/This makes me sick. What a horrendous gift./80/That's very nice of you. Thanks.//",
-         "Clint": "Yes! This is exactly what I've been looking for!/60 62 64 66 68 70 336 337 605 649 749/This is a fun gift. Thanks!/334 335/*Sigh*.../-80 2 16 80 /This makes me depressed./4/Thanks./-15/",
-         "Penny": "Thank you! I really love this!/60 376 651 72 164 218 230 244 254/Thank you! This looks special./-6 20 22/Uh, it's for me? ...Thanks./-4 80 330 456 457 444 440 422 420/Ugh...I'm sorry, but I absolutely hate this./446 346 348 303 304 398 459 873/Thanks, this looks nice.//",
-         "Pam": "Hey, hey! Now this is really something! Thanks a million, kid./24 90 199 208 303 346 459 873/You did good with this one, kid. Thanks!/-6 -75 -79 18 227 228 231 232 233 234 235 236 238 402 418/This just ain't my thing./-5 16 80 330/Now this is just absolutely despicable.$u#$e#(Is this some kind of mean joke?)/149 151/Thanks, kid./-4/",
-         "Emily": "This gift is fabulous! Thank you so much!/60 62 64 66 68 70 241 428 440/Thank you! I'm feeling a positive energy from this gift./18 82 84 86 196 200 207 230 235 402 418/Sorry, @. I don't like this./78 2 232 233 225 226/This gift has a strong negative energy. I can't stand it./212 213 227 228/Thanks!//",
-         "Haley": "Oh my god, this is my favorite thing!!/221 421 610 88/*gasp*...for me? Thank you!/18 60 62 64 70 88 222 223 232 233 234 402 418/Ugh...that's such a stupid gift./-5 -6 -75 -79 -81 80 -27/Gross!/-4 2 16 330 74/Thank you. I love presents.//",
-         "Jas": "*gasp*...Wow!! Thank you!$h/221 595 604/I love presents! Thank you!/18 60 64 70 88 232 233 234 222 223 340 344 402 418 903/Is this a gift? Oh...$s/-5 -81 -75 -79 80/Ew. This is icky.$s/253 395 459 -26 2 16 330 873/Thank you!//",
-         "Vincent": "Wow, thank you so much! This is terrific!/221 398 612 721 903/For me? Wow, thanks!/18 60 64 70 88 232 233 234 222 223 340 344 402 418/This isn't very fun...$s/-5 -75 -79 -81 80/Yuck, what is this?$s/253 395 459 -26 2 16 330 873/Thanks!//",
-         "Jodi": "Oh, you're such a sweetheart! I really love this!/72 200 211 214 220 222 225 231/Thank you! This makes my day really special./-5 -6 -79 18 402 418/Hmm, well I guess I could always put this in the compost.../-81 80 248 330/*Blech*... I hate this.../18 22 396/That's so nice of you! Thanks.//",
-         "Kent": "Oh...! Mom used to give me this when I was a young boy. It brings back wonderful memories. Thank you./607 649/Hey, now this is a really great gift. Thanks./-5 -79 18 402 418/Ah... It's a... what is this, exactly? Hmm.../80 330 416 873/This... They gave this to me in Gotoro prison camp. I've been trying to forget about that. *shudder*/-6 2 227 229 456/That's kind of you. The family will like this.//",
-         "Sam": "Aw, yea! This is my absolute favorite!/90 206 655 658 562 731/Thanks! I really like this./167 210 213 220 223 224 228 232 233 239 -5/Hmm.. this is... interesting./-81 80 152 330 -75/You really don't get it, huh?/306 307 342 -15 2/You got that for me? Thanks!//",
-         "Leah": "Oh! This is exactly what I wanted! Thank you!/196 200 348 606 651 650 426 430/This is a really nice gift! Thank you!/-5 -6 -79 -81 18 402 169 406 408 418 86/Hmm... I guess everyone has different tastes./-2 2 152 330 221 223 229 232 233 241 209 194/This is a pretty terrible gift, isn't it?/305 211 210 206 216/Thank you.//",
-         "Shane": "Oh wow, @! How'd you know this is my favorite?/206 215 260 346/This is great! Thanks!/-5 -79 303/I don't really like this./-81 152 330/Why are you giving me your garbage?/80 342/Oh, you got me something? Thanks!//",
-         "Marnie": "This is an incredible gift! Thanks!!/72 221 240 608/Thank you!/-5 -6 402 418/Oh. I guess I'll take it./16 152/This is worthless. I don't understand you./330/Thank you! This looks nice.//",
-         "Elliott": "@, this is a beautiful gift! Thank you!/715 732 218 444 637 814/This is for me? Marvelous!/727 728 -79 60 80 82 84 149 151 346 348 728/Hmm... I'm not a huge fan of this./16 206 330 -79 -81 -6/This item gives me a terrible feeling. I'll have to dispose of it./80 154 300 296/Oh, a present! Thank you!/-4/",
-         "Gus": "You're giving this... to me? I'm speechless./72 213 635 729 907/Oh, goodness! Are you sure?/348 303 -7 18/No, no, no.../16 330/This is absolute junk. I'm offended./80 167 648/Oh, that's sweet. Thank you.//",
-         "Dwarf": "Hey, I really love this stuff. You can find great things in the mines./554 60 62 64 66 68 70 749/Ah, this reminds me of home./78 82 84 86 96 97 98 99 121 122/Hmm... Is this what humans like?/-5 -6 16 -81 2 4 330/I don't care what species you are. This is worthless garbage.//An offering! Thank you./-28/",
-         "Wizard": "Ahh, this is imbued with potent arcane energies. It's very useful for my studies. Thank you!/155 422 769 768/Many thanks. This item has some very interesting properties./-12 72 82 84/This?... I suppose I'll cast it into the flames and see what happens./-5 -6 -81 2 16 330 766/Ughh... These are utterly mundane. Please refrain from bothering me with this in the future.//Thank you. This will prove useful, I think.//",
-         "Harvey": "It's for me? This is my favorite stuff! It's like you read my mind./348 237 432 395 342/That's such a nice gift. Thank you!/-81 -79 -7 402 614 418 422 436 438 442 444 422/Hmm... Are you sure this is healthy?/-4 424 426 2 330 233 232 238 234 223 222 221 220 216 211 210 208 206 205/...I think I'm allergic to this./296 245 397 396 394 393 392/Thanks. That's very kind of you.//",
-         "Sandy": "Ooo! I absolutely love getting flowers from the valley. I'm so happy!~/18 402 418 905/This looks wonderful. Thanks so much!/-75 -79 88 428 436 438 440/Oh... Um. Thanks./-4 2 330/*sniff* ...what is it?//This is for me? Thank you!//",
-         "Willy": "This is great! If only me ol' Pappy was around. He'd go nuts for this./72 143 149 154 276 337 698 459/This looks great. Thank you!/66 336 340 699 707 198 202 209 212 213 214 219 225 727 730 728 732 265/Hmmm... You like stuff like this? Huh./-7 -81 2 4 330/... *sniff*... Well I guess I can toss it into the chum bucket.//A gift! Thanks./-4 227 228 242/",
-         "Krobus": "This is an amazing gift. For my people it is a great honor to receive something like this./72 16 276 337 305 308/Thank you very much./66 265 336 340/Humans have... interesting tastes./-7 -81 2 330/Oh... Um. I guess I'll accept it.//Thank you.//",
-         "Leo": "I love this. I'm going to put it in my nest./444 289 834 906/Are you sure? This is so nice.../852 396 392 394 397/Oh... I don't know if I can digest this.../-7 -81 2 330 303 459 342 346 348/*sniff* *sniff*... Why are you giving this to me? Do you want me to bury it for you?/257 253 247 271 283 304 303 346 873 348 459 167/I accept your gift./-4/"
-       },
-       "Fields": {
-         "Robin": {
-           "0": "Ini untuk ku? Wow, Aku sangat menyukainya!!",
-           "2": "Terimakasih! Ini sangat bagus!",
-           "4": "Um... Kok?",
-           "6": "Apa apaan...? Ini mengerikan!",
-           "8": "Terimakasih. Ini mungkin berguna."
-         },
-         "Demetrius": {
-           "0": "Kamu memberikan ini untuk ku? Ini luar biasa!",
-           "2": "Terimakasih! Ini adalah contoh yang sangat menarik.",
-           "4": "...Apa ini?",
-           "6": "Ini menjijikan.",
-           "8": "Sangat bijaksana dari kamu."
-         },
-         "Maru": {
-           "0": "Apakah Itu...? Oh wow, @! Ini spektakuler!",
-           "2": "Ini hadiah yang luar biasa! Terimakasih!",
-           "4": "Oh... Itu untukku? Aku akan menaruhnya disini...",
-           "6": "Yuck! Kamu pikir aku akan menyukai ini?",
-           "8": "Makasih."
-         },
-         "Sebastian": {
-           "0": "Aku sangat menyukai ini. Bagaimana kamu tahu?",
-           "2": "Makasih, Aku suka ini.",
-           "4": "...?",
-           "6": "...Aku benci ini.",
-           "8": "...Makasih."
-         },
-         "Linus": {
-           "0": "Ini luar biasa! Kamu benar-benar membuat hari ku menjadi istimewa.",
-           "2": "Ini hadiah yang hebat. Terimakasih!",
-           "4": "Hmm... Ini tidak banyak membantuku.",
-           "6": "Kenapa kamu memberikan ini padaku? Kamu pikir Aku suka sampah hanya karna Aku tinggal di tenda? Itu buruk.",
-           "8": "Sebuah hadiah? Bagusnya."
-         },
-         "Pierre": {
-           "0": "Ini favoritku sepanjang masa! Terimakasih!",
-           "2": "Kamu baik sekali. Aku suka ini.",
-           "4": "Ini bukan favoritku...",
-           "6": "Tolong, Jangan berikan aku ini lagi.",
-           "8": "Hadiah? Makasih!"
-         },
-         "Caroline": {
-           "0": "Kamu memberikan ini... padaku? Aku tak bisa berkata-kata.",
-           "2": "Oh, Kebaikan! Kamu yakin?",
-           "4": "Tidak, tidak, tidak...",
-           "6": "Ini benar-benar sampah. Aku tersinggung.",
-           "8": "Oh, Itu manis. Terimakasih."
-         },
-         "Abigail": {
-           "0": "Aku sangat suka ini! Kamu yang terbaik, @!",
-           "2": "Hey, Gimana kamu tahu aku kalau aku lapar? Ini enak!",
-           "4": "Apa yang harus kulakuin dengan ini?",
-           "6": "Apa yang kamu pikirkan? Ini mengerikan!",
-           "8": "Kamu membawakan ku hadiah? Makasih."
-         },
-         "Alex": {
-           "0": "Hey, Menakjubkan! Aku suka barang ini!",
-           "2": "Ini keren! Makasih.",
-           "4": "Um... Okay. Makasih.",
-           "6": "Apa kamus serius? Ini sampah.",
-           "8": "Makasih!"
-         },
-         "George": {
-           "0": "Ini hal favoritku! Terimakasih.",
-           "2": "Makasih.",
-           "4": "Itu hadiah yang buruk.",
-           "6": "Ini mungkin hadiah terburuk yang pernah kulihat. Makasih banyak",
-           "8": "A gift? Hmm...#$e#Apa kamu ingin balasan?"
-         },
-         "Evelyn": {
-           "0": "*gasp*... Ini benar-benar luar biasa!$u#$e#Kamu telah membuat seorang wanita tua bahagia.",
-           "2": "Astaga, Itu terlihat hebat! Kamu baik sekali.",
-           "4": "Um, Dimana aku akan meletakan ini?",
-           "6": "...baunya mengerikan.",
-           "8": "Baiknya. Terimakasih, sayang."
-         },
-         "Lewis": {
-           "0": "Wow, Ini favoritku! Terimakasih!",
-           "2": "Makasih, ini hebat!",
-           "4": "Yah, Kukira itu yang terpenting...",
-           "6": "Ini membuatku mual. Hadiah yang sangat buruk.",
-           "8": "Kamu baik sekali. Terimakasih."
-         },
-         "Clint": {
-           "0": "Ya! Ini percis seperti yang kucari!",
-           "2": "Ini hadiah yang menyenangkan. Makasih!",
-           "4": "*Sigh*...",
-           "6": "Ini membuatku depresi.",
-           "8": "Makasih."
-         },
-         "Penny": {
-           "0": "Terimakasih! Aku sangat menyukai ini!",
-           "2": "Terimakasih! Ini kelihatan spesial.",
-           "4": "Uh, Itu untukku? ...Makasih.",
-           "6": "Ugh...Maaf, tapi aku sangat membenci ini.",
-           "8": "Makasih, ini terlihat bagus."
-         },
-         "Pam": {
-           "0": "Hey, hey! Ini Sesuatu banget! Terimakasih banyak, nak.",
-           "2": "Kamu melakukan yang baik dengan ini, nak. Makasih!",
-           "4": "Ini bukan kesukaan ku.",
-           "6": "Sekarang ini benar-benar hina.$u#$e#(Apakah ini salah satu candaan jahat?)",
-           "8": "Makasih, nak."
-         },
-         "Emily": {
-           "0": "Hadiah ini luar biasa! Terimakasih banyak!",
-           "2": "Terimakasih! Aku merasakan energi positif dari hadiah ini.",
-           "4": "Maaf, @. Aku tidak menyukai ini.",
-           "6": "Hadiah ini memiliki energi negatif yang kuat. Aku tak tahan.",
-           "8": "Makasih!"
-         },
-         "Haley": {
-           "0": "Ya Tuhan, Ini hal favoritku!!",
-           "2": "*gasp*...untuk ku? Terimakasih!",
-           "4": "Ugh...itu hadiah yang bodoh.",
-           "6": "Kotor!",
-           "8": "Terimakasih. Aku suka hadiah."
-         },
-         "Jas": {
-           "0": "*gasp*...Wow!! Terimakasih!$h",
-           "2": "Aku suka hadiah! Terimakasih!",
-           "4": "Apakah ini hadiah? Oh...$s",
-           "6": "Ew. Ini menjijikan.$s",
-           "8": "Terimakasih!"
-         },
-         "Vincent": {
-           "0": "Wow, terimakasih banyak! Ini luar biasa!",
-           "2": "Untuk ku? Wow, makasih!",
-           "4": "Ini tidak terlalu menyenangkan...$s",
-           "6": "Yuck, apa ini?$s",
-           "8": "Makasih!"
-         },
-         "Jodi": {
-           "0": "Oh, kamu sangat manis! Aku sangat menyukai ini!",
-           "2": "Terimakasih! Ini membuat hariku begitu spesial.",
-           "4": "Hmm, oke kukira Aku akan selalu memasukan ini kedalam pupuk...",
-           "6": "*Blech*... Aku benci ini...",
-           "8": "Kamu baik sekali! Makasih."
-         },
-         "Kent": {
-           "0": "Oh...! Ibu biasa memberi ku ini ketika aku masih kecil. Ini membawa kembali kenangan indah. Terimakasih.",
-           "2": "Hey, Ini hadiah yang luar biasa. Makasih.",
-           "4": "Ah... Itu... apa ini, sebenarnya? Hmm...",
-           "6": "Ini... Mereka memberiku ini kamp penjara Gotoro. Aku sudah berusaha melupakan itu. *shudder*",
-           "8": "Kamu baik sekali. Orang rumah akan menyukai ini."
-         },
-         "Sam": {
-           "0": "Aw, yea! Ini mutlak hal favoritku!",
-           "2": "Makasih! Aku sangat menyukai ini.",
-           "4": "Hmm.. ini... menarik.",
-           "6": "Kau benar-benar tak mengerti, huh?",
-           "8": "Kamu mendapatkan itu untukku? Makasih!"
-         },
-         "Leah": {
-           "0": "Oh! Ini tepat seperti yang kuinginkan! Terimakasih!",
-           "2": "Ini hadiah yang sangat baik! Terimakasih!",
-           "4": "Hmm... Aku rasa semua orang punya se.",
-           "6": "Ini hadiah yang cukup buruk, bukan?",
-           "8": "Terimakasih."
-         },
-         "Shane": {
-           "0": "Oh wow, @! Bagaimana kamu tahu ini favorit ku?",
-           "2": "Ini hebat! Makasih!",
-           "4": "Aku tak begitu suka ini.",
-           "6": "Kenapa kamu meberiku sampah mu?",
-           "8": "Oh, kau memberiku sesuatu? Makasih!"
-         },
-         "Marnie": {
-           "0": "Ini hadiah yang luar biasa! Makasih!!",
-           "2": "Terimakasih!",
-           "4": "Oh. Kukira aku akan menerimanya.",
-           "6": "Ini tak berharga. Aku gak mengerti kamu.",
-           "8": "Terimakasih! Ini kelihatan bagus."
-         },
-         "Elliott": {
-           "0": "@, ini hadiah yang cantik! Terimakasih!",
-           "2": "Ini untuk ku? Luar biasa!",
-           "4": "Hmm... Aku bukan penggemar berat dari ini.",
-           "6": "Barang ini memberiku perasaan tak enak. Aku harus membuangnya.",
-           "8": "Oh, Sebuah hadiah! Makasih!"
-         },
-         "Gus": {
-           "0": "Kamu memberikan ini... untuk ku? Aku tak bisa berkata-kata.",
-           "2": "Oh, ya ampun! Kamu yakin?",
-           "4": "Tidak, tidak, tidak...",
-           "6": "Ini benar-benar sampah. Aku tersinggung.",
-           "8": "Oh, itu manis. Terimakasih."
-         },
-         "Dwarf": {
-           "0": "Hey, Aku sangat suka ini. Kamu bisa menemukan hal-hal hebat di tambang.",
-           "2": "Ah, ini mengingatkan ku akan rumah.",
-           "4": "Hmm... Apakah ini yang disukai manusia?",
-           "6": "Aku tak peduli kamu spesies apa. Ini sampah tak berharga.",
-           "8": "sebuah penawaran! Terimakasih."
-         },
-         "Wizard": {
-           "0": "Ahh, ini dijiwai dengan energi misterius yang kuat. Ini sangat berguna untuk studi ku. Terimakasih!",
-           "2": "Banyak makasih. Barang ini mempunyai beberapa barang yang sangat menarik.",
-           "4": "Ini?... Kukira aku akan melemparkannya kedalam api dan melihat apa yang terjadi.",
-           "6": "Ughh... Ini benar-benar duniawi. Sekali tolong jangan menggangku dengan ini lagi.",
-           "8": "Terimakasih. Ini terbukti bermanfaat, Kukira."
-         },
-         "Harvey": {
-           "0": "Ini untuk ku? Ini barang favoritku! Ini seperti membaca pikiranku.",
-           "2": "Itu hadiah yang sangat bagus. Terimakasih!",
-           "4": "Hmm... Apa kamu yakin ini sehat?",
-           "6": "...Kukira aku alergi terhadap ini.",
-           "8": "Makasih. Kamu baik sekali."
-         },
-         "Sandy": {
-           "0": "Ooo! Aku benar-benar suka mendapat bunga dari lembah. Aku senang sekali!~",
-           "2": "Ini terlihat indah. Terimakasih banyak!",
-           "4": "Oh... Um. Makasih.",
-           "6": "*sniff* ...apa ini?",
-           "8": "Ini untuk ku? Terimakasih!"
-         },
-         "Willy": {
-           "0": "Ini hebat! Andai saja Pappy ada di sekitar sini. Dia akan menggila untuk ini.",
-           "2": "Ini terlihat hebat. Terimakasih!",
-           "4": "Hmmm... Kamu suka barang seperti ini? Huh.",
-           "6": "... *sniff*... Yah kukira aku akan melemparkannya ke dalam ember chum.",
-           "8": "Hadiah! Makasih."
-         },
-         "Krobus": {
-           "0": "Ini hadiah yang luar biasa. Bagi kaumku, adalah suatu kehormatan besar untuk menerima sesuatu seperti ini.",
-           "2": "Terimakasih banyak.",
-           "4": "Manusia punya... selera yang menarik.",
-           "6": "Oh... Um. Kukira aku akan menerimanya.",
-           "8": "Terimakasih."
-         },
-         "Leo": {
-           "0": "I love this. I'm going to put it in my nest.",
-           "2": "Are you sure? This is so nice...",
-           "4": "Oh... I don't know if I can digest this...",
-           "6": "*sniff* *sniff*... Why are you giving this to me? Do you want me to bury it for you?",
-           "8": "I accept your gift."
-         }
-       }
-     }
    ]
 }
