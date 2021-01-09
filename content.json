@@ -13410,8 +13410,8 @@
        },
        "Fields": {
          "22": "spriteText 3 \"All the others made it back, except me... \"",
-         "25": "spriteText 3 \"Sekarang aku juga bisa pulang. Terima kasih! Terima kasih! \"",
-         "75": "spriteText 4 \"Ada hal baik yang akan terjadi... \""
+         "25": "spriteText 3 \"Now I can go home, too. Thank you! Thank you! \"",
+         "75": "spriteText 4 \"Something good will happen soon... \""
        }
      },
      {
@@ -15855,16 +15855,6 @@
            "52": "speak Sam \"Konser berjalan lancar! Terima kasih sudah ikut dengan kami.$h\"",
            "53": "end dialogue Sam \"Hei. Konsernya sukses besar! Terima kasih, @.\""
          }
-       }
-     },
-     {
-       "Action": "EditData",
-       "Target": "Data/Events/Tent",
-       "Entries": {
-
-       },
-       "Fields": {
-
        }
      },
      {
