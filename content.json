@@ -24791,70 +24791,70 @@
            "0": "Um, excuse me.#$b#I have a gift for you. I found it last summer when I was playing at the beach. I hope you like it.$h"
          },
          "Event.cs.1498": {
-           "0": "I'm glad you moved here, farmer @!$h"
+           "0": "Aku senang kau pindah kesini, @!$h"
          },
          "Event.cs.1499": {
-           "0": "Hey, @. I'm your secret gift-giver this year.#$b#Here, open it.$h"
+           "0": "Hey, @. Aku pemberi secret gift-mu tahun ini.#$b#Ini, bukalah.$h"
          },
          "Event.cs.1500": {
-           "0": "It's not much, but I hope you like it.$h"
+           "0": "Tidak seberapa, tapi kuharap kau menyukainya.$h"
          },
          "Event.cs.1501": {
-           "0": "Hi. So, I'm your secret gift-giver this year.#$b#Well? Open it!"
+           "0": "Hi. Jadi, aku adalah pemberi gift-mu tahun ini.#$b#Tunggu apa lagi? Bukalah!"
          },
          "Event.cs.1503": {
-           "0": "You don't like it, huh? Bah! Kids these days... no appreciation for anything. That was expensive, and I'm not made of money, you know!"
+           "0": "Kau tidak menyukainya ya? Bah! Anak zaman sekarang... Tidak pernah bersyukur sama sekali. Itu mahal, dan aku tidak begitu punya banyak uang!"
          },
          "Event.cs.1504": {
-           "0": "It's nothing fancy, but It's the best I could afford."
+           "0": "Bukan sesuatu yang mewah, tapi itu adalah yang terbaik yang dapat kuberikan."
          },
          "Event.cs.1514": {
-           "0": "Time: {0}"
+           "0": "Sisa Waktu: {0}"
          },
          "Event.cs.1515": {
-           "0": "Eggs: {0}"
+           "0": "Telur: {0}"
          },
          "Event.cs.1521": {
-           "0": "$q -1 null#Do you think everyone's ready for the egg hunt yet?#$r -1 0 yes#Yes, let's start.#$r -1 0 no#Not yet."
+           "0": "$q -1 null#Apakah semua sudah siap?#$r -1 0 yes#Ya, ayo mulai.#$r -1 0 no#Belum."
          },
          "Event.cs.1524": {
-           "0": "$q -1 null#Well, should we start the dance now?#$r -1 0 yes#Yes, let's start.#$r -1 0 no#Not yet."
+           "0": "$q -1 null#Jadi, haruskah kita mulai dance nya sekarang?#$r -1 0 yes#Ya, ayo mulai.#$r -1 0 no#Belum."
          },
          "Event.cs.1527": {
-           "0": "$q -1 null#Should we move forward with the Luau? The governor seems a little hungry.#$r -1 0 yes#Yes, let's start.#$r -1 0 no#Not yet."
+           "0": "$q -1 null#Haruskah kita lanjutkan ke acara makan-makan Luau? Gubernur sudah terlihat lapar.#$r -1 0 yes#Ya, ayo mulai#$r -1 0 no#Belum."
          },
          "Event.cs.1531": {
-           "0": "$q -1 null#What do you think... should I launch the boat now?#$r -1 0 yes#Yes.#$r -1 0 no#Not yet."
+           "0": "$q -1 null#Apa menurutmu... Haruskah aku meluncurkan kapalnya?#$r -1 0 yes#Yes.#$r -1 0 no#Belum."
          },
          "Event.cs.1535": {
-           "0": "$q -1 null#Oh... are you already finished setting up your grange display?#$r -1 0 yes#Yes.#$r -1 0 no#Not yet."
+           "0": "$q -1 null#Oh... Apa kau sudah selesai mengatur pajanganmu?#$r -1 0 yes#Yes.#$r -1 0 no#Belum."
          },
          "Event.cs.1548": {
-           "0": "$q -1 null#Are you ready to participate in the ice fishing competition?#$r -1 0 yes#Yes.#$r -1 0 no#Not yet."
+           "0": "$q -1 null#Apa kau siap berpartisipasi di lomba memancing?#$r -1 0 yes#Yes.#$r -1 0 no#Belum."
          },
          "Event.cs.1584": {
-           "0": "Your grange display has been judged. Return to Mayor Lewis for the result!"
+           "0": "Pajanganmu sudah dinilai. Kembali ke Mayor Lewis untuk tau hasilnya!"
          },
          "Event.cs.1591": {
-           "0": "It feels great to be on top! Hah!$h#$e#Nice effort, though."
+           "0": "Rasanya menyenangkan bisa menang! Hah!$h#$e#Walau begitu, usaha yang bagus."
          },
          "Event.cs.1593": {
-           "0": "I can't believe I lost...$s"
+           "0": "Aku tak percaya kalau aku kalah...$s"
          },
          "Event.cs.1595": {
-           "0": "Well, I didn't win... but it was still satisfying to share all my hard work!"
+           "0": "Well, aku tidak menang... tapi terasa memuaskan bisa berbagi hasil kerja kerasku!"
          },
          "Event.cs.1597": {
-           "0": "Wow, I got a low score. I guess Mayor Lewis isn't much of a fish man. Oh well...$s"
+           "0": "Wow, skor ku rendah. Kurasa Mayor Lewis juga tidak punya bakat menjadi nelayan. Yasudahlah...$s"
          },
          "Event.cs.1600": {
-           "0": "That was some strange-looking purple lettuce in your grange display!$h#$b#I swear, It looked just like Mayor Lewis' special und... $3#$b#Oh!... heh... nevermind!$4"
+           "0": "Selada ungu yang ada di pajanganmu sungguh aneh!$h#$b#Itu seperti celana Ma- $3#$b#Oh!... heh... lupakanlah!$4"
          },
          "Event.cs.1602": {
            "0": "Well, here goes nothing..."
          },
          "Event.cs.1604": {
-           "0": "Hey, good luck."
+           "0": "Hey, semoga beruntung."
          },
          "Event.cs.1606": {
            "0": "I don't have high hopes of winning... the fish look nice but they don't exactly smell great...$s"
@@ -24929,34 +24929,34 @@
            "0": "Pergi"
          },
          "Event.cs.1666": {
-           "0": "Play the slingshot game and win star tokens!"
+           "0": "Mainkan permainan slingshot dan dapatkan star token!"
          },
          "Event.cs.1672": {
-           "0": "Trade in your star tokens for prizes?"
+           "0": "Tukar star token dengan hadiah?"
          },
          "Event.cs.1675": {
-           "0": "Someone else is using that right now."
+           "0": "Orang lain sedang menggunakannya."
          },
          "Event.cs.1681": {
-           "0": "Try your hand at some fishing? You could win big."
+           "0": "Ingin coba memancing? Kau bisa saja untung besar."
          },
          "Event.cs.1684": {
            "0": "Please stand at the red arrow."
          },
          "Event.cs.1688": {
-           "0": "Read my fortune (100g)"
+           "0": "Baca keberuntunganku (100g)"
          },
          "Event.cs.1690": {
-           "0": "No Thanks"
+           "0": "Tidak terimakasih"
          },
          "Event.cs.1691": {
            "0": "Ah, yes... my crystal ball is swirling with visions of your future, young one."
          },
          "Event.cs.1694": {
-           "0": "I've already read your fortune... go away."
+           "0": "Aku sudah membaca keburuntunganmu... pergilah."
          },
          "Event.cs.1695": {
-           "0": "You don't have enough money to pay my fee... What a shame."
+           "0": "Kau tidak punya cukup uang... Sungguh disayangkan."
          },
          "Event.cs.1714": {
            "0": "Out of Stock."
@@ -24986,13 +24986,13 @@
            "0": "$q -1 null#...Yes?#$r -1 0 danceAsk#(Ask {0} to be your dance partner)#$r -1 0 null#Nevermind..."
          },
          "Event.cs.1740": {
-           "0": "Give {0} his secret gift?"
+           "0": "Beri {0} secret gift nya?"
          },
          "Event.cs.1741": {
-           "0": "Give {0} her secret gift?"
+           "0": "Give {0} secret gift nya?"
          },
          "Event.cs.1758": {
-           "0": "Leave the {0}? Once you do, the festival will end."
+           "0": "Tinggalkan {0}? Jika kau pergi, festivalnya akan berakhir."
          },
          "Event.cs.1760": {
            "0": "Maybe for you, but not for me! You're not going to understand... Just... go away.$7#$b#...Ugh...$7#$b#Wait...$7"
@@ -25007,19 +25007,19 @@
            "0": "...$7#$b#Thanks... I appreciate that... I really do.$7"
          },
          "Event.cs.1774": {
-           "0": "How many star tokens would you like to buy?"
+           "0": "Berapa banyak star token yang ingin kau beli?"
          },
          "Event.cs.1776": {
-           "0": "How many star tokens would you like to wager?"
+           "0": "Berapa banya star token yang ingin kau pertaruhkan?"
          },
          "Event.cs.1780": {
-           "0": "You don't have enough money."
+           "0": "Uangmu tidak cukup."
          },
          "Event.cs.1785": {
-           "0": "You've already bought everything in the shop!"
+           "0": "Kau sudah membeli semua barang nya!"
          },
          "Event.cs.1788": {
-           "0": "Select a gift for {0}."
+           "0": "Pilih hadiah untuk {0}."
          },
          "Event.cs.1794": {
            "0": "Dudley"
@@ -25034,10 +25034,10 @@
            "0": "Snooch"
          },
          "Event.cs.1798": {
-           "0": "No? Okay... I'll find a different home for the poor thing.$s"
+           "0": "Tidak? Okay... Aku akan cari rumah lain untuk hewan malang ini.$s"
          },
          "Event.cs.1801": {
-           "0": "Oh! So it's you?$h#$b#Ah... {1} {0}! Thanks."
+           "0": "Oh! Jadi kau?$h#$b#Ah... {1} {0}! Terimakasih."
          },
          "Event.cs.1803": {
            "0": "Not a valid gift."
@@ -25049,7 +25049,7 @@
            "0": "Ahh... yes. I see you at the beach. There's some kind of event taking place. You walk up to {0} and say something funny... Hmmm... It seems like you two are good friends."
          },
          "Event.cs.1813": {
-           "0": "Ahhh... yes. It's {0}'s birthday."
+           "0": "Ahhh... benar. Hari ulang tahun {0}."
          },
          "Event.cs.1815": {
            "0": "He thought everyone forgot, but then you show up with a nice gift. What a good friend."
@@ -25202,7 +25202,7 @@
            "0": "Foraging"
          },
          "Farmer.cs.1995": {
-           "0": "Hoki"
+           "0": "Keberuntungan"
          },
          "Farmer.cs.1996": {
            "0": "Bertarung"
@@ -25541,40 +25541,40 @@
            "0": "Selesai"
          },
          "NPC.cs.3926": {
-           "0": "Be patient, I still have a lot of work to do."
+           "0": "Sabarlah, masih banyak pekerjaan yang harus dilakukan."
          },
          "NPC.cs.3927": {
-           "0": "Your house should be ready tomorrow."
+           "0": "Rumahmu harusnya sudah selesai besok."
          },
          "NPC.cs.3954": {
-           "0": "Wrong Person"
+           "0": "Salah Orang"
          },
          "NPC.cs.3955": {
-           "0": "You can't date {0}"
+           "0": "Kau tidak bisa mengencani {0}"
          },
          "NPC.cs.3956": {
-           "0": "Umm... I don't think so."
+           "0": "Umm... Kurasa tidak."
          },
          "NPC.cs.3957": {
-           "0": "Is this a joke? I don't get it."
+           "0": "Apakah ini lelucon? Aku tidak mengerti."
          },
          "NPC.cs.3958": {
-           "0": "...I don't really know you well enough...$s"
+           "0": "...Aku belum begitu mengenalmu...$s"
          },
          "NPC.cs.3959": {
-           "0": "Uh... This is awkward. Look, I don't really know you that well...$s"
+           "0": "Uh... Ini canggung. Begini, aku belum begitu mengenalmu...$s"
          },
          "NPC.cs.3960": {
-           "0": "Oh? ...Sorry... I'm not ready for that.$s"
+           "0": "Oh? ...Maaf... Aku belum siap dengan hubungan seperti itu.$s"
          },
          "NPC.cs.3961": {
-           "0": "...I didn't know. Uh... Sorry. No.$s"
+           "0": "...Aku tidak tau. Uh... Maaf. Tidak.$s"
          },
          "Wilted_Bouquet_Meaningless": {
-           "0": "It wouldn't make sense to give this to {0}."
+           "0": "Akan masuk akal jika memberi ini pada {0}."
          },
          "Wilted_Bouquet_Effect": {
-           "0": "You're no longer dating {0}."
+           "0": "Kau tidak lagi mengencani {0}."
          },
          "NPC.cs.3962": {
            "0": "...!! I'll accept this. Thank you.$l#$e#I didn't know you felt the same.$l"
@@ -25631,10 +25631,10 @@
            "0": "A human visitor? This is most unusual...#$e#I'm Krobus, merchant of rare and exotic goods."
          },
          "NPC.cs.3996": {
-           "0": "Go to sleep for the night?"
+           "0": "Tidur sekarang?"
          },
          "NPC.cs.4001": {
-           "0": "Honey... I wanted to give you that fruit as a symbol of my love.$l"
+           "0": "Sayang... Aku ingin memberimu buah sebagai simbol cintaku.$l"
          },
          "NPC.cs.4018": {
            "0": "Ya."
@@ -25709,37 +25709,37 @@
            "0": "Kuberi rahasia, {0} mencintai '{1}'."
          },
          "NPC.cs.4094": {
-           "0": "If you want {0} to like you, give him '{1}'."
+           "0": "Jika kau ingin {0} menyukaimu, beri dia '{1}'."
          },
          "NPC.cs.4097": {
-           "0": "If you want {0} to like you, give her '{1}'."
+           "0": "Jika kau ingin {0} menyukaimu, beri dia '{1}'."
          },
          "NPC.cs.4100": {
-           "0": "If you want to get on {0}'s good side, give him '{1}'."
+           "0": "Jika kau ingin mengambil hati {0}, beri dia '{1}'."
          },
          "NPC.cs.4103": {
-           "0": "If you want to get on {0}'s good side, give her '{1}'."
+           "0": "Jika kau ingin mengambil hati {0}, beri dia '{1}'."
          },
          "NPC.cs.4106": {
-           "0": "If you want to make friends with {0}, you can't go wrong with '{1}'."
+           "0": "Jika kau ingin berteman dengan {0}, '{1}' adalah hadiah yang aman untuk diberikan."
          },
          "NPC.cs.4109": {
-           "0": " It's his favorite."
+           "0": " Ini adalah favoritnya."
          },
          "NPC.cs.4111": {
-           "0": " It's her favorite."
+           "0": " Ini adalah favoritnya."
          },
          "NPC.cs.4113": {
-           "0": " He loves it."
+           "0": " Dia menyukainya."
          },
          "NPC.cs.4114": {
-           "0": " He loves that stuff."
+           "0": " Dia menyukainya benda itu."
          },
          "NPC.cs.4115": {
-           "0": " She loves it."
+           "0": " Dia menyukainya."
          },
          "NPC.cs.4116": {
-           "0": " She loves that stuff."
+           "0": " Dia menyukainya benda itu."
          },
          "NPC.cs.4118": {
            "0": " I gave it to him one year and he wouldn't stop talking about it."
@@ -27014,43 +27014,43 @@
            "0": "Chicken"
          },
          "Utility.cs.5926": {
-           "0": "Requires construction of a Coop"
+           "0": "Butuh konstruksi Coop"
          },
          "Utility.cs.5927": {
            "0": "Dairy Cow"
          },
          "Utility.cs.5931": {
-           "0": "Requires construction of a Barn"
+           "0": "Butuh konstruksi Barn"
          },
          "Utility.cs.5933": {
            "0": "Goat"
          },
          "Utility.cs.5936": {
-           "0": "Requires construction of a Big Barn"
+           "0": "Butuh konstruksi Big Barn"
          },
          "Utility.cs.5937": {
            "0": "Duck"
          },
          "Utility.cs.5940": {
-           "0": "Requires construction of a Big Coop"
+           "0": "Butuh konstruksi Big Coop"
          },
          "Utility.cs.5942": {
            "0": "Sheep"
          },
          "Utility.cs.5944": {
-           "0": "Requires construction of a Deluxe Barn"
+           "0": "Butuh konstruksi Deluxe Barn"
          },
          "Utility.cs.5945": {
            "0": "Rabbit"
          },
          "Utility.cs.5947": {
-           "0": "Requires construction of a Deluxe Coop"
+           "0": "Butuh konstruksi Deluxe Coop"
          },
          "Utility.cs.5948": {
            "0": "Pig"
          },
          "Utility.cs.5950": {
-           "0": "Requires construction of a Deluxe Barn"
+           "0": "Butuh konstruksi Deluxe Barn"
          },
          "Utility.cs.6018": {
            "0": "Forming Spring Buds..."
@@ -27245,7 +27245,7 @@
            "0": "Tidak ada surat."
          },
          "GameLocation.cs.8525": {
-           "0": "Kembalilah saat Pierre menjaga kios."
+           "0": "Kembalilah saat Pierre menjaga counter."
          },
          "GameLocation.cs.8708": {
            "0": "Large Pack"
@@ -28055,13 +28055,13 @@
            "0": "Bertarung"
          },
          "SkillsPage.cs.11609": {
-           "0": "Hoki"
+           "0": "Keberuntungan"
          },
          "SkillsPage.cs.11610": {
            "0": "Dompet"
          },
          "SocialPage.cs.11635": {
-           "0": "(jomblo)"
+           "0": "(single)"
          },
          "SocialPage.cs.11636": {
            "0": "(suami)"
@@ -28226,7 +28226,7 @@
            "0": "Tips: Tekan Shift lalu klik untuk membeli 5 item sekaligus."
          },
          "TitleMenu.cs.11721": {
-           "0": "Metelah meningkatkan hoe atau watering can-mu, tahan tombol untuk meningkatkan area penggunaan!"
+           "0": "Setelah meningkatkan hoe atau watering can-mu, tahan tombol untuk meningkatkan area penggunaan!"
          },
          "TitleMenu.cs.11722": {
            "0": "Tips: Klik kanan untuk memakai jurus spesial senjata."
@@ -28487,7 +28487,7 @@
            "0": "{0} mengganti namanya jadi '{1}'"
          },
          "MultiplayerUtility.cs.12488": {
-           "0": "Pameranmu sudah dinilai. Kembali ke Lurah Lewis untuk mengetahui hasilnya!"
+           "0": "Pajanganmu sudah dinilai. Kembali ke Mayor Lewis untuk mengetahui hasilnya!"
          },
          "Boots.cs.12500": {
            "0": "Level {0}"
@@ -28745,25 +28745,25 @@
            "0": "Selamat datang di KOZU 5... sumber utama anda untuk cuaca, berita, dan hiburan.^Sekarang, laporan cuaca untuk besok hari adalah..."
          },
          "TV.cs.13137": {
-           "0": "...and now, let's turn our attention to Pelican Town and the rest of the southern coast."
+           "0": "...dan sekarang, mari beralih ke Kota Pelican dan wilayah pantai selatan."
          },
          "TV.cs.13138": {
-           "0": "...and that's our best prediction for {0}, folks. Now how about Pelican Town?"
+           "0": "...dan itu adalah prediksi terbaik kami untuk {0}, pemirsa. Sekarang, bagaimana dengan Kota Pelican?"
          },
          "TV.cs.13140": {
-           "0": "...our Stardew Valley weather station is operational and reporting in with tomorrow's data."
+           "0": "...Stasiun perkiraan cuaca Stardew Valley melaporkan data cuaca besok."
          },
          "TV.cs.13141": {
-           "0": "I'm Tom Laminar, reporting in from KOZU 5... weather, news, and entertainment. Now, the report from Stardew Valley..."
+           "0": "Saya Tom Laminar, melapor langsung dari KOZU 5... cuaca, berita, dan hiburan. Sekarang, laporan dari Stardew Valley..."
          },
          "TV.cs.13142": {
-           "0": "...You can see a variable pressure front coming down from the north here. Well that can only mean one thing, folks..."
+           "0": "...Permisa dapat melihat variabel tekanan dari utara sini. Hanya ada satu arti untuk ini, pemirsa..."
          },
          "TV.cs.13143": {
-           "0": "...If you look here, you'll see some tempurature fluctuations of low to moderate severity. Do you know what that means, folks?..."
+           "0": "...Jika anda sekalian melihat, Anda akan melihat beberapa fluktuasi suhu dengan tingkat rendah hingga sedang. Pemirsa, apa anda tau apa artinya?..."
          },
          "TV.cs.13144": {
-           "0": "...To the northeast you can see a dry-line bulge creeping west near calico desert. It's pretty clear to me, folks..."
+           "0": "...Di timur laut Anda dapat melihat tonjolan garis kering yang menjalar ke barat dekat gurun calico. Pemirsa, menurut saya cukup jelas..."
          },
          "TV.cs.13148": {
            "0": "Bercanda... Aku belum siap. Aku tidak punya apa-apa untukmu hari ini."
@@ -28775,7 +28775,7 @@
            "0": "Kamu mengerti cara memasak '{0}'!"
          },
          "TV.cs.13164": {
-           "0": "Um... that's odd. My information sheet just says 'null'. This is embarrassing..."
+           "0": "Um... Sungguh aneh. Catatan saya hanya bertuliskan 'null'. Ini memalukan..."
          },
          "TV.cs.13170": {
            "0": "di Kota Pelican"
@@ -28790,58 +28790,58 @@
            "0": "Cuaca besok akan cerah... sempurna untuk {0}! Acaranya akan diadakan pada {1}, mulai pukul {2} dan {3}. Jangan terlambat!"
          },
          "TV.cs.13180": {
-           "0": "Bundle up, folks. It's going to snow tomorrow!"
+           "0": "Bersiaplah, pemirsa. Besok akan turun salju!"
          },
          "TV.cs.13181": {
-           "0": "Expect a few inches of snow tomorrow."
+           "0": "Besok turun salju yang lumayan tebal."
          },
          "TV.cs.13182": {
-           "0": "It's going to be a beautiful, sunny day tomorrow!"
+           "0": "Besok akan menjadi hari yang cerah dan indah!"
          },
          "TV.cs.13183": {
-           "0": "It's going to be clear and sunny all day."
+           "0": "Besok hari akan cerah."
          },
          "TV.cs.13184": {
-           "0": "It's going to rain all day tomorrow."
+           "0": "Besok akan hujan sehari penuh."
          },
          "TV.cs.13185": {
-           "0": "Looks like a storm is approaching. Thunder and lightning is expected."
+           "0": "Kelihatannya badai mendekat. Akan disertai kilatan petir."
          },
          "TV.cs.13187": {
-           "0": "Partially cloudy with a light breeze. Expect lots of pollen!"
+           "0": "Akan sedikit berawan dengan angin sepoi-sepoi. Akan banyak serbuk sari!"
          },
          "TV.cs.13189": {
-           "0": "It's going to be cloudy, with gusts of wind throughout the day."
+           "0": "Cuaca akan mendung, dengan hembusan angin sepanjang hari."
          },
          "TV.cs.13190": {
-           "0": "It's going to snow all day. Make sure you bundle up, folks!"
+           "0": "Akan turun salju sepanjang hari. Pastikan anda sekalian bersiap, pemirsa!"
          },
          "TV.cs.13191": {
-           "0": "The spirits are furious. Apparently someone tried to give them a worthless offering... Hmm. It's unwise to play jokes on the spirits!"
+           "0": "Spirit sedang sangat marah. Rupanya seseorang mencoba memberi mereka persembahan yang tidak berharga... Hmm. Tidak bijaksana untuk membuat lelucon kepada para spirit!"
          },
          "TV.cs.13192": {
-           "0": "The spirits are very displeased today. They will do their best to make your life difficult."
+           "0": "Para Spirit sangat tidak senang hari ini. Mereka akan melakukan yang terbaik untuk membuat hidup kalian sulit."
          },
          "TV.cs.13193": {
-           "0": "The spirits are somewhat annoyed today. Luck will not be on your side."
+           "0": "Para Spirit agak kesal hari ini. Keberuntungan tidak akan ada di pihak kalian."
          },
          "TV.cs.13195": {
-           "0": "The spirits are somewhat mildly perturbed today. Luck will not be on your side."
+           "0": "Para Spirit agak sedikit terganggu hari ini. Keberuntungan tidak akan ada di pihak kalian."
          },
          "TV.cs.13197": {
-           "0": "The spirits are joyous! Someone gave them a nice offering today, and they are very pleased."
+           "0": "Para Spirit sedang gembira! Seseorang memberi mereka persembahan yang bagus hari ini, dan mereka sangat senang."
          },
          "TV.cs.13198": {
-           "0": "The spirits are very happy today! They will do their best to shower everyone with good fortune."
+           "0": "Para Spirit sangat senang hari ini! Mereka akan melakukan yang terbaik untuk memberi semua orang dengan keberuntungan."
          },
          "TV.cs.13199": {
-           "0": "The spirits are in good humor today. I think you'll have a little extra luck."
+           "0": "Para Spirit sedang dalam mood baik hari ini. Saya pikir Anda akan memiliki sedikit keberuntungan tambahan."
          },
          "TV.cs.13200": {
-           "0": "The spirits feel neutral today. The day is in your hands."
+           "0": "Para Spirit merasa netral hari ini. Hari ini ada di tanganmu."
          },
          "TV.cs.13201": {
-           "0": "This is rare. The spirits feel absolutely neutral today."
+           "0": "Ini sungguh langka. Para Spirit benar-benar netral hari ini."
          },
          "Wallpaper.cs.13203": {
            "0": "Lantai"
@@ -28850,10 +28850,10 @@
            "0": "Wallpaper"
          },
          "Wallpaper.cs.13205": {
-           "0": "Decorates the floor of one room."
+           "0": "Mendekorasi lantai di satu ruangan."
          },
          "Wallpaper.cs.13206": {
-           "0": "Decorates the walls of one room."
+           "0": "Mendekorasi dinding di satu ruangan."
          },
          "FishingQuest.cs.13227": {
            "0": "Fishing"
@@ -29645,79 +29645,79 @@
            "0": "{0}"
          },
          "HoeDirt.cs.13915": {
-           "0": "Requires Scythe"
+           "0": "Membutuhkan Scythe"
          },
          "HoeDirt.cs.13916": {
-           "0": "Must be added before planting"
+           "0": "Harus ditambahkan sebelum menanam"
          },
          "HoeDirt.cs.13916-2": {
-           "0": "This spot is already fertilized"
+           "0": "Spot ini sudah diberi fertilizer"
          },
          "HoeDirt.cs.13919": {
-           "0": "Must be planted on farm."
+           "0": "Harus ditanam di kebun."
          },
          "HoeDirt.cs.13924": {
-           "0": "Out of season."
+           "0": "Musim tidak sesuai."
          },
          "HoeDirt.cs.13925": {
-           "0": "Can't plant here."
+           "0": "Tidak bisa ditanam di sini."
          },
          "HoeDirt.cs.13928": {
            "0": "Greenhouse"
          },
          "ResourceClump.cs.13945": {
-           "0": "Your axe isn't strong enough to break this stump."
+           "0": "Axe mu tidak cukup kuat menghancurkan sisa pohon ini."
          },
          "ResourceClump.cs.13948": {
-           "0": "Your axe isn't strong enough to break this log."
+           "0": "Axe mu tidak cukup kuat menghancurkan kayu ini."
          },
          "ResourceClump.cs.13952": {
-           "0": "Your pickaxe isn't strong enough to break this."
+           "0": "Pickaxe mu tidak cukup kuat menghancurkan ini."
          },
          "ResourceClump.cs.13956": {
-           "0": "Your pickaxe isn't strong enough to break this boulder."
+           "0": "Pickaxe mu tidak cukup kuat menghancurkan batu ini."
          },
          "ResourceClump.cs.13962": {
-           "0": "Looks like you'll need an upgraded axe to destroy this gnarled old log."
+           "0": "Sepertinya kau harus meng-upgrade axe mu untuk menghancurkan ini."
          },
          "ResourceClump.cs.13963": {
-           "0": "Looks like you'll need an upgraded pickaxe to destroy this dense stone."
+           "0": "Sepertinya kau harus meng-upgrade axe mu untuk menghancurkan ini."
          },
          "ResourceClump.cs.13964": {
-           "0": "It looks pretty solid... maybe a very strong pickaxe could break it?"
+           "0": "Kelihatan sangat solid... Mungkin pickaxe yang sangat kuat dapat menghancurkannya?"
          },
          "Axe.cs.1": {
            "0": "Axe"
          },
          "Axe.cs.14019": {
-           "0": "Used to chop wood."
+           "0": "Gunakan untuk memotong kayu."
          },
          "TreeFertilizer1": {
-           "0": "Already Mature"
+           "0": "Sudah dewasa"
          },
          "TreeFertilizer2": {
-           "0": "Already Fertilized"
+           "0": "Sudah diberi fertilizer"
          },
          "Axe.cs.14023": {
-           "0": "You're only allowed to chop trees on your farm... It's a town rule."
+           "0": "Kau hanya diizinkan menebang pohon di kebun mu... Sudah menjadi aturan."
          },
          "Blueprints.cs.14039": {
-           "0": "Farmer's Catalogue"
+           "0": "Farmer's Catalog"
          },
          "Blueprints.cs.14040": {
-           "0": "Use this to purchase buildings, animals, and more!"
+           "0": "Gunakan ini untuk membeli bangunan, bintang, dan sebagainya!"
          },
          "FishingRod.cs.14041": {
            "0": "Fishing Rod"
          },
          "FishingRod.cs.14042": {
-           "0": "Use in the water to catch fish."
+           "0": "Gunakan di air untuk menangkap ikan."
          },
          "FishingRod.cs.trainingRodDescription": {
-           "0": "It's a lot easier to use than other rods, but can only catch basic fish."
+           "0": "Lebih mudah digunakan daripada rod yang lain, tapi hanya dapat menangkap ikan biasa."
          },
          "FishingRod.cs.14044": {
-           "0": "Use in the water to catch fish."
+           "0": "Gunakan di air untuk menangkap ikan."
          },
          "FishingRod.cs.14045": {
            "0": "Bamboo Pole"
@@ -29732,37 +29732,37 @@
            "0": "Iridium Rod"
          },
          "FishingRod.cs.14068": {
-           "0": "You've caught one of the legendary fish."
+           "0": "Kau berhasil menangkap salah satu ikan legendaris."
          },
          "FishingRod.cs.14069": {
-           "0": "New Record!"
+           "0": "Record Baru!"
          },
          "FishingRod.cs.14082": {
-           "0": "Length:"
+           "0": "Panjang:"
          },
          "FishingRod.cs.14083": {
            "0": "{0} in."
          },
          "FishingRod.cs.14085": {
-           "0": "You've used your last piece of bait."
+           "0": "Kau sudah menggunakan seluruh umpan mu."
          },
          "FishingRod.cs.14086": {
-           "0": "Your fishing tackle has worn out."
+           "0": "Fishing tackle mu sudah rusak."
          },
          "FishingRod.cs.14100": {
-           "0": "You found a lost book. The library has been expanded."
+           "0": "Kau menemukan buku yang hilang. Koleksi perpustakaan telah ditingkatkan."
          },
          "Hoe.cs.14101": {
            "0": "Hoe"
          },
          "Hoe.cs.14102": {
-           "0": "Used to dig and till soil."
+           "0": "Gunakan untuk menggali dan membajak tanah."
          },
          "Lantern.cs.14114": {
            "0": "Lantern"
          },
          "Lantern.cs.14115": {
-           "0": "Lights up dark places."
+           "0": "Menerangi tempat yang gelap."
          },
          "MagicMap.cs.14117": {
            "0": "Magic Map"
@@ -29774,10 +29774,10 @@
            "0": "Magnifying Glass"
          },
          "MagnifyingGlass.cs.14120": {
-           "0": "Use this on your animals to see how they're doing."
+           "0": "Gunakan ini pada hewan peliharaan mu untuk melihat keadaan mereka."
          },
          "MeleeWeapon.cs.14122": {
-           "0": "The prismatic shard changes shape before your very eyes! This power is tremendous.^^ You've found the =Galaxy Sword= ^"
+           "0": "Prismatic Shard berubah bentuk di depan mata mu! Kekuatannya luarbiasa.^^ Kau berhasil mendapatkan =Galaxy Sword= ^"
          },
          "MeleeWeapon.cs.14132": {
            "0": "{0} - {1} Damage"
@@ -29807,46 +29807,46 @@
            "0": "Milk Pail"
          },
          "MilkPail.cs.14168": {
-           "0": "Gather milk from your animals."
+           "0": "Memerah susu dari hewan ternak mu."
          },
          "MilkPail.cs.14171": {
            "0": "{0} Required"
          },
          "MilkPail.cs.14175": {
-           "0": "{0} doesn't produce milk."
+           "0": "{0} tidak menghasilkan susu."
          },
          "MilkPail.cs.14176": {
-           "0": "{0} is too young to produce milk."
+           "0": "{0} terlalu muda untuk menghasilkan susu."
          },
          "MilkPail.cs.14177": {
-           "0": "{0} has no milk right now."
+           "0": "{0} sidang tidak bisa di perah susu nya."
          },
          "Pan.cs.14180": {
            "0": "Copper Pan"
          },
          "Pan.cs.14181": {
-           "0": "Use to gather ore from streams."
+           "0": "Gunakan untuk mengumpulkan mineral di aliran air."
          },
          "Pickaxe.cs.14184": {
            "0": "Pickaxe"
          },
          "Pickaxe.cs.14185": {
-           "0": "Used to break stones."
+           "0": "Gunakan untuk menghancurkan batu."
          },
          "Pickaxe.cs.14194": {
-           "0": "Your pickaxe isn't strong enough to break this yet."
+           "0": "Pickaxe mu belum cukup kuat untuk menghancurkan ini."
          },
          "Raft.cs.14204": {
            "0": "Raft"
          },
          "Raft.cs.14205": {
-           "0": "Not suitable for ocean use."
+           "0": "Tidak cocok untuk digunakan di laut."
          },
          "Seeds.cs.14209": {
            "0": "Seeds"
          },
          "Seeds.cs.14210": {
-           "0": "Plant these in tilled soil and water daily."
+           "0": "Tanam ini di tanah yang sudah dibajak dan siram tiap hari."
          },
          "Seeds.cs.14212": {
            "0": "Parsnip"
@@ -29936,49 +29936,49 @@
            "0": "Shears"
          },
          "Shears.cs.14241": {
-           "0": "Use this to collect wool from sheep"
+           "0": "Gunakan untuk mencukur wool dari domba"
          },
          "Shears.cs.14245": {
-           "0": "{0} doesn't produce wool."
+           "0": "{0} tidak menghasilkan wool."
          },
          "Shears.cs.14246": {
-           "0": "{0} is too young to be sheared."
+           "0": "{0} terlalu muda untuk dicukur."
          },
          "Shears.cs.14247": {
-           "0": "{0} has no wool right now."
+           "0": "{0} sedang tidak bisa dicukur."
          },
          "Slingshot.cs.14254": {
-           "0": "Out of ammo"
+           "0": "Peluru habis"
          },
          "Slingshot.cs.14256": {
-           "0": "Right-Click to arm {0} with {1}"
+           "0": "Klik kanan untuk memasang {0} dengan {1}"
          },
          "Slingshot.cs.14258": {
-           "0": "Right-Click to retrieve {0}"
+           "0": "Klik kanan untuk mengambil {0}"
          },
          "Sword.cs.14290": {
            "0": "Hero's Sword"
          },
          "Sword.cs.14291": {
-           "0": "A famous hero once owned this sword."
+           "0": "Pedang ini dulunya milik pahlawan yang terkenal."
          },
          "Sword.cs.14292": {
            "0": "Holy Sword"
          },
          "Sword.cs.14293": {
-           "0": "A powerful relic infused with ancient energy."
+           "0": "Relic yang kuat dengan energi kuno di dalamnya."
          },
          "Sword.cs.14294": {
            "0": "Dark Sword"
          },
          "Sword.cs.14295": {
-           "0": "A powerful relic infused with evil energy."
+           "0": "Relic yang kuat dengan energi jahat di dalamnya."
          },
          "Sword.cs.14296": {
            "0": "Galaxy Sword"
          },
          "Sword.cs.14297": {
-           "0": "The ultimate cosmic weapon."
+           "0": "Senjata pemungkas dari kosmik."
          },
          "Tool.cs.14299": {
            "0": "Copper {0}"
@@ -30008,25 +30008,25 @@
            "0": "Tool"
          },
          "Tool.cs.14317": {
-           "0": "Thanks. I'll get started on this as soon as I can. It should be ready in a couple days."
+           "0": "Terimakasih. Aku akan segera mulai. Akan selesai dalam beberapa hari."
          },
          "Wand.cs.14318": {
            "0": "Return Scepter"
          },
          "Wand.cs.14319": {
-           "0": "The golden handle quivers with raw potential. Hold this scepter to the sky and return home at will."
+           "0": "Pegangan emas bergetar dengan potensi yang tak terbatas. Gunakan tongkat ini untuk pulang kerumah kapan saja."
          },
          "WateringCan.cs.14324": {
            "0": "Watering Can"
          },
          "WateringCan.cs.14325": {
-           "0": "Used to water crops. It can be refilled at any water source."
+           "0": "Gunakan untuk menyiram tanama. Dapat diisi ulang dari sumber air manapun."
          },
          "WateringCan_enchant": {
-           "0": "In your hands, this can will never run out of water."
+           "0": "Di tangan mu, penyiram ini tidak akan kehabisan air."
          },
          "WateringCan.cs.14335": {
-           "0": "Out of water"
+           "0": "Air habis"
          },
          "Language.1": {
            "0": "English"
@@ -30368,7 +30368,7 @@
            "0": "Right-Click"
          },
          "NewReward": {
-           "0": "New Reward!"
+           "0": "Hadiah Baru!"
          },
          "OptionsPage.cs.11239": {
            "0": "Controller Placement Tile Indicator"
@@ -30518,7 +30518,7 @@
            "0": "Barang eksotis untuk barter!"
          },
          "DesertTrader1": {
-           "0": "Selamat datang, musafir... tertarik untuk barter?"
+           "0": "Selamat datang, pengembara... tertarik untuk barter?"
          },
          "CustomizedBootItemName": {
            "0": "Custom-tailored {0}"
@@ -30527,25 +30527,25 @@
            "0": "Ostrich"
          },
          "Ostrich_Description": {
-           "0": "Adult ostriches will lay a very large egg once a week."
+           "0": "Burung unta dewasa akan menghasilkan telur seminggu sekali."
          },
          "Furniture_Outdoors": {
-           "0": "Outdoor Furniture"
+           "0": "Furnitur Outdoor"
          },
          "Furniture_Outdoors_Description": {
-           "0": "Can be placed outside."
+           "0": "Dapat dipasang di luar ruangan."
          },
          "Furniture_Outdoors_Message": {
-           "0": "Can only be placed outside."
+           "0": "Hanya dapat dipasang di luar ruangan."
          },
          "Furniture_Decoration": {
            "0": "Decoration"
          },
          "Furniture_Decoration_Description": {
-           "0": "Can be placed as decoration."
+           "0": "Dapat dipasang sebagai dekorasi."
          },
          "Object.cs.13060_Fruit": {
-           "0": "Too close to a fruit tree"
+           "0": "Terlalu dekat dengan pohon buah"
          },
          "VolcanoShop0": {
            "0": "A human who speaks our language? I'm impressed..."
