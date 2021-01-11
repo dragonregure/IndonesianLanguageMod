@@ -1,0 +1,753 @@
+[18:09:55 INFO  SMAPI] SMAPI 3.8.0 with Stardew Valley 1.5.2 on Microsoft Windows 10 Enterprise
+[18:09:55 INFO  SMAPI] Mods go here: C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\Mods
+[18:09:55 TRACE SMAPI] Log started at 2021-01-11T11:09:55 UTC
+[18:10:08 DEBUG SMAPI] Starting game...
+[18:10:10 TRACE game] NoFpsCap: This feature is not available
+[18:10:19 TRACE SMAPI] Loading mod metadata...
+[18:10:19 TRACE SMAPI]   Ignored loose files: RangeHighlight 2.2.0-6752-2-2-0-1609616983.zip, ScarecrowHighlighter-3579-1-1-1-1589703849.zip, SkullCavernElevator-963-1-3-1-1604249334.zip
+[18:10:20 TRACE SMAPI] Loading mods...
+[18:10:20 TRACE SMAPI]    Automate (from Mods\Automate\Automate.dll)...
+[18:10:21 TRACE SMAPI]    Better Ranching (from Mods\BetterRanching\BetterRanching.dll)...
+[18:10:21 TRACE SMAPI]    CJB Cheats Menu (from Mods\CJBCheatsMenu\CJBCheatsMenu.dll)...
+[18:10:21 TRACE SMAPI]    CJB Show Item Sell Price (from Mods\CJBShowItemSellPrice\CJBShowItemSellPrice.dll)...
+[18:10:22 TRACE SMAPI]    Console Commands (from Mods\ConsoleCommands\ConsoleCommands.dll)...
+[18:10:22 TRACE SMAPI]    Content Patcher (from Mods\ContentPatcher\ContentPatcher.dll)...
+[18:10:22 TRACE SMAPI]    Indonesian Language Mod (from Mods\IndonesianLanguageMod) [content pack]...
+[18:10:22 TRACE SMAPI]    Lookup Anything (from Mods\LookupAnything\LookupAnything.dll)...
+[18:10:23 TRACE SMAPI]    NPC Map Locations (from Mods\NPCMapLocations\NPCMapLocations.dll)...
+[18:10:23 TRACE SMAPI]    Range Highlight (from Mods\RangeHighlight\RangeHighlight.dll)...
+[18:10:23 TRACE SMAPI]       Rewriting RangeHighlight.dll for OS...
+[18:10:24 TRACE SMAPI]    Save Backup (from Mods\SaveBackup\SaveBackup.dll)...
+[18:10:24 TRACE SMAPI]    SkullCavernElevator (from Mods\SkullCavernElevator\SkullCavernElevator.dll)...
+[18:10:24 TRACE SMAPI]       Rewrote SkullCavernElevator.dll to fix Game1.currentLocation (field => property)...
+[18:10:24 TRACE SMAPI]       Rewrote SkullCavernElevator.dll to fix IClickableMenu.drawTextureBox (added missing optional parameters)...
+[18:10:24 TRACE SMAPI]       Rewrote SkullCavernElevator.dll to fix IClickableMenu.drawMouse (added missing optional parameters)...
+[18:10:24 TRACE SMAPI]    OhoDavi's StardewValley Anime Mods (from Mods\[CP] Portrait Anime Mods OhoDavi) [content pack]...
+[18:10:24 INFO  SMAPI] Loaded 11 mods:
+[18:10:24 INFO  SMAPI]    Automate 1.19.0 by Pathoschild | Lets you automate crafting machines, fruit trees, and more by connecting them to chests.
+[18:10:24 INFO  SMAPI]    Better Ranching 1.8.0 by Urbanyeti | Prevents failed milk/shear attempts and displays when animals can be milked/sheared and petted.
+[18:10:24 INFO  SMAPI]    CJB Cheats Menu 1.26.0 by CJBok and Pathoschild | Simple in-game cheats menu!
+[18:10:24 INFO  SMAPI]    CJB Show Item Sell Price 1.9.10 by CJBok and Pathoschild | Show item sell price in your inventory!
+[18:10:24 INFO  SMAPI]    Console Commands 3.8.0 by SMAPI | Adds SMAPI console commands that let you manipulate the game.
+[18:10:24 INFO  SMAPI]    Content Patcher 1.19.2 by Pathoschild | Loads content packs which edit game data, images, and maps without changing the game files.
+[18:10:24 INFO  SMAPI]    Lookup Anything 1.29.0 by Pathoschild | View metadata about anything by pressing a button.
+[18:10:24 INFO  SMAPI]    NPC Map Locations 2.5.12-alpha by Bouhm | Shows NPCs and farmers on a modified map page for accurate tracking.
+[18:10:24 INFO  SMAPI]    Range Highlight 2.2.0 by Jamie Taylor | Highlights ranges for scarecrows, sprinklers, etc.
+[18:10:24 INFO  SMAPI]    Save Backup 3.8.0 by SMAPI | Automatically backs up all your saves once per day into its folder.
+[18:10:24 INFO  SMAPI]    SkullCavernElevator 1.3.1 by lestoph | Elevator for the Skull Cavern
+
+[18:10:24 INFO  SMAPI] Loaded 2 content packs:
+[18:10:24 INFO  SMAPI]    Indonesian Language Mod 1.5.1 by dragonregure | for Content Patcher | It makes your stardew valley content(dialogue, non dialogue) translated to Indonesian Language.
+[18:10:24 INFO  SMAPI]    OhoDavi's StardewValley Anime Mods 0.4.0 by OhoDavi | for Content Patcher | Replaces the Vanilla Portraits with OhoDavi's Anime-like Portraits.
+
+[18:10:26 TRACE SMAPI]    Found mod-provided API (Pathoschild.Stardew.Automate.Framework.AutomateAPI).
+[18:10:26 TRACE CJB Cheats Menu] Started with menu key P.
+[18:10:26 TRACE SMAPI]    Found mod-provided API (ContentPatcher.Framework.ContentPatcherAPI).
+[18:10:27 TRACE SMAPI]    Found mod-provided API (RangeHighlight.RangeHighlightAPI).
+[18:10:27 TRACE SMAPI] Checking for updates...
+[18:10:29 TRACE Save Backup] Backed up to C:\Program Files (x86)\Steam\steamapps\common\Stardew Valley\save-backups\2021-01-11 - SMAPI 3.8.0 with Stardew Valley 1.5.2.zip.
+[18:10:29 TRACE Save Backup] Deleting 2020-12-28 - SMAPI 3.8.0 with Stardew Valley 1.5.1.zip...
+[18:10:29 ALERT SMAPI] You can update SMAPI to 3.8.3: https://smapi.io
+[18:10:29 TRACE SMAPI]    Checking for updates to 11 mods...
+
+[18:10:30 ALERT SMAPI] You can update 5 mods:
+[18:10:30 ALERT SMAPI]    Automate 1.19.1: https://www.nexusmods.com/stardewvalley/mods/1063
+[18:10:30 ALERT SMAPI]    CJB Cheats Menu 1.27.0: https://www.nexusmods.com/stardewvalley/mods/4
+[18:10:30 ALERT SMAPI]    Content Patcher 1.19.3: https://www.nexusmods.com/stardewvalley/mods/1915
+[18:10:30 ALERT SMAPI]    Lookup Anything 1.31.1: https://www.nexusmods.com/stardewvalley/mods/541
+[18:10:30 ALERT SMAPI]    OhoDavi's StardewValley Anime Mods 1.0.0: https://www.nexusmods.com/stardewvalley/mods/1839
+[18:10:31 TRACE game] setGameMode( 'titleScreenGameMode (0)' )
+[18:10:32 TRACE SMAPI] Running on GPU: NVIDIA GeForce 840M
+[18:10:33 TRACE game] Steam logged on: True
+[18:10:33 TRACE game] Initializing GalaxySDK
+[18:10:35 TRACE game] Requesting Steam app ticket
+[18:10:35 TRACE SMAPI] Detecting common issues...
+[18:10:35 INFO  SMAPI] Type 'help' for help, or 'help <cmd>' for a command's usage
+[18:10:36 TRACE game] Signing into GalaxySDK
+[18:11:13 TRACE Content Patcher] Requested cache invalidation for all assets matching a predicate.
+[18:11:13 TRACE SMAPI] Invalidated 7 asset names (Data\Achievements, Data\BigCraftablesInformation, Data\ClothingInformation, Data\NPCGiftTastes, Data\ObjectInformation, Data\weapons, Strings\StringsFromCSFiles); propagated 5 core assets.
+[18:11:14 TRACE SMAPI] Invalidating cached assets for new editors & loaders...
+[18:11:14 TRACE SMAPI]    changed: Content Patcher (added 1)
+[18:11:14 TRACE Content Patcher] Indonesian Language Mod edited Data\BigCraftablesInformation.
+[18:11:14 TRACE SMAPI] Content Patcher edited Data\BigCraftablesInformation.
+[18:11:14 TRACE Content Patcher] Indonesian Language Mod edited Data\ClothingInformation.
+[18:11:14 TRACE SMAPI] Content Patcher edited Data\ClothingInformation.
+[18:11:14 TRACE Content Patcher] Indonesian Language Mod edited Data\ObjectInformation.
+[18:11:14 TRACE SMAPI] Content Patcher edited Data\ObjectInformation.
+[18:11:14 TRACE Content Patcher] Indonesian Language Mod edited Data\NPCGiftTastes.
+[18:11:14 TRACE SMAPI] Content Patcher edited Data\NPCGiftTastes.
+[18:11:14 TRACE Content Patcher] Indonesian Language Mod edited Data\Achievements.
+[18:11:14 TRACE SMAPI] Content Patcher edited Data\Achievements.
+[18:11:14 TRACE SMAPI] Invalidated 5 asset names (Data\Achievements, Data\BigCraftablesInformation, Data\ClothingInformation, Data\NPCGiftTastes, Data\ObjectInformation); propagated 5 core assets.
+[18:11:14 TRACE game] Galaxy auth success
+[18:11:14 TRACE game] Galaxy signed in
+[18:11:14 TRACE game] Galaxy logged on
+[18:11:14 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:43 Y:36 Width:1280 Height:720}
+[18:11:14 TRACE Content Patcher] Indonesian Language Mod edited Strings\StringsFromCSFiles.
+[18:11:14 TRACE SMAPI] Content Patcher edited Strings\StringsFromCSFiles.
+[18:11:14 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:43 Y:36 Width:1264 Height:681}
+[18:11:31 TRACE Content Patcher] Indonesian Language Mod edited Strings\StringsFromCSFiles.
+[18:11:31 TRACE SMAPI] Content Patcher edited Strings\StringsFromCSFiles.
+[18:11:32 TRACE Content Patcher] Indonesian Language Mod edited Strings\UI.
+[18:11:32 TRACE SMAPI] Content Patcher edited Strings\UI.
+[18:11:40 TRACE game] gameMode was 'titleScreenGameMode (0)', set to 'loadingMode (6)'.
+[18:11:40 TRACE SMAPI] Game loader synchronizing...
+[18:11:40 TRACE game] getLoadEnumerator('Fuzzy_269960063')
+[18:11:40 TRACE game] regular stream detected...
+[18:11:46 TRACE Content Patcher] Indonesian Language Mod edited Data\Blueprints.
+[18:11:46 TRACE SMAPI] Content Patcher edited Data\Blueprints.
+[18:11:47 TRACE Content Patcher] OhoDavi's StardewValley Anime Mods loaded Portraits\George.
+[18:11:47 TRACE SMAPI] Content Patcher loaded asset 'Portraits\George'.
+[18:11:47 TRACE Content Patcher] OhoDavi's StardewValley Anime Mods loaded Portraits\Evelyn.
+[18:11:47 TRACE SMAPI] Content Patcher loaded asset 'Portraits\Evelyn'.
+[18:11:47 TRACE Content Patcher] OhoDavi's StardewValley Anime Mods loaded Portraits\Alex.
+[18:11:47 TRACE SMAPI] Content Patcher loaded asset 'Portraits\Alex'.
+[18:11:47 TRACE Content Patcher] OhoDavi's StardewValley Anime Mods loaded Portraits\Emily.
+[18:11:47 TRACE SMAPI] Content Patcher loaded asset 'Portraits\Emily'.
+[18:11:47 TRACE Content Patcher] OhoDavi's StardewValley Anime Mods loaded Portraits\Haley.
+[18:11:47 TRACE SMAPI] Content Patcher loaded asset 'Portraits\Haley'.
+[18:11:47 TRACE Content Patcher] OhoDavi's StardewValley Anime Mods loaded Portraits\Jodi.
+[18:11:47 TRACE SMAPI] Content Patcher loaded asset 'Portraits\Jodi'.
+[18:11:47 TRACE Content Patcher] OhoDavi's StardewValley Anime Mods loaded Portraits\Sam.
+[18:11:47 TRACE SMAPI] Content Patcher loaded asset 'Portraits\Sam'.
+[18:11:47 TRACE Content Patcher] OhoDavi's StardewValley Anime Mods loaded Portraits\Vincent.
+[18:11:47 TRACE SMAPI] Content Patcher loaded asset 'Portraits\Vincent'.
+[18:11:47 TRACE Content Patcher] OhoDavi's StardewValley Anime Mods loaded Portraits\Clint.
+[18:11:47 TRACE SMAPI] Content Patcher loaded asset 'Portraits\Clint'.
+[18:11:47 TRACE Content Patcher] OhoDavi's StardewValley Anime Mods loaded Portraits\Lewis.
+[18:11:47 TRACE SMAPI] Content Patcher loaded asset 'Portraits\Lewis'.
+[18:11:47 TRACE Content Patcher] OhoDavi's StardewValley Anime Mods loaded Portraits\Caroline.
+[18:11:47 TRACE SMAPI] Content Patcher loaded asset 'Portraits\Caroline'.
+[18:11:47 TRACE Content Patcher] OhoDavi's StardewValley Anime Mods loaded Portraits\Abigail.
+[18:11:47 TRACE SMAPI] Content Patcher loaded asset 'Portraits\Abigail'.
+[18:11:48 TRACE Content Patcher] OhoDavi's StardewValley Anime Mods loaded Portraits\Pierre.
+[18:11:48 TRACE SMAPI] Content Patcher loaded asset 'Portraits\Pierre'.
+[18:11:48 TRACE Content Patcher] OhoDavi's StardewValley Anime Mods loaded Portraits\Gus.
+[18:11:48 TRACE SMAPI] Content Patcher loaded asset 'Portraits\Gus'.
+[18:11:48 TRACE Content Patcher] OhoDavi's StardewValley Anime Mods loaded Portraits\Pam.
+[18:11:48 TRACE SMAPI] Content Patcher loaded asset 'Portraits\Pam'.
+[18:11:48 TRACE Content Patcher] OhoDavi's StardewValley Anime Mods loaded Portraits\Penny.
+[18:11:48 TRACE SMAPI] Content Patcher loaded asset 'Portraits\Penny'.
+[18:11:48 TRACE Content Patcher] OhoDavi's StardewValley Anime Mods loaded Portraits\Harvey.
+[18:11:48 TRACE SMAPI] Content Patcher loaded asset 'Portraits\Harvey'.
+[18:11:49 TRACE Content Patcher] OhoDavi's StardewValley Anime Mods loaded Portraits\Elliott.
+[18:11:49 TRACE SMAPI] Content Patcher loaded asset 'Portraits\Elliott'.
+[18:11:49 TRACE Content Patcher] OhoDavi's StardewValley Anime Mods loaded Portraits\Maru.
+[18:11:49 TRACE SMAPI] Content Patcher loaded asset 'Portraits\Maru'.
+[18:11:49 TRACE Content Patcher] OhoDavi's StardewValley Anime Mods loaded Portraits\Robin.
+[18:11:49 TRACE SMAPI] Content Patcher loaded asset 'Portraits\Robin'.
+[18:11:49 TRACE Content Patcher] OhoDavi's StardewValley Anime Mods loaded Portraits\Demetrius.
+[18:11:49 TRACE SMAPI] Content Patcher loaded asset 'Portraits\Demetrius'.
+[18:11:49 TRACE Content Patcher] OhoDavi's StardewValley Anime Mods loaded Portraits\Sebastian.
+[18:11:49 TRACE SMAPI] Content Patcher loaded asset 'Portraits\Sebastian'.
+[18:11:49 TRACE Content Patcher] OhoDavi's StardewValley Anime Mods loaded Portraits\Linus.
+[18:11:49 TRACE SMAPI] Content Patcher loaded asset 'Portraits\Linus'.
+[18:11:50 TRACE Content Patcher] OhoDavi's StardewValley Anime Mods loaded Portraits\Wizard.
+[18:11:50 TRACE SMAPI] Content Patcher loaded asset 'Portraits\Wizard'.
+[18:11:50 TRACE Content Patcher] OhoDavi's StardewValley Anime Mods loaded Portraits\Marnie.
+[18:11:50 TRACE SMAPI] Content Patcher loaded asset 'Portraits\Marnie'.
+[18:11:50 TRACE Content Patcher] OhoDavi's StardewValley Anime Mods loaded Portraits\Shane.
+[18:11:50 TRACE SMAPI] Content Patcher loaded asset 'Portraits\Shane'.
+[18:11:50 TRACE Content Patcher] OhoDavi's StardewValley Anime Mods loaded Portraits\Jas.
+[18:11:50 TRACE SMAPI] Content Patcher loaded asset 'Portraits\Jas'.
+[18:11:50 TRACE Content Patcher] OhoDavi's StardewValley Anime Mods loaded Portraits\Leah.
+[18:11:50 TRACE SMAPI] Content Patcher loaded asset 'Portraits\Leah'.
+[18:11:50 TRACE Content Patcher] OhoDavi's StardewValley Anime Mods loaded Portraits\Dwarf.
+[18:11:50 TRACE SMAPI] Content Patcher loaded asset 'Portraits\Dwarf'.
+[18:11:50 TRACE Content Patcher] OhoDavi's StardewValley Anime Mods loaded Portraits\Sandy.
+[18:11:50 TRACE SMAPI] Content Patcher loaded asset 'Portraits\Sandy'.
+[18:11:50 TRACE Content Patcher] OhoDavi's StardewValley Anime Mods loaded Portraits\Gunther.
+[18:11:50 TRACE SMAPI] Content Patcher loaded asset 'Portraits\Gunther'.
+[18:11:51 TRACE Content Patcher] OhoDavi's StardewValley Anime Mods loaded Portraits\Marlon.
+[18:11:51 TRACE SMAPI] Content Patcher loaded asset 'Portraits\Marlon'.
+[18:11:51 TRACE Content Patcher] OhoDavi's StardewValley Anime Mods loaded Portraits\Willy.
+[18:11:51 TRACE SMAPI] Content Patcher loaded asset 'Portraits\Willy'.
+[18:11:54 TRACE Content Patcher] Indonesian Language Mod edited Data\Quests.
+[18:11:54 TRACE SMAPI] Content Patcher edited Data\Quests.
+[18:11:57 TRACE game] gameMode was 'loadingMode (6)', set to 'playingGameMode (3)'.
+[18:11:57 TRACE game] getLoadEnumerator() exited, elapsed = '00:00:17.3816092'
+[18:11:57 TRACE game] setupEventCommands() registered '131' methods
+[18:11:58 TRACE Content Patcher] Indonesian Language Mod edited Data\Events\FarmHouse.
+[18:11:58 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Data\Events\FarmHouse" to Data\Events\FarmHouse: there's no record matching key '3912132/e 3912126/O Elliott/A elliottGone' under Fields.
+[18:11:58 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Data\Events\FarmHouse" to Data\Events\FarmHouse: there's no record matching key '4324303/e 4325434/O Penny/A pennyRedecorating/l noQuilt' under Fields.
+[18:11:58 TRACE SMAPI] Content Patcher edited Data\Events\FarmHouse.
+[18:11:58 TRACE SMAPI] Game loader done.
+[18:11:58 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:43 Y:36 Width:1280 Height:720}
+[18:11:59 TRACE SMAPI] Context: loaded save 'Fuzzy_269960063', starting spring 2 Y1, locale set to en. Single-player.
+[18:11:59 DEBUG NPC Map Locations] Handled tracking for custom location: Farm.
+[18:11:59 TRACE NPC Map Locations] Requested cache invalidation for 'LooseSprites\Map'.
+[18:11:59 TRACE SMAPI] Invalidated 0 cache entries.
+[18:11:59 DEBUG NPC Map Locations] Using recolored map maps\_default\spring_map.png.
+[18:11:59 TRACE SMAPI] NPC Map Locations loaded asset 'LooseSprites\map'.
+[18:12:00 DEBUG NPC Map Locations] Unknown location: IslandSouth
+[18:12:00 DEBUG NPC Map Locations] Unknown location: IslandSouthEast
+[18:12:00 DEBUG NPC Map Locations] Unknown location: IslandSouthEastCave
+[18:12:00 DEBUG NPC Map Locations] Unknown location: IslandEast
+[18:12:00 DEBUG NPC Map Locations] Unknown location: IslandWest
+[18:12:00 DEBUG NPC Map Locations] Unknown location: IslandNorth
+[18:12:00 DEBUG NPC Map Locations] Unknown location: IslandHut
+[18:12:00 DEBUG NPC Map Locations] Unknown location: IslandWestCave1
+[18:12:00 DEBUG NPC Map Locations] Unknown location: IslandNorthCave1
+[18:12:00 DEBUG NPC Map Locations] Unknown location: IslandFieldOffice
+[18:12:00 DEBUG NPC Map Locations] Unknown location: IslandFarmHouse
+[18:12:00 DEBUG NPC Map Locations] Unknown location: CaptainRoom
+[18:12:00 DEBUG NPC Map Locations] Unknown location: IslandShrine
+[18:12:00 DEBUG NPC Map Locations] Unknown location: IslandFarmCave
+[18:12:00 DEBUG NPC Map Locations] Unknown location: Caldera
+[18:12:00 DEBUG NPC Map Locations] Unknown location: VolcanoDungeon9
+[18:12:00 DEBUG NPC Map Locations] Unknown location: VolcanoDungeon8
+[18:12:00 DEBUG NPC Map Locations] Unknown location: VolcanoDungeon7
+[18:12:00 DEBUG NPC Map Locations] Unknown location: VolcanoDungeon6
+[18:12:00 DEBUG NPC Map Locations] Unknown location: VolcanoDungeon5
+[18:12:00 DEBUG NPC Map Locations] Unknown location: VolcanoDungeon4
+[18:12:00 DEBUG NPC Map Locations] Unknown location: VolcanoDungeon3
+[18:12:00 DEBUG NPC Map Locations] Unknown location: VolcanoDungeon2
+[18:12:00 DEBUG NPC Map Locations] Unknown location: VolcanoDungeon1
+[18:12:00 DEBUG NPC Map Locations] Unknown location: VolcanoDungeon0
+[18:12:00 DEBUG NPC Map Locations] Unknown location: QiNutRoom
+[18:14:05 TRACE Content Patcher] Indonesian Language Mod edited Data\mail.
+[18:14:05 TRACE SMAPI] Content Patcher edited Data\mail.
+[18:14:05 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:43 Y:36 Width:1280 Height:720}
+[18:14:06 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:43 Y:36 Width:1280 Height:720}
+[18:53:59 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:23 Width:1303 Height:745}
+[18:54:04 TRACE game] Warping to Farm
+[18:54:05 TRACE Content Patcher] Indonesian Language Mod edited Data\Events\Farm.
+[18:54:05 TRACE SMAPI] Content Patcher edited Data\Events\Farm.
+[18:54:08 TRACE Content Patcher] Indonesian Language Mod edited Data\Quests.
+[18:54:08 TRACE SMAPI] Content Patcher edited Data\Quests.
+[18:54:16 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\Robin.
+[18:54:16 TRACE SMAPI] Content Patcher edited Characters\Dialogue\Robin.
+[18:54:16 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\Sebastian.
+[18:54:16 TRACE SMAPI] Content Patcher edited Characters\Dialogue\Sebastian.
+[18:54:16 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\Jas.
+[18:54:16 TRACE SMAPI] Content Patcher edited Characters\Dialogue\Jas.
+[18:54:16 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\Willy.
+[18:54:16 TRACE SMAPI] Content Patcher edited Characters\Dialogue\Willy.
+[18:54:23 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\Vincent.
+[18:54:23 TRACE SMAPI] Content Patcher edited Characters\Dialogue\Vincent.
+[18:54:24 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\Harvey.
+[18:54:24 TRACE SMAPI] Content Patcher edited Characters\Dialogue\Harvey.
+[18:54:24 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\Elliott.
+[18:54:24 TRACE SMAPI] Content Patcher edited Characters\Dialogue\Elliott.
+[18:54:24 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\Linus.
+[18:54:24 TRACE SMAPI] Content Patcher edited Characters\Dialogue\Linus.
+[18:54:24 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\Mister Qi.
+[18:54:24 TRACE SMAPI] Content Patcher edited Characters\Dialogue\Mister Qi.
+[18:54:31 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\George.
+[18:54:31 TRACE SMAPI] Content Patcher edited Characters\Dialogue\George.
+[18:54:31 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\Haley.
+[18:54:31 TRACE SMAPI] Content Patcher edited Characters\Dialogue\Haley.
+[18:54:31 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\Gus.
+[18:54:31 TRACE SMAPI] Content Patcher edited Characters\Dialogue\Gus.
+[18:54:31 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\Pam.
+[18:54:31 TRACE SMAPI] Content Patcher edited Characters\Dialogue\Pam.
+[18:54:31 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\Maru.
+[18:54:31 TRACE SMAPI] Content Patcher edited Characters\Dialogue\Maru.
+[18:54:38 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\Marnie.
+[18:54:38 TRACE SMAPI] Content Patcher edited Characters\Dialogue\Marnie.
+[18:54:45 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\Evelyn.
+[18:54:45 TRACE SMAPI] Content Patcher edited Characters\Dialogue\Evelyn.
+[18:54:45 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\Wizard.
+[18:54:45 TRACE SMAPI] Content Patcher edited Characters\Dialogue\Wizard.
+[18:54:53 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\Pierre.
+[18:54:53 TRACE SMAPI] Content Patcher edited Characters\Dialogue\Pierre.
+[18:54:53 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\Abigail.
+[18:54:53 TRACE SMAPI] Content Patcher edited Characters\Dialogue\Abigail.
+[18:54:53 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\Penny.
+[18:54:53 TRACE SMAPI] Content Patcher edited Characters\Dialogue\Penny.
+[18:54:53 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\Shane.
+[18:54:53 TRACE SMAPI] Content Patcher edited Characters\Dialogue\Shane.
+[18:55:07 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\Dwarf.
+[18:55:07 TRACE SMAPI] Content Patcher edited Characters\Dialogue\Dwarf.
+[18:55:22 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\Demetrius.
+[18:55:22 TRACE SMAPI] Content Patcher edited Characters\Dialogue\Demetrius.
+[18:55:36 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\Alex.
+[18:55:36 TRACE SMAPI] Content Patcher edited Characters\Dialogue\Alex.
+[18:55:37 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\Jodi.
+[18:55:37 TRACE SMAPI] Content Patcher edited Characters\Dialogue\Jodi.
+[18:55:37 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\Clint.
+[18:55:37 TRACE SMAPI] Content Patcher edited Characters\Dialogue\Clint.
+[18:55:37 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\Lewis.
+[18:55:37 TRACE SMAPI] Content Patcher edited Characters\Dialogue\Lewis.
+[18:55:37 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\Caroline.
+[18:55:37 TRACE SMAPI] Content Patcher edited Characters\Dialogue\Caroline.
+[18:55:37 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\Sandy.
+[18:55:37 TRACE SMAPI] Content Patcher edited Characters\Dialogue\Sandy.
+[18:55:44 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\Sam.
+[18:55:44 TRACE SMAPI] Content Patcher edited Characters\Dialogue\Sam.
+[18:56:13 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\Emily.
+[18:56:13 TRACE SMAPI] Content Patcher edited Characters\Dialogue\Emily.
+[18:56:13 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\Krobus.
+[18:56:13 TRACE SMAPI] Content Patcher edited Characters\Dialogue\Krobus.
+[18:56:20 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\Leah.
+[18:56:20 TRACE SMAPI] Content Patcher edited Characters\Dialogue\Leah.
+[18:56:40 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:23 Width:1303 Height:745}
+[18:56:43 TRACE game] Warping to FarmHouse
+[18:56:46 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:23 Width:1303 Height:745}
+[18:57:21 TRACE game] Warping to Farm
+[18:57:28 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:23 Width:1303 Height:745}
+[18:57:34 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:23 Width:1303 Height:745}
+[18:57:37 TRACE game] Warping to BusStop
+[18:57:38 TRACE Content Patcher] Indonesian Language Mod edited Data\Events\BusStop.
+[18:57:38 TRACE SMAPI] Content Patcher edited Data\Events\BusStop.
+[18:57:47 TRACE game] Warping to Town
+[18:57:48 TRACE Content Patcher] Indonesian Language Mod edited Data\Events\Town.
+[18:57:48 TRACE SMAPI] Content Patcher edited Data\Events\Town.
+[18:57:57 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:23 Width:1303 Height:745}
+[18:58:34 TRACE game] Warping to Beach
+[18:58:35 TRACE Content Patcher] Indonesian Language Mod edited Data\Events\Beach.
+[18:58:35 TRACE SMAPI] Content Patcher edited Data\Events\Beach.
+[18:58:35 TRACE Content Patcher] Indonesian Language Mod edited Data\Quests.
+[18:58:35 TRACE SMAPI] Content Patcher edited Data\Quests.
+[19:02:28 TRACE game] Warping to Beach
+[19:02:49 TRACE game] Warping to Town
+[19:04:16 TRACE game] Warping to Forest
+[19:04:17 TRACE Content Patcher] Indonesian Language Mod edited Data\Events\Forest.
+[19:04:17 TRACE SMAPI] Content Patcher edited Data\Events\Forest.
+[19:04:51 TRACE Content Patcher] Indonesian Language Mod edited Strings\Locations.
+[19:04:51 TRACE SMAPI] Content Patcher edited Strings\Locations.
+[19:04:56 TRACE Content Patcher] Indonesian Language Mod edited Data\Quests.
+[19:04:56 TRACE SMAPI] Content Patcher edited Data\Quests.
+[19:06:13 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:23 Width:1303 Height:745}
+[19:06:29 TRACE game] Warping to Town
+[19:06:48 TRACE game] Warping to ArchaeologyHouse
+[19:06:48 TRACE Content Patcher] Indonesian Language Mod edited Data\Events\ArchaeologyHouse.
+[19:06:48 TRACE SMAPI] Content Patcher edited Data\Events\ArchaeologyHouse.
+[19:06:59 TRACE Content Patcher] Indonesian Language Mod edited Data\Quests.
+[19:06:59 TRACE SMAPI] Content Patcher edited Data\Quests.
+[19:07:04 TRACE Content Patcher] Indonesian Language Mod edited Strings\Notes.
+[19:07:04 TRACE SMAPI] Content Patcher edited Strings\Notes.
+[19:07:52 TRACE game] Warping to Town
+[19:08:18 TRACE game] Warping to Mountain
+[19:08:19 TRACE Content Patcher] Indonesian Language Mod edited Data\Events\Mountain.
+[19:08:19 TRACE SMAPI] Content Patcher edited Data\Events\Mountain.
+[19:08:26 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:23 Width:1303 Height:745}
+[19:08:31 TRACE game] Warping to Backwoods
+[19:08:32 TRACE Content Patcher] Indonesian Language Mod edited Data\Events\Backwoods.
+[19:08:32 TRACE SMAPI] Content Patcher edited Data\Events\Backwoods.
+[19:08:42 TRACE game] Warping to Farm
+[19:08:53 TRACE game] Warping to FarmHouse
+[19:09:44 TRACE game] Warping to Farm
+[19:09:49 TRACE game] Warping to FarmHouse
+[19:09:58 TRACE game] Warping to Farm
+[19:10:18 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:23 Width:1303 Height:745}
+[19:12:42 TRACE game] Warping to FarmHouse
+[19:12:51 TRACE game] Warping to Farm
+[19:13:27 TRACE game] Warping to Backwoods
+[19:13:41 TRACE game] Warping to Mountain
+[19:14:15 TRACE game] Warping to Backwoods
+[19:14:25 TRACE game] Warping to Farm
+[19:14:33 TRACE game] Warping to FarmHouse
+[19:14:37 TRACE SMAPI] New day task synchronizing...
+[19:14:38 TRACE Content Patcher] Indonesian Language Mod edited Characters\Dialogue\rainy.
+[19:14:38 TRACE SMAPI] Content Patcher edited Characters\Dialogue\rainy.
+[19:14:38 TRACE SMAPI] New day task done.
+[19:15:00 TRACE SMAPI] Context: before save.
+[19:15:09 TRACE game] SaveGame.Save() called.
+[19:15:09 TRACE Content Patcher] Indonesian Language Mod edited Strings\Events.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'NameYourHorse' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'WipedMemory' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'DefaultHorseName' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'PiecesOfHay' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'JunimoTextAboveHead1' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'JunimoTextAboveHead2' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'JunimoThankYou1' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'JunimoThankYou2' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'AbigailInMineFlute' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'AbigailInMineFirst' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'AbigailInMine0' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'AbigailInMine1' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'AbigailInMine2' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'AbigailInMine3' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'AbigailInMine4' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Henchman1' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Henchman2' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Henchman3' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Henchman4' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Henchman5' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Henchman6' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'KrobusDarkTalisman' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Divorced_bouquet' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Divorced_gift' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'PetLovesYou' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Saloon_goodEvent_0' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Saloon_goodEvent_1' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Saloon_goodEvent_2' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Saloon_goodEvent_3' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Saloon_goodEvent_4' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Saloon_badEvent_0' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Saloon_badEvent_1' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Saloon_badEvent_2' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Saloon_badEvent_3' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Saloon_badEvent_4' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Saloon_neutralEvent_0' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Saloon_neutralEvent_1' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Saloon_neutralEvent_2' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Saloon_neutralEvent_3' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Saloon_neutralEvent_4' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'KrobusDarkTalisman_elsewhere' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieInvite_Festival' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieInvite_Closed' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieInvite_AlreadyInvitedSomeone' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieInvite_NoTheater' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieInvite_CantInvite' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieInvite_InvitedBySomeoneElse' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieInvite_FarmerAlreadySeen' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieInvite_AlreadySeen' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieInvite_Invited_Sandy' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieInvite_Invited_Dwarf' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieInvite_Invited_Krobus' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieInvite_Invited_Wizard' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieInvite_Invited' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieInvite_Invited_Rude' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieInvite_Invited_Child' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieInvite_Reject_Child' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieInvite_Reject' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieTheater_NoTicket' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieTheater_CurrentlyShowing' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieTheater_AlreadySeen' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieTheater_WatchAlonePrompt' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieTheater_WatchWithFriendPrompt' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieTheater_LeavePrompt' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieTheater_ClosedFestival' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieTheater_Closed' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieTheater_BoxOfficeClosed' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieTheater_Concession' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieTheater_ConcessionAlone' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieTheater_ConcessionPurchased' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieTheater_ConcessionAfterMovie' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieTheater_AfterMovieAlone' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieTheater_AfterMovie' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieTheater_LoveMovie' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieTheater_LikeMovie' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieTheater_DislikeMovie' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieTheater_LoveConcession' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieTheater_LikeConcession' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieTheater_DislikeConcession' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieTheater_LoveConcession_Female' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieTheater_LikeConcession_Female' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieTheater_DislikeConcession_Female' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieTheater_LoveConcession_Male' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieTheater_LikeConcession_Male' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieTheater_DislikeConcession_Male' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieInvite_Spouse_Abigail' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieInvite_Spouse_Penny' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieInvite_Spouse_Haley' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieInvite_Spouse_Emily' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieInvite_Spouse_Leah' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieInvite_Spouse_Maru' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieInvite_Spouse_Alex' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieInvite_Spouse_Sam' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieInvite_Spouse_Sebastian' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieInvite_Spouse_Shane' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieInvite_Spouse_Elliott' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'MovieInvite_Spouse_Harvey' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Robin_Workout' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Robin_Working_OneDay' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Robin_Working' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Robin_Festival' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Robin_Open' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Robin_Open_Rare' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Robin_Closed' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Clint_Open' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Clint_Open_Rare' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Clint_Closed' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Clint_Festival' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Clint_Working_OneDay' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Clint_Working' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_HangUp' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_CheckHouseCost' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_CheckBuildingCost' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_CheckToolCost' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_SelectNumber' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_SelectOption' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Gus_Open' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Gus_Open_Rare' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Gus_Closed' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Gus_Festival' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Pierre_Open' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Pierre_Open_Rare' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Pierre_Closed' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Pierre_Festival' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_CheckSeedStock' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Gus_Open_NoDishOfTheDay' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Gus_Closed_NoDishOfTheDay' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Marnie_Open' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Marnie_Open_Rare' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Marnie_Closed' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Marnie_ClosedDay' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_CheckAnimalPrices' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Ring_Vincent' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Ring_RoboCaller' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Ring_Pierre' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Ring_HatMouse' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Ring_Foreign' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Ring_Bear' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Ring_Lewis' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Ring_Cursed' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Leo_Memory' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Leo_Memory_Answer_Yes' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Leo_Memory_Answer_No' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Leo_Memory_6497423' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Leo_Memory_6497421' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Leo_Memory_6497428' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'PierreStockListDialogue' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Marlon_Open' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Marlon_AlreadyRecovering' under Fields.
+[19:15:09 WARN  Content Patcher] Can't apply data patch "Indonesian Language Mod > EditData Strings\Events" to Strings\Events: there's no record matching key 'Phone_Marlon_NoDeathItems' under Fields.
+[19:15:09 TRACE SMAPI] Content Patcher edited Strings\Events.
+[19:15:09 TRACE game] Saving without compression...
+[19:15:10 TRACE game] SaveGame.Save() completed without exceptions.
+[19:15:14 TRACE SMAPI] Context: after save, starting spring 3 Y1.
+[19:24:50 TRACE game] Warping to Farm
+[19:25:57 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:23 Width:1303 Height:745}
+[19:26:25 TRACE Lookup Anything] Received a lookup request... searching the world...
+[19:26:25 TRACE Lookup Anything] Showing FarmerSubject::Player::dragonregure.
+[19:26:37 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:23 Width:1303 Height:745}
+[19:26:38 TRACE Lookup Anything] Received a lookup request... searching the world...
+[19:26:38 TRACE Lookup Anything] Showing FarmerSubject::Player::dragonregure.
+[19:26:44 TRACE game] Warping to BusStop
+[19:27:03 TRACE game] Warping to Farm
+[19:27:07 TRACE game] Warping to FarmHouse
+[19:27:22 TRACE game] Warping to Farm
+[19:27:26 TRACE game] Warping to BusStop
+[19:27:32 TRACE game] Warping to Town
+[19:27:33 TRACE Content Patcher] Indonesian Language Mod edited Data\Quests.
+[19:27:33 TRACE SMAPI] Content Patcher edited Data\Quests.
+[19:28:00 TRACE game] Warping to Mountain
+[19:28:20 TRACE game] Warping to Backwoods
+[19:28:30 TRACE game] Warping to Farm
+[19:29:24 TRACE game] Warping to Forest
+[19:29:28 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:23 Width:1303 Height:745}
+[19:30:29 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:23 Width:1303 Height:745}
+[19:30:43 TRACE Lookup Anything] Received a lookup request... searching the world...
+[19:30:43 TRACE Lookup Anything] Showing FarmerSubject::Player::dragonregure.
+[19:30:46 TRACE Lookup Anything] Received a lookup request... searching the world...
+[19:30:46 TRACE Lookup Anything] Showing FarmerSubject::Player::dragonregure.
+[19:31:12 TRACE game] Warping to Town
+[19:31:19 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:23 Width:1303 Height:745}
+[19:32:26 TRACE game] Warping to Beach
+[19:32:30 TRACE game] Warping to Town
+[19:32:45 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:23 Width:1303 Height:745}
+[19:32:48 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:23 Width:1303 Height:745}
+[19:32:55 TRACE game] Warping to Trailer
+[19:32:56 TRACE Content Patcher] Indonesian Language Mod edited Data\Events\Trailer.
+[19:32:56 TRACE SMAPI] Content Patcher edited Data\Events\Trailer.
+[19:33:10 TRACE game] Warping to Town
+[19:33:23 TRACE Content Patcher] Indonesian Language Mod edited Data\Quests.
+[19:33:23 TRACE SMAPI] Content Patcher edited Data\Quests.
+[19:33:39 TRACE game] Warping to Mountain
+[19:33:46 TRACE game] Warping to Backwoods
+[19:33:47 TRACE game] Warping to Mountain
+[19:33:48 TRACE game] Warping to Backwoods
+[19:33:58 TRACE game] Warping to Farm
+[19:34:15 TRACE game] Warping to FarmHouse
+[19:34:25 TRACE game] Warping to Farm
+[19:34:52 TRACE game] Warping to FarmHouse
+[19:35:21 TRACE game] Warping to Farm
+[19:35:25 TRACE game] Warping to BusStop
+[19:35:32 TRACE game] Warping to Town
+[19:35:47 TRACE game] Warping to Beach
+[19:39:27 TRACE Lookup Anything] Received a lookup request... searching the world... no target found.
+[19:39:28 TRACE Lookup Anything] Received a lookup request... searching the world...
+[19:39:28 TRACE Lookup Anything] Showing FarmerSubject::Player::dragonregure.
+[19:39:34 TRACE Lookup Anything] Received a lookup request... searching the world... no target found.
+[19:39:34 TRACE Lookup Anything] Received a lookup request... searching the world... no target found.
+[19:39:35 TRACE Lookup Anything] Received a lookup request... searching the world... no target found.
+[19:39:36 TRACE Lookup Anything] Received a lookup request... searching the world... no target found.
+[19:39:36 TRACE Lookup Anything] Received a lookup request... searching the world...
+[19:39:36 TRACE Lookup Anything] Showing FarmerSubject::Player::dragonregure.
+[19:39:39 TRACE game] Warping to Town
+[19:39:42 TRACE Lookup Anything] Received a lookup request... searching the world... no target found.
+[19:39:43 TRACE Lookup Anything] Received a lookup request... searching the world...
+[19:39:43 TRACE Lookup Anything] Showing FarmerSubject::Player::dragonregure.
+[19:40:00 TRACE game] Warping to BusStop
+[19:40:06 TRACE game] Warping to Farm
+[19:40:13 TRACE game] Warping to FarmHouse
+[19:40:42 TRACE SMAPI] New day task synchronizing...
+[19:40:42 TRACE SMAPI] New day task done.
+[19:40:44 TRACE SMAPI] Context: before save.
+[19:40:53 TRACE game] SaveGame.Save() called.
+[19:40:53 TRACE game] Saving without compression...
+[19:40:53 TRACE game] SaveGame.Save() completed without exceptions.
+[19:40:57 TRACE SMAPI] Context: after save, starting spring 4 Y1.
+[19:51:29 TRACE game] Warping to Farm
+[19:51:42 TRACE Lookup Anything] Received a lookup request... searching the world...
+[19:51:42 TRACE Lookup Anything] Showing ItemSubject::Sayuran::Parsnip.
+[19:52:40 TRACE game] Warping to FarmHouse
+[20:15:58 TRACE game] Warping to Farm
+[20:16:02 TRACE game] Warping to BusStop
+[20:16:16 TRACE game] Warping to Town
+[20:16:17 TRACE Content Patcher] Indonesian Language Mod edited Data\Quests.
+[20:16:17 TRACE SMAPI] Content Patcher edited Data\Quests.
+[20:17:14 TRACE game] Warping to Forest
+[20:18:36 TRACE game] Warping to Farm
+[20:18:54 TRACE game] Warping to FarmHouse
+[20:19:00 TRACE game] Warping to Farm
+[20:19:08 TRACE game] Warping to Backwoods
+[20:19:18 TRACE game] Warping to Mountain
+[20:19:45 TRACE game] Warping to Town
+[20:20:14 TRACE game] Warping to BusStop
+[20:20:20 TRACE game] Warping to Farm
+[20:20:25 TRACE game] Warping to FarmHouse
+[20:20:32 TRACE game] Warping to Farm
+[20:20:35 TRACE game] Warping to BusStop
+[20:20:42 TRACE game] Warping to Town
+[20:20:58 TRACE game] Warping to Beach
+[20:25:57 TRACE game] Warping to Town
+[20:26:31 TRACE game] Warping to BusStop
+[20:26:37 TRACE game] Warping to Farm
+[20:26:46 TRACE game] Warping to FarmHouse
+[20:26:59 TRACE game] Warping to Farm
+[20:27:42 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:23 Width:1303 Height:745}
+[20:28:00 TRACE game] Warping to FarmHouse
+[20:28:11 TRACE SMAPI] New day task synchronizing...
+[20:28:11 TRACE SMAPI] New day task done.
+[20:28:11 TRACE SMAPI] Context: before save.
+[20:28:18 TRACE game] SaveGame.Save() called.
+[20:28:18 TRACE game] Saving without compression...
+[20:28:18 TRACE game] SaveGame.Save() completed without exceptions.
+[20:28:23 TRACE SMAPI] Context: after save, starting spring 5 Y1.
+[20:28:35 TRACE game] Warping to Farm
+[20:28:41 TRACE Content Patcher] Indonesian Language Mod edited Data\Quests.
+[20:28:41 TRACE SMAPI] Content Patcher edited Data\Quests.
+[20:32:00 TRACE game] Warping to BusStop
+[20:32:11 TRACE game] Warping to Town
+[20:32:12 TRACE Content Patcher] Indonesian Language Mod edited Data\Quests.
+[20:32:12 TRACE SMAPI] Content Patcher edited Data\Quests.
+[20:32:51 TRACE game] Warping to Mountain
+[20:33:30 TRACE game] Warping to Backwoods
+[20:33:40 TRACE game] Warping to Farm
+[20:33:59 TRACE game] Warping to FarmHouse
+[20:34:07 TRACE game] Warping to Farm
+[20:34:11 TRACE game] Warping to BusStop
+[20:34:18 TRACE game] Warping to Town
+[20:34:26 TRACE game] Warping to SeedShop
+[20:34:26 TRACE Content Patcher] Indonesian Language Mod edited Strings\SpeechBubbles.
+[20:34:26 TRACE SMAPI] Content Patcher edited Strings\SpeechBubbles.
+[20:34:26 TRACE Content Patcher] Indonesian Language Mod edited Data\Events\SeedShop.
+[20:34:26 TRACE SMAPI] Content Patcher edited Data\Events\SeedShop.
+[20:34:58 TRACE game] Warping to Town
+[20:35:08 TRACE game] Warping to BusStop
+[20:35:14 TRACE game] Warping to Farm
+[20:39:49 TRACE game] Warping to FarmHouse
+[20:39:56 TRACE game] Warping to Farm
+[20:40:11 TRACE game] Warping to FarmHouse
+[20:40:14 TRACE Content Patcher] Indonesian Language Mod edited Data\Quests.
+[20:40:14 TRACE SMAPI] Content Patcher edited Data\Quests.
+[20:40:27 TRACE SMAPI] New day task synchronizing...
+[20:40:28 TRACE SMAPI] New day task done.
+[20:40:41 TRACE SMAPI] Context: before save.
+[20:40:41 TRACE game] SaveGame.Save() called.
+[20:40:41 TRACE game] Saving without compression...
+[20:40:41 TRACE game] SaveGame.Save() completed without exceptions.
+[20:40:43 TRACE SMAPI] Context: after save, starting spring 6 Y1.
+[20:40:45 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:23 Width:1303 Height:745}
+[20:40:54 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:23 Width:1303 Height:745}
+[20:40:58 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:23 Width:1303 Height:745}
+[20:41:06 TRACE game] Warping to Farm
+[20:41:33 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:23 Width:1303 Height:745}
+[20:42:00 TRACE game] Warping to FarmHouse
+[20:42:08 TRACE game] Warping to Farm
+[20:42:40 TRACE game] Warping to BusStop
+[20:42:51 TRACE game] Warping to Town
+[20:42:51 TRACE Content Patcher] Indonesian Language Mod edited Data\Quests.
+[20:42:51 TRACE SMAPI] Content Patcher edited Data\Quests.
+[20:44:19 TRACE game] Warping to BusStop
+[20:44:26 TRACE game] Warping to Farm
+[20:44:27 TRACE game] Warping to BusStop
+[20:44:38 TRACE game] Warping to Farm
+[20:44:43 TRACE game] Warping to FarmHouse
+[20:44:54 TRACE Content Patcher] Indonesian Language Mod edited Data\weapons.
+[20:44:54 TRACE SMAPI] Content Patcher edited Data\weapons.
+[20:45:00 TRACE game] Warping to Farm
+[20:45:03 TRACE Lookup Anything] Received a lookup request... searching the world...
+[20:45:03 TRACE Lookup Anything] Showing ItemSubject::Hasil Alam::Wild Horseradish.
+[20:45:34 TRACE game] Warping to Forest
+[20:46:50 TRACE game] Warping to Farm
+[20:47:16 TRACE game] Warping to Backwoods
+[20:47:25 TRACE game] Warping to Mountain
+[20:47:37 TRACE game] Warping to Mine
+[20:47:38 TRACE Content Patcher] Indonesian Language Mod edited Data\Events\Mine.
+[20:47:38 TRACE SMAPI] Content Patcher edited Data\Events\Mine.
+[20:47:38 TRACE Content Patcher] Indonesian Language Mod edited Data\Quests.
+[20:47:38 TRACE SMAPI] Content Patcher edited Data\Quests.
+[20:48:57 TRACE game] Warping to Mine
+[20:48:58 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:23 Width:1303 Height:745}
+[20:49:30 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:23 Width:1303 Height:745}
+[20:50:05 TRACE game] Warping to UndergroundMine1
+[20:50:06 DEBUG SkullCavernElevator] Current lowest minelevel of player 1
+[20:50:06 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 1
+[20:50:06 DEBUG SkullCavernElevator] Value of current mineShaft level 1
+[20:50:19 TRACE game] Warping to UndergroundMine2
+[20:50:20 DEBUG SkullCavernElevator] Current lowest minelevel of player 2
+[20:50:20 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 2
+[20:50:20 DEBUG SkullCavernElevator] Value of current mineShaft level 2
+[20:51:08 TRACE game] Warping to UndergroundMine3
+[20:51:08 DEBUG SkullCavernElevator] Current lowest minelevel of player 3
+[20:51:08 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 3
+[20:51:08 DEBUG SkullCavernElevator] Value of current mineShaft level 3
+[20:53:12 TRACE game] Warping to UndergroundMine4
+[20:53:12 DEBUG SkullCavernElevator] Current lowest minelevel of player 4
+[20:53:12 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 4
+[20:53:12 DEBUG SkullCavernElevator] Value of current mineShaft level 4
+[20:53:32 TRACE Content Patcher] Indonesian Language Mod edited Data\Quests.
+[20:53:32 TRACE SMAPI] Content Patcher edited Data\Quests.
+[20:54:55 TRACE game] Warping to UndergroundMine5
+[20:54:56 TRACE Content Patcher] Indonesian Language Mod edited Data\Quests.
+[20:54:56 TRACE SMAPI] Content Patcher edited Data\Quests.
+[20:54:56 DEBUG SkullCavernElevator] Current lowest minelevel of player 5
+[20:54:56 DEBUG SkullCavernElevator] Value of MineShaft.lowestMineLevel 5
+[20:54:56 DEBUG SkullCavernElevator] Value of current mineShaft level 5
+[20:55:43 TRACE game] Warping to Mine
+[20:55:46 TRACE game] Warping to Mountain
+[20:56:02 TRACE game] Warping to Town
+[20:56:26 TRACE game] Warping to ArchaeologyHouse
+[20:56:27 TRACE Content Patcher] Indonesian Language Mod edited Data\Quests.
+[20:56:27 TRACE SMAPI] Content Patcher edited Data\Quests.
+[20:58:01 TRACE game] Warping to ArchaeologyHouse
+[20:58:15 TRACE Content Patcher] Indonesian Language Mod edited Data\ExtraDialogue.
+[20:58:15 TRACE SMAPI] Content Patcher edited Data\ExtraDialogue.
+[20:58:20 TRACE Content Patcher] Indonesian Language Mod edited Data\Quests.
+[20:58:20 TRACE SMAPI] Content Patcher edited Data\Quests.
+[20:58:25 TRACE game] Warping to Town
+[20:58:32 TRACE game] Warping to Blacksmith
+[20:58:36 TRACE Content Patcher] Indonesian Language Mod edited Strings\schedules\Lewis.
+[20:58:36 TRACE SMAPI] Content Patcher edited Strings\schedules\Lewis.
+[20:59:30 TRACE game] Warping to Town
+[20:59:52 TRACE game] Warping to BusStop
+[21:00:02 TRACE game] Warping to Farm
+[21:00:12 TRACE game] Warping to FarmHouse
+[21:00:27 TRACE SMAPI] New day task synchronizing...
+[21:00:27 TRACE SMAPI] New day task done.
+[21:00:37 TRACE SMAPI] Context: before save.
+[21:00:37 TRACE game] SaveGame.Save() called.
+[21:00:37 TRACE game] Saving without compression...
+[21:00:38 TRACE game] SaveGame.Save() completed without exceptions.
+[21:00:40 TRACE SMAPI] Context: after save, starting spring 7 Y1.
+[21:00:41 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:23 Width:1303 Height:745}
+[21:00:55 TRACE Content Patcher] Indonesian Language Mod edited Data\Quests.
+[21:00:55 TRACE SMAPI] Content Patcher edited Data\Quests.
+[21:01:24 TRACE game] Warping to Farm
+[21:02:07 TRACE Content Patcher] Indonesian Language Mod edited Data\Quests.
+[21:02:07 TRACE SMAPI] Content Patcher edited Data\Quests.
+[21:02:09 TRACE game] Warping to Farm
+[21:02:11 TRACE Content Patcher] Indonesian Language Mod edited Data\Quests.
+[21:02:11 TRACE SMAPI] Content Patcher edited Data\Quests.
+[21:02:24 TRACE game] Warping to FarmHouse
+[21:02:32 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:23 Width:1303 Height:745}
+[21:02:34 TRACE Content Patcher] Indonesian Language Mod edited Data\Quests.
+[21:02:34 TRACE SMAPI] Content Patcher edited Data\Quests.
+[21:02:38 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:23 Width:1303 Height:745}
+[21:03:05 TRACE game] Warping to Farm
+[21:03:15 TRACE game] Warping to FarmHouse
+[21:03:28 TRACE Content Patcher] Indonesian Language Mod edited Data\TV\CookingChannel.
+[21:03:28 TRACE SMAPI] Content Patcher edited Data\TV\CookingChannel.
+[21:03:44 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:23 Width:1303 Height:745}
+[21:03:48 TRACE game] Warping to Farm
+[21:04:42 TRACE Content Patcher] Indonesian Language Mod edited Data\Quests.
+[21:04:42 TRACE SMAPI] Content Patcher edited Data\Quests.
+[21:04:47 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:23 Width:1303 Height:745}
+[21:04:49 TRACE game] Disconnected: ClosedGame
+[21:04:49 TRACE SMAPI] Disposing...
+[21:04:49 TRACE SMAPI] Disposing the content coordinator. Content managers will no longer be usable after this point.

@@ -32,10 +32,25 @@ Kamu -> Kau
 jomblo -> Single
 Intro event:
 	Bubble chat lewis: Apa -> Cek ulang
-musti -> ganti ke yang lain
+Mail:
+	musti -> ganti ke yang lain
+	JojaMart yang berharga -> ganti ke yang lain
+Willy fishing rod event:
+	Hai, mas -> ganti ke yang lain
+	Kamu menerima a Bamboo Pole! -> ganti ke yang lain
+	'Selama amis, pasti laris'???????????
 Typo:
 	kaugunakan -> kau gunakan
 	seoorang -> seorang
 	aglikultural -> agrikultural
 	clint: aku -><- Aku
 	Robin: kedengarannya melelahkan -> sepertinya melelahkan
+	Marnie: ja di aku tidak mengeluh
+	Buku: Phon -> Pohon
+	bahawa -> bahwa
+	jauh di dalam tambang -> Jauh di dalam tambang
+	
+Other:
+	Tapi kau bisa mendengar suara orang dari dalam -> ganti ke yang lain
+	Markas Petualan -> Kembalikan jadi Adventure Guild?
+	Tingkatkan Perkakas -> Upgrade/Tingkatkan Peralatan
