@@ -67,3 +67,15 @@ Other:
 	Tingkatkan Perkakas -> Upgrade/Tingkatkan Peralatan
 	Kamu menerima a 'item' -> kamu mendapatkan sebuah 'item'
 	Jangan lakukan apa-apa -> tetap disini
+
+
+[Field : 53 | Section Name : Marriage Krobus Dialog | Contributor : Jevon Sulien Aldo]
+
+IMPORTANT NOTE : 
+	- Perlu standarisasi dalam penyebutan jenis mahluk (Wizard, Shadow People)
+	- Perlu standarisasi dalam penyebutan ekspresi (*sigh*,*chuckle*,*groan*)
+
+SIDE NOTE :
+	- Progres sekitar 55-60 %.
+	- Beberapa kalimat yang ditranslasikan mendapat penyesuaian agar sesuai konteks dan tidak terdengar baku.
+	
