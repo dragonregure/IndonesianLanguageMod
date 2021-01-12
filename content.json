@@ -14066,7 +14066,7 @@
            "6": "speak Maru \"Hai sayang.#$b#Besok malam ada fenomena langit langka yang akan terjadi... Sebuah komet akan lewat sangat dekat dengan planet kita!#$b#Aku kepikiran... mungkin kita bisa melihatnya bersama-sama?$l\"",
            "9": "speak Maru \"Bagus!$h#$bTemui aku di gunung tengah malam besok.#$b#Kalau hujan, kita tunda besoknya lagi... kometnya akan ada selama beberapa hari.\""
          },
-         "3912132/e 3912126/O Elliott/A elliottGone": {
+         "3912132/e 3912126/O Elliott/A elliottGone/B": {
            "13": "speak Elliott \"@... Aku sudah pulang...\"",
            "26": "speak Elliott \"Ah... Aku sangat meindukanmu.$l#$b#Baru pergi ke kota sekali saja rasanya sudah sangat melelahkan... Aku lebih memilih berada di sini bersamamu!\"",
            "29": "speak Elliott \"Baiklah, sepertinya kita kembali ke rutinitas biasanya!$h#$b#Banyak yang harus kubereskan di sini...\"",
@@ -14102,7 +14102,7 @@
            "68": "speak Penny \"Oh! Kuenya sudah matang.\"",
            "99": "end dialogue Penny \"Buatlah dirimu sendiri nyaman, sayang.\""
          },
-         "4324303/e 4325434/O Penny/A pennyRedecorating/l noQuilt": {
+         "4324303/e 4325434/O Penny/A pennyRedecorating/l noQuilt/B": {
            "18": "speak Penny \"@... Selamat pagi...$11\"",
            "56": "speak Penny \"Kau merasakan sesuatu yang empuk? Aku menganyam sendiri sprei kasur ini.$11\"",
            "61": "speak Penny \"Bagaimana menurutmu?$11\"",
@@ -19255,455 +19255,92 @@
          "ElliottBook_default": "The Rise And Fall Of Planet Yazzo"
        },
        "Fields": {
-         "NameYourHorse": {
-           "0": "Beri Nama Kudamu"
+         "BirthMessage_Adoption": {
+           "0": "Pada malam hari, agensi adopsi mengantarkan bayi {0}."
          },
-         "WipedMemory": {
-           "0": "Kamu petani yang baru datang itu, ya?#$e#Sepertinya... tidak. Aku yakin kita belum pernah bertemu."
+         "BirthMessage_PlayerMother": {
+           "0": "Pada malam hari, kamu melahirkan bayi {0}."
          },
-         "DefaultHorseName": {
-           "0": "Grover"
+         "BirthMessage_SpouseMother": {
+           "0": "Pada malam hari, {1} melahirkan bayi {0}."
          },
-         "PiecesOfHay": {
-           "0": "Jumlah Jerami: {0}"
+         "BirthMessage_SpouseNaming_Male": {
+           "0": "{0} menamai bayi laki-lakimu."
          },
-         "JunimoTextAboveHead1": {
-           "0": "Junimo!"
+         "BirthMessage_SpouseNaming_Female": {
+           "0": "{0} menamai bayi perempuanmu."
          },
-         "JunimoTextAboveHead2": {
-           "0": "Bintang!"
+         "BabyNamingTitle_Male": {
+           "0": "Kita beri nama siapa dia?"
          },
-         "JunimoThankYou1": {
-           "0": "Terima kasih!"
+         "BabyNamingTitle_Female": {
+           "0": "Kita beri nama siapa dia?"
          },
-         "JunimoThankYou2": {
-           "0": "Hadiah!"
+         "HaveBabyQuestion": {
+           "0": "Apa kamu mau kita punya bayi, {0}?"
          },
-         "AbigailInMineFlute": {
-           "0": "%Abigail fokus pada musiknya..."
+         "HaveBabyQuestion_Adoption": {
+           "0": "Apa kamu mau kita mengadopsi bayi, {0}?"
          },
-         "AbigailInMineFirst": {
-           "0": "Hei, @. Kau terkejut? ...Aku akhirnya memberanikan diri buat turun ke sini.#$b#Awalnya aku ketakutan, tapi aku paksa saja.#$b#Aku merasa lebih percaya diri sekarang. Ini cukup menyenangkan!$h"
+         "HaveBabyAnswer_Yes": {
+           "0": "Ya"
          },
-         "AbigailInMine0": {
-           "0": "Hei! Aku berhasil turun lumayan jauh, 'kan?$h"
+         "HaveBabyAnswer_No": {
+           "0": "Jangan sekarang..."
          },
-         "AbigailInMine1": {
-           "0": "Eep!$7#$b#Hahah! Kau menakutkanku! Aku tidak mengira bisa ketemu orang lain di bawah sini!$h#$e#Maaf, aku berkeringat gara-gara terlalu semangat..."
+         "HavePlayerBabyQuestion": {
+           "0": "Maukah kau mempunyai bayi dengan {0}?"
          },
-         "AbigailInMine2": {
-           "0": "Hai @! Aku berhasil sampai sini tanpa melawan monster apapun..."
+         "HavePlayerBabyQuestion_Adoption": {
+           "0": "Maukah kamu mengadopsi bayi dengan {0}?"
          },
-         "AbigailInMine3": {
-           "0": "Hei! Senang bisa ketemu kamu di bawah sini...$h#$e#Um... jangan bilang-bilang sama Ayahku, ya?$9"
+         "SpouseFlowerDanceAccept_Shane": {
+           "0": "Dansa? Hoo-boy. Oke... biar kuteguk beberapa gelas dulu..."
          },
-         "AbigailInMine4": {
-           "0": "Hei! Sedang menjelajahi tambang di saat hujan, ya? Sama, aku juga!$h"
+         "SpouseFlowerDanceAccept_Emily": {
+           "0": "Tentu saja, sayangku. Aku sudah menantikan ini!$h"
          },
-         "Henchman1": {
-           "0": "Gweee-ah!! Manusia!#$b#...kamu mau masuk? Maaf ini properti pribadi.$s"
+         "AnimalBirth": {
+           "0": "Pada malam hari, {0} melahirkan bayi {1}."
          },
-         "Henchman2": {
-           "0": "Maaf, aku tak dapat membiarkanmu lewat... AKu bisa kehilangan pekerjaanku."
+         "AnimalNamingTitle": {
+           "0": "Namai hewan barumu {0}:"
          },
-         "Henchman3": {
-           "0": "Kau memberikan ini padaku? Hmm... tidak, terima kasih.$s"
+         "SoundInTheNight_UFO": {
+           "0": "Suara aneh terdengar dari langit di malam hari..."
          },
-         "Henchman4": {
-           "0": "Mmmm... tampak segar, tapi tidak, terima kasih... kenapa tidak kau simpan saja?"
+         "SoundInTheNight_Meteorite": {
+           "0": "Sebuah ledakan terdengar di malam hari..."
          },
-         "Henchman5": {
-           "0": "*endus*...*endus*...#$b#Bau itu...#$b#Aku tidak tahan... Berikan itu padaku!$h"
+         "SoundInTheNight_Earthquake": {
+           "0": "Terjadi gempa di malam hari."
          },
-         "Henchman6": {
-           "0": "Terima kasih."
+         "BeachNightMarket_NowOpen": {
+           "0": "Night Market sudah buka."
          },
-         "KrobusDarkTalisman": {
-           "0": "Apa... kamu sedang mencari sebuah dark talisman?#$b#...Hmmm. Setelah kau sebutkan, aku memang memilikinya beberapa waktu lalu.#$b#Sayangnya, aku menjatuhkan itu ketika menjelajahi terowongan di pojok sana.#$b#Keadaan jadi semakin parah di sana, lalu aku cepat-cepat keluar dan menyegel jalan masuknya.#$b#Kelihatannya kamu sangat kuat... Jadi akan kubukakan lagi segelnya buatmu. Hati-hati, ya?"
+         "Maru_comet5": {
+           "0": "Membuatku bersyukur bisa hidup di dunia penuh warna ini bersamamu!"
          },
-         "Divorced_bouquet": {
-           "0": "This... Are you trying to hurt me even more?$s"
+         "Maru_comet4": {
+           "0": "Sendirian, kesepian..."
          },
-         "Divorced_gift": {
-           "0": "Aku tidak butuh hadiah darimu.$a"
+         "Maru_comet3": {
+           "0": "Mampir ke sini dalam perjalannya yang tak terbatas."
          },
-         "PetLovesYou": {
-           "0": "{0} menyayangimu sepenuh hati. <"
+         "Maru_comet2": {
+           "0": "Keajaiban langka di angkasa..."
          },
-         "Saloon_goodEvent_0": {
-           "0": "Bagus!!"
+         "Maru_comet1": {
+           "0": "Indah, bukan?"
          },
-         "Saloon_goodEvent_1": {
-           "0": "Wooo!"
+         "ElliottBook_mystery": {
+           "0": "Menara Biru"
          },
-         "Saloon_goodEvent_2": {
-           "0": "Mantap!"
+         "ElliottBook_romance": {
+           "0": "Stasiun Camellia"
          },
-         "Saloon_goodEvent_3": {
-           "0": "YEY!"
-         },
-         "Saloon_goodEvent_4": {
-           "0": "Luar biasa!"
-         },
-         "Saloon_badEvent_0": {
-           "0": "Arrgh!"
-         },
-         "Saloon_badEvent_1": {
-           "0": "Tidak!"
-         },
-         "Saloon_badEvent_2": {
-           "0": "Booo!"
-         },
-         "Saloon_badEvent_3": {
-           "0": "Ugh"
-         },
-         "Saloon_badEvent_4": {
-           "0": "Payah."
-         },
-         "Saloon_neutralEvent_0": {
-           "0": "Ayo..."
-         },
-         "Saloon_neutralEvent_1": {
-           "0": "Hampir saja!"
-         },
-         "Saloon_neutralEvent_2": {
-           "0": "Ayo!"
-         },
-         "Saloon_neutralEvent_3": {
-           "0": "Umpan bolanya!"
-         },
-         "Saloon_neutralEvent_4": {
-           "0": "Ayo cetak angkanya!"
-         },
-         "KrobusDarkTalisman_elsewhere": {
-           "0": "Apa... kamu sedang mencari sebuah dark talisman?#$b#...Hmmm. aku memang memilikinya beberapa waktu lalu.#$b#Sayangnya, aku menjatuhkan itu ketika menjelajahi terowongan di pojok sana.#$b#Keadaan jadi semakin parah di sana, lalu aku cepat-cepat keluar dan menyegel jalan masuknya.#$b#Kelihatannya kamu sangat kuat... Jadi akan kubukakan lagi segelnya buatmu. Hati-hati, ya?"
-         },
-         "MovieInvite_Festival": {
-           "0": "Bioskop tidak buka saat hari festival!"
-         },
-         "MovieInvite_Closed": {
-           "0": "Bioskop sedang tutup malam ini..."
-         },
-         "MovieInvite_AlreadyInvitedSomeone": {
-           "0": "Kamu sudah berencana menonton dengan {0} hari ini!"
-         },
-         "MovieInvite_NoTheater": {
-           "0": "{0} tampak bingung..."
-         },
-         "MovieInvite_CantInvite": {
-           "0": "Kamu tidak bisa mengundang {0} ke bioskop."
-         },
-         "MovieInvite_InvitedBySomeoneElse": {
-           "0": "Maaf, aku sudah punya rencana sendiri buat nonton film hari ini, mungkin kamu bisa bergabung dengan kami di sana?"
-         },
-         "MovieInvite_FarmerAlreadySeen": {
-           "0": "Aku belum mau menonton film itu lagi..."
-         },
-         "MovieInvite_AlreadySeen": {
-           "0": "Maaf, aku sudah lihat film itu minggu ini..."
-         },
-         "MovieInvite_Invited_Sandy": {
-           "0": "Ooh.. dengan senang hati. Pergilah dulu nanti aku susul, manis... Aku harus bersiap-siap dulu!"
-         },
-         "MovieInvite_Invited_Dwarf": {
-           "0": "Apa, film? Kurasa aku akan menyukainya! Aku akan senang pergi denganmu."
-         },
-         "MovieInvite_Invited_Krobus": {
-           "0": "Oh? Aku biasanya menyembunyikan diri dari manusia...#$b#Tapi aku ada ide... Akan kutemui kamu di bioskop nanti."
-         },
-         "MovieInvite_Invited_Wizard": {
-           "0": "Hmmph... Baiklah. Aku akan ikut denganmu melihat... tontonan ini."
-         },
-         "MovieInvite_Invited": {
-           "0": "Nonton film? Tentu saja. Akan kutemui kamu di bioskop nanti."
-         },
-         "MovieInvite_Invited_Rude": {
-           "0": "Nonton film? Ya, terserah, kedengarannya bagus. Sampai jumpa lagi di bioskop..."
-         },
-         "MovieInvite_Invited_Child": {
-           "0": "Nonton film? Yey! Ayo ketemuan di bioskop!"
-         },
-         "MovieInvite_Reject_Child": {
-           "0": "Kurasa aku belum boleh melihat film ini..."
-         },
-         "MovieInvite_Reject": {
-           "0": "Maaf, aku sedang tidak mood nonton film saat ini..."
-         },
-         "MovieTheater_NoTicket": {
-           "0": "Kamu tidak boleh masuk tanpa tiket!"
-         },
-         "MovieTheater_CurrentlyShowing": {
-           "0": "Ada film yang sedang tayang, kembali lagi nanti."
-         },
-         "MovieTheater_AlreadySeen": {
-           "0": "Kamu sudah nonton film minggu ini."
-         },
-         "MovieTheater_WatchAlonePrompt": {
-           "0": "Apa kamu akan menggunakan tiketmu buat nonton sendirian?"
-         },
-         "MovieTheater_WatchWithFriendPrompt": {
-           "0": "Apa kamu akan menggunakan tiketmu buat nonton film bersama {0}?"
-         },
-         "MovieTheater_LeavePrompt": {
-           "0": "Apa kamu yakin mau meninggalkan bioskop tanpa nonton film?"
-         },
-         "MovieTheater_ClosedFestival": {
-           "0": "Bioskop ditutup karena ada festival."
-         },
-         "MovieTheater_Closed": {
-           "0": "Bioskop sudah tutup."
-         },
-         "MovieTheater_BoxOfficeClosed": {
-           "0": "The box office is empty."
-         },
-         "MovieTheater_Concession": {
-           "0": "Selamat datang di kios cemilan! Apa anda mau pesan cemilan untuk teman anda?"
-         },
-         "MovieTheater_ConcessionAlone": {
-           "0": "Oh, sepertinya anda ke sini sendiri. Kalau anda kesini bersama dengan teman, anda bisa membelikannya cemilan. Cobalah kapankapan!"
-         },
-         "MovieTheater_ConcessionPurchased": {
-           "0": "Anda memesan {0}, ya? Kami akan mengantarnya ke tempat duduk {1} saat film dimulai!"
-         },
-         "MovieTheater_ConcessionAfterMovie": {
-           "0": "Jadi, bagaimana filmnya?"
-         },
-         "MovieTheater_AfterMovieAlone": {
-           "0": "{0} sedang berpikir dalam diam setelah melihat film."
-         },
-         "MovieTheater_AfterMovie": {
-           "0": "{0} sedang berdiskusi dengan semangat setelah melihat film."
-         },
-         "MovieTheater_LoveMovie": {
-           "0": "{0} benar benar terpesona...!"
-         },
-         "MovieTheater_LikeMovie": {
-           "0": "{0} tampak menikmati filmnya!"
-         },
-         "MovieTheater_DislikeMovie": {
-           "0": "{0} sedang tidur..."
-         },
-         "MovieTheater_LoveConcession": {
-           "0": "{0} sangat menikmati {1}-nya!"
-         },
-         "MovieTheater_LikeConcession": {
-           "0": "{0} sedang menikmati {1}-nya."
-         },
-         "MovieTheater_DislikeConcession": {
-           "0": "{0} belum menyentuh {1}-nya sama sekali..."
-         },
-         "MovieTheater_LoveConcession_Female": {
-           "0": "{0} sangat menikmati {1}-nya!"
-         },
-         "MovieTheater_LikeConcession_Female": {
-           "0": "{0} sedang menikmati {1}-nya."
-         },
-         "MovieTheater_DislikeConcession_Female": {
-           "0": "belum menyentuh {1}-nya sama sekali..."
-         },
-         "MovieTheater_LoveConcession_Male": {
-           "0": "{0} sangat menikmati {1}-nya!"
-         },
-         "MovieTheater_LikeConcession_Male": {
-           "0": "{0} sedang menikmati {1}-nya."
-         },
-         "MovieTheater_DislikeConcession_Male": {
-           "0": "{0} belum menyentuh {1}-nya sama sekali..."
-         },
-         "MovieInvite_Spouse_Abigail": {
-           "0": "Nonton film? Tentu, kedengarannya menyenangkan! Aku akan menemuimu di bioskop.$h#$e#Semoga filmnya menarik."
-         },
-         "MovieInvite_Spouse_Penny": {
-           "0": "Tiket bioskop? Ya, akau akan senang bisa pergi bersamamu! Aku akan menemuimu di bioskop, sayang.$h"
-         },
-         "MovieInvite_Spouse_Haley": {
-           "0": "Oooh... kencan malam hari, ya? Biarkan aku menyiapkan diri dulu lalu nanti akan kutemui di bioskop.$h"
-         },
-         "MovieInvite_Spouse_Emily": {
-           "0": "Tiket bioskop! Asal kau tahu, aku sudah memikirkan film seharian ini. Kau sudah membaca pikiranku! $h#$e#Aku akan menemuimu di bioskop."
-         },
-         "MovieInvite_Spouse_Leah": {
-           "0": "Oh, nonton film? Tentu, kedengarannya menyenangkan.... Kita seperti sedang berkencan layaknya dulu lagi, hehe.$h#$e#Aku akan menemuimu di bioskop."
-         },
-         "MovieInvite_Spouse_Maru": {
-           "0": "Oh! Kau merencanakan kencan malam hari buat kita? $h#$b#Dengan senang hati! Sampai jumpa di bioskop.$h"
-         },
-         "MovieInvite_Spouse_Alex": {
-           "0": "Hei, sepertinya seru! Aku sudah lama ingin nonton film ini... aku juga lebih suka kalau nontonnya sama kamu!#$b#Aku akan menemuimu di bioskop."
-         },
-         "MovieInvite_Spouse_Sam": {
-           "0": "Mantap! Kamu beli tiket buat kita berdua? Kamu memang terbaik! Akan kutunggu kamu di bioskop.$h"
-         },
-         "MovieInvite_Spouse_Sebastian": {
-           "0": "Oh, kamu mau pergi ke bioskop? Kedengarannya bagus. Aku akan menemuimu di sana.$h"
-         },
-         "MovieInvite_Spouse_Shane": {
-           "0": "Oh, kamu ingin melihat ini, ya? Belikan aku cemilan dulu baru aku mau, hehe...$h#$e#Akan kutunggu kamu di sana."
-         },
-         "MovieInvite_Spouse_Elliott": {
-           "0": "Ya, sayangku, Dengan senang hati aku akan melihat film denganmu! Aku akan menemuimu di bioskop."
-         },
-         "MovieInvite_Spouse_Harvey": {
-           "0": "Tiket bioskop? Emmm... ya, aku akan senang pergi denganmu!$h#$e#Bagus kamu mau mengajakku melakukan ini, aku tidak ingin kehidupan berkeluarga membuatmu bosan!"
-         },
-         "Phone_Robin_Workout": {
-           "0": "Hey, it's Robin. I'm out of the house today for my weekly aerobics club... Sorry! *beep*"
-         },
-         "Phone_Robin_Working_OneDay": {
-           "0": "Hey, it's Robin. I'll be out of the house until tomorrow finishing up a project. *beep*"
-         },
-         "Phone_Robin_Working": {
-           "0": "Hey, it's Robin. I'll be busy for the next few days working on a project. *beep*"
-         },
-         "Phone_Robin_Festival": {
-           "0": "Hey, it's Robin. I'm taking the day off today. Sorry for the inconvenience! *beep*"
-         },
-         "Phone_Robin_Open": {
-           "0": "Hello? Hey! Yes, I'm currently open for business... please swing by before 5PM if you need anything! *click* $h"
-         },
-         "Phone_Robin_Open_Rare": {
-           "0": "Hello? Oh, hi @! *BANG*... Um, one sec... (Muffled Voice: Honey, could you close the door? I'm trying to run a business here.)... Sorry! Yes, I'm open until 5pm today. See you later! *click*"
-         },
-         "Phone_Robin_Closed": {
-           "0": "Hey, it's Robin. My business hours are from 9AM to 5PM. Please come by then if you need anything! *beep*"
-         },
-         "Phone_Clint_Open": {
-           "0": "Hello? Oh, hey, @. Yup, I'm open for business until 4PM. Er... Okay. Goodbye. *click*"
-         },
-         "Phone_Clint_Open_Rare": {
-           "0": "Hello? Yes, yes, I'm open until 4pm. Gotta go. *click*^Hello? Oh... @... Your voice sounds really nice over the phone... Uh... Okay. Understood. I'm open until 4pm. *slam*$4"
-         },
-         "Phone_Clint_Closed": {
-           "0": "You've reached Clint's answering machine. I'm not available right now... My business hours are from 9AM to 4PM. *beep*"
-         },
-         "Phone_Clint_Festival": {
-           "0": "Hey, this is Clint. I'm taking the day off today. *beep*"
-         },
-         "Phone_Clint_Working_OneDay": {
-           "0": "Hey... Your tool will be ready for pickup tomorrow. I gotta get back to work now. *clank* *clank* *click*"
-         },
-         "Phone_Clint_Working": {
-           "0": "Hello? Yes? Your tool still needs a few more days of work. Check back with me later. *click*"
-         },
-         "Phone_HangUp": {
-           "0": "(Hang up)"
-         },
-         "Phone_CheckHouseCost": {
-           "0": "Check house upgrade cost"
-         },
-         "Phone_CheckBuildingCost": {
-           "0": "Check building upgrade costs"
-         },
-         "Phone_CheckToolCost": {
-           "0": "Check tool upgrade costs"
-         },
-         "Phone_SelectNumber": {
-           "0": "Please select a number:"
-         },
-         "Phone_SelectOption": {
-           "0": "Please make a selection:"
-         },
-         "Phone_Gus_Open": {
-           "0": "Hello? Hi @! Yes... today's special is: '{0}'! We're open right now, so feel free to come on in for a taste. *click*"
-         },
-         "Phone_Gus_Open_Rare": {
-           "0": "(You hear slurping and chewing sounds on the other end...)#$b#*gulp* ... Uh.. Oh! Well, hello! Hahah... pardon me, I was just tasting today's special, '{0}'. It's delicious. Yes... Yes we're open right now. Come by if you want a taste! *click*"
-         },
-         "Phone_Gus_Closed": {
-           "0": "Hello, this is Gus from the Stardrop Saloon. We're currently closed, but please come by later if you'd like to try our daily special, '{0}'! *beep*"
-         },
-         "Phone_Gus_Festival": {
-           "0": "Hello, this is Gus from the Stardrop Saloon. We're closed for the day. *beep*"
-         },
-         "Phone_Pierre_Open": {
-           "0": "Pierre's General Store! Oh, hello, @! Yes, I'm open until 5pm today. Please come by for great deals on seeds and produce! Goodbye. *click*"
-         },
-         "Phone_Pierre_Open_Rare": {
-           "0": "Abigail! Your guinea pig is loose again! Come here *right now* and take care of this! $3#$b#Oh! Uh... Hello? Thank you for calling. Y... Yes, we're open until 5PM. Goodbye. *click*$4"
-         },
-         "Phone_Pierre_Closed": {
-           "0": "Thank you for calling Pierre's General Store. We're closed at the moment, but our hours are 9AM to 5PM. See you then! *beep*"
-         },
-         "Phone_Pierre_Festival": {
-           "0": "Thank you for calling Pierre's General Store. We're closed today in observance of the festival. *beep*"
-         },
-         "Phone_CheckSeedStock": {
-           "0": "Check store inventory"
-         },
-         "Phone_Gus_Open_NoDishOfTheDay": {
-           "0": "Hello? Hi @! Yup, we're open right now. Hope to see you soon! *click*$h"
-         },
-         "Phone_Gus_Closed_NoDishOfTheDay": {
-           "0": "Hello, this is Gus from the Stardrop Saloon. We're currently closed. Please stop in between 12PM and 12AM if you'd like some of our delicious food and drink. *beep*"
-         },
-         "Phone_Marnie_Open": {
-           "0": "Hello? Oh, hi @! Yes, my shop is open until 4:00 PM today. Hope to see you soon! *click*"
-         },
-         "Phone_Marnie_Open_Rare": {
-           "0": "Lew...? Hah... Heyyy! Yup, I'm open right now. *bahhh*. That sound? Oh, it's one of my goats. Please come by if you need anything! *click* $4"
-         },
-         "Phone_Marnie_Closed": {
-           "0": "Hello, you've reached Marnie's Ranch. My business hours are from 9AM to 4PM. Please come visit me then. *beep*"
-         },
-         "Phone_Marnie_ClosedDay": {
-           "0": "Hello, you've reached Marnie's Ranch. My shop is closed today."
-         },
-         "Phone_CheckAnimalPrices": {
-           "0": "Check livestock prices"
-         },
-         "Phone_Ring_Vincent": {
-           "0": "Hello?#$b#Um... Uhhh... This is Vincent.$3#$b#... $3#$b#Um... Do you have any piggies on your farm?$h#$b#...$3#$b#Okay I gotta go! *click* $3"
-         },
-         "Phone_Ring_RoboCaller": {
-           "0": "You hear a robotic voice on the other end. # Congratulations. . . You. Have. A. 10,000g. JOJA. Rebate. Waiting. For. You. . . Please. Mail. Your. Credit. Card. Number. To. 133. N. Gunger St. Zuzu. City. To. Receive. Your. Rebate. . . *CLICK*"
-         },
-         "Phone_Ring_Pierre": {
-           "0": "Hey, @. It's me, Pierre. #$b#How are you doing? Good? That's good.#$b#Well, I just wanted to say that I appreciate your business. And I'd like to remind you that Pierre's General Store carries *the finest* seeds and produce anywhere.#$b#I hope to see you in the store very soon. Bye! *click*"
-         },
-         "Phone_Ring_HatMouse": {
-           "0": "You hear a squeaky voice on the other end: # Heyo poke! Me sell gud hats. Please come, n' bring coines, poke. Me like coines. *click*"
-         },
-         "Phone_Ring_Foreign": {
-           "0": "It's a pre-recorded message in a foreign language. You can't understand it at all."
-         },
-         "Phone_Ring_Bear": {
-           "0": "*sniff* *sniff*$2#$b#HoOoOoOoOoO!$3#$b#... Is that you? #$b# *grunt*... I have some of that good sauce still, friend.#$b#It's making me very, very happy. *snort*$1#$b#Just want to thank you... bye bye friend. *click*"
-         },
-         "Phone_Ring_Lewis": {
-           "0": "Hey, @. #$b#I just wanted to check up on you and see if %farm Farm is doing well.#$b#$y 'How's everything going?_Good! I really feel at home here._Good to hear. *I think I can speak for everyone in saying that we really value your presence in the community.*Your Grandfather would be really proud of what you've accomplished. *Well, I'll let you get back to your work. Goodbye!_Good! The farm is very productive._Good to hear! *Your farm has really boosted the local economy, which is good for everyone. We all appreciate your hard work! *I think it's safe to say that your Grandfather would be really proud of what you've accomplished.*Well, I'll let you get back to your work. Goodbye!_Not so good..._Oh... I'm sorry to hear that. $s*Uh... Keep working hard and I'm sure things will improve... *Well... I'll let you get back to it, then... Okay? Talk to you later. Bye. $s_I know your secret, Lewis._What's that? I think the line cut out... I can't hear a thing. Alright, well I guess I'll hang up then. Bye.$3'"
-         },
-         "Phone_Ring_Cursed": {
-           "0": "You place the receiver to your ear, and are met with a roiling, abrasive static. # But wait... beneath it all, you can make out something else... an otherworldly voice... # 'Y-O-U H-A-V-E F-O-R-S-A-K-E-N U-S'"
-         },
-         "Leo_Memory": {
-           "0": "Hey... I was just thinking about that time, back on the island... Do you remember?"
-         },
-         "Leo_Memory_Answer_Yes": {
-           "0": "Remind me"
-         },
-         "Leo_Memory_Answer_No": {
-           "0": "I'm busy"
-         },
-         "Leo_Memory_6497423": {
-           "0": "When we talked about your home?"
-         },
-         "Leo_Memory_6497421": {
-           "0": "When we talked about birds?"
-         },
-         "Leo_Memory_6497428": {
-           "0": "When I decided to move?"
-         },
-         "PierreStockListDialogue": {
-           "0": "Oh, wow! It's my old stock list! I've been searching everywhere for this thing.$h#$b#Let me see... yup! It's all still here.#$b#With these order codes, I can expand my stock to include seeds from all seasons, year round!#$b#Thanks so much for bringing this back to me, @.$h"
-         },
-         "Phone_Marlon_Open": {
-           "0": "Marlon Speaking... Did you lose something in the mines again? Yes, yes... I'm willing to fetch it... for a price."
-         },
-         "Phone_Marlon_AlreadyRecovering": {
-           "0": "Hello?... Yep, I'm going to fetch your item tonight. You can relax. No need to keep calling! *click*"
-         },
-         "Phone_Marlon_NoDeathItems": {
-           "0": "What's that? You haven't lost anything in the mines? Okay. Sounds like you don't need my help, then. Take care. *click*"
+         "ElliottBook_default": {
+           "0": "Kebangkitan Dan Keruntuhan Planet Yazzo"
          }
        }
      },

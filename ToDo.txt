@@ -39,6 +39,10 @@ Willy fishing rod event:
 	Hai, mas -> ganti ke yang lain
 	Kamu menerima a Bamboo Pole! -> ganti ke yang lain
 	'Selama amis, pasti laris'???????????
+
+Pam:
+    Apakah Anda berteman dengan Guys -> Periksa ulang dan ganti Anda menjadi kau
+
 Typo:
 	kaugunakan -> kau gunakan
 	seoorang -> seorang
@@ -46,11 +50,19 @@ Typo:
 	clint: aku -><- Aku
 	Robin: kedengarannya melelahkan -> sepertinya melelahkan
 	Marnie: ja di aku tidak mengeluh
+	Pam:
+	    mentraiktirku -> mentraktirku
+	    minim -> minum
+
+	Penny:
+	    motherkumencintai???????
 	Buku: Phon -> Pohon
 	bahawa -> bahwa
 	jauh di dalam tambang -> Jauh di dalam tambang
 	
 Other:
 	Tapi kau bisa mendengar suara orang dari dalam -> ganti ke yang lain
-	Markas Petualan -> Kembalikan jadi Adventure Guild?
+	Markas Petualang -> Kembalikan jadi Adventure Guild?
 	Tingkatkan Perkakas -> Upgrade/Tingkatkan Peralatan
+	Kamu menerima a 'item' -> kamu mendapatkan sebuah 'item'
+	Jangan lakukan apa-apa -> tetap disini
