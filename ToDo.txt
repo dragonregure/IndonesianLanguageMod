@@ -27,6 +27,7 @@ Strings/StringsFromCSFiles:
 
 
 IGNORE THIS FOR NOW
+Test
 BeachFarmDesc: Good foraging and fishing
 Kamu -> Kau
 jomblo -> Single
