@@ -1,10 +1,9 @@
 TRANSLATE
 
-Strings/Characters
+Strings/Characters (On Progress by NinjaQuince)
 Strings/Locations
-Strings/StringsFromMaps
+Strings/StringsFromMaps (On Progress by NinjaQuince)
 Strings/UI
-Strings/SpecialOrderStrings (On Progress by NinjaQuince)
 Strings/StringsFromCSFiles:
     Event.cs.1257 ~ Event.cs.1260
     Event.cs.1606 ~ Event.cs.1635
