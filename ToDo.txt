@@ -1,4 +1,23 @@
 TRANSLATE
+
+Events/Beach(On Progress by NinjaQuince)
+Events/FishShop(On Progress by NinjaQuince)
+Events/HayleyHouse(On Progress by NinjaQuince)
+Events/IslandHut(On Progress by NinjaQuince)
+Events/IslandNorth(On Progress by NinjaQuince)
+Events/IslandSouth(On Progress by NinjaQuince)
+Events/IslandWest(On Progress by NinjaQuince)
+Events/Mountain(On Progress by NinjaQuince)
+Events/Saloon(On Progress by NinjaQuince)
+Events/ScienceHouse(On Progress by NinjaQuince)
+Events/SeedShop(On Progress by NinjaQuince)
+Events/Trailer(On Progress by NinjaQuince)
+
+Strings/Characters
+Strings/Locations
+Strings/StringsFromMaps
+Strings/UI
+Strings/SpecialOrderStrings
 Strings/StringsFromCSFiles:
     Event.cs.1257 ~ Event.cs.1260
     Event.cs.1606 ~ Event.cs.1635
@@ -27,7 +46,6 @@ Strings/StringsFromCSFiles:
 
 
 IGNORE THIS FOR NOW
-Test lagi
 BeachFarmDesc: Good foraging and fishing
 Kamu -> Kau
 jomblo -> Single
@@ -40,6 +58,9 @@ Willy fishing rod event:
 	Hai, mas -> ganti ke yang lain
 	Kamu menerima a Bamboo Pole! -> ganti ke yang lain
 	'Selama amis, pasti laris'???????????
+
+Wizard community center event:
+    Pemburu kenyataan nan misterius?
 
 Pam:
     Apakah Anda berteman dengan Guys -> Periksa ulang dan ganti Anda menjadi kau
@@ -60,6 +81,8 @@ Typo:
 	Buku: Phon -> Pohon
 	bahawa -> bahwa
 	jauh di dalam tambang -> Jauh di dalam tambang
+	Elliott: sebanrnya -> sebenarnya
+	maple -> mapel
 	
 Other:
 	Tapi kau bisa mendengar suara orang dari dalam -> ganti ke yang lain
