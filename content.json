@@ -14742,7 +14742,7 @@
          },
          "5837189/n georgeGifts": {
            "25": "speak George \"@? Apa maksudnya semua ini...#$b#Apa ini semacam lelucon?\"",
-           "27": "quickQuestion #Kami ingin menunjukkan apresiasi kami#Istrimu yang mengatur ini#Ya, ini lelucon(break)playMusic none\\pause 1000\\positionOffset George -4 0\\playSound Cowboy_Footstep\\pause 500\\positionOffset George -4 0\\playSound Cowboy_Footstep\\pause 500\\positionOffset George -4 0\\playSound Cowboy_Footstep\\pause 500\\specificTemporarySprite georgeLeekGift\\specificTemporarySprite removeSprite 998\\playSound Ship\\pause 800\\showFrame George 21\\playSound coin\\playMusic echos\\pause 1000\\speak George \"Leek... $s\"\\pause 1000\\speak George \"Kesukaanku... Dulu Mamaku sering memasak ini...\"\\pause 2000\\showFrame George 0\\faceDirection George 2\\speak George \"Hmmph. Baiklah...\"\\emote George 40\\showFrame George 16\\pause 500\\speak George \"Baiklah... Itu... Hmmph.#$b#Sepertinya masih ada yang memperhatikanku, tidak seperti yang kukira...$s\"\\faceDirection George 3\\speak George \"Makasih, anak muda.$h^Makasih, nona muda.$h#$b#Kau sudah mencerahkan hari orang tua ini.$h\"\\pause 500\\emote farmer 32(break)playMusic none\\pause 300\\jump George\\pause 1000\\speak George \"Hah! Dia kira bisa menipuku!\"\\pause 500\\faceDirection George 2\\pause 400\\showFrame George 16\\pause 600\\speak George \"Dia pikir dia bisa menipuku... agar aku tidak dianggap merepotkan.$s\"\\stopAnimation George\\faceDirection George 3\\speak George \"Tapi, aku sudah tahu...\"\\pause 400\\faceDirection George 1\\speak George \"Pergi!$u\"\\emote farmer 28(break)playMusic none\\pause 300\\jump George\\pause 1000\\speak George \"Hah! Kamu suka berkelakar, ya?\"\\emote George 40\\playMusic playful\\speak George \"Hahah... Aku dulu juga suka berkelakar waktu masih muda.$h\"\\faceDirection George 2\\speak George \"Yah, setidaknya kau bisa membuatku tertawa.$h\"\\pause 2000\\faceDirection George 3\\emote George 8\\speak George \"Apa, kau kira aku akan membukanya?\"\\jump George\\pause 1000\\speak George \"Hah! Mana mungkin. Aku tidak akan tertipu dengan ' kado palsu'?\"\\faceDirection George 2\\speak George \"Akan kubuang semuanya!\"\\pause 300\\faceDirection farmer 2 true\\showFrame farmer 94\\jump farmer"
+           "27": "quickQuestion #Kami ingin menunjukkan kepedulian kami#Istrimu yang mengatur ini#Ya, ini lelucon(break)playMusic none\\pause 1000\\positionOffset George -4 0\\playSound Cowboy_Footstep\\pause 500\\positionOffset George -4 0\\playSound Cowboy_Footstep\\pause 500\\positionOffset George -4 0\\playSound Cowboy_Footstep\\pause 500\\specificTemporarySprite georgeLeekGift\\specificTemporarySprite removeSprite 998\\playSound Ship\\pause 800\\showFrame George 21\\playSound coin\\playMusic echos\\pause 1000\\speak George \"Leek... $s\"\\pause 1000\\speak George \"Kesukaanku... Dulu Mamaku sering memasak ini...\"\\pause 2000\\showFrame George 0\\faceDirection George 2\\speak George \"Hmmph. Baiklah...\"\\emote George 40\\showFrame George 16\\pause 500\\speak George \"Baiklah... Itu... Hmmph.#$b#Sepertinya masih ada yang memperhatikanku, tidak seperti yang kukira...$s\"\\faceDirection George 3\\speak George \"Makasih, anak muda.$h^Makasih, nona muda.$h#$b#Kau sudah mencerahkan hari orang tua ini.$h\"\\pause 500\\emote farmer 32(break)playMusic none\\pause 300\\jump George\\pause 1000\\speak George \"Hah! Dia kira bisa menipuku!\"\\pause 500\\faceDirection George 2\\pause 400\\showFrame George 16\\pause 600\\speak George \"Dia pikir dia bisa menipuku... agar aku tidak dianggap merepotkan.$s\"\\stopAnimation George\\faceDirection George 3\\speak George \"Tapi, aku sudah tahu...\"\\pause 400\\faceDirection George 1\\speak George \"Pergi!$u\"\\emote farmer 28(break)playMusic none\\pause 300\\jump George\\pause 1000\\speak George \"Hah! Kamu suka berkelakar, ya?\"\\emote George 40\\playMusic playful\\speak George \"Hahah... Aku dulu juga suka berkelakar waktu masih muda.$h\"\\faceDirection George 2\\speak George \"Yah, setidaknya kau bisa membuatku tertawa.$h\"\\pause 2000\\faceDirection George 3\\emote George 8\\speak George \"Apa, kau kira aku akan membukanya?\"\\jump George\\pause 1000\\speak George \"Hah! Mana mungkin. Aku tidak akan tertipu dengan ' kado palsu'?\"\\faceDirection George 2\\speak George \"Akan kubuang semuanya!\"\\pause 300\\faceDirection farmer 2 true\\showFrame farmer 94\\jump farmer"
          }
        }
      },
@@ -35393,166 +35393,166 @@
        },
        "Fields": {
          "Willy_Name": {
-           "0": "Juicy Bugs Wanted!"
+           "0": "Butuh Serangga Segar!"
          },
          "Willy_Text": {
-           "0": "Hey there, I'm looking for a big wad o' bug guts. The juicier the better... at least that's what the crabs seem to like... 100 pieces should do the trick."
+           "0": "Hei semua, aku butuh banyak daging serangga. Lebih segar lebih baik... pokoknya cocok buat pakan kepiting... 100 saja cukup."
          },
          "Willy_Objective_0_Text": {
-           "0": "Collect a bunch of bug meat"
+           "0": "Kumpulkan Bug Meat"
          },
          "Willy_Objective_1_Text": {
-           "0": "Place the bug meat in the barrel next to Willy's house."
+           "0": "Taruh Bug Meat di tong sebelah rumah Willy."
          },
          "Pam_Name": {
-           "0": "The Strong Stuff"
+           "0": "Minuman Yang Berat"
          },
          "Pam_Text": {
-           "0": "Heard there's a spirit made out of potatoes that really packs a whallop, if you know what I mean. Mind dropping a few taters into a keg and bringing me a batch or two?"
+           "0": "Kudengar ada minuman dari kentang yang rasanya sangat 'berat', kalau kalian paham maksudku. Adakah yang mau memproses beberapa kentang dalam Keg dan membawa hasilnya padaku?"
          },
          "Pam_Objective_0_Text": {
-           "0": "Keg a few potatoes and collect 12 batches"
+           "0": "Fermentasi sejumlah Potato di Keg dan buat 12 botol"
          },
          "Pam_Objective_1_Text": {
-           "0": "Place the product in Pam's kitchen."
+           "0": "Taruh produknya di dapur Pam."
          },
          "Pierre_Name": {
-           "0": "Pierre's Prime Produce"
+           "0": "Produk Premium Pierre"
          },
          "Pierre_Text": {
-           "0": "Hello there. For an upcoming promotion, I'm thinking of offering some high-quality vegetables at a slight premium... Know where a thrifty shopkeep might find 25 gold-star vegetables?"
+           "0": "Halo semua. Untuk promo, aku berencana menjual sayuran kualitas tinggi sebagai produk premium... Ada yang bisa mengumpulkan 25 Sayuran kualitas emas untuk membantu pemilik toko ini?"
          },
          "Pierre_Objective_0_Text": {
-           "0": "Harvest gold-quality vegetables"
+           "0": "Panen Sayuran kualitas emas"
          },
          "Pierre_Objective_1_Text": {
-           "0": "Place the crops in the empty produce box in Pierre's shop."
+           "0": "Letakkan hasil panen di kotak kosong dalam toko Pierre."
          },
          "Robin_Name": {
-           "0": "Robin's Project"
+           "0": "Proyek Robin"
          },
          "Robin_Text": {
-           "0": "Hey! I have an idea for a new style of bed, but I'll need 80 hardwood to make it happen. Can anyone help? -Robin"
+           "0": "Hei! Aku punya ide untuk tempat tidur jenis baru, tapi aku butuh 80 Hardwood untuk membuatnya. Ada yang bisa bantu? -Robin"
          },
          "Robin_Objective_0_Text": {
-           "0": "Gather 80 pieces of hardwood."
+           "0": "Kumpulkan 80 Hardwood."
          },
          "Robin_Objective_1_Text": {
-           "0": "Add the hardwood to the stockpile in Robin's house."
+           "0": "Taruh Hardwood di tumpukan kayu di rumah Robin."
          },
          "Emily_Name": {
-           "0": "Rock Rejuvenation"
+           "0": "Meditasi Batu"
          },
          "Emily_Text": {
-           "0": "Hey! I'm going to invite some friends over to do a \"rock rejuvenation\" ceremony, but I'll need some crystals to channel the right energies. Do you think you could lend me a hand?"
+           "0": "Hei! Aku mengundang sejumlah temanku untuk melakukan \"Meditasi Batu\", tapi aku butuh beberapa permata untuk mengalirkan energi yang sesuai. Apa ada yang bersedia membantu?"
          },
          "Emily_Objective_0_Text": {
-           "0": "Deliver a Ruby to Emily"
+           "0": "Antarkan sebuah Ruby pada Emily"
          },
          "Emily_Objective_1_Text": {
-           "0": "Deliver a Topaz to Emily"
+           "0": "Antarkan sebuah Topaz pada Emily"
          },
          "Emily_Objective_2_Text": {
-           "0": "Deliver an Emerald to Emily"
+           "0": "Antarkan sebuah Emerald pada Emily"
          },
          "Emily_Objective_3_Text": {
-           "0": "Deliver a Jade to Emily"
+           "0": "Antarkan sebuah Jade pada Emily"
          },
          "Emily_Objective_4_Text": {
-           "0": "Deliver an Amethyst to Emily"
+           "0": "Antarkan sebuah Amethyst pada Emily"
          },
          "Demetrius_Name": {
-           "0": "Aquatic Overpopulation"
+           "0": "Ledakan Populasi Satwa Air"
          },
          "Demetrius_Text": {
-           "0": "For unknown reasons, the local population of {FishType:Text} has grown to an unsustainable level. I need a local angler to help reduce their numbers."
+           "0": "Untuk alasan yang tidak diketahui, jumlah populasi {FishType:Text} lokal telah meningkat hingga tak terkendali. Aku butuh bantuan nelayan lokal untuk mengurasi jumlah populasinya."
          },
          "Demetrius_Objective_0_Text": {
-           "0": "Catch 10 {FishType:Text}."
+           "0": "Tangkap 10 {FishType:Text}."
          },
          "Demetrius2_Name": {
-           "0": "Biome Balance"
+           "0": "Keseimbangan Bioma"
          },
          "Demetrius2_Text": {
-           "0": "For unknown reasons, the local population of {FishType:Text} has grown to an unsustainable level. I need a local angler to help reduce their numbers."
+           "0": "Untuk alasan yang tidak diketahui, jumlah populasi {FishType:Text} lokal telah meningkat hingga tak terkendali. Aku butuh bantuan nelayan lokal untuk mengurasi jumlah populasinya."
          },
          "Demetrius2_Objective_0_Text": {
-           "0": "Catch 20 {FishType:Text}."
+           "0": "Tangkap 20 {FishType:Text}."
          },
          "Demetrius2_RE_FishType_0_Text": {
-           "0": "river fish"
+           "0": "ikan sungai"
          },
          "Demetrius2_RE_FishType_1_Text": {
-           "0": "ocean fish"
+           "0": "ikan laut"
          },
          "Demetrius2_RE_FishType_2_Text": {
-           "0": "lake fish"
+           "0": "ikan danau"
          },
          "Gus_Name": {
-           "0": "Gus' Famous Omelet"
+           "0": "Omelet Tersohor Gus"
          },
          "Gus_Text": {
-           "0": "{Greeting}... but I'll need two dozen eggs. Any takers? -Gus"
+           "0": "{Greeting}... tapi aku butuh dua lusin telur. Ada yang mau membantu? -Gus"
          },
          "Gus_Objective_0_Text": {
-           "0": "Gather 24 eggs."
+           "0": "Kumpulkan 24 Egg."
          },
          "Gus_Objective_1_Text": {
-           "0": "Put the eggs in Gus' fridge."
+           "0": "Taruh Egg di lemari es milik Gus."
          },
          "Gus_RE_Greeting_0": {
-           "0": "I've got the urge to make my famous giant omelet"
+           "0": "Aku sedang ingin membuat omelet raksasaku yang terkenal"
          },
          "Gus_RE_Greeting_1": {
-           "0": "I've got the urge to make another giant omelet"
+           "0": "Aku ingin membuat omelet raksasaku yang terkenal lagi"
          },
          "Lewis_Name": {
            "0": "Crop Order"
          },
          "Lewis_Text": {
-           "0": "{Text} Anyone who ships 100 {Crop:TextPlural} by the end of the season will earn a substantial reward from the Pelican Town Agricultural Fund."
+           "0": "{Text} Siapa saja yang mengirim 100 {Crop:TextPlural} sebelum musim berakhir akan dapat hadiah besar yang diambil dari Dana Agrikultur Pelican Town."
          },
          "Lewis_Objective_1_Text": {
-           "0": "Harvest 100 {Crop:Text}."
+           "0": "Panen 100 {Crop:Text}."
          },
          "Lewis_Objective_0_Text": {
-           "0": "Ship 100 {Crop:Text}."
+           "0": "Jual 100 {Crop:Text} via Shipping Bin."
          },
          "Lewis_RE_Text_0": {
-           "0": "{Crop:TextPluralCapitalized} are in high demand this year."
+           "0": "Permintaan {Crop:TextPluralCapitalized} tahun ini sedang tinggi."
          },
          "Lewis_RE_Text_1": {
-           "0": "Apparently, {Crop:TextPlural} are considered the latest 'superfood' in Zuzu City."
+           "0": "Tampaknya, {Crop:TextPlural} sedang jadi 'makanan super' terkenal di Zuzu City."
          },
          "Lewis_RE_Text_2": {
-           "0": "There's a new beauty craze in Zuzu City... apparently, a lotion made from {Crop:Text} is said to remove wrinkles."
+           "0": "Sedang ada tren kecantikan baru di Zuzu City... tampaknya, lotion yang terbuat dari {Crop:Text} berkhasiat untuk menghilangkan kerutan."
          },
          "Lewis_RE_Text_3": {
-           "0": "The Queen of Sauce was recently spotted dining on fresh {Crop:Text}. Now everyone in the world wants one!"
+           "0": "Sang Queen of Sauce diketahui sedang makan malam dengan {Crop:Text} segar. Sekarang seluruh dunia juga mau ikut-ikutan!"
          },
          "Lewis_RE_Text_4": {
-           "0": "The Governor is holding a banquet, and his Chefs are ordering huge numbers of {Crop:TextPlural}."
+           "0": "Pak Gubernur sedang mengadakan prasmanan, dan kokinya memesan banyak {Crop:TextPlural}."
          },
          "Wizard_Name": {
-           "0": "A Curious Substance"
+           "0": "Substansi Misterius"
          },
          "Wizard_Text": {
-           "0": "I seek an extremely rare and powerful goop, known as 'ectoplasm'. It can be found in the remains of slain ghosts. -M. Rasmodius"
+           "0": "Aku sedang mencari zat langka nan kuat, yang disebut 'Ectoplasm'. Zat itu bisa ditemukan setelah membunuh monster jenis Ghost. -M. Rasmodius"
          },
          "Wizard_Objective_0_Text": {
-           "0": "Deliver an ectoplasm to Wizard"
+           "0": "Antarkan sebuah Ectoplasm ke Wizard"
          },
          "Wizard_Objective_0_Message": {
-           "0": "Ah, It's brimming with the energy of forgotten souls... perfect.$h#$b#Now, begone! I shall require perfect silence to discern the true nature of this substance."
+           "0": "Ah, Zat ini dipenuhi dengan energi dari jiwa-jiwa yang tersesat... sempurna.$h#$b#Pergilah! Aku butuh konsentrasi tinggi untuk memahami asal-usul substansi ini."
          },
          "Clint_Name": {
-           "0": "Cave Patrol"
+           "0": "Patroli Gua"
          },
          "Clint_Text": {
-           "0": "The number of {Monster:LocalizedName} in the local caves have made mining dangerous... for other people, not me! There's good money for anyone willing to slay 50 of them. -Clint"
+           "0": "Jumlah monster {Monster:LocalizedName} di gua lokal telah membahayakan aktivitas bertambang... bagi orang lain, bukan aku! Ada upah yang sepadan bagi siapa saja yang bersedia membasmi 50 monster itu. -Clint"
          },
          "Clint_Objective_0_Text": {
-           "0": "Slay 50 {Monster:LocalizedName}."
+           "0": "Basmi 50 {Monster:LocalizedName}."
          },
          "Clint_RE_Monster_0_LocalizedName": {
            "0": "Bats"
@@ -35567,223 +35567,223 @@
            "0": "Grubs"
          },
          "Linus_Name": {
-           "0": "Community Cleanup"
+           "0": "Kerja Bakti"
          },
          "Linus_Text": {
-           "0": "I have an idea. There's a lot of trash in the water. Why don't we fish some out to make the valley more beautiful? -Linus"
+           "0": "Aku ada ide. Di perairan lembah ada banyak sampahnya. Mari kita pancing bersama agar lembah ini jadi lebih indah dan bersih -Linus"
          },
          "Linus_Objective_0_Text": {
-           "0": "Gather 20 pieces of trash."
+           "0": "Pancing 20 sampah."
          },
          "Linus_Objective_1_Text": {
-           "0": "Dump the trash in the recycling bin behind the train platform."
+           "0": "Buang sampah di kotak daur ulang belakang peron kereta."
          },
          "Evelyn_Name": {
-           "0": "Gifts for George"
+           "0": "Kado Untuk George"
          },
          "Evelyn_Text": {
-           "0": "George thinks no one in town cares about him. I'd like to prove him wrong! A dozen leeks should do the trick... they're his favorite. -Evelyn"
+           "0": "George mengira kalau di kota ini tidak ada yang peduli padanya. Aku ingin membuktikan sebaliknya! Selusin Leek pasti cukup... karena itu adalah kesukaannya. -Evelyn"
          },
          "Evelyn_Objective_0_Text": {
-           "0": "Gather 12 leeks."
+           "0": "Kumpulkan 12 Leek."
          },
          "Evelyn_Objective_1_Text": {
-           "0": "Place the leeks in Evelyn's kitchen."
+           "0": "Taruh Leek di dapur Evelyn."
          },
          "Wizard2_Name": {
            "0": "Prismatic Jelly"
          },
          "Wizard2_Text": {
-           "0": "I require assistance in tracking down the rare and dangerous prismatic slime, within the local caves. Bring me a jar of its prismatic jelly and you will be duly rewarded. -M. Rasmodius"
+           "0": "Aku butuh bantuan untuk melacak Prismatic Slime yang langka dan berbahaya, di dalam gua lokal. Bawakan aku setoples Prismatic Jelly dan akan kuberi upah yang sepadan. -M. Rasmodius"
          },
          "Wizard2_Objective_0_Text": {
-           "0": "Slay a prismatic slime."
+           "0": "Bunuh seekor Prismatic Slime."
          },
          "Wizard2_Objective_1_Text": {
-           "0": "Deliver a prismatic jelly to Wizard"
+           "0": "Antarkan setoples Prismatic Jelly pada Wizard"
          },
          "Wizard2_Objective_1_Message": {
-           "0": "Ah... you've returned from the hunt. I sense that you were successful!$h#$b#Now, hand over the jelly and begone! I have important work to do."
+           "0": "Ah... kau sudah kembali dari berburu. Sepertinya kamu berhasil!$h#$b#Serahkan Jelly-nya dan pergilah! Ada hal penting yang harus kukerjakan."
          },
          "Robin2_Name": {
-           "0": "Robin's Resource Rush"
+           "0": "Material Dadakan Robin"
          },
          "Robin2_Text": {
-           "0": "I'm putting on a little promotion, just for fun. If anyone can collect 1000 pieces of {Resource:Text} in a week, they'll earn a reward. And you can keep the {Resource:Text}! -Robin"
+           "0": "Aku mau bikin promo kecil-kecilan. Siapapun yang bisa mengumpulkan 1000 {Resource:Text} dalam sepekan, akan dapat hadiah. Dan kalian bisa menyimpan {Resource:Text}-nya! -Robin"
          },
          "Robin2_Objective_0_Text": {
-           "0": "Gather 1000 pieces of {Resource:Text}."
+           "0": "Kumpulkan 1000 {Resource:Text}."
          },
          "Gunther_Name": {
-           "0": "Fragments of the past"
+           "0": "Fragmen masa lalu"
          },
          "Gunther_Text": {
-           "0": "Calling all amateur paleontologists! I need 100 pieces of bone for my studies. Please drop them off at the museum counter! -Gunther"
+           "0": "Untuk semua paleontologis pemula! Aku butuh 100 tulang untuk studiku. Tolong kirim semuanya di meja depan museum! -Gunther"
          },
          "Gunther_Objective_1_Text": {
-           "0": "Gather 100 pieces of bone."
+           "0": "Kumpulkan 100 Bone Fragment."
          },
          "Gunther_Objective_0_Text": {
-           "0": "Place the bones in the drop box at the museum counter."
+           "0": "Taruh tukang-tulangnya di boks dekat meja depan museum."
          },
          "Caroline_Name": {
-           "0": "Island Ingredients"
+           "0": "Bahan-Bahan dari Pulau"
          },
          "Caroline_Text": {
-           "0": "I want to experiment with tropical cooking, but it's hard to find any ingredients. If someone could ship 100 {Crop:TextPlural}, it might help!"
+           "0": "Aku mau bereskperimen dengan masakan tropis, tapi sulit mencari bahan-bahannya. Kalau ada yang mau mengirim 100 {Crop:TextPlural}, itu akan membantu!"
          },
          "Caroline_Objective_0_Text": {
-           "0": "Ship 100 {Crop:Text}."
+           "0": "Kirim 100 {Crop:Text} via Shipping Bin."
          },
          "Willy2_Name": {
-           "0": "Tropical Fish"
+           "0": "Ikan Tropis"
          },
          "Willy2_Text": {
-           "0": "There's nothin' like tropical fishing... To keep the art alive, I'm offering a reward for whoever can bring in a good island haul."
+           "0": "Memancing ikan tropis sangatlah seru... Untuk melestarikan seni memancing, aku tawarkan hadiah bagi siapa saja yang bisa menangkap banyak ikan di pulau."
          },
          "Willy2_Objective_0_Text": {
-           "0": "Catch 5 Lionfish."
+           "0": "Tangkap 5 Lionfish."
          },
          "Willy2_Objective_1_Text": {
-           "0": "Catch 5 Blue Discus."
+           "0": "Tangkap 5 Blue Discus."
          },
          "Willy2_Objective_2_Text": {
-           "0": "Catch 5 Stingray."
+           "0": "Tangkap 5 Stingray."
          },
          "QiChallenge_Name": {
            "0": "FivePlagues"
          },
          "QiChallenge_Text": {
-           "0": "I will provide you with 600 Qi Beans. Plant these, grow them, and ship at least 500 of them in a week or less. But beware, Five plagues will descend upon you, threatening your crop..."
+           "0": "Aku akan memberimu 600 Qi Beans. Tanam semuanya, rawat semuanya, dan kirimkan setidaknya 500 dalam jangka waktu seminggu atau kurang. Tapi waspadalah, Lima Wabah akan menghalangimu, mengancam tanamanmu..."
          },
          "QiChallenge_Objective_0_Text": {
-           "0": "Ship 500 Qi Fruit."
+           "0": "Kirim 500 Qi Fruit via Shipping Bin."
          },
          "QiChallenge2_Name": {
-           "0": "Qi's Crop"
+           "0": "Tanaman Mr. Qi"
          },
          "QiChallenge2_Text": {
-           "0": "I've hidden Qi Beans throughout the world. Find them, grow them, propagate them, and ship 500 Qi Fruit within the time limit."
+           "0": "Aku menyembunyikan Qi Beans di seluruh dunia. Temukan semuanya, tanam semuanya, kembang biakkan semuanya dan kirim 500 Qi Fruit sebelum jatuh tempo."
          },
          "QiChallenge2_Objective_0_Text": {
-           "0": "Ship 500 Qi Fruit"
+           "0": "Kirim 500 Qi Fruit via Shipping Bin"
          },
          "QiChallenge3_Name": {
-           "0": "Let's Play A Game"
+           "0": "Mari Bermain"
          },
          "QiChallenge3_Text": {
-           "0": "Think you can score 50,000 points in Junimo Kart endless mode? Prove it."
+           "0": "Apa kau bisa dapat skor 50,000 poin pada 'Endless Mode' di Junimo Kart? Ayo buktikan."
          },
          "QiChallenge3_Objective_0_Text": {
-           "0": "Score 50,000 points in Junimo Kart endless mode."
+           "0": "Cetak skor 50,000 poin pada 'Endless Mode' di Junimo Kart."
          },
          "QiChallenge4_Name": {
-           "0": "Four Precious Stones"
+           "0": "Empat Batu Berharga"
          },
          "QiChallenge4_Text": {
-           "0": "Find 4 prismatic shards. Place them in my collection box."
+           "0": "Temukan 4 Prismatic Shards. Taruh semuanya di kotak koleksiku."
          },
          "QiChallenge4_Objective_0_Text": {
-           "0": "Place 4 Prismatic Shards into Qi's collection box."
+           "0": "Taruh 4 Prismatic Shards di kotak koleksi Qi."
          },
          "QiChallenge5_Name": {
-           "0": "Qi's Hungry Challenge"
+           "0": "Tantangan Puasa Mr. Qi"
          },
          "QiChallenge5_Text": {
-           "0": "Your task is to make it to level 100 in the Skull Cavern. However, you can't eat or drink anything while there."
+           "0": "Tugasmu adalah mencapai level 100 di Skull Cavern. Tapi kamu tidak boleh makan atau minum apapun saat di sana."
          },
          "QiChallenge5_Objective_0_Text": {
-           "0": "Make it to level 100 in the Skull Cavern."
+           "0": "Capai level 100 di Skull Cavern."
          },
          "QiChallenge6_Name": {
-           "0": "Qi's Cuisine"
+           "0": "Kuliner Mr. Qi"
          },
          "QiChallenge6_Text": {
-           "0": "Ship 100,000g worth of freshly cooked items."
+           "0": "Kirim makanan hangat sampai setara dengan 100,000g."
          },
          "QiChallenge6_Objective_0_Text": {
-           "0": "Ship 100,000g worth of freshly cooked items."
+           "0": "Kirim makanan hangat sampai setara 100,000g via Shipping Bin."
          },
          "QiChallenge7_Name": {
-           "0": "Qi's Kindness"
+           "0": "Kebaikan Qi"
          },
          "QiChallenge7_Text": {
-           "0": "Give 50 loved gifts in one week."
+           "0": "Beri 50 hadiah yang dicintai dalam satu pekan."
          },
          "QiChallenge7_Objective_0_Text": {
-           "0": "Give 50 loved gifts in one week."
+           "0": "Beri 50 hadiah yang dicintai dalam satu pekan."
          },
          "QiChallenge8_Name": {
-           "0": "Extended Family"
+           "0": "Keluarga Tambahan"
          },
          "QiChallenge8_Text": {
-           "0": "Family members of the legendary fish have returned to the valley. You have three days to catch Ms. Angler, Glacierfish Jr., Son of Crimsonfish, Radioactive Carp, and The Legend II."
+           "0": "Anggota keluarga dari ikan-ikan legendaris telah kembali ke lembah. Waktumu tiga hari untuk menangkap Ms. Angler, Glacierfish Jr., Son of Crimsonfish, Radioactive Carp, dan The Legend II."
          },
          "QiChallenge8_Objective_0_Text": {
-           "0": "Catch Ms. Angler."
+           "0": "Tangkap Ms. Angler."
          },
          "QiChallenge8_Objective_1_Text": {
-           "0": "Catch Glacierfish Jr."
+           "0": "Tangkap Glacierfish Jr."
          },
          "QiChallenge8_Objective_2_Text": {
-           "0": "Catch Son of Crimsonfish."
+           "0": "Tangkap Son of Crimsonfish."
          },
          "QiChallenge8_Objective_3_Text": {
-           "0": "Catch Radioactive Carp."
+           "0": "Tangkap Radioactive Carp."
          },
          "QiChallenge8_Objective_4_Text": {
-           "0": "Catch The Legend II."
+           "0": "Tangkap The Legend II."
          },
          "QiChallenge9_Name": {
-           "0": "Danger In The Deep"
+           "0": "Bahaya Jauh Di Dalam"
          },
          "QiChallenge9_Text": {
-           "0": "The mine elevator system has been reset, and new dangers have emerged from deep underground. Make it to the bottom of the mines in one week."
+           "0": "Sistem elevator tambang telah diatur ulang, dan bahaya baru muncul di kedalaman. Capailah dasar tambang dalam waktu satu minggu."
          },
          "QiChallenge9_Objective_0_Text": {
-           "0": "Reach the bottom of the mines, again."
+           "0": "Capai dasar tambang, lagi."
          },
          "QiChallenge10_Name": {
-           "0": "Skull Cavern Invasion"
+           "0": "Invasi Skull Cavern"
          },
          "QiChallenge10_Text": {
-           "0": "The Skull Cavern has been invaded by powerful monsters. Make it to level 100 in one piece."
+           "0": "Skull Cavern telah diserbu oleh monster-monster kuat. Capailah level 100 tanpa babak belur."
          },
          "QiChallenge10_Objective_0_Text": {
-           "0": "Make it to level 100 of the Skull Cavern."
+           "0": "Capai level 100 di Skull Cavern."
          },
          "QiChallenge11_Name": {
-           "0": "Find Qi's Double"
+           "0": " Temukan Kembaran Qi"
          },
          "QiChallenge11_Text": {
-           "0": "There's a second version of me, hiding somewhere in town. Can you catch him?"
+           "0": "Ada kembaranku yang bersembunyi di kota. Bisakah kau menangkapnya?"
          },
          "QiChallenge11_Objective_0_Text": {
-           "0": "Catch Qi's double."
+           "0": "Tangkap kembaran Qi."
          },
          "QiChallenge12_Name": {
-           "0": "Qi's Prismatic Grange"
+           "0": "Pajangan Prismatic Qi"
          },
          "QiChallenge12_Text": {
-           "0": "Find 100 each of red, orange, yellow, green, blue, and purple items. Place them in my collection box."
+           "0": "Temukan 100 dari masing-masing item berwarna merah, oranye, kuning, hijau, biru, dan ungu. Taruh semuanya di kotak koleksiku."
          },
          "QiChallenge12_Objective_0_Text": {
-           "0": "Place 100 red items into Qi's collection box."
+           "0": "Taruh 100 item berwarna merah di kotak koleksi Qi."
          },
          "QiChallenge12_Objective_1_Text": {
-           "0": "Place 100 orange items into Qi's collection box."
+           "0": "Taruh 100 item berwarna oranye di kotak koleksi Qi."
          },
          "QiChallenge12_Objective_2_Text": {
-           "0": "Place 100 yellow items into Qi's collection box."
+           "0": "Taruh 100 item berwarna kuning di kotak koleksi Qi."
          },
          "QiChallenge12_Objective_3_Text": {
-           "0": "Place 100 green items into Qi's collection box."
+           "0": "Taruh 100 item berwarna hijau di kotak koleksi Qi."
          },
          "QiChallenge12_Objective_4_Text": {
-           "0": "Place 100 blue items into Qi's collection box."
+           "0": "Taruh 100 item berwarna biru di kotak koleksi Qi."
          },
          "QiChallenge12_Objective_5_Text": {
-           "0": "Place 100 purple items into Qi's collection box."
+           "0": "Taruh 100 item berwarna ungu di kotak koleksi Qi."
          }
        }
      }
