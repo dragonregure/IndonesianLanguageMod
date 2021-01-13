@@ -1,8 +1,7 @@
 TRANSLATE
 
 Strings/Locations
-Strings/UI (On Progress by NinjaQuince)
-Strings/StringsFromCSFiles:
+Strings/StringsFromCSFiles: (On Progress by NinjaQuince)
     Event.cs.1257 ~ Event.cs.1260
     Event.cs.1606 ~ Event.cs.1635
     Event.cs.1691

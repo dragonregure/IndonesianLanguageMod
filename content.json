@@ -26398,7 +26398,7 @@
            "0": "First Night"
          },
          "Utility.cs.5678": {
-           "0": "Hari {0} dari {1}, Tahun {2}"
+           "0": "Hari {0} musim {1}, Tahun ke-{2}"
          },
          "Utility.cs.5680": {
            "0": "Spring"
@@ -32865,10 +32865,10 @@
            "0": "Uangmu tidak cukup..."
          },
          "Toggle_ColorPicker": {
-           "0": "Toggle Color Picker"
+           "0": "Aktifkan Color Picker"
          },
          "Backpack_Bought": {
-           "0": "Great! You can hold up to {0} items now!"
+           "0": "Hebat! Sekarang kamu bisa membawa {0} item!"
          },
          "About_Title": {
            "0": " Stardew Valley"
@@ -32940,7 +32940,7 @@
            "0": "Tidak ada apa-apa hari ini."
          },
          "Billboard_NightMarket": {
-           "0": "Pasar Malam"
+           "0": "Night Market"
          },
          "AcceptQuest": {
            "0": "Terima Tugas"
@@ -32967,13 +32967,13 @@
            "0": "Tidak bisa dirubuhkan karena sedang dibangun"
          },
          "Carpenter_CantDemolish_AnimalsHere": {
-           "0": "Tidak bisa dirubuhkan karena ternaknya belum dipindah"
+           "0": "Tidak bisa dirubuhkan sebelum ternaknya dipindah"
          },
          "Carpenter_CantDemolish_PlayerHere": {
            "0": "Tidak bisa dirubuhkan karena masih ada pemain di sini"
          },
          "Carpenter_CantDemolish_LockFailed": {
-           "0": "Tidak bisa merubuhkan untuk saat ini"
+           "0": "Tidak bisa dirubuhkan untuk saat ini"
          },
          "Carpenter_CantUpgrade_BuildingType": {
            "0": "Tipe Bangunan Salah"
@@ -33009,7 +33009,7 @@
            "0": "Berdekatan"
          },
          "Character_CoopHelpString": {
-           "0": "Kabin Awal: Mulai dengan 1-3 kabin yang sudah dibangun, supaya temanmu bisa langsung bermain. Atau kamu juga bisa memilih \"Tidak Ada\" dan membangun kabin sendiri (via Robin).^^Letak Kabin: Kalau kamu ingin memulai permainan dengan kabin yang sudah dibangun, kamu bisa memilih antara dua jenis tata letak ini: \"Berdekatan\" semua kabin letaknya berdekatan dengan rumah utama, mendorong gaya pertanian gotong royong. \"Berjauhan\" semua kabin letaknya berjauhan, jika para pemain ingin mandiri.^^Margin Laba: Sesuaikan margin laba (uang yang kamu hasilkan) pada barang yang dijual. 'Normal' adalah pengaturan asli Stardew Valley. Pemain yang sudah berpengalaman dan"
+           "0": "Kabin Awal: Mulai dengan 1-3 kabin yang sudah dibangun, supaya temanmu bisa langsung ikut main. Atau kamu juga bisa memilih \"Tidak Ada\" dan membangun kabin sendiri (via Robin).^^Letak Kabin: Kalau kamu ingin memulai permainan dengan kabin, kamu bisa memilih antara dua jenis tata letak ini: \"Berdekatan\" semua kabin letaknya berdekatan dengan rumah utama, mendorong gaya pertanian gotong royong. \"Berjauhan\" semua kabin letaknya berjauhan, cocok untuk para pemain yang ingin mandiri.^^Margin Laba: Sesuaikan margin laba (uang yang kamu hasilkan) pada barang yang dijual. 'Normal' adalah pengaturan asli Stardew Valley. Pemain yang sudah berpengalaman biasanya ingin margin-nya dikurangi."
          },
          "Character_CoopHelpString2": {
            "0": "Jenis Keuangan: Kamu bisa memilih bagaimana uang didapatkan dan digunakan. Di mode \"Berbagi\" semua pemain keuangannya jadi satu. Di mode \"Mandiri\"masing-masing pemain mengatur keuangannya sendiri. \"Berbagi\" adalah pengalaman klasik Stardew Valley."
@@ -33048,28 +33048,28 @@
            "0": "Hal\nFavorit"
          },
          "Character_Animal": {
-           "0": "Pilihan\nPeliharaan"
+           "0": "Peliharaan"
          },
          "Character_Skin": {
            "0": "Kulit"
          },
          "Character_EyeColor": {
-           "0": "Warna Mata:"
+           "0": "Warna\nMata:"
          },
          "Character_Hair": {
            "0": "Rambut"
          },
          "Character_HairColor": {
-           "0": "Warna Rambut:"
+           "0": "Warna\nRambut:"
          },
          "Character_Shirt": {
            "0": "Baju"
          },
          "Character_PantsColor": {
-           "0": "Warna Celana:"
+           "0": "Warna\nCelana:"
          },
          "Character_ShirtColor": {
-           "0": "Warna Baju:"
+           "0": "Warna\nBaju:"
          },
          "Character_DyeColor": {
            "0": "Dye Color:"
@@ -33084,28 +33084,28 @@
            "0": "Aks."
          },
          "Character_FarmNameSuffix": {
-           "0": "Kebun"
+           "0": ""
          },
          "Character_FarmType": {
            "0": "Tipe Kebun:"
          },
          "Character_FarmStandard": {
-           "0": "Standard Farm_Sebidang tanah sederhana, dengan banyak lahan kosong untuk mendesain kebunmu."
+           "0": "Standard Farm_Sebidang tanah sederhana, dengan ladang yang luas untuk mendesain kebunmu."
          },
          "Character_FarmForaging": {
-           "0": "Forest Farm_Hutan akan membatasi lahan bertanimu. Tapi, hasil alam liar dari hutan ada di dekat rumahmu..."
+           "0": "Forest Farm_Hutan akan membatasi ladang berkebunmu. Tapi, hasil ramban dari hutan dekat dengan rumahmu..."
          },
          "Character_FarmFishing": {
-           "0": "Riverland Farm_Lahan bertanimu tersebar di pulau-pulau kecil di tepi sungai yang indah. Ikan lebih banyak di sini dari tempat lain."
+           "0": "Riverland Farm_Ladangmu tersebar di pulau-pulau kecil yang dipisah oleh sungai indah. Ikan lebih banyak muncul di sini dari pada tempat lain."
          },
          "Character_FarmMining": {
            "0": "Hill-top Farm_Dataran berbatu dan sungai yang berliku membuatmu sulit untuk mendesain kebun. Tapi, dengan banyak endapan mineral membuat hasil tambang lebih mudah didapat."
          },
          "Character_FarmCombat": {
-           "0": "Wilderness Farm_Ada cukup banyak lahan untuk bertani di sini, tapi awas... di malam hari ada monster-monster yang berkeliaran."
+           "0": "Wilderness Farm_Ladangnya cukup luas di sini, tapi awas... malam hari ada monster-monster yang berkeliaran."
          },
          "Character_FarmFourCorners": {
-           "0": "Four Corners Farm_Lahannya dibagi menjadi empat petak, dengan kelebihannya masing-masing. Sempurna untuk bermain bersama!"
+           "0": "Four Corners Farm_Ladangnya dibagi jadi empat petak, masing-masing punya kelebihannya sendiri. Cocok untuk bermain bersama!"
          },
          "Character_FarmCombat_Unlock": {
            "0": "Kamu membuka kebun tipe 'Wilderness'!"
@@ -33120,7 +33120,7 @@
            "0": "Kamu membuka kebun tipe 'Forest'!"
          },
          "Character_foraging": {
-           "0": "foraging"
+           "0": "meramban"
          },
          "Character_fishing": {
            "0": "memancing"
@@ -33135,7 +33135,7 @@
            "0": "Jukebox"
          },
          "Collections_Shipped": {
-           "0": "Item Dikirim (Kebun & Hasil Alam)"
+           "0": "Item Dikirim (Kebun & Hasil Ramban)"
          },
          "Collections_Fish": {
            "0": "Ikan"
@@ -33164,8 +33164,8 @@
          "Collections_Description_FishCaught": {
            "0": "Jumlah Ditangkap: {0}"
          },
-         "Collections_Description_BiggestCatch": {
-           "0": "Tangkapan Terbesar: {0} in."
+         "Collections_Description_BiggestCeatch": {
+           "0": "Tangkapan Terbesar: {0} inci."
          },
          "Collections_Description_MineralsFound": {
            "0": "Jumlah Yang Ditemukan: {0}"
@@ -33213,19 +33213,19 @@
            "0": "Pengaturan"
          },
          "GameMenu_Exit": {
-           "0": "Keluar Gim"
+           "0": "Keluar Game"
          },
          "GameMenu_JunimoNote_Hover": {
-           "0": "Pusat Komunitas"
+           "0": "Community Center"
          },
          "GeodeMenu_InventoryFull": {
-           "0": "Inventorimu tidak cukup."
+           "0": "Tasmu sudah penuh."
          },
          "GeodeMenu_Description_NotEnoughMoney": {
-           "0": "Ongkosnya 25g tiap geode...\n\nSepertinya sekarang kamu tidak bisa membayar."
+           "0": "Ongkosnya 25g tiap Geode...\n\nSepertinya uangmu tidak cukup."
          },
          "GeodeMenu_Description": {
-           "0": "Tinggal taruh geodemu ke paronku dan akan kubuka itu.\n\nOngkosnya 25g tiap geode."
+           "0": "Taruh saja geode-nya di paronku, nanti aku bukakan.\n\nOngkosnya 25g tiap geode."
          },
          "ItemHover_DefenseBonus": {
            "0": "+{0} Defense"
@@ -33270,7 +33270,7 @@
            "0": "{0} Hoki"
          },
          "ItemHover_Buff5": {
-           "0": "{0} Foraging"
+           "0": "{0} Meramban"
          },
          "ItemHover_Buff6": {
            "0": "{0} Energi Maks."
@@ -33300,7 +33300,7 @@
            "0": "Kebun {0}"
          },
          "Inventory_CurrentFunds": {
-           "0": "Dana Yang Dimiliki: {0}g"
+           "0": "Dana Sekarang: {0}g"
          },
          "Inventory_TotalEarnings": {
            "0": "Total Penghasilan: {0}g"
@@ -33318,10 +33318,10 @@
            "0": "Item Terakhir Yang Dikirim"
          },
          "JojaCDMenu_Hover0": {
-           "0": "Memperbaiki bis untuk pergi ke Gurun Calico."
+           "0": "Memperbaiki bis untuk pergi ke Calico Desert."
          },
          "JojaCDMenu_Hover1": {
-           "0": "Memperbaiki kereta tambang yang juga melewati halte bus, gunung, dan Kota Pelican."
+           "0": "Memperbaiki sistem kereta tambang yang melewati halte bis, gunung, dan Pelican Town."
          },
          "JojaCDMenu_Hover2": {
            "0": "Memperbaiki jembatan rusak yang ada di gunung."
@@ -33330,7 +33330,7 @@
            "0": "Memperbaiki bangunan rusak di kebun, dan mengubahnya jadi Rumah Kaca."
          },
          "JojaCDMenu_Hover4": {
-           "0": "Mengangkat batu-batu berkelip di dekat jalan masuk tambang."
+           "0": "Menyingkirkan batu-batu berkelip di dekat jalan masuk tambang."
          },
          "JunimoNote_BundleName": {
            "0": "Bundel {0}"
@@ -33354,13 +33354,13 @@
            "0": "Hadiah: Menghilangkan Batu-batu Berkelip"
          },
          "JunimoNote_MustBeAtCC": {
-           "0": "Harus disetorkan ke Pusat Komunitas"
+           "0": "Harus disetorkan ke Community Center"
          },
          "JunimoNote_MustBeAtAJM": {
-           "0": "Harus disetorkan ke JojaMart Yang Terbengkalai"
+           "0": "Harus disetorkan ke JojaMart Yang Terlantar"
          },
          "LetterViewer_MoneyIncluded": {
-           "0": "$ {0}g terlampir"
+           "0": "Rp. {0}g terlampir"
          },
          "LetterViewer_LearnedRecipe": {
            "0": "Resep {0} baru:"
@@ -33375,25 +33375,25 @@
            "0": "Energi Kembali Penuh!"
          },
          "LevelUp_ExtraInfo_Farming1": {
-           "0": "+1 Keahlian Watering Can"
+           "0": "+1 Keahlian Alat Penyiram"
          },
          "LevelUp_ExtraInfo_Farming2": {
-           "0": "+1 Keahlian Hoe"
+           "0": "+1 Keahlian Cangkul"
          },
          "LevelUp_ExtraInfo_Mining": {
-           "0": "+1 Keahlian Pickaxe"
+           "0": "+1 Keahlian Belencong"
          },
          "LevelUp_ExtraInfo_Fishing": {
-           "0": "+1 Keahlian Fishing Rod"
+           "0": "+1 Keahlian Alat Pancing"
          },
          "LevelUp_ExtraInfo_Foraging1": {
-           "0": "+1 Keahlian Axe"
+           "0": "+1 Keahlian Kapak"
          },
          "LevelUp_ExtraInfo_Foraging2": {
            "0": "Pohon kadang menjatuhkan bibit."
          },
          "LevelUp_ExtraInfo_Foraging3": {
-           "0": "+1 Memanen berry liar."
+           "0": "+1 Memanen Berry liar."
          },
          "LevelUp_ExtraInfo_Combat": {
            "0": "+5 HP"
@@ -33411,7 +33411,7 @@
            "0": "Tiller"
          },
          "LevelUp_ProfessionDescription_Tiller": {
-           "0": "Hasil panen nilainya bertambah 10%."
+           "0": "Hasil panenmu harganya naik 10%."
          },
          "LevelUp_ProfessionName_Coopmaster": {
            "0": "Coopmaster"
@@ -33429,49 +33429,49 @@
            "0": "Artisan"
          },
          "LevelUp_ProfessionDescription_Artisan": {
-           "0": "Benda-benda 'Artisan' (wine, cheese, oil, etc.) nilainya bertambah 40%."
+           "0": "Hasil kerajinanmu (Wine, Cheese, Oil, dll.) harganya naik 40%."
          },
          "LevelUp_ProfessionName_Agriculturist": {
            "0": "Agriculturist"
          },
          "LevelUp_ProfessionDescription_Agriculturist": {
-           "0": "Semua tanaman tumbuh 10% lebih cepat."
+           "0": "Semua tanamanmu tumbuh 10% lebih cepat."
          },
          "LevelUp_ProfessionName_Fisher": {
            "0": "Fisher"
          },
          "LevelUp_ProfessionDescription_Fisher": {
-           "0": "Ikan nilainya meningkat 25%."
+           "0": "Ikanmu harganya naik 25%."
          },
          "LevelUp_ProfessionName_Trapper": {
            "0": "Trapper"
          },
          "LevelUp_ProfessionDescription_Trapper": {
-           "0": "Sumber daya untuk merakit crab pots dikurangi."
+           "0": "Sumber daya untuk merakit Crab Pots dikurangi."
          },
          "LevelUp_ProfessionName_Angler": {
            "0": "Angler"
          },
          "LevelUp_ProfessionDescription_Angler": {
-           "0": "Ikan nilainya meningkat 25%."
+           "0": "Ikanmu harganya naik 25%."
          },
          "LevelUp_ProfessionName_Pirate": {
            "0": "Pirate"
          },
          "LevelUp_ProfessionDescription_Pirate": {
-           "0": "Dua kali lipat peluang untuk menemukan harta karun."
+           "0": "2x lipat peluang untuk menemukan harta karun."
          },
          "LevelUp_ProfessionName_Mariner": {
            "0": "Mariner"
          },
          "LevelUp_ProfessionDescription_Mariner": {
-           "0": "Crab pot tidak lagi menghasilkan sampah."
+           "0": "Crab Pot tidak lagi menghasilkan sampah."
          },
          "LevelUp_ProfessionName_Luremaster": {
            "0": "Luremaster"
          },
          "LevelUp_ProfessionDescription_Luremaster": {
-           "0": "Crab pot tidak lagi memerlukan 'bait'."
+           "0": "Crab Pot tidak lagi memerlukan umpan."
          },
          "LevelUp_ProfessionName_Forester": {
            "0": "Forester"
@@ -33483,7 +33483,7 @@
            "0": "Gatherer"
          },
          "LevelUp_ProfessionDescription_Gatherer": {
-           "0": "Peluang dua kali lipat saat memungut hasil alam."
+           "0": "Peluang dapat item dobel saat meramban."
          },
          "LevelUp_ProfessionName_Lumberjack": {
            "0": "Lumberjack"
@@ -33495,25 +33495,25 @@
            "0": "Tapper"
          },
          "LevelUp_ProfessionDescription_Tapper": {
-           "0": "Hasil tapper nilainya meningkat 25%."
+           "0": "Hasil Tappermu harganya naik 25%."
          },
          "LevelUp_ProfessionName_Botanist": {
            "0": "Botanist"
          },
          "LevelUp_ProfessionDescription_Botanist": {
-           "0": "Hasil alam yang dipungut selalu berkualitas tinggi."
+           "0": "Hasil ramban selalu berkualitas tinggi."
          },
          "LevelUp_ProfessionName_Tracker": {
            "0": "Tracker"
          },
          "LevelUp_ProfessionDescription_Tracker": {
-           "0": "Lokasi hasil alam diperlihatkan."
+           "0": "Lokasi hasil ramban diperlihatkan."
          },
          "LevelUp_ProfessionName_Miner": {
            "0": "Miner"
          },
          "LevelUp_ProfessionDescription_Miner": {
-           "0": "+1 bijih tiap vein."
+           "0": "+1 bijih tiap batu."
          },
          "LevelUp_ProfessionName_Geologist": {
            "0": "Geologist"
@@ -33525,7 +33525,7 @@
            "0": "Blacksmith"
          },
          "LevelUp_ProfessionDescription_Blacksmith": {
-           "0": "Batang logam nilainya meningkat 50%."
+           "0": "Bar logammu harganya naik 50%."
          },
          "LevelUp_ProfessionName_Prospector": {
            "0": "Prospector"
@@ -33537,19 +33537,19 @@
            "0": "Excavator"
          },
          "LevelUp_ProfessionDescription_Excavator": {
-           "0": "Berpeluang untuk menemukan geode ganda."
+           "0": "Berpeluang untuk menemukan Geode ganda."
          },
          "LevelUp_ProfessionName_Gemologist": {
            "0": "Gemologist"
          },
          "LevelUp_ProfessionDescription_Gemologist": {
-           "0": "Batu mulia nilainya meningkat 30%."
+           "0": "Batu muliamu harganya naik 30%."
          },
          "LevelUp_ProfessionName_Fighter": {
            "0": "Fighter"
          },
          "LevelUp_ProfessionDescription_Fighter": {
-           "0": "Meningkatkan damage tiap serangan 10% lebih tinggi."
+           "0": "Semua seranganmu damage-nya naik 10%."
          },
          "LevelUp_ProfessionName_Scout": {
            "0": "Scout"
@@ -33579,7 +33579,7 @@
            "0": "Desperado"
          },
          "LevelUp_ProfessionDescription_Desperado": {
-           "0": "Critical strike akan mematikan."
+           "0": "Critical strike lebih mematikan."
          },
          "LevelUp_ChooseProfession": {
            "0": "Pilih profesi:"
@@ -33603,7 +33603,7 @@
            "0": "Perubahan sign-in terjadi. Sign-in lagi atau keluar ke menu awal."
          },
          "UserSignoutMenu_Returning": {
-           "0": "Kembalu ke menu awal."
+           "0": "Kembali ke menu awal."
          },
          "UserSignoutMenu_SignIn": {
            "0": "Sign-in"
@@ -33645,7 +33645,7 @@
            "0": "Pakai Menu Controller-Style"
          },
          "SaveGameMenu_Saving1.nswitch": {
-           "0": "Menyimpan. Proses ini mungkin bisa memakan waktu."
+           "0": "Menyimpan. Proses bisa memakan waktu."
          },
          "SaveGameMenu_Saving2.nswitch": {
            "0": "Tolong jangan tutup software atau mematikan konsol meski layarnya berhenti."
@@ -33726,7 +33726,7 @@
            "0": "Terima koneksi IP"
          },
          "OptionsPage_FarmhandCreation": {
-           "0": "Bermain dengan karakter baru"
+           "0": "Main dengan karakter baru"
          },
          "OptionsPage_ShowInviteCode": {
            "0": "Tampilkan Kode Undangan"
@@ -33741,7 +33741,7 @@
            "0": "Server telah menutup koneksi."
          },
          "Carpenter_CantDemolish_FarmhandOnline": {
-           "0": "Tidak bisa merubuhkan saat pemilik kabin online"
+           "0": "Tidak bisa dirubuhkan saat pemilik kabin online"
          },
          "Carpenter_DemolishCabinConfirm": {
            "0": "Ini akan menghapus {0} dari permainan secara permanen. Yakin mau merubuhkan kabin ini?"
@@ -33813,7 +33813,7 @@
            "0": "{0} menangkap ikan legendaris: '{1}'."
          },
          "Chat_TrashCan": {
-           "0": "{1} dapat {0} saat mengacak-acak tempat sampah..."
+           "0": "{1} dapat {0} dari tempat sampah..."
          },
          "Chat_LinusTrashCan": {
            "0": "Linus terkesan!"
@@ -33864,7 +33864,7 @@
            "0": "{0} telah berjalan 10,000,000 langkah."
          },
          "Chat_Divorce": {
-           "0": "{0} melayangkan proposal cerai."
+           "0": "{0} melayangkan permohonan cerai."
          },
          "Chat_BackpackLarge": {
            "0": "{0} membeli tas Large Pack."
@@ -33879,7 +33879,7 @@
            "0": "{0} dan {1} ganti penampilan dengan sihir."
          },
          "Chat_DivorceCancel": {
-           "0": "{0} membatalkan proposal cerai."
+           "0": "{0} membatalkan permohonan cerai."
          },
          "Chat_GoneToBedEarly0": {
            "0": "{0} tidur lebih dulu."
@@ -33897,7 +33897,7 @@
            "0": "{0} sudah tidur nyenyak."
          },
          "Chat_GoneToBed2": {
-           "0": "{0} mulai tidur."
+           "0": "{0} sudah tidur."
          },
          "Chat_GoneToBedLate0": {
            "0": "{0} akhirnya tidur!"
@@ -33906,7 +33906,7 @@
            "0": "{0} akhirnya tidur, selamat sentosa!"
          },
          "Chat_GoneToBedLate2": {
-           "0": "Fiuh! Akhirnya {0} telah tidur!"
+           "0": "Fiuh! Akhirnya {0} tidur juga!"
          },
          "Chat_PassedOut0": {
            "0": "{0} ketiduran!"
@@ -33915,19 +33915,19 @@
            "0": "{0} gagal pulang..."
          },
          "Chat_PassedOut2": {
-           "0": "{0} terlalu lama melek..."
+           "0": "{0} kelamaan melek..."
          },
          "Chat_Baby": {
            "0": "{0} dan {1} menyambut bayi {2} ke keluarga mereka! Namanya {3} {4}."
          },
          "Chat_EvilShrine": {
-           "0": "{0} mengunjungi evil shrine..."
+           "0": "{0} mengunjungi Evil Shrine..."
          },
          "Chat_MonstersActivated": {
-           "0": "{0} telah melepas segel sihir pelindung kuno. Berhati-hatilah!"
+           "0": "{0} telah melepas segel pelindung kuno. Berhati-hatilah!"
          },
          "Chat_MonstersDeActivated": {
-           "0": "{0} mengembalikan segel sihir pelindung kuno."
+           "0": "{0} mengembalikan segel pelindung kuno."
          },
          "Chat_SleepAnnounceModeSet": {
            "0": "Pemberitahuan tidur sekarang: {0}."
@@ -33996,7 +33996,7 @@
            "0": "Mr. Qi: Hei, nak. Ya, aku di sini. Apa yang kamu harapkan?"
          },
          "Chat_Qi2": {
-           "0": "Mr. Qi: Hei... pertahankan kerja bagusmu, dan jangan pernah berhenti mengincar kesuksesan! Aku akan segera menemuimu, nak..."
+           "0": "Mr. Qi: Hei... pertahankan kerja kerasmu, dan jangan berhenti mengincar kesuksesan! Aku akan segera menemuimu, nak..."
          },
          "Chat_Qi3": {
            "0": "Mr. Qi sedang pergi"
@@ -34041,7 +34041,7 @@
            "0": " - {0}: daftar pemain yang online"
          },
          "Chat_HelpClear": {
-           "0": " - {0}: membersihkan log chat"
+           "0": " - {0}: membersihkan log percakapan"
          },
          "Chat_HelpCredits": {
            "0": " - {0}: menampilkan credit"
@@ -34065,13 +34065,13 @@
            "0": " - {0}: membalas pesan privat."
          },
          "Chat_HelpKick": {
-           "0": " - {0} [nama petani"
+           "0": " - {0} [nama petani atau user id]: usir pemain."
          },
          "Chat_HelpBan": {
-           "0": " - {0} [nama petani"
+           "0": " - {0} [nama petani atau user id]: Ban pemain dari kebun ini."
          },
          "Chat_HelpUnban": {
-           "0": " - {0} [nama petani"
+           "0": " - {0} [nama petani atau user id]: Pemain sudah tidak di-Ban di kebun ini."
          },
          "Chat_HostOnlyCommand": {
            "0": "Hanya host yang bisa menggunakan perintah ini."
@@ -34095,22 +34095,22 @@
            "0": "(menikah)"
          },
          "ReadyCheck": {
-           "0": "Menunggu pemain lain... ({0}"
+           "0": "Menunggu pemain lain... ({0} atau {1})"
          },
          "PendingProposal": {
            "0": "Menunggu pemain lain..."
          },
          "GiftPlayerItem_Male": {
-           "0": "Berikan {0}mu pada {1}?"
+           "0": "Berikan {0}-mu pada {1}?"
          },
          "GiftPlayerItem_Female": {
-           "0": "Berikan {0}mu pada {1}?"
+           "0": "Berikan {0}-mu pada {1}?"
          },
          "GiftPlayerItem_NoInventorySpace_Male": {
-           "0": "Inventori {0} tidak cukup untuk item ini."
+           "0": "Tas {0} sudah penuh."
          },
          "GiftPlayerItem_NoInventorySpace_Female": {
-           "0": "Inventori {0} tidak cukup untuk item ini."
+           "0": "Tas {0} sudah penuh."
          },
          "Proposal_PlayerBusy_Male": {
            "0": "{0} tidak bisa mengerjakan permintaanmu saat ini. Caba lagi nanti."
@@ -34119,28 +34119,28 @@
            "0": "{0} tidak bisa mengerjakan permintaanmu saat ini. Caba lagi nanti."
          },
          "AskedToDance_Male": {
-           "0": "{0} mengajakmu untuk menari bersamanya. Maukah kamu menari bersama {0}?"
+           "0": "{0} mengajakmu menari. Maukah kamu menari bersama {0}?"
          },
          "AskedToDance_Female": {
-           "0": "{0} mengajakmu untuk menari bersamanya. Maukah kamu menari bersama {0}?"
+           "0": "{0} mengajakmu menari. Maukah kamu menari bersama {0}?"
          },
          "AskedToMarry_Male": {
-           "0": "{0} telah melamarmu untuk menikahinya! Maukah kamu menerima lamarannya?"
+           "0": "{0} telah melamarmu! Maukah kamu menerima lamarannya?"
          },
          "AskedToMarry_Female": {
-           "0": "{0} telah melamarmu untuk menikahinya! Maukah kamu menerima lamarannya?"
+           "0": "{0} telah melamarmu! Maukah kamu menerima lamarannya?"
          },
          "AskedToHaveBaby_Male": {
-           "0": "{0} memintamu untuk punya bayi dengannya! Maukah kamu punya bayi?"
+           "0": "{0} ingin punya adik bayi! Maukah kamu punya bayi?"
          },
          "AskedToHaveBaby_Female": {
-           "0": "{0} memintamu untuk punya bayi dengannya! Maukah kamu punya bayi?"
+           "0": "{0} ingin punya adik bayi! Maukah kamu punya bayi?"
          },
          "AskedToAdoptBaby_Male": {
-           "0": "{0} memintamu untuk mengadopsi bayi bersamanya! Maukah kamu punya bayi?"
+           "0": "{0} ingin mengadopsi bayi! Maukah kamu punya bayi?"
          },
          "AskedToAdoptBaby_Female": {
-           "0": "{0} memintamu untuk mengadopsi bayi bersamanya! Maukah kamu punya bayi?"
+           "0": "{0} ingin mengadopsi bayi! Maukah kamu punya bayi?"
          },
          "AskedToDance_Accepted_Male": {
            "0": "{0} menerima ajakanmu untuk menari!"
@@ -34149,34 +34149,34 @@
            "0": "{0} menerima ajakanmu untuk menari!"
          },
          "AskedToMarry_Accepted_Male": {
-           "0": "{0} menerima lamaran pernikahanmu!^Upacara pernikahannya akan diadakan dalam 3 hari."
+           "0": "{0} menerima lamaran pernikahanmu!^Upacara pernikahan akan diadakan dalam 3 hari."
          },
          "AskedToMarry_Accepted_Female": {
-           "0": "{0} menerima lamaran pernikahanmu!^Upacara pernikahannya akan diadakan dalam 3 hari."
+           "0": "{0} menerima lamaran pernikahanmu!^Upacara pernikahan akan diadakan dalam 3 hari."
          },
          "AskedToHaveBaby_Accepted_Male": {
-           "0": "{0} setuju untuk punya bayi bersamamu! Tunggu 14 hari lagi."
+           "0": "{0} juga ingin punya adik bayi! Tunggu 14 hari lagi."
          },
          "AskedToHaveBaby_Accepted_Female": {
-           "0": "{0} setuju untuk punya bayi bersamamu! Tunggu 14 hari lagi."
+           "0": "{0} juga ingin punya adik bayi! Tunggu 14 hari lagi."
          },
          "AskedToHaveBaby_Rejected_Male": {
-           "0": "{0} memutuskan tidak ingin punya bayi untuk sementara ini."
+           "0": "{0} tidak ingin punya bayi untuk sementara ini."
          },
          "AskedToHaveBaby_Rejected_Female": {
-           "0": "{0} memutuskan tidak ingin punya bayi untuk sementara ini"
+           "0": "{0} tidak ingin punya bayi untuk sementara ini"
          },
          "AskedToAdoptBaby_Accepted_Male": {
-           "0": "{0} setuju untuk punya bayi bersamamu! Semua berkas-berkasnya sudah diurus! Tunggu 14 hari lagi."
+           "0": "{0} juga ingin mengadopsi bayi! Semua berkas-berkasnya sudah diurus! Tunggu 14 hari lagi."
          },
          "AskedToAdoptBaby_Accepted_Female": {
-           "0": "{0} setuju untuk punya bayi bersamamu! Semua berkas-berkasnya sudah diurus! Tunggu 14 hari lagi."
+           "0": "{0} juga ingin mengadopsi bayi! Semua berkas-berkasnya sudah diurus! Tunggu 14 hari lagi."
          },
          "AskedToAdoptBaby_Rejected_Male": {
-           "0": "{0} memutuskan tidak ingin mengadopsi bayi untuk sementara ini."
+           "0": "{0} tidak ingin mengadopsi bayi untuk sementara ini."
          },
          "AskedToAdoptBaby_Rejected_Female": {
-           "0": "{0} memutuskan tidak ingin mengadopsi bayi untuk sementara ini."
+           "0": "{0} tidak ingin mengadopsi bayi untuk sementara ini."
          },
          "AskedToMarry_NotSingle_Male": {
            "0": "{0} tidak jomblo!"
@@ -34197,16 +34197,16 @@
            "0": "{0} menolak lamaranmu."
          },
          "GivenGift_Male": {
-           "0": "{0} memberikan {1}nya. Maukah kamu menerimanya?"
+           "0": "{0} memberikan {1}-nya. Maukah kamu menerimanya?"
          },
          "GivenGift_Female": {
-           "0": "{0} memberikan {1}nya. Maukah kamu menerimanya?"
+           "0": "{0} memberikan {1}-nya. Maukah kamu menerimanya?"
          },
          "AskToDance_Male": {
-           "0": "Ajak {0} untuk menari bersamamu?"
+           "0": "Ajak {0} untuk menari?"
          },
          "AskToDance_Female": {
-           "0": "Ajak {0} untuk menari bersamamu?"
+           "0": "Ajak {0} untuk menari?"
          },
          "AskToMarry_Male": {
            "0": "Lamar {0} untuk menikah denganmu?"
@@ -34230,13 +34230,13 @@
            "0": "{0} membatalkan permintaan."
          },
          "PendingProposal_Canceling": {
-           "0": "Sedang membatalkan permintaam..."
+           "0": "Sedang membatalkan permintaan..."
          },
          "CoopMenu_InternetCommunication": {
-           "0": "Online Communication"
+           "0": "Komunikasi Online"
          },
          "CoopMenu_LocalCommunication": {
-           "0": "Local Communication"
+           "0": "Komunikasi Lokal"
          },
          "TrashCanSale": {
            "0": "Reclaim"
@@ -34254,13 +34254,13 @@
            "0": "Pohon {0}mu tidak bisa tumbuh semalam."
          },
          "Workbench_Chest_Warning": {
-           "0": "Salah satu chest dekat workbench sedang digunakan."
+           "0": "Salah satu Chest dekat Workbench sedang digunakan."
          },
          "Profile_GiftLog": {
            "0": "Riwayat Hadiah"
          },
          "Profile_GiftLog_NoGiftsGiven": {
-           "0": "Kamu belum pernah memberikan hadiah jenis ini."
+           "0": "Kamu belum pernah memberikan hadiah ini."
          },
          "Profile_Status": {
            "0": "Status"
@@ -34308,7 +34308,7 @@
            "0": "Bahan Masak"
          },
          "Profile_Gift_Category_MineralsAndGems": {
-           "0": "Logam, Minerals & Batu Mulia"
+           "0": "Logam, Mineral & Batu Mulia"
          },
          "Profile_Gift_Category_Misc": {
            "0": "Lain-lain"
@@ -34323,7 +34323,7 @@
            "0": "Mini-Jukebox tidak bisa dimainkan saat hujan!"
          },
          "Tailor_MissingIngredients": {
-           "0": "Taruh cloth atau pakaian yang ingin diwarnai di feed dan materialnya di spul untuk mulai menjahit."
+           "0": "Taruh cloth atau pakaian yang ingin diwarnai di Feed dan materialnya di Spool untuk mulai menjahit."
          },
          "Tailor_Busy": {
            "0": "Sedang menjahit..."
@@ -34332,13 +34332,13 @@
            "0": "Tekan tombol power untuk mulai menjahit!"
          },
          "Tailor_InvalidRecipe": {
-           "0": "Materialnya tidak bisa digunakan untuk menjahit sebuah item!"
+           "0": "Materialnya tidak bisa digunakan untuk membuat pakaian!"
          },
          "Tailor_NotDyeable": {
-           "0": "Item pada feed tidak bisa diwarnai!"
+           "0": "Item pada Feed tidak bisa diwarnai!"
          },
          "Tailor_MakeResult": {
-           "0": "Kamu Akan Membuat:"
+           "0": "Kamu Akan Dapat:"
          },
          "Tailor_MakeResultUnknown": {
            "0": "???"
@@ -34347,13 +34347,13 @@
            "0": "Feed"
          },
          "Tailor_Spool": {
-           "0": "Spul"
+           "0": "Spool"
          },
          "Clothes_Dyeable": {
            "0": "Bisa Diwarnai."
          },
          "DyePot_Help": {
-           "0": "Taruh item dengan warna yang sesuai pada pot pewarna untuk mewarnai pakaian yang sedang kamu pakai."
+           "0": "Taruh item yang warnanya sesuai dengan pot untuk mewarnai pakaian yang sedang dipakai."
          },
          "DyePot_CanDye": {
            "0": "Tekan tombol 'Dye' untuk mewarnai pakaianmu!"
@@ -34425,7 +34425,7 @@
            "0": "Nantang"
          },
          "Emote_Uh": {
-           "0": "Uh"
+           "0": "Eh"
          },
          "Emote_Music": {
            "0": "Musik"
@@ -34434,7 +34434,7 @@
            "0": "Toples"
          },
          "Chat_SeparatedWallets": {
-           "0": "{0} telah membagi keuangan pertanian. Semuanya masing-masing mendapatkan {1}g."
+           "0": "{0} telah membagi keuangan pertanian. Masing-masing pemain mendapatkan {1}g."
          },
          "Chat_MergedWallets": {
            "0": "{0} telah menggabungkan keuangan semua pemain."
@@ -34506,7 +34506,7 @@
            "0": "{0} menjaga lembah tetap aman dengan mengalahkan {1}."
          },
          "Chat_MonsterSlayer3": {
-           "0": "{0} telah mengurangi populasi {1}, dan semuanya terasa lebih aman!"
+           "0": "{0} telah mengurangi populasi {1}, dan lembah terasa lebih aman!"
          },
          "Chat_IridiumToolUpgrade": {
            "0": "{0} dapat {1}."
@@ -34515,7 +34515,7 @@
            "0": "{0} memasukkan '{1}' kedalam sup."
          },
          "Chat_JunimoKartHighScore": {
-           "0": "{0} baru dapat 'Skir Tertinggi' di Junimo Kart!"
+           "0": "{0} dapat 'Skor Tertinggi' di Junimo Kart!"
          },
          "Junimo_Kart_Level_0": {
            "0": "Crumble Cavern"
@@ -34560,7 +34560,7 @@
            "0": "Ubah Penampilan"
          },
          "PondQuery_Population": {
-           "0": "Populasi: {0}"
+           "0": "Populasi: {0}/{1}"
          },
          "PondQuery_StatusNoFish": {
            "0": "Kolam ini kosong..."
@@ -34593,7 +34593,7 @@
            "0": "Bawakan"
          },
          "PondQuery_StatusRequestPending0": {
-           "0": "\"Kamu tahu, {1} {0} bisa membuat suasana di sini lebih baik!\""
+           "0": "\"{1} {0} bisa membuat suasana di sini lebih baik!\""
          },
          "PondQuery_StatusRequestPending1": {
            "0": "\"Kalau tidak merepotkan... maukah kamu membawakan kami {1} {0}?\""
@@ -34614,7 +34614,7 @@
            "0": "\"Kami akan merasa lebih nyaman kalau ada {1} {0}...\""
          },
          "PondQuery_StatusRequestPending_Rude0_Male": {
-           "0": "\"Hei, penduduk tanah, bisa bawakan kami {1} {0}?\""
+           "0": "\"Hei, penduduk daratan, bisa bawakan kami {1} {0}?\""
          },
          "PondQuery_StatusRequestPending_Rude1_Male": {
            "0": "\"Oi... makhluk berkaki! Bawakan kami {1} {0}, ya?\""
@@ -34623,7 +34623,7 @@
            "0": "\"Psst... Hei, kawan... bisa nggak memberi kami {1} {0}?\""
          },
          "PondQuery_StatusRequestPending_Rude0_Female": {
-           "0": "\"Hei, penghuni tanah, bisa nggak bawain kami {1} {0}?\""
+           "0": "\"Hei, penduduk daratan, bisa nggak bawain kami {1} {0}?\""
          },
          "PondQuery_StatusRequestPending_Rude1_Female": {
            "0": "\"Hei, nona... Kamu punya {1} {0} yang bisa kamu berikan?\""
@@ -34638,7 +34638,7 @@
            "0": "\"Kami butuh {1} {0}! Kami butuh {1} {0}!\""
          },
          "PondQuery_StatusRequestPending_Demanding2": {
-           "0": "\"Mana {2}nya? Kami butuh {1} {0}!\""
+           "0": "\"Mana {2}-nya? Kami butuh {1} {0}!\""
          },
          "PondQuery_StatusRequestPending_Stiff0": {
            "0": "\"Kami membutuhkan {1} {0}...\""
@@ -34647,7 +34647,7 @@
            "0": "\"{1} {0} akan membantu kami berkembang biak lebih cepat.\""
          },
          "PondQuery_StatusRequestPending_Stiff2": {
-           "0": "\"Kami memutuskan bahwa kami butuh {1} {0}.\""
+           "0": "\"Kami sepakat bahwa kami butuh {1} {0}.\""
          },
          "PondQuery_StatusRequestPending_Carnivore0": {
            "0": "\"Kami lapar... bisa bawakan kami {1} {0}?\""
@@ -34662,7 +34662,7 @@
            "0": "\"Cha cha cha! Kami sedang sibuk.\""
          },
          "PondQuery_StatusRequestComplete_Rude1": {
-           "0": "\"Ah... barng bagus. Terima kasih, nak.\""
+           "0": "\"Ah... enak sekali. Terima kasih, nak.\""
          },
          "PondQuery_StatusRequestComplete_Rude2": {
            "0": "\"Makasih, bos!\""
@@ -34674,7 +34674,7 @@
            "0": "\"{0} ini sangat kami butuhkan.\""
          },
          "PondQuery_StatusRequestComplete_Stiff2": {
-           "0": "Ikan-ikannya kelihatan puas dengan {0}."
+           "0": "Ikan-ikannya tampak puas dengan {0}."
          },
          "PondQuery_StatusRequestComplete_Demanding0": {
            "0": "\"Terima kasih! Terima kasih!\""
@@ -34728,7 +34728,7 @@
            "0": "Mini-Fridge hanya bisa ditaruh di rumah yang sudah ada dapurnya."
          },
          "Kitchen_InUse": {
-           "0": "Perkakas dapur sedang digunakan, coba lagi nanti."
+           "0": "Dapur sedang dipakai, coba lagi nanti."
          },
          "ItemGrab_FillStacks": {
            "0": "Tambahkan ke Tumpukan Yang Ada"
@@ -34746,25 +34746,25 @@
            "0": "Version mismatch ({0})"
          },
          "Options_GamepadMode": {
-           "0": "Gamepad Mode"
+           "0": "Mode Gamepad"
          },
          "Options_GamepadMode_Auto": {
-           "0": "Auto-detect"
+           "0": "Otomatis"
          },
          "Options_GamepadMode_ForceOn": {
-           "0": "Force On"
+           "0": "Paksa Nyala"
          },
          "Options_GamepadMode_ForceOff": {
-           "0": "Force Off"
+           "0": "Paksa Mati"
          },
          "AGO_Label": {
-           "0": "Advanced Game Options:"
+           "0": "Opsi Game Tambahan:"
          },
          "AGO_CCB": {
-           "0": "Community Center Bundles:"
+           "0": "Bundel Community Center:"
          },
          "AGO_CCB_Tooltip": {
-           "0": "Modifies the bundles that appear in the Community Center."
+           "0": "Memodifikasi bundel yang muncul di Community Center."
          },
          "AGO_CCB_Normal": {
            "0": "Normal"
@@ -34773,289 +34773,289 @@
            "0": "Remixed"
          },
          "AGO_Year1Completable": {
-           "0": "Guarantee Year 1 Completable"
+           "0": "Jaminan Selesai Tahun Pertama"
          },
          "AGO_Year1Completable_Tooltip": {
-           "0": "Ensures that the Traveling Merchant sells a Red Cabbage seed some time during the first year."
+           "0": "Menjamin Traveling Merchant untuk menjual benih Red Cabbage di tahun pertama."
          },
          "AGO_MineTreasureShuffle": {
-           "0": "Mine Rewards:"
+           "0": "Hadiah Tambang:"
          },
          "AGO_MineTreasureShuffle_Tooltip": {
-           "0": "Modifies the rewards that appear in the Mines."
+           "0": "Memodifikasi hadiah yang muncul di Tambang."
          },
          "AGO_FarmMonsters": {
-           "0": "Spawn monsters on the farm"
+           "0": "Monster di kebun"
          },
          "AGO_FarmMonsters_Tooltip": {
-           "0": "Allows monsters to spawn at night."
+           "0": "Memunculkan monster di malam hari."
          },
          "AGO_ProfitMargin_Tooltip": {
-           "0": "A multiplier applied to the price of items sold."
+           "0": "Persentase yang diterapkan pada item-item yang dijual."
          },
          "AGO_MPOptions_Label": {
-           "0": "Multiplayer Options:"
+           "0": "Opsi Multiplayer:"
          },
          "AGO_StartingCabins_Tooltip": {
-           "0": "The number of starting cabins."
+           "0": "Jumlah kabin awal."
          },
          "AGO_OtherOptions_Label": {
-           "0": "Other Options:"
+           "0": "Opsi Lain:"
          },
          "AGO_CabinLayout_Tooltip": {
-           "0": "Whether the cabins are placed closer or further away from one another."
+           "0": "Mengatur tata letak kabin, entah berdekatan atau berjauhan."
          },
          "AGO_RandomSeed": {
            "0": "Random Seed:"
          },
          "AGO_RandomSeed_Tooltip": {
-           "0": "The seed used to randomize the game world."
+           "0": "Seed yang dipakai untuk me-randomkan world di game."
          },
          "Options_SlingshotMode": {
-           "0": "Slingshot Fire Mode"
+           "0": "Mode Tembak Ketapel"
          },
          "Options_SlingshotMode_Hold": {
-           "0": "Hold and release"
+           "0": "Tahan dan lepas"
          },
          "Options_SlingshotMode_Pull": {
-           "0": "Pull in opposite direction"
+           "0": "Tarik ke arah berlawanan"
          },
          "Bed_InUse": {
-           "0": "Cannot move a bed that is currently being used."
+           "0": "Tidak dapat memindah tempat tidur yang sedang dipakai."
          },
          "Bed_CantMoveOthersBeds": {
-           "0": "You cannot move beds in another player's house."
+           "0": "Kamu tidak bisa memindah tempat tidur di rumah pemain lain."
          },
          "Bed_NeedsUpgrade": {
-           "0": "Bed type cannot be placed without further house upgrades."
+           "0": "Tepat tidur ini tidak bisa ditaruh di rumah yang belum ditingkatkan."
          },
          "Chat_LobbyLost": {
-           "0": "Disconnected from the game session. {0}"
+           "0": "Putus dari sesi permainan. {0}"
          },
          "Chat_LobbyLost_UserLeft": {
-           "0": "(User left session)"
+           "0": "(Pengguna meninggalkan sesi)"
          },
          "Chat_LobbyLost_LobbyClosed": {
-           "0": "(Session ended)"
+           "0": "(Sesi berakhir)"
          },
          "Chat_LobbyLost_ConnectionLost": {
-           "0": "(Lost connection to lobby server)"
+           "0": "(Koneksi ke lobi server terputus)"
          },
          "Chat_LobbyJoined": {
-           "0": "Connected to game session. {0}"
+           "0": "Terhubung ke sesi permainan. {0}"
          },
          "Chat_LobbyRecreated": {
-           "0": "Established a new game session. {0}"
+           "0": "Membuat sesi permainan baru. {0}"
          },
          "Chat_LobbyJoined_InviteCode": {
-           "0": "(Invite code: {0})"
+           "0": "(Kode Undangan: {0})"
          },
          "Chat_LobbyCreateFail": {
-           "0": "Failed to create a new game session..."
+           "0": "Gagal memulai sesi permainan baru..."
          },
          "Chat_StartingServer": {
-           "0": "You are now hosting a multiplayer game."
+           "0": "Kamu mengadakan permainan multiplayer."
          },
          "Chat_DisablingServer": {
-           "0": "You are no longer hosting a multiplayer game."
+           "0": "Kamu sudah tidak mengadakan permainan multiplayer."
          },
          "Farmhand_Locked": {
-           "0": "This character belongs to another player."
+           "0": "Ini karakter milik pemain lain."
          },
          "Forge_InsufficientCinderShards": {
-           "0": "You don't have enough Cinder Shards."
+           "0": "Cinder Shards-mu tidak cukup."
          },
          "Forge_Unforge": {
-           "0": "Unforge"
+           "0": "Batal Menempa"
          },
          "Item_Tooltip_Forged": {
-           "0": "Forged"
+           "0": "Ditempa"
          },
          "LocalJoinPrompt": {
-           "0": "Press start to join game."
+           "0": "Tekan start untuk ikut bermain."
          },
          "StartLocalMulti": {
-           "0": "Start Local Co-op"
+           "0": "Mulai Co-op Lokal"
          },
          "DropOutLocalMulti": {
-           "0": "Leave Game"
+           "0": "Tinggalkan Permainan"
          },
          "ChooseOne": {
-           "0": "Choose One:"
+           "0": "Pilih salah satu:"
          },
          "Carpenter_PaintBuildings": {
            "0": "Paint Buildings"
          },
          "Carpenter_CannotPaint": {
-           "0": "This building cannot be painted"
+           "0": "Bangunan ini tidak bisa dicat"
          },
          "Carpenter_CannotPaint_Permission": {
-           "0": "You do not have permission to paint this building"
+           "0": "Kamu tidak boleh mengecat bangunan ini"
          },
          "Carpenter_SelectBuilding_Paint": {
-           "0": "Select a building to paint"
+           "0": "Pilih bangunan untuk dicat"
          },
          "GameMenu_MoveBuildingPermissions": {
-           "0": "Building Move Mode"
+           "0": "Mode Pindah Bangunan"
          },
          "GameMenu_MoveBuildingPermissions_Off": {
-           "0": "Host Only"
+           "0": "Khusus Host"
          },
          "GameMenu_MoveBuildingPermissions_Owned": {
-           "0": "Building Owner Only"
+           "0": "Khusus Pemilik Bangunan"
          },
          "GameMenu_MoveBuildingPermissions_On": {
-           "0": "Everyone"
+           "0": "Semuanya"
          },
          "Character_FarmBeach": {
-           "0": "Beach Farm_Good foraging and fishing, and tons of open space. Sometimes, supply crates wash up on shore. However, sprinklers don't work in the sandy soil."
+           "0": "Beach Farm_Bagus untuk meramban dan memancing, ladangnya juga luas. Kadang ada kotak suplai yang terdampar di sini. Sayangnya, sprinkler tidak bisa dipakai di tanah berpasir ini."
          },
          "Forge_enchanting": {
-           "0": "Now enchanting..."
+           "0": "Sedang meng-enchant..."
          },
          "Forge_forging": {
-           "0": "Now forging..."
+           "0": "Sedang menempa..."
          },
          "Forge_description1": {
-           "0": "Place weapon or tool in the left slot. Place gemstone in the right slot."
+           "0": "Taruh senjata atau alat di slot kiri. Taruh batu mulia di slot kanan."
          },
          "Forge_description2": {
-           "0": "You can also combine two rings."
+           "0": "Kamu juga bisa menggabungkan dua cincin."
          },
          "Forge_shards": {
-           "0": "Cinder shards are automatically consumed when forging."
+           "0": "Cinder Shards otomatis dikonsumsi saat penempaan."
          },
          "Forge_notenoughshards": {
-           "0": "Not enough cinder shards..."
+           "0": "Cinder Shards kurang..."
          },
          "Forge_wrongorder": {
-           "0": "Incorrect order"
+           "0": "Urutan salah"
          },
          "Forge_noroom": {
-           "0": "No room in inventory..."
+           "0": "Tasmu sudah penuh..."
          },
          "Forge_unforge_right_slot": {
-           "0": "Empty out the right slot to unforge..."
+           "0": "Kosongkan slot kanan untuk membatalkan penempaan..."
          },
          "Forge_unforge_invalid": {
-           "0": "Only forged items and combined rings can be unforged..."
+           "0": "Hanya bisa membatalkan item yang sudah ditempa dan cincin yang sudah digabungkan..."
          },
          "Forge_valid": {
-           "0": "Press the power button to begin forging!"
+           "0": "Tekan tombol power untuk memulai penempaan!"
          },
          "Chat_BuildingBuild": {
-           "0": "{0} has requested construction of {1} {2}!"
+           "0": "{0} meminta konstruksi {1} {2}!"
          },
          "Chat_BuildingMagicBuild": {
-           "0": "{0} has summoned {1} {2}!"
+           "0": "{0} memanggil {1} {2}!"
          },
          "Chat_HouseUpgrade": {
-           "0": "{0} has requested construction on {1} home!"
+           "0": "{0} meminta konstruksi di rumahnya {1}!"
          },
          "Chat_CommunityUpgrade": {
-           "0": "{0} has requested a community upgrade!"
+           "0": "{0} meminta Community Upgrade!"
          },
          "Chat_AcceptedSpecialOrder": {
-           "0": "{0} has accepted the special order '{1}'!"
+           "0": "{0} telah menerima Special Order '{1}'!"
          },
          "Chat_CompletedSpecialOrder": {
-           "0": "The special order '{0}' has been fulfilled!"
+           "0": "Special Order '{0}' telah diselesaikan!"
          },
          "Chat_DartsWin": {
-           "0": "{0} has won a game of darts in {1} throws!"
+           "0": "{0} menang permainan Dart dengan {1} lemparan!"
          },
          "Chat_DartsWinPerfect": {
-           "0": "{0} has won a perfect game of darts!"
+           "0": "{0} menang telak dalam permainan Dart!"
          },
          "Darts_OffTheIsland": {
-           "0": "Off the island..."
+           "0": "Melenceng jauh..."
          },
          "Darts_Bull": {
-           "0": "Bull!"
+           "0": "Bagus!"
          },
          "Darts_Bullseye": {
-           "0": "Bullseye!"
+           "0": "Tepat sasaran!"
          },
          "Darts_PointsToGo": {
-           "0": "{0} Points to Go"
+           "0": "{0} poin lagi"
          },
          "Darts_PointToGo": {
-           "0": "{0} Point to Go"
+           "0": "{0} poin lagi"
          },
          "Darts_WinText": {
-           "0": "You won in {0} throws!"
+           "0": "Kamu menang dengan {0} lemparan!"
          },
          "Darts_WinTextPerfect": {
-           "0": "Perfect game!"
+           "0": "Permainan sempurna!"
          },
          "Chat_FieldOfficeDonation": {
-           "0": "{0} has donated {1} to the island field office."
+           "0": "{0} telah mendonasikan {1} pada kantor lapangan di pulau."
          },
          "Chat_RepairBoatAnchor": {
-           "0": "{0} has repaired the anchor of Willy's boat!"
+           "0": "{0} telah memperbaiki jangkar perahu Willy!"
          },
          "Chat_RepairBoatHull": {
-           "0": "{0} has repaired the hull of Willy's boat!"
+           "0": "{0} telah memperbaiki lambung perahu Willy!"
          },
          "Chat_RepairBoatMachine": {
-           "0": "{0} has repaired the ticket machine by Willy's boat!"
+           "0": "{0} telah memperbaiki mesin tiket perahu Willy!"
          },
          "Chat_RepairBoat": {
-           "0": "The preparations to repair Willy's boat are complete!"
+           "0": "Persiapan untuk memperbaiki perahu Willy sudah lengkap!"
          },
          "Chat_UpgradePerch_House": {
-           "0": "{0} has asked the parrots to restore the island farmhouse!"
+           "0": "{0} meminta burung betet untuk membangun rumah di pulau!"
          },
          "Chat_UpgradePerch_House_Mailbox": {
-           "0": "{0} has asked the parrots to begin delivering mail to the island!"
+           "0": "{0} meminta burung betet untuk mengirim surat ke pulau!"
          },
          "Chat_UpgradePerch_VolcanoShortcutOut": {
-           "0": "{0} has asked the parrots to build a shortcut out of the volcano!"
+           "0": "{0} meminta burung betet untuk membangun jalan pintas di gunung berapi!"
          },
          "Chat_UpgradePerch_VolcanoBridge": {
-           "0": "{0} has asked the parrots to build a bridge in the volcano!"
+           "0": "{0} meminta burung betet untuk membangun jembatan di gunung berapi!"
          },
          "Chat_UpgradePerch_Turtle": {
-           "0": "{0} has asked the parrots to clear the path to the west side of the island!"
+           "0": "{0} meminta burung betet untuk membuka jalur barat di pulau!"
          },
          "Chat_UpgradePerch_ParrotPlatforms": {
-           "0": "{0} has asked the parrots to resume the Parrot Express!"
+           "0": "{0} meminta burung betet untuk melanjutkan Parrot Express!"
          },
          "Chat_UpgradePerch_Bridge": {
-           "0": "{0} has asked the parrots to fix the bridge near the tent!"
+           "0": "{0} meminta burung betet untuk memperbaiki jembatan dekat tenda!"
          },
          "Chat_UpgradePerch_Resort": {
-           "0": "{0} has asked the parrots to restore the island resort!"
+           "0": "{0} meminta burung betet untuk mengembalikan resort di pulau!"
          },
          "Chat_UpgradePerch_Hut": {
-           "0": "{0} has fed a parrot a walnut!"
+           "0": "{0} memberi burung betet sebuah walnut!"
          },
          "UpgradePerch_Hut": {
-           "0": "*Awk*... Walnut! *Awk*... Give?"
+           "0": "*Awk*... Walnut! *Awk*... Kasih?"
          },
          "UpgradePerch_Resort": {
-           "0": "*Awk*... {0} walnuts! *Awk*... Build resort!"
+           "0": "*Awk*... {0} walnut! *Awk*... Bangun resort!"
          },
          "UpgradePerch_House": {
-           "0": "*Awk*... {0} walnuts! *Awk*... Repair sleep hut!"
+           "0": "*Awk*... {0} walnut! *Awk*... Perbaiki gubuk!"
          },
          "UpgradePerch_House_Mailbox": {
-           "0": "*Awk*... {0} walnuts! *Awk*... Deliver mail!"
+           "0": "*Awk*... {0} walnut! *Awk*... Kirim surat!"
          },
          "UpgradePerch_VolcanoShortcutOut": {
-           "0": "*Awk*... {0} walnuts! *Awk*... Exit shortcut!"
+           "0": "*Awk*... {0} walnut! *Awk*... Jalan pintas keluar!"
          },
          "UpgradePerch_VolcanoBridge": {
-           "0": "*Awk*... {0} walnuts! *Awk*... Build bridge!"
+           "0": "*Awk*... {0} walnut! *Awk*... Bangun jembatan!"
          },
          "UpgradePerch_Turtle": {
-           "0": "*Awk*... {0} walnuts! *Awk*... Wake turtle!"
+           "0": "*Awk*... {0} walnut! *Awk*... Bangunkan kura-kura!"
          },
          "UpgradePerch_ParrotPlatforms": {
-           "0": "*Awk*... {0} walnuts! *Awk*... Parrot Express!"
+           "0": "*Awk*... {0} walnut! *Awk*... Parrot Express!"
          },
          "UpgradePerch_Bridge": {
-           "0": "*Awk*... {0} walnuts! *Awk*... Repair bridge!"
+           "0": "*Awk*... {0} walnut! *Awk*... Perbaiki jembatan!"
          },
          "ItemHover_DiamondForge_Singular": {
            "0": "+{0} Random Forge"
@@ -35064,184 +35064,184 @@
            "0": "+{0} Random Forges"
          },
          "UpgradePerch_Trader": {
-           "0": "*Awk*... {0} walnuts! *Awk*... Build trading hut!"
+           "0": "*Awk*... {0} walnut! *Awk*... Bangun gubuk barter!"
          },
          "UpgradePerch_Obelisk": {
-           "0": "*Awk*... {0} walnuts! *Awk*... Build warp tower!"
+           "0": "*Awk*... {0} walnut! *Awk*... Bangun menara teleportasi!"
          },
          "Chat_UpgradePerch_Trader": {
-           "0": "{0} has asked the parrots to build an island trading hut!"
+           "0": "{0} meminta burung betet untuk membangun gubuk barter di pulau!"
          },
          "Chat_UpgradePerch_Obelisk": {
-           "0": "{0} has asked the parrots to build a 'Farm Obelisk'!"
+           "0": "{0} meminta burung betet untuk membangun 'Farm Obelisk'!"
          },
          "Chat_FieldOfficeCompleteSet": {
-           "0": "{0} has finished a set piece in the island field office!"
+           "0": "{0} menyelesaikan satu set di kantor lapangan pulau!"
          },
          "Chat_PassedOut_VolcanoDungeon": {
-           "0": "{0} is sleeping in the volcano tonight..."
+           "0": "{0} malam ini tidur di gunung berapi..."
          },
          "Chat_PassedOut_Hospital": {
-           "0": "{0} is spending the night in the hospital."
+           "0": "{0} menghabiskan malam di klinik."
          },
          "Chat_PassedOut_Saloon": {
-           "0": "{0} fell asleep in the saloon."
+           "0": "{0} ketiduran di bar."
          },
          "Chat_PassedOut_Tent": {
-           "0": "{0} fell asleep in Linus' tent."
+           "0": "{0} ketiduran di tenda Linus."
          },
          "Chat_PassedOut_Sewer": {
-           "0": "{0} nodded off in the sewer."
+           "0": "{0} ketiduran di selokan."
          },
          "Chat_StockList": {
-           "0": "Pierre is now selling seeds from all seasons."
+           "0": "Pierre sekarang menjual benih dari semua musim."
          },
          "Chat_FinishedSurvey": {
-           "0": "{0} took an accurate survey of island life."
+           "0": "{0} menyelesaikan survei kehidupan pulau."
          },
          "Chat_HardModeMinesActivated": {
-           "0": "{0} has removed an ancient magi-seal of protection in the mines. Tonight, powerful monsters will ascend from the deep..."
+           "0": "{0} melepas segel perlindungan kuno di tambang. Malam ini, akan ada monster kuat di level bawah..."
          },
          "Chat_HardModeMinesDeactivated": {
-           "0": "{0} has restored an ancient magi-seal of protection in the mines. Tomorrow, the mines will return to normal..."
+           "0": "{0} mengaktifkan segel perlindungan kuno di tambang. Besok, tambang akan kembali normal..."
          },
          "ParrotPlatform_Volcano": {
-           "0": "Volcano"
+           "0": "Gunung Berapi"
          },
          "ParrotPlatform_Archaeology": {
-           "0": "Dig Site"
+           "0": "Situs Penggalian"
          },
          "ParrotPlatform_Forest": {
-           "0": "Jungle"
+           "0": "Hutan"
          },
          "ParrotPlatform_Farm": {
-           "0": "Farm"
+           "0": "Kebun"
          },
          "ParrotPlatform_Docks": {
-           "0": "Docks"
+           "0": "Dermaga"
          },
          "Item_Tooltip_GalaxyForged": {
-           "0": "Soul"
+           "0": "Jiwa"
          },
          "Chat_InfinityWeapon": {
-           "0": "{0} forged an {1}."
+           "0": "{0} menempa sebuah {1}."
          },
          "Chat_Lupini": {
-           "0": "{0} bought an original Lupini."
+           "0": "{0} membeli lukisan asli Lupini."
          },
          "Console_MP_FriendListHint": {
-           "0": "No Friend Farms Available"
+           "0": "Tidak Ada Kebun Teman Yang Tersedia"
          },
          "FruitTree_PlacementWarning": {
-           "0": "Your {0} won't be able to grow here."
+           "0": "{0}-mu tidak akan tumbuh di sini."
          },
          "Chat_Eternal1": {
-           "0": "You feel it in your heart: somewhere, somehow... Grandpa is beaming with pride."
+           "0": "Kau merasakan sesuatu: entah di mana, entah bagaimana... Kakekmu sangat bangga denganmu."
          },
          "Chat_Eternal2": {
-           "0": "The legacy of {0} Farm is eternal."
+           "0": "Warisan Kebun {0} itu abadi."
          },
          "Chat_Eternal3": {
            "0": "A rumbling sound was heard in the distance..."
          },
          "NameChange_EasterEgg1": {
-           "0": "ConcernedApe: What kind of a name is that? Seems fishy..."
+           "0": "ConcernedApe: Nama macam apa itu? Kok mencurigakan..."
          },
          "NameChange_EasterEgg2": {
-           "0": "Mr. Qi: Easy {0}, huh? I'm disappointed, kid. I thought you wanted to beat this game fair and square?"
+           "0": "Mr. Qi: Pengen dapet {0} dengan mudah, ya? Aku kecewa, nak. Kukira kamu mau menamatkan game ini dengan jujur?"
          },
          "NameChange_EasterEgg3": {
-           "0": "*Grandpa is shaking his head... 'I built this farm the old fashioned way, not with unlimited {0}...'"
+           "0": "*Kakek geleng-geleng kepala... 'Aku mendirikan kebun ini dari hasil jerih payah, bukan dari hasil cheat {0}...'"
          },
          "NameChange_EasterEgg4": {
-           "0": "ConcernedApe is mad that you're cheating..."
+           "0": "ConcernedApe tidak suka kamu nge-cheat..."
          },
          "NameChange_EasterEgg5": {
-           "0": "ConcernedApe: I'm not actually mad... have fun."
+           "0": "ConcernedApe: Aku nggak marah kok... selamat bersenang-senang."
          },
          "NameChange_EasterEgg6": {
-           "0": "Calling all cars! Calling all cars! We've got {0} {1} thief on the loose!"
+           "0": "Kijang satu memanggil semua kijang! Tampaknya ada maling {0} {1} lagi bebas!"
          },
          "PT_Title": {
-           "0": "Perfection Tracker"
+           "0": "Pelacak Kesempurnaan"
          },
          "PT_Shipped": {
-           "0": "Produce & Forage Shipped"
+           "0": "Produk & Hasil Ramban Dikirim"
          },
          "PT_Obelisks": {
-           "0": "Obelisks On Farm"
+           "0": "Obelisk Di Kebun"
          },
          "PT_GoldClock": {
-           "0": "Golden Clock On Farm"
+           "0": "Golden Clock Di Kebun"
          },
          "PT_MonsterSlayer": {
            "0": "Monster Slayer Hero"
          },
          "PT_GreatFriends": {
-           "0": "Great Friends"
+           "0": "Teman Dekat"
          },
          "PT_FarmerLevel": {
-           "0": "Farmer Level"
+           "0": "Level Petani"
          },
          "PT_Stardrops": {
-           "0": "Found All Stardrops"
+           "0": "Menemukan Semua Stardrop"
          },
          "PT_Cooking": {
-           "0": "Cooking Recipes Made"
+           "0": "Resep Memasak Yang Dibuat"
          },
          "PT_Crafting": {
-           "0": "Crafting Recipes Made"
+           "0": "Resep Merakit Yang Dibuat"
          },
          "PT_Fish": {
-           "0": "Fish Caught"
+           "0": "Ikan Ditangkap"
          },
          "PT_GoldenWalnut": {
-           "0": "Golden Walnuts Found"
+           "0": "Golden Walnut Yang Ditemukan"
          },
          "PT_Total": {
-           "0": "Total Complete"
+           "0": "Total Penyelesaian"
          },
          "SecretNote_More": {
            "0": "..."
          },
          "EndCredit_Neighbors": {
-           "0": "Neighbors"
+           "0": "Tetangga"
          },
          "EndCredit_Animals": {
-           "0": "Animals"
+           "0": "Hewan"
          },
          "EndCredit_Fish": {
-           "0": "Fish"
+           "0": "Ikan"
          },
          "EndCredit_Monsters": {
-           "0": "Monsters"
+           "0": "Monster"
          },
          "EndCredit_ShadowPeople": {
            "0": "Shadow People"
          },
          "EndCredit_Slimes": {
-           "0": "Slimes"
+           "0": "Slime"
          },
          "EndCredit_Bats": {
            "0": "Bats"
          },
          "AGO_Farmhouse": {
-           "0": "Randomize Farm House Location"
+           "0": "Acak Lokasi Rumah"
          },
          "AGO_Farmhouse_Tooltip": {
-           "0": "Your farmhouse will be placed in a different spot on the farm."
+           "0": "Rumahmu di kebun akan dipindah secara acak."
          },
          "AGO_EasyMode": {
-           "0": "Easy Mode"
+           "0": "Mode Gampang"
          },
          "AGO_EasyMode_Tooltip": {
-           "0": "Makes some aspects of the game easier, and reduces penalties."
+           "0": "Memudahkan beberapa aspek dalam game, dan mengurangi penalti."
          },
          "ParrotPlatform_Question": {
-           "0": "Take Parrot Express?"
+           "0": "Ambil Parrot Express?"
          },
          "PlayerLimit": {
-           "0": "Player Limit"
+           "0": "Batas Pemain"
          }
        }
      },
