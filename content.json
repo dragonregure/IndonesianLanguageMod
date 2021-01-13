@@ -14080,7 +14080,7 @@
            "6": "speak Maru \"Hai sayang.#$b#Besok akan ada fenomena langit malam yang langka... Ada komet yang akan lewat dekat sekali dengan planet kita!#$b#Jadi kukira... kita bisa melihatnya bersama?$l\"",
            "9": "speak Maru \"Bagus!$h#$bTemui aku di gunung tengah malam besok.#$b#Kalau hujan, kita tunda besoknya lagi... kometnya akan terlihat selama beberapa hari.\""
          },
-         "3912132/e 3912126/O Elliott/A elliottGone": {
+         "3912132/e 3912126/O Elliott/A elliottGone/B": {
            "13": "speak Elliott \"@... Aku sudah pulang...\"",
            "26": "speak Elliott \"Ah... Aku kangen banget.$l#$b#Baru ke kota sekali saja rasanya melelahkan sekali... Aku lebih suka di sini bersamamu!\"",
            "29": "speak Elliott \"Baiklah, sepertinya kita kembali ke rutinitas lama!$h#$b#Banyak yang harus kubereskan di sini...\"",
@@ -14116,7 +14116,7 @@
            "68": "speak Penny \"Oh! Kuenya sudah matang.\"",
            "99": "end dialogue Penny \"Buatlah dirimu nyaman, sayang.\""
          },
-         "4324303/e 4325434/O Penny/A pennyRedecorating/l noQuilt": {
+         "4324303/e 4325434/O Penny/A pennyRedecorating/l noQuilt/B": {
            "18": "speak Penny \"@... Selamat pagi...$11\"",
            "56": "speak Penny \"Kau merasakan sesuatu yang empuk? Aku menganyam sendiri seprai kasur ini.$11\"",
            "61": "speak Penny \"Bagaimana menurutmu?$11\"",
@@ -15859,16 +15859,6 @@
            "52": "speak Sam \"Konser berjalan lancar! Terima kasih sudah ikut dengan kami.$h\"",
            "53": "end dialogue Sam \"Hei. Konsernya sukses besar! Terima kasih, @.\""
          }
-       }
-     },
-     {
-       "Action": "EditData",
-       "Target": "Data/Events/Tent",
-       "Entries": {
-
-       },
-       "Fields": {
-
        }
      },
      {
