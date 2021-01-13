@@ -16343,7 +16343,7 @@
            "95": "speak Pam \"Lebih baik kamu pergi. Maaf kamu harus menyaksikan ini, nak.$4\"",
            "111": "speak Pam \"Dia cowok yang baik...^Dia cewek yang baik...\"",
            "112": "speak Pam \"Aku cuma tidak suka kamu minta sama tolong orang lain untuk bersih-bersih rumah! Bikin malu! Paham?$4\"",
-           "112": "speak Penny \"...Iya, ibu.$s\""
+           "118": "speak Penny \"...Iya, ibu.$s\""
          },
          "36/f Penny 1500/p Penny": {
            "10": "speak Penny \"@, pas sekali kamu mampir!#$b#Sebentar lagi resep baru ciptaanku akan matang!$h\"",
