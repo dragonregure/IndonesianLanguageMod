@@ -1,29 +1,8 @@
 TRANSLATE
 
-Strings/Locations
-Strings/StringsFromCSFiles: (On Progress by NinjaQuince)
-    Event.cs.1257 ~ Event.cs.1260
-    Event.cs.1606 ~ Event.cs.1635
-    Event.cs.1691
-    Event.cs.1714 ~ Event.cs.1738
-    Event.cs.1760 ~ Event.cs.1764
-    Event.cs.1803 ~ Event.cs.1811
-    Event.cs.1815 ~ Event.cs.1853
-    Game1.cs.3180 ~ Game1.cs.3191
-    NPC.cs.3962 ~ NPC.cs.3990
-    NPC.cs.4118 ~ NPC.cs.4500
-    Utility.cs.5229 ~ 5383
-    Utility.cs.6018 ~ Utility.cs.6569
-    DiaryEvent.cs.6658 ~ Bus.cs.7164
-    JunimoNoteMenu.cs.10786
-    ShopMenu.cs.blueboat ~ ShopMenu.cs.11525
-    FishingQuest.cs.13228 ~ FishingQuest.cs.13385
-    ItemDeliveryQuest.cs.13396 ~ WeedingQuest.cs.13826
-    RandomSentence.1 ~ RandomSentence.14
-    ItemRecovery_Description ~ MovieTheaterBoxOffice
-    Cursed_Doll
-    VolcanoShop0 ~ Quest_FinalDay
-
+Strings/Locations (On Progress By NinjaQuince)
+Strings/StringsFromCSFiles: (Finished)
+    Utility.cs.5256 ~ 5364 (Ini adalah entri saat game masih dalam tahap pengembangan. Entri ini sudah tidak diimplementasikan dalam game. Dilansir dari: "https://www.reddit.com/r/StardewValley/comments/4a8pv3/decompiled_the_exe_found_some_neat_things_spoilers/?utm_source=share&utm_medium=web2x&context=3")
 
 
 
