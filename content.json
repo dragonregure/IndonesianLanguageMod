@@ -6519,7 +6519,7 @@
             "Harvey_spouse": { "0": "Hai... sebelumnya aku berharap kau bisa menemukanku disini...$l" },
             "Elliott_spouse": { "0": "Mmph... Aku rasa aku terlalu banyak memakan kua labu." },
             "Abigail": { "0": "Aku tidak bisa kesana... laba - laba...$s" },
-            "Robin": { "0": "Hmm, sebentar laGi musim dingin akan datang. Musim itu adalah waktu yang tepat untuk mengumpulkan kayu dan batu." },
+            "Robin": { "0": "Hmm, sebentar lagi musim dingin akan datang. Musim itu adalah waktu yang tepat untuk mengumpulkan kayu dan batu." },
             "Demetrius": { "0": "Dari tadi aku belum melihat Maru... Aku harap dia baik - baik saja." },
             "Maru": { "0": "Aku pikir, aku sudah melewati tempat ini... eh, tunggu...$s#$e#Aku tersesat...$s" },
             "Sebastian": { "0": "Aku tidak mengerti bagaimana tengkorak itu bisa bergerak... seram.#$e#walau seram aku pikir menarik." },
@@ -11347,43 +11347,43 @@
          "Fields": {
             "1": {
                "1": "Temui Wizard",
-               "2": "Kau mendapat surat dari wizard. Dia mengaku bahwa punya informasi mengenai bangunan community center.",
-               "3": "Masuk ke dalam menara wizard."
+               "2": "Kau mendapat surat dari Wizard. Dia mengaku punya informasi mengenai Community Center.",
+               "3": "Masuk ke dalam Menara Wizard."
             },
             "2": {
-               "1": "Qi yang misterius",
-               "2": "Didalam sebuah kota misterius, kau menemukan catatan dengan sebuah perintah yang aneh. Disitu tertanda 'Mr. Qi'.",
-               "3": "Taruh rainbow shell di dalam kotak di peron kereta api."
+               "1": "Qi Yang Misterius",
+               "2": "Di dalam kotak kunci rahasia, kau menemukan catatan dengan sebuah perintah yang aneh. Disitu tertanda 'Mr. Qi'.",
+               "3": "Taruh Rainbow Shell di dalam kotak di peron kereta api."
             },
             "3": {
-               "1": "Qi yang misterius",
-               "2": "Kau menemukan catatan lain dengan tertanda 'Mr. Qi'.Kali ini perintahnya lebih aneh.",
-               "3": "Taruh 10 beets ke dalam kulkas walikota Lewis."
+               "1": "Qi Yang Misterius",
+               "2": "Kau menemukan catatan lain dengan tertanda 'Mr. Qi'. Kali ini perintahnya lebih aneh.",
+               "3": "Taruh 10 Beet ke dalam kulkas Mayor Lewis."
             },
             "4": {
-               "1": "Qi yang misterius",
-               "2": "Kau menemukan catatan aneh lain di dalam kulkas walikota. Kali ini, Perintahnya tidak jelas.",
+               "1": "Qi Yang Misterius",
+               "2": "Kau menemukan catatan aneh lain di dalam kulkas Mayor. Kali ini, perintahnya tidak jelas.",
                "3": "\"Berikan naga pasir makanan terakhirnya.\""
             },
             "5": {
-               "1": "Qi yang misterius",
+               "1": "Qi Yang Misterius",
                "2": "Kau menemukan catatan di mata naga pasir. Sepertinya petualangan mencari tahu kebenaran Mr. Qi telah selesai.",
                "3": "Periksa tumpukan kayu disamping rumahmu."
             },
             "6": {
                "1": "Permulaan",
-               "2": "Jika kau ingin menjadi seorang petani, kau harus mengetahui dasar - dasarnya. Gunakan cangkulmu untuk meratakan tanah, lalu gunakan bibit pada tanah yang sudah diratakan untuk menanam tumbuhan. Siram setiap hari sampai tanamanmu siap untuk dipanen.",
-               "3": "Tanam lalu panen parsnip."
+               "2": "Kalau mau jadi petani, mulailah dari dasar-dasarnya. Pakai cangkulmu untuk membajak tanah, lalu tanam benih pada tanah yang sudah dibajak. Siram setiap hari sampai tanamanmu siap untuk dipanen.",
+               "3": "Tanam lalu panen Parsnip."
             },
             "7": {
-               "1": "Merawat hewan",
-               "2": "Robin, si tukang kayu, tinggal di bagian utara kota. dengan membawa uang dan material yang dibutuhkan, dia akan membangun bangunan baru di kebunmu. Kau butuh dia untuk membangun coop atau barn sehingga kau bisa mulai merawat hewan.",
-               "3": "bangun Coop."
+               "1": "Merawat Hewan",
+               "2": "Robin, si tukang kayu, tinggal di utara kota. Dengan membawa uang dan material, dia akan membangun bangunan baru di kebunmu. Mintalah untuk dibuatkan Coop atau Barn agar kamu bisa mulai merawat hewan ternak.",
+               "3": "Bangun Coop."
             },
             "8": {
                "1": "Peningkatan",
-               "2": "Setiap kau mendapatkan experience, kau akan mendapat resep crafting baru untuk menambah penghasilan dan mempermudah pekerjaan. Contohnya Scarecrow, item ini berfungsi untuk mencegah burung gagak mencuri tanamanmu.",
-               "3": "Capai Farming level 1 dan craft sebuah scarecrow."
+               "2": "Setiap kau mendapatkan experience, kau akan mendapat resep merakit baru untuk menambah penghasilan dan mempermudah pekerjaan. Contohnya Scarecrow, item ini berfungsi untuk mencegah burung gagak merusak tanamanmu.",
+               "3": "Capai Farming level 1 dan rakit sebuah Scarecrow."
             },
             "9": {
                "1": "Perkenalan",
@@ -11406,12 +11406,12 @@
                "3": "Gunakan your furnace untuk membuat Copper Bar."
             },
             "13": {
-               "1": "Pergi ke pantai",
+               "1": "Pergi Ke Pantai",
                "2": "Seseorang bernama Willy menyuruhmu untuk temui dia di pantai di bagian selatan kota. Dia bilang ada sesuatu yang ingin beri padamu.",
                "3": "Pergi ke pantai di bagian selatan kota sebelum jam 5:00pm."
             },
             "14": {
-               "1": "Menjelajahi tambang",
+               "1": "Menjelajahi Tambang",
                "2": "Ada sebuah terowongan pertambangan di dalam gunung di utara kota. Kemungkinan banyak mineral yang berguna disana, tapi Marlon mengingatkan bahwa disana mungkin berbahaya.",
                "3": "Capai lantai 5 tambang."
             },
@@ -11426,23 +11426,23 @@
                "3": "Masuki Adventurer's Guild."
             },
             "17": {
-               "1": "jauh di dalam tambang",
+               "1": "Jauh Di Dalam Tambang",
                "2": "Sepertinya lift tambang masih berfungsi. lift ini berfungsi untuk mengantarmu ke pintu lift yang telah kau temukan sebelumnya. Diperuntukkan untuk ekspedisi lantai bawah.",
-               "3": "capai lantai 40 tambang."
+               "3": "Capai lantai 40 tambang."
             },
             "18": {
-               "1": "Lantai dasar tambang?",
+               "1": "Lantai Dasar Tambang?",
                "2": "sejauh ini, tidak ada tanda - tanda dari lantai dasar tambang. sampai sejauh manakah?",
                "3": "Capai lantai dasar tambang."
             },
             "19": {
-               "1": "Kunci tengkorak",
+               "1": "Kunci Tengkorak",
                "2": "Kau menemukan sebuah kunci aneh di lantai dasar tambang.",
                "3": "Caru tahu kegunaan kunci itu."
             },
             "20": {
-               "1": "tantangan Qi",
-               "2": "kau di tantang untuk pergi ke lantai 25 skull cavern. Kau akan dijanjikan hadiah yang menjanjikan jika behasil.",
+               "1": "Tantangan Qi",
+               "2": "Kau di tantang untuk pergi ke lantai 25 skull cavern. Kau akan dijanjikan hadiah yang menjanjikan jika behasil.",
                "3": "Capai lantai 25 Skull Cavern."
             },
             "21": {
@@ -11451,7 +11451,7 @@
                "3": "bawakan Cave Carrot ke Marnie."
             },
             "22": {
-               "1": "Masakan ikan",
+               "1": "Masakan Ikan",
                "2": "Jodi datang ke kebunmu dan mengajakmu makan malam jam 7:00 PM.Dia memintamu untuk membawakannya seekor largemouth bass untuk masakannya.",
                "3": "Masuk ke rumah Jodi dengan membawa largemouth bass saat jam 7:00 PM."
             },
@@ -11466,17 +11466,17 @@
                "3": "Donasikan artifak atau mineral ke musium."
             },
             "25": {
-               "1": "cara mendapatkan teman",
+               "1": "Cara Mendapatkan Teman",
                "2": "Memberi hadiah adalah cara terbaik untuk mempererat pertemanan. Cari tahu hal - hal yang disukai setiap orang dan tidak lama kau akan menjadi populer.",
                "3": "Beri seseorang hadiah."
             },
             "26": {
-               "1": "\"masalah tikus\"",
+               "1": "\"Masalah Tikus\"",
                "2": "Ada sesuatu hal aneh yang terjadi di Community Center...",
                "3": "Selidiki Community Center"
             },
             "27": {
-               "1": "masalah Goblin ",
+               "1": "Masalah Goblin ",
                "2": "Ada goblin yang menghalangi jalan ke arah Witch's hut. pasti ada satu cara agar dia bisa pergi... Mungkin aku harus mencari informasi lebih tentang Goblin.",
                "3": "Buat jalur ke Witch's hut."
             },
@@ -11496,7 +11496,7 @@
                "3": "Capai lantai 100 di Skull Cavern"
             },
             "31": {
-               "1": "A Winter Mystery",
+               "1": "Misteri Musim Dingin",
                "2": "Kau melihat figur misterius mencurigakan di tempat bis. Saat figur itu melihatmu, ia lari kearah kota. Dimanakah ia berada?",
                "3": "Temukan figur misterius."
             },
@@ -11511,42 +11511,42 @@
                "3": "Bawakan Jodi cauliflower."
             },
             "102": {
-               "1": " \"Celana\" walikota",
+               "1": " \"Celana\" Mayor",
                "2": "Walikota Lewis kehilangan \"celana\" ungunya. Dia memintamu untuk menemukan dan mengembalikkan celana tersebut padanya... Secara rahasia.",
                "3": "Cari dan kembalikan celana ungu Lewis."
             },
             "103": {
-               "1": "Pam haus",
+               "1": "Pam Haus",
                "2": "Pam sangat ingin meminum pale ale. Dia tidak ingin bir yang biasa. Kau bisa membuat pale ale jika kau punya buah Hops dan sebuah keg.",
                "3": "Bawakan Pam pale ale."
             },
             "104": {
-               "1": "Penelitian tanaman",
+               "1": "Penelitian Tanaman",
                "2": "Demetrius membutuhkan melon segar untuk penelitiannya.",
                "3": "Bawakan Demetrius melon."
             },
             "105": {
-               "1": "Terapi lutut",
+               "1": "Terapi Lutut",
                "2": "George butuh hot pepper untuk meringankan pegal pada lututnya.",
                "3": "Bawakan George Hot Pepper."
             },
             "106": {
-               "1": "perawatan sapi",
+               "1": "Perawatan Sapi",
                "2": "Marnie ingin memberi sapinya perawatan spesial. Dia memintamu seikat amaranth.",
                "3": "Bawakan Marnie amaranth."
             },
             "107": {
-               "1": "Keranjang blackberry",
+               "1": "Keranjang Blackberry",
                "2": "ini adalah musim blackberry, tapi Linus tidak bisa menemukan keranjangnya! Dia memintamu untuk menolongnya untuk menemukan keranjang itu. Dia tidak tahu dimana letak keranjang itu sekarang.",
                "3": "Temukan keranjang Linus lalu kembalikan padanya."
             },
             "108": {
-               "1": "Mengukir labu",
+               "1": "Mengukir Labu",
                "2": "Caroline ingin mengukir sebuah labu berama putrinya. Dia memintamu untuk membawakannya sebuah labu dari kebunmu.",
                "3": "Bawakan Caroline pumpkin."
             },
             "109": {
-               "1": "Menangkap squid",
+               "1": "Menangkap Squid",
                "2": "Willy menantangmu untuk menangkap seekor a squid. Dia bilang kau bisa menangkapnya di laut saat malam musim.",
                "3": "Bawakan Willy squid."
             },
@@ -11556,7 +11556,7 @@
                "3": "Bawakan Emily Amethyst."
             },
             "111": {
-               "1": "Mantra kegelapan",
+               "1": "Mantra Kegelapan",
                "2": "Wizard ingin kau masuk ke tambang dan mengambil Void Essence untuknya. Dia bembutuhkan benda itu untuk mantra gelapnya.",
                "3": "Bawakan Wizard Void Essence."
             },
@@ -11571,17 +11571,17 @@
                "3": "Bawakan 10 Hardwood."
             },
             "114": {
-               "1": "Ikan rebus",
+               "1": "Ikan Rebus",
                "2": "Gus ingin memasak ikan rebus, tapi dai butuh sebuah albacore.",
                "3": "Bawakan Gus Albacore."
             },
             "115": {
-               "1": "Buah segar",
+               "1": "Buah Segar",
                "2": "Emily ingin merasakan buah musim semi. Dia meminta darimu sebuah apricot segar.",
                "3": "Bawakan Emily Apricot."
             },
             "116": {
-               "1": "Hadia nenek",
+               "1": "Hadiah Nenek",
                "2": "Evelyn ingin memberi kejutan untuk suaminyadengan sebuah hadiah.",
                "3": "Bawakan Evelyn Leek."
             },
@@ -11616,7 +11616,7 @@
                "3": "Bawakan Pam Battery Pack."
             },
             "123": {
-               "1": "Tongkat kekuatan",
+               "1": "Tongkat Kekuatan",
                "2": "Wizard sedang membuat tongkat dengan kekuatan dahsyat. Tak ada yang tahu untuk apa dia membuatnya. Dia butuh iridium bar untuk menyelesaikannya.",
                "3": "Brawakan Wizard Iridium Bar."
             },
@@ -11626,12 +11626,12 @@
                "3": "Bawakan Willy Lingcod."
             },
             "125": {
-               "1": "Buah eksotik",
+               "1": "Buah Eksotik",
                "2": "Gus ingin membuat Coco-no-no, tapi dia tidak punya bahan utamanya.",
                "3": "Bawakan Gus Coconut."
             },
             "126": {
-               "1": "Tugas buat istrimu",
+               "1": "Tugas Buat Istrimu",
                "2": "Istrimu meminta untuk dicarikan 200 helai fiber untuk proyek rahasianya.",
                "3": "Bawakan Emily 200 fiber."
             },
@@ -13663,14 +13663,14 @@
            "64": "speak Sam \"Hei, apa kau tahu kalau band-ku sudah lengkap?#$b#Ya! Ternyata Abigail jago main drum. Dan Sebastian ingin dia bergabung...$h\""
          },
          "739330/t 600 1710/*n spring_2_1": {
-           "15": "speak Willy \"Hai, mas.$u^Hai, mbak.$u#$b#Kudengar ada orang baru di kota... Senang akhirnya bisa bertemu.$u\"",
+           "15": "speak Willy \"Hai, nak.$u^Hai, nona.$u#$b#Kudengar ada orang baru di kota... Senang akhirnya bisa bertemu.$u\"",
            "25": "speak Willy \"Ah... aku sedang beristirahat setelah sebulan di lautan...$h#$b#Aku dapat banyak ikan! Lalu kujual semuanya.#$b#Sekarang aku punya uang untuk membeli pancing baru.$h\"",
            "28": "speak Willy \"Ini, aku ingin kau memakai pancing lamaku.$h#$b#Penting bagiku untuk terus menjaga kelestarian seni memancing. Dan siapa tahu, mungkin kau akan beli sesuatu dari tokoku nanti.$h\"",
            "43": "speak Willy \"Ada banyak ikan yang hidup di perairan lembah ini. Semua jenis ikan.\"",
            "46": "speak Willy \"Oh iya. Tokoku sudah buka lagi, mampirlah kalau kau butuh sesuatu.$h#$b#Aku akan membeli hasil tangkapanmu juga.#$b#'Selama amis, pasti laris'. Heh heh. Bapakku sering mengatakan itu.$h\""
          },
          "711130/t 600 1710/f Willy 1500": {
-           "9": "speak Willy \"Ah... syukurlah kau datang, mas.^Ah... syukurlah kau datang, mbak.#$b#Sebenarnya... aku butuh bantuanmu...\"",
+           "9": "speak Willy \"Ah... syukurlah kau datang, nak.^Ah... syukurlah kau datang, nona.#$b#Sebenarnya... aku butuh bantuanmu...\"",
            "16": "speak Willy \"Eh... Mending aku kasih lihat saja langsung...\"",
            "21": "speak Willy \"Tarik nafasmu dalam-dalam.\"",
            "48": "speak Willy \"Seperti yang kau lihat...#$b#Dan cium baunya... heh...#$b#Gadis-gadis kecilku semua 'ngambek' tadi malam... heh...$h#$b#Eksperimenku butuh perbaikan...\"",
@@ -13686,10 +13686,10 @@
          "3131209/n willyBugWadCutscene": {
            "9": "speak Willy \"Hehe... mereka menyukainya... Lihatlah ini!$h\"",
            "20": "textAboveHead Willy \"Ahoy!\"",
-           "22": "speak Willy \"Aku baru saja kepikiran kamu, mas.^Aku baru saja kepikiran kamu, mbak.#$b#Bug Meat yang kau beri ini sempurna!#$b#Hehe... Pas aku bilang 'segar', tidak kusangka kau akan menangkapnya hidup-hidup!#$b#Tapi tak masalah buatku! Ikan-ikan menyukainya... Hehehe...$h\"",
+           "22": "speak Willy \"Aku baru saja kepikiran kamu, nak.^Aku baru saja kepikiran kamu, nona.#$b#Bug Meat yang kau beri ini sempurna!#$b#Hehe... Pas aku bilang 'segar', tidak kusangka kau akan menangkapnya hidup-hidup!#$b#Tapi tak masalah buatku! Ikan-ikan menyukainya... Hehehe...$h\"",
            "31": "speak Willy \"Sebagai ucapan terima kasih, akan kuberitahu rahasia lama para nelayan... Bapakku mengajarkan ini saat perjalanan memancing dulu.\"",
            "34": "message \"Kamu sekarang tahu cara merakit 'Quality Bobber'\"",
-           "36": "speak Willy \"Alat itu akan mengundang ikan kualitas tinggi.#$b#Itu artinya kamu bisa lebih cuan, mas. Hehe...$h^Itu artinya kamu bisa lebih cuan, mbak. Hehe$h\"",
+           "36": "speak Willy \"Alat itu akan mengundang ikan kualitas tinggi.#$b#Itu artinya kamu bisa lebih cuan, nak. Hehe...$h^Itu artinya kamu bisa lebih cuan, nona. Hehe$h\"",
            "44": "textAboveHead Willy \"Dapat!\""
          }
        }
@@ -25053,7 +25053,8 @@
            "0": "Q atau Enter - Buka Menu"
          },
          "Game1.cs.2732": {
-           "0": "Shift - Lari"
+           "0": "Shift - Lari",
+           "1": "Jalan",
          },
          "Game1.cs.2733": {
            "0": "X atau Klik Kiri - Ambil | Pakai"
@@ -25215,7 +25216,7 @@
            "0": "Stardew Valley berhenti..."
          },
          "Game1.cs.3686": {
-           "0": "Kirim laporan error atau screenshot pesan ini ke @ConcernedApe. (http://stardewvalley.net/contact/):"
+           "0": "Kirim laporan error atau screenshot pesan ini ke @ConcernedApe. (http:"
          },
          "Game1.cs.3688": {
            "0": "Memuat"
@@ -25287,7 +25288,8 @@
            "0": "Kamu tidak lagi pacaran dengan {0}."
          },
          "NPC.cs.3962": {
-           "0": "...!! Aku terima. Terima kasih.$l#$e#Aku tidak tahu kalau kamu punya perasaan yang sama.$l"
+           "0": "...!! Aku terima. Terima kasih.$l#$e#Aku tidak tahu kalau kamu punya perasaan yang sama.$l",
+           "1": "...!! I'll accept this. Thank you.$l#$e#I didn't know you felt the same.$l",
          },
          "NPC.cs.3963": {
            "0": "...Kamu mau lebih serius? Aku juga merasa begitu.$l#$e#Aku agak gugup. Kamu tidak?$l"
@@ -25539,22 +25541,26 @@
            "0": "Kado ulang tahun? Kamu baik sekali! Aku suka.$h"
          },
          "NPC.cs.4276": {
-           "0": "Oh, hari ini ulang tahunku? Sepertinya begitu. Makasih. Kamu baik.$h"
+           "0": "Oh, hari ini ulang tahunku? Sepertinya begitu. Makasih. Kamu baik.$h",
+           "1": "Oh, hari ini ulang tahunku? Sepertinya begitu. Makasih. Kamu baik.$h"
          },
          "NPC.cs.4277": {
            "0": "Kau ingat ulang tahunku! Terima kasih. Ini bagus.$h"
          },
          "NPC.cs.4278": {
-           "0": "Hari ini ulang tahunku dan aku memberi ini? Apa ini semacam lelucon?$s"
+           "0": "Hari ini ulang tahunku dan aku memberi ini? Apa ini semacam lelucon?$s",
+           "1": "Hari ini ulang tahunku dan aku memberi ini? Apa ini semacam lelucon?$s"
          },
          "NPC.cs.4279": {
-           "0": "Oh... Untuk ulang tahunku? ... Makasih.$s"
+           "0": "Oh... Untuk ulang tahunku? ... Makasih.$s",
+           "1": "Oh... Untuk ulang tahunku? ... Makasih.$s"
          },
          "NPC.cs.4280": {
            "0": "Untuk ulang tahunku? Makasih."
          },
          "NPC.cs.4281": {
-           "0": "Oh, hadiah ulang tahun! Terima kasih."
+           "0": "Oh, hadiah ulang tahun! Terima kasih.",
+           "1": "Oh, hadiah ulang tahun! Terima kasih."
          },
          "NPC.cs.4293": {
            "0": "Ow! Kenapa kau melakukan itu padaku!$s"
@@ -26454,7 +26460,7 @@
            "0": "Malam Pertama"
          },
          "Utility.cs.5678": {
-           "0": "Hari {0} musim {1}, Tahun ke-{2}"
+           "0": "Tgl. {0} Musim {1}, Tahun ke-{2}"
          },
          "Utility.cs.5680": {
            "0": "Spring"
@@ -27180,7 +27186,7 @@
            "0": "Selokan"
          },
          "MapPage.cs.11090": {
-           "0": "Makam"
+           "0": "Pemakaman"
          },
          "MapPage.cs.11091": {
            "0": "Trailer"
@@ -27198,7 +27204,7 @@
            "0": "Tempat tinggal George, Evelyn & Alex"
          },
          "MapPage.cs.11094": {
-           "0": "Toko Tukang Kayu"
+           "0": "Tukang Kayu"
          },
          "MapPage.cs.11095": {
            "0": "Tempat tinggal Robin, Demetrius, Sebastian & Maru"
@@ -27261,7 +27267,7 @@
            "0": "Community Center"
          },
          "MapPage.cs.11118": {
-           "0": "Saluran Selokan"
+           "0": "Selokan"
          },
          "MapPage.cs.11119": {
            "0": "Rel Kereta Api"
@@ -27393,7 +27399,7 @@
            "0": "Tampilkan Efek Kilatan Petir"
          },
          "OptionsPage.cs.11273": {
-           "0": "Gunakan Kursos Hardware"
+           "0": "Gunakan Kursor Hardware"
          },
          "OptionsPage.cs.11274": {
            "0": "Kontrol:"
@@ -27405,7 +27411,8 @@
            "0": "Atur Kontrol Ke Default"
          },
          "OptionsPage.cs.11278": {
-           "0": "Cek/Melakukan Aksi"
+           "0": "Cek",
+           "1": "Melakukan Aksi"
          },
          "OptionsPage.cs.11279": {
            "0": "Memakai Alat"
@@ -28176,7 +28183,8 @@
            "0": "Acc.: {0}%"
          },
          "TargetGame.cs.12157": {
-           "0": "Akurasi: {0}%      {1} / {2} Tembakan Sukses"
+           "0": "Akurasi: {0}%      {1} ",
+           "1": " {2} Tembakan Sukses"
          },
          "TargetGame.cs.12161": {
            "0": "x{0} Pengganda Akurasi!"
@@ -28596,10 +28604,10 @@
            "0": "{0} ditangkap"
          },
          "FishingQuest.cs.13243": {
-           "0": "{0}"
+           "1": "{1} Octopi ditangkap"
          },
          "FishingQuest.cs.13244": {
-           "0": "{0}"
+           "1": "{1} {2} ditangkap"
          },
          "FishingQuest.cs.13248": {
            "0": "Demi melestarikan seni memancing... Aku akan memberi {0}g pada siapapun yang menangkap {1} {2}. Semoga beruntung! -Willy"
@@ -28614,7 +28622,7 @@
            "0": "Squids ditangkap"
          },
          "FishingQuest.cs.13255": {
-           "0": "{0}"
+           "1": "{1} Squids ditangkap"
          },
          "FishingQuest.cs.13256": {
            "0": "Hei, kau berhasil, @!$h#$b#{0}-nya jadi tangkapan yang menarik kan?"
@@ -29232,7 +29240,7 @@
            "0": "\n- Kau bisa menyimpan Orenya setelah dicek Clint them."
          },
          "ResourceCollectionQuest.cs.13691": {
-           "0": "{0}"
+           "1": "{1} {2} dikumpulkan"
          },
          "SlayMonsterQuest.cs.13696": {
            "0": "Membasmi Monster"
@@ -29313,7 +29321,7 @@
            "0": "Ah, @! Ternyata kamu yang menyelesaikan masalah monsternya? Terima kasih!$h#$b#Semoga kamu tidak kerepotan..."
          },
          "SlayMonsterQuest.cs.13770": {
-           "0": "{0}"
+           "1": "{1} {2} dikalahkan"
          },
          "SlayMonsterQuest.cs.13772": {
            "0": "Slime Beku"
@@ -29337,7 +29345,7 @@
            "0": "\n \n- Semua orang akan semakin menyukaimu"
          },
          "SocializeQuest.cs.13802": {
-           "0": "{0}"
+           "1": "{1} orang disapa"
          },
          "WeedingQuest.cs.13816": {
            "0": "Menyewa seseorang untuk menyiangi rumput liar di penjuru kota. Setelah rumputnya bersih, laporkan pada Mayor untuk menerima pembayaran. Makasih!"
@@ -29352,7 +29360,7 @@
            "0": "Bicara pada Pak Lewis"
          },
          "WeedingQuest.cs.13826": {
-           "0": "{0}"
+           "1": "{2} rumput liar dipangkas"
          },
          "HoeDirt.cs.13915": {
            "0": "Membutuhkan sabit"
@@ -33191,7 +33199,7 @@
            "0": "Jukebox"
          },
          "Collections_Shipped": {
-           "0": "Item Dikirim (Kebun & Hasil Ramban)"
+           "0": "Item Dikirim (Kebun & Hasil Alam)"
          },
          "Collections_Fish": {
            "0": "Ikan"
@@ -33220,7 +33228,7 @@
          "Collections_Description_FishCaught": {
            "0": "Jumlah Ditangkap: {0}"
          },
-         "Collections_Description_BiggestCeatch": {
+         "Collections_Description_BiggestCatch": {
            "0": "Tangkapan Terbesar: {0} inci."
          },
          "Collections_Description_MineralsFound": {
