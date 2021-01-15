@@ -1,6 +1,5 @@
 TRANSLATE
 
-Strings/Locations (On Progress By NinjaQuince)
 Strings/StringsFromCSFiles: (Finished)
     Utility.cs.5256 ~ 5364 (Ini adalah entri saat game masih dalam tahap pengembangan. Entri ini sudah tidak diimplementasikan dalam game. Dilansir dari: "https://www.reddit.com/r/StardewValley/comments/4a8pv3/decompiled_the_exe_found_some_neat_things_spoilers/?utm_source=share&utm_medium=web2x&context=3")
 

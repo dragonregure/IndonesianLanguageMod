@@ -19867,10 +19867,10 @@
            "0": "Void Spirits"
          },
          "AdventureGuild_KillList_Bats": {
-           "0": "Kelelawar"
+           "0": "Bats"
          },
          "AdventureGuild_KillList_Skeletons": {
-           "0": "Tengkorak"
+           "0": "Skeletons"
          },
          "AdventureGuild_KillList_CaveInsects": {
            "0": "Cave Insects"
@@ -19942,7 +19942,7 @@
            "0": "Gunakan 300 potong kayu untuk memperbaiki jembatan?"
          },
          "Beach_FixBridge_Hint": {
-           "0": "Hmmm... Dengan 300 potong kayu ini bisa diperbaiki."
+           "0": "Hmmm... Ini bisa diperbaiki dengan 300 kayu."
          },
          "Beach_GoneFishingMessage": {
            "0": " Sedang memancing.\n\n Aku akan kembali besok."
@@ -19990,7 +19990,7 @@
            "0": "Halte Bis"
          },
          "MineCart_Destination_Quarry": {
-           "0": "Galian"
+           "0": "Quarry"
          },
          "MineCart_Destination_Cancel": {
            "0": "Batal"
@@ -20002,10 +20002,10 @@
            "0": "Kereta rusak"
          },
          "BusStop_BuyTicketToDesert": {
-           "0": "Beli tiket ke Padang Calico seharga 500g?"
+           "0": "Beli tiket ke Calico Desert seharga 500g?"
          },
          "BusStop_DesertOutOfService": {
-           "0": "Bis menuju Padang Calico sedang rusak."
+           "0": "Bis menuju Calico Desert sedang rusak."
          },
          "BusStop_NotEnoughMoneyForTicket": {
            "0": "Uangmu tidak cukup."
@@ -20017,7 +20017,7 @@
            "0": "{0} bertanya-tanya kemana pergimu."
          },
          "BusStop_ReturnToHorse2": {
-           "0": "Kudamu yang setia menunggu kedatanganmu dengan sabar."
+           "0": "Kudamu menunggu kedatanganmu dengan sabar."
          },
          "Club_Bouncer_TextAboveHead1": {
            "0": "Sekarang aku marah!"
@@ -20029,16 +20029,16 @@
            "0": "Kami adalah Junimo... Penjaga hutan."
          },
          "CommunityCenter_AreaCompletion2": {
-           "0": "Rumah ini kosong selama beberapa tahun... Pohon-pohon mulai masuk kedalam begitu juga kami."
+           "0": "Rumah ini bertahun-tahun kosong... Pohon-pohon mulai masuk, begitu juga kami."
          },
          "CommunityCenter_AreaCompletion3": {
            "0": "Kami senang bisa membantu... Lagipula ini bukan rumah kami."
          },
          "CommunityCenter_AreaCompletion4": {
-           "0": "Begitu banyak hadiah... terima kasih! Terima kasih!"
+           "0": "Begitu banyak bundel bagus... terima kasih! Terima kasih!"
          },
          "CommunityCenter_AreaCompletion5": {
-           "0": "Setelah kami pergi dari sini, kami akan kembali ke dunia lain."
+           "0": "Setelah kami selesai, kami akan kembali ke alam kami."
          },
          "CommunityCenter_AreaCompletion6": {
            "0": "Hadiah terakhir... Sampai jumpa... {0}."
@@ -20047,7 +20047,7 @@
            "0": "{0} sudah diperbaiki!"
          },
          "CommunityCenter_JunimosReturned": {
-           "0": "Para Junimo sudah kembali ke dunia lain."
+           "0": "Para Junimo sudah kembali ke alam lain."
          },
          "CommunityCenter_AreaName_BoilerRoom": {
            "0": "Ruang Perapian"
@@ -20068,7 +20068,7 @@
            "0": "Brankas"
          },
          "CommunityCenter_AreaName_AbandonedJojaMart": {
-           "0": "JojaMart Yang Diabaikan"
+           "0": "JojaMart Yang Terlantar"
          },
          "Desert_Return_Question": {
            "0": "Kembali ke Stardew Valley?"
@@ -20086,13 +20086,13 @@
            "0": "{0} slime kabur di malam hari."
          },
          "Farm_GrandpaNote": {
-           "0": "{0}-\n\nTunggu kedatanganku di awal tahun ketigamu.\n\n-Kakek"
+           "0": "{0}-\n\nTunggu kedatanganku di awal tahun ketiga.\n\n-Kakek"
          },
          "Farm_GrandpaShrine_PlaceDiamond": {
-           "0": "Kau menaruh berlian di Pura Kakek."
+           "0": "Kau menaruh berlian di Kuil Kakek."
          },
          "Farm_GrandpaShrine_DiamondSlot": {
-           "0": "Ada lubang berbentuk berlian di pura... memangnya itu ada sebelumnya?"
+           "0": "Ada lubang berbentuk berlian di kuil... memangnya itu ada sebelumnya?"
          },
          "FarmHouse_SpouseAttacked1": {
            "0": "Apa...?"
@@ -20146,22 +20146,22 @@
            "0": "Kau harus menunggu Pam datang sebelum naik bis."
          },
          "DoorUnlock_NotFriend_Male": {
-           "0": "Kamu belum cukup akrab dengan {0} untuk memasuki kamarnya."
+           "0": "Kamu belum akrab dengan {0} untuk memasuki kamarnya."
          },
          "DoorUnlock_NotFriend_Female": {
-           "0": "Kamu belum cukup akrab dengan {0} untuk memasuki kamarnya"
+           "0": "Kamu belum akrab dengan {0} untuk memasuki kamarnya"
          },
          "DoorUnlock_NotFriend_Couple": {
-           "0": "Kamu belum cukup akrab dengan {0} atau {1} untuk memasuki kamarnya."
+           "0": "Kamu belum akrab dengan {0} atau {1} untuk memasuki kamarnya."
          },
          "FarmHouse_Bed_GoToSleep": {
            "0": "Pergi tidur?"
          },
          "MensLocker_WrongGender": {
-           "0": "Itu loker laki-laki... kamu tidak boleh masuk kesana!"
+           "0": "Itu loker laki-laki... kamu tidak boleh masuk!"
          },
          "WomensLocker_WrongGender": {
-           "0": "Itu loker perempuan... kamu tidak boleh masuk kesana!"
+           "0": "Itu loker perempuan... kamu tidak boleh masuk!"
          },
          "Saloon_ColaMachine_Question": {
            "0": "Beli Joja Cola seharga 75g?"
@@ -20275,13 +20275,13 @@
            "0": "Itu kulkasnya Kepala Desa. Kebanyakan berisi susu dan es teh."
          },
          "ManorHouse_MayorFridge_ConsumeBeets": {
-           "0": "Dengan cepat kamu menaruh beet di kulkas. Tunggu sebentar... ada catatan yang tertempel pada botol susu. Yang ditujukan kepadamu:"
+           "0": "Dengan cepat kamu menaruh Beet di kulkas. Tunggu sebentar... ada catatan yang tertempel pada botol susu. Yang ditujukan kepadamu:"
          },
          "ManorHouse_MayorFridge_MrQiNote": {
            "0": "'Kerja bagus, nak. Tugas terakhirmu: Berikan naga pasir santapan terakhirnya. -Mr. Qi'"
          },
          "Tunnel_TunnelSafe_Initial": {
-           "0": "It's a battery powered lock-box. Unfortunately, there's no battery in it."
+           "0": "Sebuah kotak kunci berdaya baterai. Sayangnya, tidak ada baterainya."
          },
          "Tunnel_TunnelSafe_ConsumeBattery": {
            "0": "Berhasil! Kotak kuncinya terbuka. Di dalamnya terdapat sebuah catatan:"
@@ -20446,13 +20446,13 @@
            "0": "Community Upgrade"
          },
          "ScienceHouse_CarpenterMenu_Construct": {
-           "0": "Buat Bangunan Pertanian"
+           "0": "Bangunan Pertanian"
          },
          "ScienceHouse_CarpenterMenu_Leave": {
            "0": "Pergi"
          },
          "ScienceHouse_RobinAbsent": {
-           "0": "Maaf! Kios tutup hari ini... Aku ada di rumahnya Caroline untuk senam rutin.\n\n-Robin"
+           "0": "Maaf! Toko tutup hari ini... Aku ada di rumahnya Caroline untuk senam rutin.\n\n-Robin"
          },
          "Blacksmith_Clint_Shop": {
            "0": "Beli Sesuatu"
@@ -20470,7 +20470,7 @@
            "0": "Beli Persediaan"
          },
          "AnimalShop_Marnie_Animals": {
-           "0": "Beli Binatang"
+           "0": "Beli Hewan"
          },
          "AnimalShop_Marnie_Leave": {
            "0": "Pergi"
@@ -20554,13 +20554,13 @@
            "0": "Ada lubang menuju ke bawah."
          },
          "Mountain_AdventurersGuildNote": {
-           "0": " * Guild Petualang *\n\n Hanya untuk petualang yang sudah membuktikan diri."
+           "0": " * Serikat Petualang *\n\n Hanya untuk petualang yang sudah membuktikan diri."
          },
          "Railroad_TrainComing": {
            "0": "Ada kereta api yang melewati Stardew Valley"
          },
          "Town_SeedShopSign": {
-           "0": "- Kios Umum Pierre -\nSekarang buka setiap hari mulai dari pukul 9 pagi s"
+           "0": "- Pierre's General Store -\nSekarang buka setiap hari mulai dari pukul 9 pagi s"
          },
          "Town_JojaSign_Destroyed": {
            "0": "Bangkrut."
@@ -20569,7 +20569,7 @@
            "0": "Itu hanya bagian belakang mobil tua milik Lewis..."
          },
          "Sewer_DogStatue": {
-           "0": "-Statue Of Uncertainty-^Patang ini dapat membantumu berganti profesi.^Beri persembahan sejumlah 10,000g?"
+           "0": "-Statue Of Uncertainty-^Patung ini dapat membantumu berganti profesi.^Beri persembahan sejumlah 10,000g?"
          },
          "Sewer_DogStatueCancel": {
            "0": "Tidak, aku berubah pikiran..."
@@ -20578,19 +20578,19 @@
            "0": "Skill profesi mana yang ingin kau ganti?"
          },
          "Sewer_DogStatueAlready": {
-           "0": "Skill ini sedang dalam proses penggantian malam ini. Kembali lagi besok..."
+           "0": "Skill akan diganti malam ini. Kembali lagi besok..."
          },
          "Sewer_DogStatueFinished": {
            "0": "*guk* *guk* (Sudah selesai... sekarang pergilah tidur...)"
          },
          "WitchHut_EvilShrineLeft": {
-           "0": "-Dark Shrine of Selfishness-^Anakmu akan berubah menjadi merpati dan terbang...^Beri persembahan sebuah Prismatic Shard?"
+           "0": "-Dark Shrine of Selfishness-^Anakmu akan berubah jadi merpati dan terbang...^Beri persembahan sebuah Prismatic Shard?"
          },
          "WitchHut_EvilShrineLeftInactive": {
            "0": "-Dark Shrine of Selfishness-^Patungnya menatapmu...\n"
          },
          "WitchHut_EvilShrineCenter": {
-           "0": "-Dark Shrine of Memory-^Hubunganmu dengan mantan pasanganmu akan dihapus dari ingatannya. Kalian akan seperti orang yang belum pernah saling bertemu.^Beri persembahan sebesar 30,000g?\n"
+           "0": "-Dark Shrine of Memory-^Hubunganmu dengan mantan pasanganmu akan dihapus dari ingatannya. Kalian akan seperti orang yang belum pernah bertemu.^Beri persembahan sebesar 30,000g?\n"
          },
          "WitchHut_Goodbye": {
            "0": "Selamat tinggal, {0}."
@@ -20599,10 +20599,10 @@
            "0": "-Dark Shrine of Memory-^Patungnya menatapmu...\n"
          },
          "WitchHut_EvilShrineRightActivate": {
-           "0": "-Dark Shrine of Night Terrors-^Segel sihir kuno pelindung akan dibuka, dan monster-monster akan muncul di kebunmu pada malam hari.^Beri persembahan sebuah Strange Bun?\n"
+           "0": "-Dark Shrine of Night Terrors-^Segel pelindung kuno akan dibuka, dan monster-monster akan muncul di kebunmu pada malam hari.^Beri persembahan sebuah Strange Bun?\n"
          },
          "WitchHut_EvilShrineRightDeActivate": {
-           "0": "\n -Dark Shrine of Night Terrors-^Segel sihir kuno pelindung akan dikembalikan, mencegah monster-monster muncul di kebunmu pada malam hari.^Beri persembahan sebuah Strange Bun?\n"
+           "0": "\n -Dark Shrine of Night Terrors-^Segel pelindung kuno akan dikembalikan, mencegah monster-monster muncul di kebunmu pada malam hari.^Beri persembahan sebuah Strange Bun?\n"
          },
          "WitchHut_NoOffering": {
            "0": "Kamu tidak punya persembahan yang dibutuhkan."
@@ -20617,7 +20617,7 @@
            "0": "Tingkatkan Cabin"
          },
          "AdventureGuild_ItemRecovery": {
-           "0": "Layanan Penyelamatan Item"
+           "0": "Layanan Pencari Item"
          },
          "AdventureGuild_Greeting": {
            "0": "Butuh sesuatu?"
@@ -20656,7 +20656,7 @@
            "0": "Sederet pewarna kain dengan warna terang."
          },
          "Caroline_Sunroom_Door": {
-           "0": "Caroline hanya mengizinkan temannya yang memasuki sini..."
+           "0": "Hanya teman Caroline yang boleh masuk..."
          },
          "Caroline_Tea_Event1": {
            "0": "Saat aku sendirian dengan menikmati teh..."
@@ -20668,394 +20668,450 @@
            "0": "Siapa tahu apa yang akan muncul?"
          },
          "Desert_Trader_Closed": {
-           "0": "Tutup sampai tanggal 18 untuk pasar malam Desa Pelican."
+           "0": "Tutup sampai tanggal 18 untuk Night Market di Pelican Town."
          },
          "Farm_OtherPlayerMailbox": {
            "0": "Itu bukan kotak suratmu."
          },
          "BoatTunnel_BuyTicket": {
-           "0": "Buy a ticket for {0}g?"
+           "0": "Beli tiket seharga {0}g?"
          },
          "IslandNorth_CaveHelp_0": {
-           "0": "Help!"
+           "0": "Tolong!"
          },
          "IslandNorth_CaveHelp_1": {
-           "0": "Anyone there?"
+           "0": "Ada orang?"
          },
          "IslandNorth_CaveHelp_2": {
-           "0": "I'm stuck!"
+           "0": "Aku tersangkut!"
          },
          "IslandNorth_CaveHelp_3": {
-           "0": "Over here!"
+           "0": "Di sini!"
          },
          "IslandNorth_CaveTool_0": {
-           "0": "That won't work."
+           "0": "Tidak mempan."
          },
          "IslandNorth_CaveTool_1": {
-           "0": "It's too weak."
+           "0": "Terlalu lemah."
          },
          "IslandNorth_CaveTool_2": {
            "0": "Hmm..."
          },
          "IslandNorth_CaveTool_3": {
-           "0": "Try something else."
+           "0": "Coba yang lain."
          },
          "IslandNorth_Event_SafariManAppear": {
-           "0": "tropical_island_day_ambient"
+           "11": "speak SafariGuy \"Thank you! I thought I was done for... $h#$b#I've been stuck in this cave for months!\"",
+           "18": "speak SafariGuy \"...One more cave mushroom salad and I would've gone off the deep end... *shudder* ...so rubbery...$s\"",
+           "25": "speak SafariGuy \"Anyway... I'm Professor Snail.#$b#I've been conducting a survey of this island's flora and fauna for the last year. Truly a remarkable place!\"",
+           "30": "speak SafariGuy \"Well, I think I'll go back to my tent and freshen up a little. I'm afraid I smell like mushrooms...$s#$b#Hey... you should stop by the tent sometime! An enterprising individual like yourself could be a major asset in my projects... hee hee! Farewell.$h\""
          },
          "IslandFieldOffice_Welcome_0": {
-           "0": "Greetings!"
+           "0": "Salam!"
          },
          "IslandFieldOffice_Welcome_1": {
-           "0": "Hello!"
+           "0": "Halo!"
          },
          "IslandFieldOffice_Welcome_2": {
-           "0": "Hey!"
+           "0": "Hei!"
          },
          "IslandFieldOffice_Welcome_3": {
-           "0": "Welcome!"
+           "0": "Selamat datang!"
          },
          "IslandFieldOffice_Survey_Yes": {
-           "0": "Ready to report"
+           "0": "Siap melapor"
          },
          "IslandFieldOffice_Survey_Notyet": {
-           "0": "Not ready"
+           "0": "Belum siap"
          },
          "IslandFieldOffice_Survey_Prompt_LeftPlant": {
-           "0": "Island Survey -- Please report the number of purple flowers present on the island."
+           "0": "Survei Pulau -- Tolong laporkan jumlah bunga ungu yang ada di pulau."
          },
          "IslandFieldOffice_Survey_PurpleFlower_Question": {
-           "0": "How many purple flowers can be found on the island?"
+           "0": "Ada berapa bunga ungu yang kau temukan di pulau?"
          },
          "IslandFieldOffice_Survey_PurpleFlower_Wrong": {
-           "0": "Hmm... That number doesn't fit my models at all... Maybe you should give it another shot tomorrow.$s"
+           "0": "Hmm... Jumlahnya tidak sesuai dengan replikaku... Coba lagi besok.$s"
          },
          "IslandFieldOffice_Survey_PurpleFlower_Correct": {
-           "0": "Yes, yes... that seems very accurate. Thank you!$h"
+           "0": "Ya, ya... itu sangat akurat. Terima kasih!$h"
          },
          "IslandFieldOffice_Survey_Prompt_RightPlant": {
-           "0": "Island Survey -- Please report the number of purple starfish present on the island."
+           "0": "Survei Pulau -- Tolong laporkan jumlah bintang laut ungu yang ada di pulau."
          },
          "IslandFieldOffice_Survey_PurpleStarfish_Question": {
-           "0": "How many purple starfish can be found on the island?"
+           "0": "Ada berapa bintang laut ungu yang kau temukan di pulau?"
          },
          "IslandFieldOffice_Survey_Failed": {
-           "0": "Hmm... I think you should take a break and try doing the survey again tomorrow..."
+           "0": "Hmm... Lebih baik kau istirahat dulu dan coba menyurvei lagi besok..."
          },
          "IslandFieldOffice_Intro_Event": {
-           "0": "fieldofficeTentMusic"
+           "12": "speak SafariGuy \"Ah... Come in!\"",
+           "17": "speak SafariGuy \"Welcome to my field office.\"",
+           "23": "speak SafariGuy \"As you can see... it's quite empty.$s#$b#Getting stuck in that cave was a huge setback to my project.$s\"",
+           "29": "speak SafariGuy \"But that's where you come in! Hee hee...$h\"",
+           "32": "speak SafariGuy \"I'm in the bone business, you see...#$b#Ancient bones, in particular... And this island is full of them.#$b#So if you ever encounter any bones, fossils, or mummified specimens on this island, bring them to my desk, okay? I'll make it worth your while!$h\""
          },
          "ScienceHouse_CarpenterMenu_RenovateHouse": {
-           "0": "Make House Renovations"
+           "0": "Buat Renovasi Rumah"
          },
          "ScienceHouse_CarpenterMenu_RenovateCabin": {
-           "0": "Make Cabin Renovations"
+           "0": "Buat Renovasi Kabin"
          },
          "ScienceHouse_Renovation_RemoveCrib": {
-           "0": "Remove Crib"
+           "0": "Hapus Tempat Tidur Bayi",
+           "1": "Membuang tempat tidur bayi dari rumahmu.",
+           "2": "Pilih yang mau dibuang."
          },
          "ScienceHouse_Renovation_BuildCrib": {
-           "0": "Build Crib"
+           "0": "Bangun Tempat Tidur Bayi",
+           "1": "Tambah tempat tidur bayi di rumahmu.",
+           "2": "Pilih lokasi."
          },
          "ScienceHouse_Renovation_OpenBedroom": {
-           "0": "Open Bedroom"
+           "0": "Buka Kamar Tidur",
+           "1": "Hilangkan dinding yang memisahkan kamarmu dengan ruang tamu.",
+           "2": "Pilih area untuk renovasi."
          },
          "ScienceHouse_Renovation_CloseBedroom": {
-           "0": "Close Bedroom"
+           "0": "Tutup Kamar Tidur",
+           "1": "Bangun dinding yang memisahkan kamarmu dengan ruang tamu.",
+           "2": "Pilih area untuk renovasi."
          },
          "ScienceHouse_Renovation_AddSouthernRoom": {
-           "0": "Add Southern Room"
+           "0": "Tambah Ruangan Utara",
+           "1": "Tambah ruangan baru di selatan kamarmu.",
+           "2": "Pilih area untuk renovasi."
          },
          "ScienceHouse_Renovation_RemoveSouthernRoom": {
-           "0": "Remove Southern Room"
+           "0": "Hapus Ruangan Utara",
+           "1": "Hilangkan ruangan di selatan kamarmu.",
+           "2": "Pilih area untuk renovasi."
          },
          "ScienceHouse_Renovation_AddCornerRoom": {
-           "0": "Add Corner Room"
+           "0": "Tambah Ruangan Pojok",
+           "1": "Tambah ruangan baru di timur laut dalam rumahmu.",
+           "2": "Pilih area untuk renovasi."
          },
          "ScienceHouse_Renovation_RemoveCornerRoom": {
-           "0": "Remove Corner Room"
+           "0": "Hapus Ruangan Pojok",
+           "1": "Hilangkan ruangan di timur laut dalam rumahmu.",
+           "2": "Pilih area untuk renovasi."
          },
          "ScienceHouse_Renovation_AddCornerStairs": {
-           "0": "Add Corner Stairs"
+           "0": "Tambah Tangga Pojok",
+           "1": "Bangun tangga dari kamar menuju ruangan pojok.",
+           "2": "Pilih area untuk renovasi."
          },
          "ScienceHouse_Renovation_RemoveCornerStairs": {
-           "0": "Remove Corner Stairs"
+           "0": "Hapus Tanga Pojok",
+           "1": "Hilangkan tangga dari kamar menuju ruangan pojok.",
+           "2": "Pilih area untuk renovasi."
          },
          "ScienceHouse_Renovation_AddStairs": {
-           "0": "Add Stairs"
+           "0": "Tambah Tangga",
+           "1": "Bangun tangga di salah satu lokasi",
+           "2": "Pilih area untuk renovasi."
          },
          "ScienceHouse_Renovation_RemoveStairs": {
-           "0": "Remove Stairs"
+           "0": "Hapus Tangga",
+           "1": "Hilangkan salah satu tangga",
+           "2": "Pilih area untuk renovasi."
          },
          "Journal_Name": {
            "0": "Journal Scrap"
          },
          "IslandFarmhouse_Drawer": {
-           "0": "You open the drawer and find a tattered journal..."
+           "0": "Kau membuka laci dan menemukan jurnal jelek..."
          },
          "Gourmand_Intro": {
-           "0": "Kribbibbit... Whooo? You da farmer who tend-a da land outside me house, bub?"
+           "0": "Kribbibbit... Whooo? Kau petani yang merawat lahan di luar rumahku, bombo?"
          },
          "Gourmand_RequestIntro": {
-           "0": "Gurrp... Dah land once teemed wis fresh, fresh fooda... *sigh*... me wish ta seein' da teemin' once more."
+           "0": "Gurrp... Lahannya dulu penuh, penuh dengan makanan segar... *Hahh~*... aku ingin melihatnya rimbun lagi."
          },
          "Gourmand_RequestQuestion": {
-           "0": "You be growin' da thing outside now, bub?"
+           "0": "Kau mau menanam itu di luar, bombo?"
          },
          "Gourmand_RequestFailed": {
-           "0": "Kriibbitt... You no grow da thing I wish-a da see... Grow dis a thing and return-a ta me.."
+           "0": "Kriibbitt... Kau belum menanam apa yang kuinginkan... Tanam dulu, baru bicara lagi padaku.."
          },
          "Gourmand_Request_0": {
-           "0": "Grow you for me... da pink thing... da juicy thing..."
+           "0": "Tanamkan aku... benda merah muda... dan berair..."
          },
          "Gourmand_Request_0_Success": {
-           "0": "Gurrrp... Yes. Bombo pink... Bombo juicy...|...Bringin' me back to da good old days... sunny days when things bein' sweeter...|*slurp*... Me wanna take a big bombo juicy bite...|...But, me won't."
+           "0": "Gurrrp... Ya. Bombo merah muda... Bombo berair...|...Jadi teringat masa lalu... hari cerah dan segalanya masih manis...|*slurp*... Aku mau melahap bombo berair ini...|...Tapi, tidak jadi."
          },
          "Gourmand_Request_1": {
-           "0": "Me wanna see da longo yellow ticklin' thing... da thing dat be wavin' in the wind..."
+           "0": "Aku ingin melihat benda kuning panjang... bendanya akan goyang saat diterpa angin..."
          },
          "Gourmand_Request_1_Success": {
-           "0": "Gurrrp... Good. Bombo longo and when da run through it... bombo ticklin'.|Heh... remindin' me of an old girlfriend... *gurp*...|Heh... Now me wanna tickle-da you...|...But, me won't."
+           "0": "Gurrrp... Bagus. Bombo panjang kalau dimakan... bombo menggelitik.|Heh... Aku jadi ingat pacarku dulu... *gurp*...|Heh... Aku jadi ingin menggelitikmu...|...Tapi, tidak jadi."
          },
          "Gourmand_Request_2": {
-           "0": "Me wanna eat da zesty ground-fruit, but make da breath stink..."
+           "0": "Aku ingin makan buah masam, yang bikin mulut bau tidak enak..."
          },
          "Gourmand_Request_2_Success": {
-           "0": "Gurrrp... Yes... Me eatin' da thing once. Made da breath smell bombo bad...|...Remindin' me of Papa when I was just a tadpole...|Heh... Me wanna take a big bite, and smell bombo bad...|...But, me won't."
+           "0": "Gurrrp... Ya... Aku bisa memakannya lagi. Napasku baunya jadi tidak enak...|...Aku jadi ingat dengan Papa saat aku masih berudu...|Heh... Aku ingin makan ini, biar napasku bau...|...Tapi, tidak jadi."
          },
          "Gourmand_Reward": {
-           "0": "Kriibbitt... Yes... Thank-a da you. This bringin' me back... To da good times, long, long ago, bub...|Here... This da for you."
+           "0": "Kriibbitt... Ya... Terima kasih. Aku jadi teringat... dengan masa indah dulu, dulu sekali, kawan...|Ini... Hadiah buatmu."
          },
          "Gourmand_LastReward": {
-           "0": "Kriibbitt... Yes... Me remember everything now!|Thank-a da you for remindin' me so much.|This da one last reward for you, bub."
+           "0": "Kriibbitt... Ya... Aku sudah ingat semuanya!|Terima kasih sudah membantuku mengingat.|Ini hadiah terakhir buatmu, bombo."
          },
          "Gourmand_Finished": {
-           "0": "Kriibbitt... Good to see you again, bombo-friend.|I hope a you growin' da big bombo fruit, bub!"
+           "0": "Kriibbitt... Senang melihatmu lagi, bombo.|Kuharap kamu menanam buah besar, bombo!"
          },
          "Gourmand_InProgress": {
-           "0": "Ah... I see you growin' da thing. But it's still ding-ee small. Come back when it's bombo big..."
+           "0": "Ah... Kamu sedang menanam buahnya. Tapi masih kecil. Kembali lagi kalau sudah besar, bombo..."
          },
          "Saloon_Arcade_Cowboy_Menu": {
            "0": "= Journey Of The Prairie King ="
          },
          "Saloon_Arcade_Cowboy_Continue": {
-           "0": "Continue Journey"
+           "0": "Lanjutkan Petualangan"
          },
          "Saloon_Arcade_Cowboy_NewGame": {
-           "0": "Start New Journey"
+           "0": "Mulai Petualangan Baru"
          },
          "IslandHut_Event_ParrotBoyIntro": {
-           "0": "continue"
+           "11": "message \"Anak itu melihatmu dengan rasa penasaran...\"",
+           "25": "message \"Sepertinya dia punya ikatan kuat dengan burung betet itu.\"",
+           "27": "message \"Tapi dia terlalu malu untuk bicara padamu.\"",
+           "31": "message \"Mungkin berteman dengan betet akan membuat anak itu percaya padamu?\""
          },
          "IslandSecret_Event_BirdieIntro": {
-           "0": "tropical_island_day_ambient"
+           "11": "speak Birdie \"Oh... pengunjung?#$b#Mendekatlah, nak.\"",
+           "16": "speak Birdie \"Sudah berbulan-bulan aku tidak kedatangan tamu...$s#$b#Aku hampir lupa seperti apa wujud orang lain!\"",
+           "18": "speak Birdie \"Mumpung kamu ada di sini, sekalian aku mau minta bantuanmu.\"",
+           "20": "textAboveHead Birdie \"Ayo...\"",
+           "31": "speak Birdie \"Apa kau tahu kapal karam di pesisir selatan itu?#$b# Suamiku kapten kapal itu. Seorang bajak laut, dulunya.#$b#Suatu hari dia berlayar, tapi tidak pernah kembali. Aku harus berlayar tiga tahun untuk mencarinya.$s\"",
+           "33": "speak Birdie \"*Hahh~*...$s#$b#Dan sejak itu aku selalu di sini.$s#$b#...Melindungi tulang-tulangnya...\"",
+           "42": "speak Birdie \"Nak... Andai aku bisa menemukan kenang-kenangannya, aku akan merasa samai.$s\"",
+           "44": "textAboveHead Birdie \"Sebentar...\"",
+           "60": "speak Birdie \"Ini, ambillah. Itu foto tua yang terdampar ke pantai.#$b#Hanya itu yang bisa kuberikan... entah kenapa, firasatku bilang itu bisa membantumu menemukannya.\""
          },
          "IslandSecret_Event_BirdieFinished": {
-           "0": "tropical_island_day_ambient"
+           "26": "speak Birdie \"Ini miliknya...$s\"",
+           "33": "speak Birdie \"Heh... Benda ini wanginya masih seperti dia...#$b#...bau badan yang menyengat...$h\"",
+           "40": "speak Birdie \"Aku kesepian hidup di sini, nak... tapi aku tidak menyesal sama sekali.#$b#Aku nyaman di sisi suamiku... dan kami akan bersama lagi suatu saat... hehe\"",
+           "48": "speak Birdie \"Oke... Jadi apa yang bisa kuberikan padamu?\"",
+           "51": "speak Birdie \"Oh... Bagaimana kalau kuajari resep baru... Aku membuatnya setelah lama tinggal di sini.\"",
+           "55": "message \"Mengetahui cara merakit 'Fairy Dust'.\"",
+           "58": "speak Birdie \"Ambil ini juga...\"",
+           "61": "speak Birdie \"Meski belum akrab, tapi kau sudah sangat membantu wanita tua ini.#$b#Semoga kau diberkati!$h\""
          },
          "alreadyGotNuts": {
-           "0": "pause 50"
+           "3": "speak Birdie \"Meski belum akrab, tapi kau sudah sangat membantu wanita tua ini.#$b#Semoga kau diberkati!$h\""
          },
          "qiNutDoor": {
-           "0": "You hear a strange voice from behind the door...#'Only the greatest walnut hunters may enter here.'^ Your current status: {0}"
+           "0": "Kau dengar suara aneh dari balik pintu...#'Hanya pemburu Walnut terhebat yang boleh masuk.'^ Statusmu saat ini: {0}"
          },
          "BoatTunnel_DonateBatteries": {
-           "0": "Donate 5 battery packs to repair the ticket machine?"
+           "0": "Beri 5 battery packs untuk memperbaiki mesin tiket?"
          },
          "BoatTunnel_DonateHardwood": {
-           "0": "Donate 200 hardwood for hull repairs?"
+           "0": "Beri 200 hardwood untuk perbaikan lambung?"
          },
          "BoatTunnel_DonateIridium": {
-           "0": "Donate 5 iridium bars to repair the anchor?"
+           "0": "Beri 5 iridium bars untuk memperbaiki jangkar?"
          },
          "BoatTunnel_DonateBatteriesHint": {
-           "0": "This machine could be repaired with 5 battery packs."
+           "0": "Mesin ini bisa diperbaiki dengan 5 battery packs."
          },
          "BoatTunnel_DonateHardwoodHint": {
-           "0": "The hull could be repaired with 200 pieces of hardwood."
+           "0": "Lambung perahunya bisa diperbaiki dengan 200 hardwood."
          },
          "BoatTunnel_DonateIridiumHint": {
            "0": "The anchor could be repaired with 5 iridium bars."
          },
          "BoatTunnel_boatcomplete": {
-           "0": "All materials have been found!#The boat will be repaired overnight."
+           "0": "Semua material sudah terkumpul!#Perahunya akan diperbaiki malam ini."
          },
          "BoatTunnel_willyText_firstRide": {
-           "0": "She looks good as new!"
+           "0": "Dia bagus seperti baru!"
          },
          "BoatTunnel_willyText_random0": {
-           "0": "Sorry if I smell like fish, heh!"
+           "0": "Maaf kalau bauku amis, heh!"
          },
          "BoatTunnel_willyText_random1": {
            "0": "Ahoy!"
          },
          "AnimalHouse_Incubator_Hatch_Ostrich": {
-           "0": "A new ostrich chick hatched... it's a big one!"
+           "0": "Anak burung unta baru menetas... ukurannya besar!"
          },
          "FieldOfficeFinale": {
-           "0": "distantBanjo"
+           "10": "speak SafariGuy \"Wow...#$b#Lihat hasil kerja keras kita!$h\"",
+           "12": "speak SafariGuy \"Koleksinya tampak luar biasa, semua ini berkatmu, @.\"",
+           "14": "speak SafariGuy \"Sebagai ucapan 'terima kasih', aku ingin mengajarimu sesuatu.\"",
+           "18": "message \"Mengetahui cara merakit 'Ostrich Incubator'\"",
+           "20": "speak SafariGuy \"Alat ini bisa membuatmu merawat burung unta di rumah. Taruh inkubatornya di Barn, taruh telur burung unta di dalamnya, dan tunggu...\"",
+           "22": "speak SafariGuy \"Tapi, untuk mendapatkan telurnya itu beda cerita lagi... Aku serahkan hal itu padamu!\"",
+           "26": "speak SafariGuy \"Heh... Baiklah... sekarang pekerjaanku baru dimulai.#$b#Aku bisa mempelajari tulang-tulang ini selama beberapa tahun!\"",
+           "29": "speak SafariGuy \"Sampai jumpa, @!\""
          },
          "NutHint_Squawk": {
            "0": "*Awk*"
          },
          "NutHint_VolcanoLava": {
-           "0": "Fire mountain... Hidden down fire river..."
+           "0": "Gunung api... Tersembunyi dibalik sungai api..."
          },
          "NutHint_BuriedArch": {
-           "0": "Buried near bones..."
+           "0": "Terkubur dekat tulang belulang..."
          },
          "NutHint_Arch": {
-           "0": "Help man in tent..."
+           "0": "Bantu orang di tenda..."
          },
          "NutHint_NorthBuried": {
-           "0": "{0} buried in the north..."
+           "0": "{0} terkubur di utara..."
          },
          "NutHint_WestBuried": {
-           "0": "{0} buried in the west..."
+           "0": "{0} terkubur di barat..."
          },
          "NutHint_SouthBuried": {
-           "0": "{0} buried in the south..."
+           "0": "{0} terkubur di selatan..."
          },
          "NutHint_NorthHidden": {
-           "0": "{0} hidden in the north..."
+           "0": "{0} tersembunyi di utara..."
          },
          "NutHint_HutTree": {
-           "0": "Bulging very close by..."
+           "0": "Sembunyi sangat dekat..."
          },
          "NutHint_TigerSlime": {
-           "0": "Stripey slimes to the west..."
+           "0": "Slime berloreng di barat..."
          },
          "NutHint_MusselStone": {
-           "0": "{0} stuck in shelly stones by shore..."
+           "0": "{0} terjebak di batu karang di tepi pantai..."
          },
          "NutHint_IslandFarming": {
-           "0": "{0} grow on the farm to the west..."
+           "0": "{0} tumbuh di barat kebun..."
          },
          "NutHint_WestHidden": {
-           "0": "{0} hidden in the west..."
+           "0": "{0} tersembunyi di barat..."
          },
          "NutHint_IslandFishing": {
-           "0": "{0} deep in the water..."
+           "0": "{0} ada di dalam perairan..."
          },
          "NutHint_VolcanoTreasure": {
-           "0": "{0} hidden in fire mountain treasures..."
+           "0": "{0} tersembunyi di harta karun gunung api..."
          },
          "NutHint_VolcanoBarrel": {
-           "0": "{0} encased in fire mountain gadgets..."
+           "0": "{0} tersembunyi di alat pada gunung api..."
          },
          "NutHint_VolcanoMining": {
-           "0": "{0} nutty stone in fire mountain..."
+           "0": "{0} dalam batuan aneh di gunung api..."
          },
          "NutHint_VolcanoMonsters": {
-           "0": "{0} taken by monsters in fire mountain..."
+           "0": "{0} disembunyikan monster di gunung api..."
          },
          "NutHint_Journal": {
-           "0": "Hidden in the pages of the journal..."
+           "0": "Tersembunyi di halaman jurnal..."
          },
          "NutHint_SouthEastBuried": {
-           "0": "{0} buried... Pirate's cove..."
+           "0": "{0} dikubur... Teluk bajak laut..."
          },
          "NutHint_StardropPool": {
-           "0": "Bathing in the heart of the star..."
+           "0": "Bermandikan cahaya bintang..."
          },
          "NutHint_Caldera": {
-           "0": "Atop fire mountain..."
+           "0": "Di puncak gunung api..."
          },
          "NutHint_Gourmand": {
            "0": "Kribbit... Gurrrp..."
          },
          "NutHint_IslandShrine": {
-           "0": "Hidden shrine in rain forest..."
+           "0": "Kuil tersembunyi di hutan hujan..."
          },
          "NutHint_GoldenCoconut": {
-           "0": "Inside hard, gold thing..."
+           "0": "Di dalam benda emas yang keras..."
          },
          "IslandSouth_ResortOpenSign": {
-           "0": "The beach resort is open. Temporarily close it down tomorrow?"
+           "0": "Resort pantai sedang buka. Mungkin tutup sementara besok?"
          },
          "IslandSouth_ResortOpenWillCloseSign": {
-           "0": "The beach resort will temporarily close tomorrow. Keep it open?"
+           "0": "Resort pantai tutup sementara besok. Mau buka?"
          },
          "IslandSouth_ResortClosedSign": {
-           "0": "The beach resort is temporarily closed. Open it back up tomorrow?"
+           "0": "Resort pantai sementara tutup. Mau buka lagi besok?"
          },
          "IslandSouth_ResortClosedWillOpenSign": {
-           "0": "The beach resort will open back up tomorrow. Keep it closed?"
+           "0": "Resort pantai akan buka lagi besok. Mau tutup?"
          },
          "IslandSouth_ResortWillOpenSign": {
-           "0": "The beach resort will be open tomorrow."
+           "0": "Resort pantai akan buka lagi besok."
          },
          "IslandSouth_ResortWillCloseSign": {
-           "0": "The beach resort will be closed tomorrow."
+           "0": "Resort pantai akan tutup besok."
          },
          "ManorHouse_LAF_Check": {
-           "0": "The town's 'Lost and Found' box."
+           "0": "Kotak Barang Hilang milik kota."
          },
          "ManorHouse_LAF_Check_OrdersUnlocked": {
-           "0": "The town's 'Lost and Found' box. You can collect incomplete deliveries from past special orders here."
+           "0": "Kotak Barang Hilang milik kota. Kau bisa mengambil kiriman yang belum selesai dari Special Order di kotak ini."
          },
          "ManorHouse_LAF_DonationItems": {
-           "0": "Collect lost items and incomplete deliveries"
+           "0": "Ambil barang hilang dan kiriman yang belum selesai"
          },
          "ManorHouse_LAF_FarmhandItems": {
-           "0": "Retrieve items from offline farmhands"
+           "0": "Ambil item dari pemilik kebun offline"
          },
          "ManorHouse_LAF_FarmhandItemsQuestion": {
-           "0": "Who would you like to retrieve items from?"
+           "0": "Mau mengambil item untuk siapa?"
          },
          "FieldOfficeDonated_0": {
-           "0": "Ah... Now this is a truly fascinating piece of natural history! Thank you."
+           "0": "Ah... Ini jejak sejarah yang menarik! Terima kasih."
          },
          "FieldOfficeDonated_1": {
-           "0": "Beautiful! These bones are exactly what I'm looking for. Now, let me clean my magnifying lens..."
+           "0": "Sangat indah! Ini tulang yang aku cari-cari. Aku mau bersihkan kaca pembesarku dulu..."
          },
          "FieldOfficeDonated_2": {
-           "0": "You've outdone yourself, @. This is one of the most pristine specimens I've ever seen. Thank you!$h"
+           "0": "Kau hebat sekali, @. Ini salah satu spesimen terbesih yang pernah kulihat. Terima kasih!$h"
          },
          "FieldOfficeDonated_3": {
-           "0": "To think... generations have come and gone while this little bone lay hidden beneath the soil. Now it's mine!"
+           "0": "Mengagumkan... generasi silih berganti dan tulang kecil ini selalu bersembunyi di bawah tanah. Sekarang ini milikku!"
          },
          "FieldOfficeDonated_Reward": {
-           "0": "And would you look at that! With this donation, we've got another full set piece completed.$h#$b#I've got a little something waiting for you behind the counter, when you're ready for it!"
+           "0": "Lihat itu! Dengan donasi ini, satu set lagi telah komplit.$h#$b#Ada sesuatu buatmu di balik meja depan, nanti kalau kau sudah siap!"
          },
          "Volcano_ShortcutOut": {
-           "0": "Take the shortcut out of the volcano?"
+           "0": "Ambil jalan pintas ke gunung berapi?"
          },
          "SeedShop_MoneyBox": {
-           "0": "I'm taking the day off to visit the island. Please place your money in the box. No cheating!^ -Pierre"
+           "0": "Aku sedang berlibur di pulau. Taruh uangmu di kotak. Jangan mencuri!^ -Pierre"
          },
          "AnimalShop_MoneyBox": {
-           "0": "I'm visiting the island today. If you need to buy anything, just leave the money in this box!^ -Marnie"
+           "0": "Aku pergi ke pulau hari ini. Kalau mau beli sesuatu, taruh saja uangnya di kotak ini!^ -Marnie"
          },
          "Saloon_MoneyBox": {
-           "0": "I'm tending the bar on Ginger Island today, but I won't let that stop you from buying something!^ -Gus"
+           "0": "Hari ini aku melayani bar di Ginger Island, tapi kamu masih boleh membeli sesuatu dari sini!^ -Gus"
          },
          "ScienceHouse_MoneyBox": {
-           "0": "I'm on the island today, but you can still buy something. It's an honor system!^ -Robin"
+           "0": "Aku sedang di pulau, kau boleh membeli sesuatu. Pakai sistem kepercayaan!^ -Robin"
          },
          "ChallengeShrine_NotYetHard": {
-           "0": " --Shrine Of Challenge--^Dispel the ancient magi-seal of protection, allowing powerful monsters to ascend from the deep?"
+           "0": " --Shrine Of Challenge--^Matikan segel proteksi kuno, ini membuat monster kuat muncul dari dalam tanah?"
          },
          "ChallengeShrine_AlreadyHard": {
-           "0": " --Shrine Of Challenge--^Summon an ancient magi-seal protection, returning the mines to their original state?"
+           "0": " --Shrine Of Challenge--^Aktifkan segel proteksi kuno, ini mengembalikan tambang seperti biasanya?"
          },
          "ChallengeShrine_Activated": {
-           "0": "Your request will be granted overnight."
+           "0": "Permohonanmu akan dikabulkan malam ini."
          },
          "ChallengeShrine_AlreadyActive": {
-           "0": "You've already put in a request."
+           "0": "Kau sudah membuat permintaan."
          },
          "ChallengeShrine_OnQiChallenge": {
-           "0": "There's a note from Mr. Qi: ^ I've temporarily disabled this shrine. Come back tomorrow!"
+           "0": "Ada catatan dari Mr. Qi: ^ Untuk sementara, aku menutup Shrine ini. Kembali lagi besok!"
          },
          "Gil_Telephone": {
-           "0": "Hey. 150 Magma Sprites, huh? I'm impressed.#$b#Tell you what... I'm gonna give you Marlon's tellie-phone number. He don't like me givin' it out, but I think you've earned it.#$b#If you ever need to use the Item Recovery Service, but don't wanna run all the way out here... just give us a ring. Sound good?"
+           "0": "Hei. 150 Magma Sprites, ya? Aku kagum.#$b#Begini... aku akan memberimu nomor telepon Marlon. Dia tidak suka membaginya, tapi kurasa kau sudah layak.#$b#Kalau butuh Layanan Pencarian Item, tapi malas jauh-jauh ke sini... tinggal telpon saja. Bagaimana?"
          },
          "AdventureGuild_KillList_MagmaSprite": {
            "0": "Magma Sprites"
          },
          "AnimalHouse_Incubator_HouseFull": {
-           "0": "An egg is ready to hatch, but the building is full."
+           "0": "Ada telur yang mau menetap, tapi kandangnya penuh."
          },
          "SandDuggy": {
            "0": "Sand Duggy"
@@ -21064,16 +21120,16 @@
            "0": "Traveling Merchant"
          },
          "ScienceHouse_Carpenter_CommunityUpgrade2": {
-           "0": "...What's that? You'd like me to add a few shortcuts around the valley? Sure, I can do that!^I'll just need 300,000g..."
+           "0": "...Apa? Kau ingin dibuatkan beberapa jalan pintas di lembah? Tentu, aku sanggup!^Aku cuma butuh 300,000g..."
          },
          "AnimalHouse_Incubator_Hatch_GoldenEgg": {
-           "0": "A sparkling golden chick hatched!"
+           "0": "Anak ayam emas telah menetas!"
          },
          "SummitBoulder": {
-           "0": "It seems impossible to budge..."
+           "0": "Sepertinya mustahil dipindahkan..."
          },
          "Hint": {
-           "0": "Hint"
+           "0": "Petunjuk"
          }
        }
      },
