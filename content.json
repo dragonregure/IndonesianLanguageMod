@@ -11375,16 +11375,17 @@
             "6": {
                "1": "Permulaan",
                "2": "Kalau mau jadi petani, mulailah dari dasar-dasarnya. Pakai cangkulmu untuk membajak tanah, lalu tanam benih pada tanah yang sudah dibajak. Siram setiap hari sampai tanamanmu siap untuk dipanen.",
+               "2": "Kalau mau jadi petani, mulailah dari dasar-dasarnya. Pakai cangkulmu untuk membajak tanah, lalu tanam benihnya. Siram setiap hari sampai tanamanmu siap dipanen.",
                "3": "Tanam lalu panen Parsnip."
             },
             "7": {
                "1": "Merawat Hewan",
-               "2": "Robin, si tukang kayu, tinggal di utara kota. Dengan membawa uang dan material, dia akan membangun bangunan baru di kebunmu. Mintalah untuk dibuatkan Coop atau Barn agar kamu bisa mulai merawat hewan ternak.",
+               "2": "Robin, si tukang kayu, tinggal di utara kota. Dengan membawa uang dan material, dia akan membuat bangunan baru di kebunmu. Mintalah untuk dibuatkan Coop atau Barn agar kamu bisa mulai merawat hewan ternak.",
                "3": "Bangun Coop."
             },
             "8": {
                "1": "Peningkatan",
-               "2": "Setiap kau mendapatkan experience, kau akan mendapat resep merakit baru untuk menambah penghasilan dan mempermudah pekerjaan. Contohnya Scarecrow, item ini berfungsi untuk mencegah burung gagak merusak tanamanmu.",
+               "2": "Semakin sering dapat 'XP', kamu akan dapat resep merakit baru untuk menambah penghasilan dan mempermudah pekerjaan. Contohnya Scarecrow, item ini berfungsi untuk mencegah burung gagak merusak tanamanmu.",
                "3": "Capai Farming level 1 dan rakit sebuah Scarecrow."
             },
             "9": {
@@ -11394,27 +11395,27 @@
             },
             "10": {
                "1": "Copper Ore",
-               "2": "Kau menemukan sebongkah copper ore. Kau tidak tahu apa gunanya, tapi mungkin seorang pandai besi tahu.",
-               "3": "Bawa copper ore ke toko pandai besi Clint."
+               "2": "Kau menemukan sebongkah Copper Ore. Kau tidak tahu apa gunanya, tapi mungkin seorang pandai besi akan tahu.",
+               "3": "Bawa Copper Ore ke toko pandai besi Clint."
             },
             "11": {
                "1": "Menempa",
-               "2": "Jika kau suka menambang, kau butuh a furnace.",
-               "3": "Craft Furnace."
+               "2": "Jika kau suka menambang, kau akan butuh sebuah Furnace.",
+               "3": "Buat sebuah Furnace."
             },
             "12": {
                "1": "Peleburan",
-               "2": "Dengan menggunakan furnace, kau bisa melebur beberapa logam. menurut petunjuk dari Clint, jika kau menaruh 5 copper ore dan 1 coal di dalam furnace, Furnance akan menghasilkan sebuah copper bar.",
-               "3": "Gunakan your furnace untuk membuat Copper Bar."
+               "2": "Dengan memakai Furnace, kau bisa melebur beberapa logam. Menurut petunjuk dari Clint, jika kau menaruh 5 Copper Ore dan 1 Coal ke dalam Furnace, alat itu akan menghasilkan sebuah Copper Bar.",
+               "3": "Gunakan Furnace-mu untuk membuat Copper Bar."
             },
             "13": {
                "1": "Pergi Ke Pantai",
-               "2": "Seseorang bernama Willy menyuruhmu untuk temui dia di pantai di bagian selatan kota. Dia bilang ada sesuatu yang ingin beri padamu.",
+               "2": "Seseorang bernama Willy menyuruhmu untuk temui dia di pantai di bagian selatan kota. Dia bilang ada sesuatu yang ingin dia berikan.",
                "3": "Pergi ke pantai di bagian selatan kota sebelum jam 5:00pm."
             },
             "14": {
                "1": "Menjelajahi Tambang",
-               "2": "Ada sebuah terowongan pertambangan di dalam gunung di utara kota. Kemungkinan banyak mineral yang berguna disana, tapi Marlon mengingatkan bahwa disana mungkin berbahaya.",
+               "2": "Ada tambang tua di dalam gunung di utara kota. Mungkin ada banyak mineral yang berharga di sana, tapi Marlon bilang di sana mungkin berbahaya.",
                "3": "Capai lantai 5 tambang."
             },
             "15": {
@@ -11424,17 +11425,17 @@
             },
             "16": {
                "1": "Inisiasi",
-               "2": "Kau berhasil mengalahkan 10 slime. sekarang kau bisa memasuki Adventurer's Guild.",
+               "2": "Kau berhasil mengalahkan 10 slime. Sekarang kau bisa memasuki Adventurer's Guild.",
                "3": "Masuki Adventurer's Guild."
             },
             "17": {
                "1": "Jauh Di Dalam Tambang",
-               "2": "Sepertinya lift tambang masih berfungsi. lift ini berfungsi untuk mengantarmu ke pintu lift yang telah kau temukan sebelumnya. Diperuntukkan untuk ekspedisi lantai bawah.",
+               "2": "Sepertinya lift tambang masih berfungsi. Lift-nya berfungsi untuk mengantarmu ke lantai manapun yang telah kau temukan sebelumnya. Diperuntukkan untuk ekspedisi lantai bawah.",
                "3": "Capai lantai 40 tambang."
             },
             "18": {
                "1": "Lantai Dasar Tambang?",
-               "2": "sejauh ini, tidak ada tanda - tanda dari lantai dasar tambang. sampai sejauh manakah?",
+               "2": "Sejauh ini, tidak ada tanda-tanda dari lantai dasar tambang. Sampai sejauh manakah itu?",
                "3": "Capai lantai dasar tambang."
             },
             "19": {
@@ -11444,53 +11445,53 @@
             },
             "20": {
                "1": "Tantangan Qi",
-               "2": "Kau di tantang untuk pergi ke lantai 25 skull cavern. Kau akan dijanjikan hadiah yang menjanjikan jika behasil.",
+               "2": "Kau di tantang untuk pergi ke lantai 25 di skull cavern. Kau akan dijanjikan hadiah menggiurkan jika behasil.",
                "3": "Capai lantai 25 Skull Cavern."
             },
             "21": {
-               "1": "Pemintaan Marnie",
-               "2": "Marnie datang ke kebunmu dan memintamu untuk mebawakannya sebuah cave carrot. Dia ingin mengajari kambingnya berbicara, dan cave carrot adalah makanan kesukaan kambingnya.",
-               "3": "bawakan Cave Carrot ke Marnie."
+               "1": "Permintaan Marnie",
+               "2": "Marnie datang ke kebunmu dan memintamu untuk membawakannya sebuah Cave Carrot. Dia ingin mengajari kambingnya berbicara, dan Cave Carrot adalah makanan kesukaan kambingnya.",
+               "3": "Bawakan Cave Carrot ke Marnie."
             },
             "22": {
-               "1": "Masakan Ikan",
-               "2": "Jodi datang ke kebunmu dan mengajakmu makan malam jam 7:00 PM.Dia memintamu untuk membawakannya seekor largemouth bass untuk masakannya.",
-               "3": "Masuk ke rumah Jodi dengan membawa largemouth bass saat jam 7:00 PM."
+               "1": "Casserole Ikan",
+               "2": "Jodi datang ke kebunmu dan mengajakmu makan malam jam 7:00. Dia minta tolong untuk dibawakan seekor Largemouth Bass buat masakannya.",
+               "3": "Masuk ke rumah Jodi dengan membawa Largemouth Bass pada jam 7:00 PM."
             },
             "23": {
                "1": "Arkeologi",
-               "2": "Kau menemukan sebuah benda yang terlihat kuno. Apakah ini sebuah artifak peningglan zaman dulu? Mungkin Gunther, si penjaga musium, punya jawabannya.",
-               "3": "Temui Gunther di musium."
+               "2": "Kau menemukan sebuah benda yang terlihat kuno. Apa ini sebuah artefak peningglan zaman dulu? Mungkin Gunther, si kurator museum, punya jawabannya.",
+               "3": "Temui Gunther di museum."
             },
             "24": {
                "1": "Arkeologi",
-               "2": "Gunther memintamu untuk medonasikan artifak atau mineral baru yang kau temukan ke musium. Dia bilang dai akan memberimu imbalan untuk beberapa donasimu.",
-               "3": "Donasikan artifak atau mineral ke musium."
+               "2": "Gunther minta tolong padamu untuk mendonasikan artefak atau mineral baru yang kau temukan ke museum. Dia bilang akan memberimu imbalan untuk beberapa donasimu.",
+               "3": "Donasikan artefak atau mineral ke museum."
             },
             "25": {
                "1": "Cara Mendapatkan Teman",
-               "2": "Memberi hadiah adalah cara terbaik untuk mempererat pertemanan. Cari tahu hal - hal yang disukai setiap orang dan tidak lama kau akan menjadi populer.",
+               "2": "Memberi hadiah adalah cara terbaik untuk mempererat pertemanan. Cari tahu hal-hal yang disukai setiap orang dan kamu akan menjadi populer.",
                "3": "Beri seseorang hadiah."
             },
             "26": {
                "1": "\"Masalah Tikus\"",
-               "2": "Ada sesuatu hal aneh yang terjadi di Community Center...",
+               "2": "Ada hal aneh yang terjadi di Community Center...",
                "3": "Selidiki Community Center"
             },
             "27": {
                "1": "Masalah Goblin ",
-               "2": "Ada goblin yang menghalangi jalan ke arah Witch's hut. pasti ada satu cara agar dia bisa pergi... Mungkin aku harus mencari informasi lebih tentang Goblin.",
-               "3": "Buat jalur ke Witch's hut."
+               "2": "Ada goblin yang menghalangi jalan ke arah Witch's Hut. Pasti ada cara agar dia mau pergi... Mungkin aku harus mencari informasi lebih tentang Goblin.",
+               "3": "Cari cara untuk masuk ke Witch's Hut."
             },
             "28": {
                "1": "Dark Talisman",
-               "2": "Wizard memintaku untuk mengambil tinta ajaib dari rumah mantan istrinya... tapi untuk ke sana aku butuh dark talisman.",
-               "3": "Masuki sewer dan tanya pada Krobus tentang dark talisman."
+               "2": "Wizard memintaku untuk mengambil Magic Ink dari rumah mantan istrinya... tapi untuk ke sana aku butuh Dark Talisman.",
+               "3": "Masuki selokan dan tanya pada Krobus tentang Dark Talisman."
             },
             "29": {
-               "1": "Strange Note",
+               "1": "Catatan Aneh",
                "2": "Kau menemukan catatan, sangat sulit dibaca, meminta untuk membawakan \"seerrop meepaal\" ke \"seecrit wuds\".",
-               "3": "Bring \"seerrop meepaal\" ke \"seecrit wuds\""
+               "3": "Bawa \"seerrop meepaal\" ke \"seecrit wuds\""
             },
             "30": {
                "1": "Cryptic Note",
@@ -11499,98 +11500,115 @@
             },
             "31": {
                "1": "Misteri Musim Dingin",
-               "2": "Kau melihat figur misterius mencurigakan di tempat bis. Saat figur itu melihatmu, ia lari kearah kota. Dimanakah ia berada?",
-               "3": "Temukan figur misterius."
+               "2": "Kau melihat sosok mencurigakan di halte bis. Saat sosok itu melihatmu, ia lari kearah kota. Dimanakah ia berada?",
+               "3": "Temukan sosok misterius itu."
             },
             "100": {
                "1": "Kapak Robin hilang",
-               "2": "Robin kehilangan kapak kesayangannya. Terakhir kali dia mengingat menggunakannya, pada saat dia memotong kayu di sebelah selatan peternakan Marnie.",
-               "3": "Temukan kapak Robin yang hilang."
+               "2": "Robin kehilangan kapak kesayangannya. Terakhir kali dia memakainya, pada saat dia memotong kayu di selatan peternakan Marnie.",
+               "3": "Temukan kapak Robin yang hilang.",
+               "9": "Hei, kau menemukan kapakku! Syukurlah... Jari kakiku hampir terpotong saat pakai kapak yang lain. Terima kasih!"
             },
             "101": {
                "1": "Permintaan Jodi",
-               "2": "Jodi butuh cauliflower segar untuk resep masakan yang dia buat. Dia memintamu untuk membawakannya satu.",
-               "3": "Bawakan Jodi cauliflower."
+               "2": "Jodi butuh Cauliflower segar untuk resep masakan yang dia buat. Dia minta tolong padamu untuk dibawakan satu.",
+               "3": "Bawakan Jodi Cauliflower.",
+               "9": "Oh, itu kelihatan lezat! Terima kasih, ini sesuai dengan yang kuminta. Kare kuningku pasti akan sempurna dengan ini"
             },
             "102": {
-               "1": " \"Celana\" Mayor",
-               "2": "Walikota Lewis kehilangan \"celana\" ungunya. Dia memintamu untuk menemukan dan mengembalikkan celana tersebut padanya... Secara rahasia.",
-               "3": "Cari dan kembalikan celana ungu Lewis."
+               "1": " \"Celana\" Walikota",
+               "2": "Walikota Lewis kehilangan \"celana\" ungunya. Dia memintamu untuk menemukan dan mengembalikan celana tersebut padanya... Secara rahasia.",
+               "3": "Cari dan kembalikan celana pendek ungu Lewis.",
+               "9": "Kau menemukannya... di mana? ...Oh!...Emm...Heh.#$b#Di sana? Aku tidak tahu kenapa bisa ada di sana...*Uhuk*#$b#Jangan beritahu orang lain, oke?$u"
             },
             "103": {
                "1": "Pam Haus",
-               "2": "Pam sangat ingin meminum pale ale. Dia tidak ingin bir yang biasa. Kau bisa membuat pale ale jika kau punya buah Hops dan sebuah keg.",
-               "3": "Bawakan Pam pale ale."
+               "2": "Pam ingin sekali meminum Pale Ale. Dia tidak ingin bir yang biasa. Kau bisa membuat Pale Ale kalau punya buah Hops dan sebuah Keg.",
+               "3": "Bawakan Pam pale ale.",
+               "9": "Sini. *Glek*... Ahh, enaknya.#$b#Rasa dan kualitasnya bagus... terasa pinus dan masamnya, dan ringan untuk diminum.#$b#Makasih, nak. Ini sangat berarti bagiku. Kau sangat bisa diandalkan.$h"
             },
             "104": {
                "1": "Penelitian Tanaman",
-               "2": "Demetrius membutuhkan melon segar untuk penelitiannya.",
-               "3": "Bawakan Demetrius melon."
+               "2": "Demetrius membutuhkan Melon segar untuk penelitiannya.",
+               "3": "Bawakan Demetrius Melon.",
+               "9": "Sempurna! Ini yang kubutuhkan untuk risetku. Sulit untuk tidak memakannya! Terima kasih banyak.",
             },
             "105": {
                "1": "Terapi Lutut",
                "2": "George butuh hot pepper untuk meringankan pegal pada lututnya.",
-               "3": "Bawakan George Hot Pepper."
+               "3": "Bawakan George Hot Pepper.",
+               "9": "Lama sekali... hmmph... Setidaknya ini bagus. Makasih"
             },
             "106": {
                "1": "Perawatan Sapi",
-               "2": "Marnie ingin memberi sapinya perawatan spesial. Dia memintamu seikat amaranth.",
-               "3": "Bawakan Marnie amaranth."
+               "2": "Marnie ingin memberi sapinya perawatan spesial. Dia meminta seikat Amaranth padamu.",
+               "3": "Bawakan Marnie Amaranth.",
+               "9": "Oh, Amaranth yang kuminta! Terima kasih banyak... sapi-sapiku akan menyukainya!$h"
             },
             "107": {
                "1": "Keranjang Blackberry",
-               "2": "ini adalah musim blackberry, tapi Linus tidak bisa menemukan keranjangnya! Dia memintamu untuk menolongnya untuk menemukan keranjang itu. Dia tidak tahu dimana letak keranjang itu sekarang.",
-               "3": "Temukan keranjang Linus lalu kembalikan padanya."
+               "2": "ini adalah musim Blackberry, tapi Linus tidak bisa menemukan keranjangnya! Dia minta tolong padamu untuk menemukan keranjang itu. Dia tidak tahu dimana letak keranjang itu sekarang.",
+               "3": "Temukan keranjang Linus lalu kembalikan padanya.",
+               "9": "Keranjangku! Terima kasih. Ini sangat berarti buatku.$h"
             },
             "108": {
                "1": "Mengukir Labu",
-               "2": "Caroline ingin mengukir sebuah labu berama putrinya. Dia memintamu untuk membawakannya sebuah labu dari kebunmu.",
-               "3": "Bawakan Caroline pumpkin."
+               "2": "Caroline ingin mengukir sebuah labu bersama putrinya. Dia meminta untuk dibawakan sebuah labu dari kebunmu.",
+               "3": "Bawakan Caroline Pumpkin.",
+               "9": "Oh, labunya! Ini bagus... Abigail akan suka saat melihatnya. Makasih, @!$h"
             },
             "109": {
                "1": "Menangkap Squid",
-               "2": "Willy menantangmu untuk menangkap seekor a squid. Dia bilang kau bisa menangkapnya di laut saat malam musim.",
-               "3": "Bawakan Willy squid."
+               "2": "Willy menantangmu untuk menangkap seekor Squid. Dia bilang kau bisa menangkapnya di laut saat malam musim dingin.",
+               "3": "Bawakan Willy seekor Squid.",
+               "9": "Hei, kau berhasil! Lumayan. Tidak buruk juga. Aku terkesan.#$b#Musim dingin adalah saat yang bagus untuk memancing kan?"
             },
             "110": {
                "1": "Usaha Clint",
-               "2": "Clint ingin kau memberi Emily sebuah amethyst. Dia ingin kau bilang pada Emily bahwa itu darinya.",
-               "3": "Bawakan Emily Amethyst."
+               "2": "Clint ingin kau memberi Emily sebuah Amethyst. Dia ingin kau bilang pada Emily bahwa itu darinya.",
+               "3": "Bawakan Emily Amethyst.",
+               "9": "Oh, batu favoritku! Kamu manis sekali!$h#$b#Hah? Dari siapa?$u#$b#Oh, kamu dapat ini dari tokonya Clint? Aku tidak peduli dari mana, batunya indah! Terima kasih! *mmwuah*$h"
             },
             "111": {
                "1": "Mantra Kegelapan",
                "2": "Wizard ingin kau masuk ke tambang dan mengambil Void Essence untuknya. Dia bembutuhkan benda itu untuk mantra gelapnya.",
-               "3": "Bawakan Wizard Void Essence."
+               "3": "Bawakan Wizard Void Essence.",
+               "9": "Ah, kau membawanya. Terima kasih banyak, dan ini hadiahmu 1000g. Pergi."
             },
             "112": {
                "1": "Bantuan untuk Clint",
-               "2": "Clint dapat sebuah palu baru dan dia ingin mengetes palu itu dengan logam yang bermacam - macam.",
-               "3": "Bawakan Clint Iron Bar."
+               "2": "Clint dapat palu baru dan dia ingin mengetesnya dengan berbagai macam logam.",
+               "3": "Bawakan Clint Iron Bar.",
+               "9": "Hei, ini Iron Bar yang kuminta. Kelihatan kokoh... terima kasih.#$b#Makasih, @. Aku menghargainya."
             },
             "113": {
                "1": "Permintaan Robin",
                "2": "Robin memintamu untuk membawakannya beberapa hardwood.",
-               "3": "Bawakan 10 Hardwood."
+               "3": "Bawakan 10 Hardwood.",
+               "9": "Oh, kau membawanya! Aku tahu kamu bisa diandalkan, @.$h#$b#Mmhmm... Kayunya sempurna. Sesuai dengan yang kuminta. Makasih!"
             },
             "114": {
                "1": "Ikan Rebus",
-               "2": "Gus ingin memasak ikan rebus, tapi dai butuh sebuah albacore.",
-               "3": "Bawakan Gus Albacore."
+               "2": "Gus ingin memasak ikan rebus, tapi dia butuh seekor Albacore.",
+               "3": "Bawakan Gus Albacore.",
+               "9": "*endus*...*endus*... Itu apa? Baunya seperti ikan Albacore!#$b#Aha! Kau membawanya! Terima kasih banyak sekali!"
             },
             "115": {
                "1": "Buah Segar",
-               "2": "Emily ingin merasakan buah musim semi. Dia meminta darimu sebuah apricot segar.",
-               "3": "Bawakan Emily Apricot."
+               "2": "Emily ingin merasakan buah musim semi. Dia meminta sebuah Apricot segar.",
+               "3": "Bawakan Emily Apricot.",
+               "9": "Oh... Kau membacanya! Makasih, kelihatannya enak!$h"
             },
             "116": {
                "1": "Hadiah Nenek",
-               "2": "Evelyn ingin memberi kejutan untuk suaminyadengan sebuah hadiah.",
-               "3": "Bawakan Evelyn Leek."
+               "2": "Evelyn ingin memberi kejutan untuk suaminya dengan sebuah hadiah.",
+               "3": "Bawakan Evelyn Leek.",
+               "9": "Oh, terima kasih, cu. Leek ini kelihatan lezat. George akan senang sekali.#$b#Dia suka saat aku membuat telur dengan Leek untuk sarapan."
             },
             "117": {
                "1": "Pemberitahuan Pierre",
-               "2": "Pierre akan membayarmu \"top coin\" untuk siapapun yang membawakannya sashimi. Tampaknya Pierre benar - benar mengidamkan sashimi.",
-               "3": "Brawakan Pierre Sashimi."
+               "2": "Pierre akan membayar \"banyak koin\" untuk siapapun yang membawakannya Sashimi. Tampaknya Pierre benar-benar mengidamkan sashimi.",
+               "3": "Bawakan Pierre Sashimi.",
             },
             "118": {
                "1": "Penelitian Aquatik",
