@@ -11354,12 +11354,12 @@
             },
             "2": {
                "1": "Qi Yang Misterius",
-               "2": "Di dalam kotak kunci rahasia, kau menemukan catatan dengan sebuah perintah yang aneh. Disitu tertanda 'Mr. Qi'.",
-               "3": "Taruh Rainbow Shell di dalam kotak di peron kereta api."
+               "2": "Di dalam kotak kunci rahasia, kau menemukan catatan dengan sebuah perintah aneh. Disitu tertanda 'Mr. Qi'.",
+               "3": "Taruh Rainbow Shell ke dalam kotak di peron kereta api."
             },
             "3": {
                "1": "Qi Yang Misterius",
-               "2": "Kau menemukan catatan lain dengan tertanda 'Mr. Qi'. Kali ini perintahnya lebih aneh.",
+               "2": "Kau menemukan catatan lain yang ditulis 'Mr. Qi'. Kali ini perintahnya lebih aneh.",
                "3": "Taruh 10 Beet ke dalam kulkas Mayor Lewis."
             },
             "4": {
@@ -11374,7 +11374,6 @@
             },
             "6": {
                "1": "Permulaan",
-               "2": "Kalau mau jadi petani, mulailah dari dasar-dasarnya. Pakai cangkulmu untuk membajak tanah, lalu tanam benih pada tanah yang sudah dibajak. Siram setiap hari sampai tanamanmu siap untuk dipanen.",
                "2": "Kalau mau jadi petani, mulailah dari dasar-dasarnya. Pakai cangkulmu untuk membajak tanah, lalu tanam benihnya. Siram setiap hari sampai tanamanmu siap dipanen.",
                "3": "Tanam lalu panen Parsnip."
             },
@@ -11609,79 +11608,85 @@
                "1": "Pemberitahuan Pierre",
                "2": "Pierre akan membayar \"banyak koin\" untuk siapapun yang membawakannya Sashimi. Tampaknya Pierre benar-benar mengidamkan sashimi.",
                "3": "Bawakan Pierre Sashimi.",
+               "9": "Akhirnya! Aku mulai gemetaran, aku ingin seklai makan ikan ini. *Nyam~*... Mmm, enak.#$b#Makasih, @.$h"
             },
             "118": {
-               "1": "Penelitian Aquatik",
-               "2": "Demetrius sedang mempelajari tingat racun pada pufferfish. Dia ingin kau membawakan satu untuknya.",
-               "3": "Bawakan Demetrius Pufferfish."
+               "1": "Penelitian Akuatik",
+               "2": "Demetrius sedang mempelajari tingkat racun pada Pufferfish. Dia ingin kau membawakan satu untuknya.",
+               "3": "Bawakan Demetrius Pufferfish.",
+               "9": "Itu dia. Spesimennya kelihatan sempurna. Akan langsung kutaruh dalam es. Makasih, @!"
             },
             "119": {
-               "1": "Prajurit bintang",
-               "2": "Kent ingin memberi istrinya starfruit untuk merayakan ulang tahun pernikahan mereka.",
-               "3": "Bawakan Kent Starfruit."
+               "1": "Prajurit Bintang",
+               "2": "Kent ingin memberi istrinya Starfruit untuk merayakan hari jadi pernikahan mereka.",
+               "3": "Bawakan Kent Starfruit.",
+               "9": "Hei. Shhh... Jangan sampai Jodi tahu.#$b#Ah, sangat berair. Dia akan suka ini. Terima kasih banyak.$h"
             },
             "120": {
                "1": "Kebutuhan Walikota",
-               "2": "Walikota Lewis ingin sebuah truffle oil. Dia tidak menjelaskan untuk apa. Mungkin itu bukanlah urusanmu.",
-               "3": "Bawakan Lewis sebotol Truffle Oil."
+               "2": "Walikota Lewis ingin sebuah Truffle Oil. Dia tidak menjelaskan untuk apa. Mungkin itu bukanlah urusanmu.",
+               "3": "Bawakan Lewis sebotol Truffle Oil.",
+               "9": "Kamu membawanya? Kulihat dulu...#$b#Kualitasnya tinggi... sangat licin. Bagus. Terima kasih."
             },
             "121": {
                "1": "Dicari: Lobster",
                "2": "Gus mengeluarkan selebaran dan disana dia meminta siapa saja yang bisa memberinya lobster segar.",
-               "3": "Bawakan Gus Lobster."
+               "3": "Bawakan Gus Lobster.",
+               "9": "Baunya seperti Lobster. Oh, bagus.$h#$b#Hati-hati, kawan."
             },
             "122": {
-               "1": "Pam butuh batre",
-               "2": "Remot TV Pam rusak. Saat menonton dia harus - bolak balik dari sofa ke TV hanya untuk mengganti channel.",
-               "3": "Bawakan Pam Battery Pack."
+               "1": "Pam Butuh Baterai",
+               "2": "Remot TV Pam rusak. Saat menonton dia harus bolak-balik dari sofa ke TV hanya untuk mengganti saluran.",
+               "3": "Bawakan Pam Battery Pack.",
+              "9": "Hei, kau membawakan Battery Pack-nya! Makasih, nak... Kamu penyelamatku!$h"
             },
             "123": {
                "1": "Tongkat Kekuatan",
-               "2": "Wizard sedang membuat tongkat dengan kekuatan dahsyat. Tak ada yang tahu untuk apa dia membuatnya. Dia butuh iridium bar untuk menyelesaikannya.",
-               "3": "Brawakan Wizard Iridium Bar."
+               "2": "Wizard sedang membuat tongkat dengan kekuatan dahsyat. Tak ada yang tahu untuk apa dia membuatnya. Dia butuh Iridium Bar untuk menyelesaikannya.",
+               "3": "Bawakan Wizard Iridium Bar.",
+               "9": "Ah, Iridium yang berharga. Kerja bagus, @. Aku berterima kasih. Sekarang, pergi."
             },
             "124": {
                "1": "Tangkap Lingcod",
                "2": "Willy menantangmu untuk menangkap ikan Lingcod.",
-               "3": "Bawakan Willy Lingcod."
+               "3": "Bawakan Willy Lingcod.",
+               "9": "Hei, tagkapan yang bagus! Kamu benar-benar punya bakat jadi nelayan.$h"
             },
             "125": {
                "1": "Buah Eksotik",
                "2": "Gus ingin membuat Coco-no-no, tapi dia tidak punya bahan utamanya.",
-               "3": "Bawakan Gus Coconut."
+               "3": "Bawakan Gus Coconut.",
+               "9": "Coconut! Pemandangan indah di musim semiku.$h#$b#Ini akan sempurna buat Coco-no-no. Makasih!"
             },
             "126": {
                "1": "Tugas Buat Istrimu",
-               "2": "Istrimu meminta untuk dicarikan 200 helai fiber untuk proyek rahasianya.",
-               "3": "Bawakan Emily 200 fiber."
+               "2": "Istrimu meminta untuk dicarikan 200 helai Fiber untuk proyek rahasianya.",
+               "3": "Bawakan Emily 200 Fiber.",
+               "9": "Oh, ini kelihatan sempurna... dan ini diambil dari kebun sendiri! Terima kasih banyak, @.#$b#Sekarang, aku bisa menyelesaikannya dalam beberapa hari..."
             },
             "127": {
-               "1": "Acara Cake-Walk Haley",
-               "2": "Istrimu sedang mengadakan acara amal Cake-Walk di alun-alun. Dia memintamu untuk bawa chocolate cake.",
-               "3": "Masuk ke kota pada pagi yang cerah dengan membawa chocolate cake."
+               "1": "Cake-Walk Haley",
+               "2": "Istrimu sedang mengadakan acara amal Cake-Walk di alun-alun. Dia memintamu untuk bawa Chocolate Cake.",
+               "3": "Masuk ke kota pada pagi yang cerah dengan membawa Chocolate Cake."
             },
             "128": {
                "1": "...",
                "2": "...",
-               "3": "..."
+               "3": "...",
+               "9": "Kalung itu! Di mana kau menemukannya?$7#$b#Terima kasih sudah membawanya padaku, @. Ibuku tidak akan tahu...$h"
             },
             "129": {
                "1": "...",
                "2": "...",
-               "3": "..."
+               "3": "...",
+               "9": "Ini apa? Kalung lamaku?$s#$b#Aneh, aku saja tidak tahu kalau ini hilang... Terima kasih sudah mengembalikannya, @.$h"
             },
             "130": {
                "1": "Istri Bajak Laut",
                "2": "Wanita tua yang tinggal di Ginger Island memintamu untuk menemukan kenang-kenangan dari suaminya. Dia memberimu foto tua seorang tentara yang terdampar di pulau, berharap semoga itu memberimu petunjuk.",
                "3": "Cari kenang-kenangan milik suaminya Birdie."
-            }
-         }
-        "Fields": {
-          "1": {
-            "1": "Temui Wizard",
-            "2": "Kau mendapat surat dari Wizard. Dia mengaku punya informasi mengenai Community Center.",
-            "3": "Masuk ke dalam Menara Wizard."
-          },
+          }
+        }
       },
       {
          "Action": "EditData",
