@@ -366,7 +366,9 @@
             "breakUp": { "0": "Kau ingin p...?$7#$b#*huff*... Baiklah. Aku mengerti... akhirnya, kau sudah membuat keputusan. Jangan harap aku memohon padamu.$a" },
             "Mon": { "0": "Kau tau aku seorang pemain gelandang terbaik di sekolah? itu sungguhan.$u#$e#Coba lihat bintang di jaketku? itu buktinya." },
             "Tue": { "0": "Pantai itu tempat yang keren untuk jalan-jalan dan berjemur.#e#kau akan berjemur sampai kau pucat.#$e#*sigh*... Aku harap ada lebih banyak cewek di kota ini, kau tau maksudku kan?$s^Hey, kau mau jalan berdua ke pantai? kau punya bikini kan?" },
-            "Wed": { "0": "Hari yang cocok untuk main bola tangkap, huh?$u#$e#$q 5/6 Wed_01_old#Aku ingin kau yang melempar, tapi kau keliatan nggak suka olahraga.^Jika kau bukan perempuan akan kuajak main bola tangkap.#$r 6 0 Wed_01_02#Aku lihat kau bermain saja.#$r 5 15 Wed_01_01#Ayo main bola tangkap!#$r 5 0 Wed_01_03#(angry) Apa maksutnya itu?" },
+            "Wed": {
+              "0": "Hari yang cocok untuk main bola tangkap, huh?$u#$e#$q 5",
+              "1": "6 Wed_01_old#Aku ingin kau yang melempar, tapi kau keliatan nggak suka olahraga.^Jika kau bukan perempuan akan kuajak main bola tangkap.#$r 6 0 Wed_01_02#Aku lihat kau bermain saja.#$r 5 15 Wed_01_01#Ayo main bola tangkap!#$r 5 0 Wed_01_03#(marah) Apa maksutnya itu?" },
             "Wed_01_old": { "0": "#$p 5#Yang jauh! ...bercanda. Hahaha.|Aku cuma ingin ada orang yang mau main bersamaku...$s" },
             "Wed_01_01": { "0": "Sungguh? Mungkin aku terlalu meremehkanmu.#$b#Lenganku sedikit sakit, mungkin lain kali." },
             "Wed_01_02": { "0": "Yeah, beberapa orang nggak berbakat olahraga." },
@@ -5400,7 +5402,7 @@
             "Fri_inlaw_Sebastian": { "0": "Aku rindu Sebby... dia sedikit tidak nyambung, tapi aku percaya padanya." },
             "Fri4": { "0": "#$1 RobinSeb#Aku menemukan asbak di kamar Sebastian, dan baunya aneh. Haruskah aku menghawatirkan ini?#$e#Kadang aku kawatir dengan Sebastian... dia tidak punya teman aku takut dengan masa depannya...#$e#Aku ingin bicara dengannya tapi dia selalu menutup diri." },
             "Fri4_inlaw_Sebastian": { "0": "Sebastian bilang kepadaku untuk berhenti merokok! Aku bangga kepadanya." },
-            "Sat": { "0": "Rumah kita sangat indah, apa yang kau pikirkan?#$e#Aku udahara segar di pegunungan." },
+            "Sat": { "0": "Rumah kita sangat indah, apa yang kau pikirkan?#$e#Aku suka dengan udara segar di pegunungan." },
             "Sun": { "0": "Aku harap Demetrius tidak meledakkan rumah ini dengan eksperimennya.#$e#Aku tidak tahu apa yang dia kerjakan. Aku pikir dia bereksperimen dengan tanaman." },
             "Sun2": { "0": "#$1 RobinDem#Suamiku hampir membakar rumah dengan eksperimennya. Salah satu dari eksperimmennya meledak dan meempercikan api! Untung aku melapisi rumahku dengan anti api.$u#$e#Maaf jika bauku aneh, @. Ini gara-gara proyek suamiku.." },
             "Sun6": { "0": "Hi @! Senang bertemu denganmu.#$e#Kau slah satu anggota komunitas sekarang, bagaimana menurutmu?" },
@@ -6530,7 +6532,7 @@
             "George": { "0": "Hmm... smOked turkey? Aku rasa festival ini tak terlalu buruk.$h" },
             "Evelyn": { "0": "Aku harap Gus juga memasak sayur. Zucchinni skewers, contohnya?" },
             "Lewis": { "0": "Selamat malam, @. Apa kau sudah masuk ke 'labirin berhantunya'? Di sana sedikit menyeramkan.#$e#Orang aneh yang tinggal dimenara hutan yang menyiapkan semua ini. Waktu itu dia tidak memperbolehkan siapaun mendekati tempat ini saat dia mempersipkan semuanya." },
-            "Clint": { "0": "Salah satu tongkat iridiumku akan saNgat berguna di tempat ini." },
+            "Clint": { "0": "Salah satu tongkat iridiumku akan sangat berguna di tempat ini." },
             "Emily": { "0": "Apa kau suka jack-o-lanterns? Aku yang membuatnya sendiri." },
             "Penny": { "0": "Asap - asap ini... mempuat kepalaku pusing, tapi aku tidak bisa keluar...$u" },
             "Pam": { "0": "Aku datang ke festival karena makanan gratis! Jadi kau tidak akan menemukanku di dalam labirin." },
@@ -11656,6 +11658,12 @@
                "3": "Cari kenang-kenangan milik suaminya Birdie."
             }
          }
+        "Fields": {
+          "1": {
+            "1": "Temui Wizard",
+            "2": "Kau mendapat surat dari Wizard. Dia mengaku punya informasi mengenai Community Center.",
+            "3": "Masuk ke dalam Menara Wizard."
+          },
       },
       {
          "Action": "EditData",
@@ -12398,7 +12406,7 @@
            "0": "Robin disini!^Aku tahu ada banyak batu berserakan di sekitar peternakanmu.^Jika kau punya uang lebih, kau bisa memintaku membangun sebuah sumur untukmu.^Sumur bisa ditempatkan dimana saja, dan menyediakan tempat yang nyaman untuk mengisi ulang watering can.^^Cukup mampir ke tokoku dengan membawa 75 batu dan 1000g.^-Robin"
          },
          "landslideDone": {
-           "0": "Kepada pelanggan JojaMart yang berharga:^Anggota tim kami sudah menyingkirkan longsoran yang disebabkan oleh operasi pengeboran di dekat danau gunung. Aku ingin mengingatkan bahawa operasi pengeboran tersebut sepenuhnya legal (menurut amandemen JojaCo). Bertanggung jawab terhadap alam sekitar adalah prioritas utama kami! ^^Kami mohon maaf atas ketidaknyamanan dari kejadian ini.^Seperti biasa, kami menghargai dukungan dan kunjungan anda!^^-Morris,^Wakil Pelayanan Joja"
+           "0": "Kepada pelanggan JojaMart yang berharga:^Anggota tim kami sudah menyingkirkan longsoran yang disebabkan oleh operasi pengeboran di dekat danau gunung. Saya ingin mengingatkan bahwa operasi pengeboran tersebut sepenuhnya legal (menurut amandemen JojaCo). Bertanggung jawab terhadap alam sekitar adalah prioritas utama kami! ^^Kami mohon maaf atas ketidaknyamanan dari kejadian ini.^Seperti biasa, kami menghargai dukungan dan kunjungan anda!^^-Morris,^Wakil Pelayanan Joja"
          },
          "QiChallengeComplete": {
            "0": "Kau berhasil.^ Aku sangat terkesan.^ Nikmati hadiahmu.^ -Qi. %item money 10000 %%"
@@ -18554,7 +18562,7 @@
            "0": "%Sam sedang mencoba trik kickflip."
          },
          "sam_pool": {
-           "0": "$c .5#Hmm... If I give the cue ball a bit of a top spin, maybe I could...$7#$e#*Sigh*... I'm not very good.$s"
+           "0": "$c .5#Hmm... Kalau bola putihnya aku pukul agak ke atas, mungkin aku bisa...$7#$e#*Hahh~*... Aku kurang jago.$s"
          },
          "sam_work": {
            "0": "%Sam sedang bekerja... lebih baik jangan diganggu."
@@ -18795,7 +18803,7 @@
            "0": "Grover"
          },
          "PiecesOfHay": {
-           "0": "Jumlah Jerami: {0}/{1}"
+           "0": "Jumlah Jerami: {0}"
          },
          "JunimoTextAboveHead1": {
            "0": "Junimo!"
@@ -20701,10 +20709,10 @@
            "0": "Coba yang lain."
          },
          "IslandNorth_Event_SafariManAppear": {
-           "11": "speak SafariGuy \"Thank you! I thought I was done for... $h#$b#I've been stuck in this cave for months!\"",
-           "18": "speak SafariGuy \"...One more cave mushroom salad and I would've gone off the deep end... *shudder* ...so rubbery...$s\"",
-           "25": "speak SafariGuy \"Anyway... I'm Professor Snail.#$b#I've been conducting a survey of this island's flora and fauna for the last year. Truly a remarkable place!\"",
-           "30": "speak SafariGuy \"Well, I think I'll go back to my tent and freshen up a little. I'm afraid I smell like mushrooms...$s#$b#Hey... you should stop by the tent sometime! An enterprising individual like yourself could be a major asset in my projects... hee hee! Farewell.$h\""
+           "11": "speak SafariGuy \"Terima kasih! Kukira aku akan mati... $h#$b#Aku terjebak di sini selama berbulan-bulan!\"",
+           "18": "speak SafariGuy \"...Sekali lagi makan salad jamur gua, riwayatku pasti sudah tamat... *bergidik* ...rasanya seperti karet...$s\"",
+           "25": "speak SafariGuy \"Oh, iya... Aku Professor Snail.#$b#Sejak tahun lalu, aku mengadakan survei tentang flora dan fauna pulau ini. Tempat yang luar biasa!\"",
+           "30": "speak SafariGuy \"Baiklah, aku akan kembali ke tendaku dan mandi. Bau badanku sudah seperti jamur...$s#$b#Hei... mampirlah ke tendaku kapan-kapan! Orang giat sepertimu bisa jadi aset besar buat proyekku... hee hee! Sampai jumpa.$h\""
          },
          "IslandFieldOffice_Welcome_0": {
            "0": "Salam!"
@@ -20746,11 +20754,11 @@
            "0": "Hmm... Lebih baik kau istirahat dulu dan coba menyurvei lagi besok..."
          },
          "IslandFieldOffice_Intro_Event": {
-           "12": "speak SafariGuy \"Ah... Come in!\"",
-           "17": "speak SafariGuy \"Welcome to my field office.\"",
-           "23": "speak SafariGuy \"As you can see... it's quite empty.$s#$b#Getting stuck in that cave was a huge setback to my project.$s\"",
-           "29": "speak SafariGuy \"But that's where you come in! Hee hee...$h\"",
-           "32": "speak SafariGuy \"I'm in the bone business, you see...#$b#Ancient bones, in particular... And this island is full of them.#$b#So if you ever encounter any bones, fossils, or mummified specimens on this island, bring them to my desk, okay? I'll make it worth your while!$h\""
+           "12": "speak SafariGuy \"Ah... Masuk!\"",
+           "17": "speak SafariGuy \"Selamat datang di kantor lapanganku.\"",
+           "23": "speak SafariGuy \"Seperti yang kau lihat... masih kosong.$s#$b#Terjebak di gua telah memperlambat proyekku.$s\"",
+           "29": "speak SafariGuy \"Tapi di sanalah kamu bisa membantu! Hee hee...$h\"",
+           "32": "speak SafariGuy \"Begini, pekerjaanku terlibat dengan tulang...#$b#Terutama tulang kuno... Dan ada banyak di pulau ini.#$b#Jadi kalau kau menemukan tulang, fosil atau spesimen mumi di pulau ini, bawa semuanya ke mejaku. Kau akan kuberi sesuatu yang sepadan!$h\""
          },
          "ScienceHouse_CarpenterMenu_RenovateHouse": {
            "0": "Buat Renovasi Rumah"
@@ -21315,10 +21323,10 @@
            "0": "Kamu sudah menemukan {0} milik Wizard yang hilang! Segera berikan padanya."
          },
          "MagnifyingGlassDescription": {
-           "0": "Kamu menerima {0}! Sekarang kamu punya kemampuan untuk menemukan 'Catatan Rahasia'. Catatan-catatan ini akan menunjukkan informasi yang berguna nan langka, dan bisa dibaca lagi di tab koleksimu."
+           "0": "Kamu menerima {0}! Sekarang kamu punya kemampuan untuk menemukan 'Secret Notes'. Catatan-catatan ini akan menunjukkan informasi yang berguna nan langka, dan bisa dibaca lagi di tab koleksimu."
          },
          "SpecialCharmDescription": {
-           "0": "Kamu menerima {0}! Kamu merasakan aura penuh keberuntungan mengelilingimu (keberuntunganmu meningkat secara permanen)!"
+           "0": "Kamu menerima {0}! Kamu merasakan aura penuh keberuntungan mengelilingimu (hokimu meningkat secara permanen)!"
          },
          "ParsnipSeedPackage_SomeoneElse": {
            "0": "Paket ini milik orang lain."
@@ -25289,7 +25297,7 @@
          },
          "NPC.cs.3962": {
            "0": "...!! Aku terima. Terima kasih.$l#$e#Aku tidak tahu kalau kamu punya perasaan yang sama.$l",
-           "1": "...!! I'll accept this. Thank you.$l#$e#I didn't know you felt the same.$l"
+           "1": "...!! Aku terima. Terima kasih.$l#$e#Aku tidak tahu kalau kamu punya perasaan yang sama.$l"
          },
          "NPC.cs.3963": {
            "0": "...Kamu mau lebih serius? Aku juga merasa begitu.$l#$e#Aku agak gugup. Kamu tidak?$l"
@@ -31715,7 +31723,8 @@
            "0": "Ada bir yang habis setengah."
          },
          "Saloon.2": {
-           "0": "Saluran memasak. Tips memasak, game show, dan review restoran"
+           "0": "Saluran memasak. Tips memasak setiap hari, game show, dan review restoran",
+           "1": null
          },
          "SamHouse.1": {
            "0": "Ini kosong."
@@ -33073,7 +33082,8 @@
            "0": "Berdekatan"
          },
          "Character_CoopHelpString": {
-           "0": "Kabin Awal: Mulai dengan 1-3 kabin yang sudah dibangun, supaya temanmu bisa langsung ikut main. Atau kamu juga bisa memilih \"Tidak Ada\" dan membangun kabin sendiri (via Robin).^^Letak Kabin: Kalau kamu ingin memulai permainan dengan kabin, kamu bisa memilih antara dua jenis tata letak ini: \"Berdekatan\" semua kabin letaknya berdekatan dengan rumah utama, mendorong gaya pertanian gotong royong. \"Berjauhan\" semua kabin letaknya berjauhan, cocok untuk para pemain yang ingin mandiri.^^Margin Laba: Sesuaikan margin laba (uang yang kamu hasilkan) pada barang yang dijual. 'Normal' adalah pengaturan asli Stardew Valley. Pemain yang sudah berpengalaman biasanya ingin margin-nya dikurangi."
+           "0": "Kabin Awal: Mulai dengan 1-3 kabin yang sudah dibangun, supaya temanmu bisa langsung ikut main. Atau kamu juga bisa memilih \"Tidak Ada\" dan membangun kabin sendiri (via Robin).^^Letak Kabin: Kalau kamu ingin memulai permainan dengan kabin, kamu bisa memilih antara dua jenis tata letak ini: \"Berdekatan\" semua kabin letaknya berdekatan dengan rumah utama, mendorong gaya pertanian gotong royong. \"Berjauhan\" semua kabin letaknya berjauhan, cocok untuk para pemain yang ingin mandiri.^^Margin Laba: Sesuaikan margin laba (uang yang kamu hasilkan) pada barang yang dijual. 'Normal' adalah pengaturan asli Stardew Valley. Pemain yang sudah berpengalaman biasanya ingin margin-nya dikurangi.",
+           "1": null
          },
          "Character_CoopHelpString2": {
            "0": "Jenis Keuangan: Kamu bisa memilih bagaimana uang didapatkan dan digunakan. Di mode \"Berbagi\" semua pemain keuangannya jadi satu. Di mode \"Mandiri\"masing-masing pemain mengatur keuangannya sendiri. \"Berbagi\" adalah pengalaman klasik Stardew Valley."
@@ -34129,13 +34139,16 @@
            "0": " - {0}: membalas pesan privat."
          },
          "Chat_HelpKick": {
-           "0": " - {0} [nama petani atau user id]: usir pemain."
+           "0": " - {0} [nama petani",
+           "1": "user id]: usir pemain."
          },
          "Chat_HelpBan": {
-           "0": " - {0} [nama petani atau user id]: Ban pemain dari kebun ini."
+           "0": " - {0} [nama petani",
+           "1":"user id]: Ban pemain dari kebun ini."
          },
          "Chat_HelpUnban": {
-           "0": " - {0} [nama petani atau user id]: Pemain sudah tidak di-Ban di kebun ini."
+           "0": " - {0} [nama petani",
+           "1": "user id]: Pemain sudah tidak di-Ban di kebun ini."
          },
          "Chat_HostOnlyCommand": {
            "0": "Hanya host yang bisa menggunakan perintah ini."
@@ -34159,7 +34172,7 @@
            "0": "(menikah)"
          },
          "ReadyCheck": {
-           "0": "Menunggu pemain lain... ({0} atau {1})"
+           "0": "Menunggu pemain lain... ({0}"
          },
          "PendingProposal": {
            "0": "Menunggu pemain lain..."
@@ -34624,7 +34637,7 @@
            "0": "Ubah Penampilan"
          },
          "PondQuery_Population": {
-           "0": "Populasi: {0}/{1}"
+           "0": "Populasi: {0}"
          },
          "PondQuery_StatusNoFish": {
            "0": "Kolam ini kosong..."
