@@ -155,7 +155,7 @@
             "Sun": { "0": "Oh... aku selalu mengerjakan semua tugasku di akhir pekan. Sepertinya aku akan begadang lagi...$s" },
             "Sun2": { 
             	"0": "Aku penasaran apa yang akan terjadi kalau aku semalaman di kuburan?#$q 17",
-            	"1": "18 Sun_old#@, Menurutmu apa yang terjadi dengan kita setelah mati?#$r 17 0 Sun_17#Aku tidak tahu.#$r 18 40 Sun_18#Kita kembali sebagai hantu yang menakutkan.#$r 17 0 Sun_17#Kita pergi ke surga.#$r 18 0 Sun_17#Jiwa kita diangkat ke akhirat.#$r 17 30 Sun_nothing#Tidak ada. Kita hilang begitu saja.", 
+            	"1": "18 Sun_old#@, Menurutmu apa yang terjadi dengan kita setelah mati?#$r 17 0 Sun_17#Aku tidak tahu.#$r 18 40 Sun_18#Kita kembali sebagai hantu yang menakutkan.#$r 17 0 Sun_17#Kita pergi ke surga.#$r 18 0 Sun_17#Jiwa kita diangkat ke akhirat.#$r 17 30 Sun_nothing#Tidak ada. Kita hilang begitu saja."
             	},
             "Sun_old": { "0": "$p 17#Kau pasti mengira tidak akan terjadi apa-apa kan?$u|Mungkin hantu jahat akan bergentayangan!" },
             "Sun_17": { "0": "Hmm, menarik..." },
@@ -4663,7 +4663,7 @@
              "0": "$p 3#Hei, kemajuan lagi di kebun dalam satu pekan! Sepertinya semuanya berjalan baik untukmu.$h|Pekan yang melelahkan di pertanian, ya? Pasti banyak yang dikerjakan...$s"
            },
            "Sun_01_01": {
-             "0": "Yah itu bagus, bukan?$h",
+             "0": "Yah itu bagus, bukan?$h"
            },
            "Sun_01_02": {
              "0": "Astaga! Maaf. Apa kamu pernah berpikir untuk melakukan hal yang berbeda...?$s"
@@ -11578,7 +11578,7 @@
                "1": "Penelitian Tanaman",
                "2": "Demetrius membutuhkan Melon segar untuk penelitiannya.",
                "3": "Bawakan Demetrius Melon.",
-               "9": "Sempurna! Ini yang kubutuhkan untuk risetku. Sulit untuk tidak memakannya! Terima kasih banyak.",
+               "9": "Sempurna! Ini yang kubutuhkan untuk risetku. Sulit untuk tidak memakannya! Terima kasih banyak."
             },
             "105": {
                "1": "Terapi Lutut",
