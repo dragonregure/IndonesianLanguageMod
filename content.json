@@ -31792,8 +31792,8 @@
            "0": "Ada bir yang habis setengah."
          },
          "Saloon.2": {
-           "0": "Saluran memasak. Tips memasak setiap hari, game show, dan review restoran",
-           "1": null
+           "0": "Saluran memasak. Tips memasak 24",
+           "1": "7, game show, dan review restoran"
          },
          "SamHouse.1": {
            "0": "Ini kosong."
@@ -33151,8 +33151,8 @@
            "0": "Berdekatan"
          },
          "Character_CoopHelpString": {
-           "0": "Kabin Awal: Mulai dengan 1-3 kabin yang sudah dibangun, supaya temanmu bisa langsung ikut main. Atau kamu juga bisa memilih \"Tidak Ada\" dan membangun kabin sendiri (via Robin).^^Letak Kabin: Kalau kamu ingin memulai permainan dengan kabin, kamu bisa memilih antara dua jenis tata letak ini: \"Berdekatan\" semua kabin letaknya berdekatan dengan rumah utama, mendorong gaya pertanian gotong royong. \"Berjauhan\" semua kabin letaknya berjauhan, cocok untuk para pemain yang ingin mandiri.^^Margin Laba: Sesuaikan margin laba (uang yang kamu hasilkan) pada barang yang dijual. 'Normal' adalah pengaturan asli Stardew Valley. Pemain yang sudah berpengalaman biasanya ingin margin-nya dikurangi.",
-           "1": null
+           "0": "Kabin Awal: Mulai dengan 1-3 kabin yang sudah dibangun, supaya temanmu bisa langsung ikut main. Kamu juga bisa memilih \"Tidak Ada\" dan membangun kabin sendiri (via Robin).^^Letak Kabin: Kalau kamu ingin memulai permainan dengan kabin, kamu bisa memilih antara dua jenis tata letak ini: \"Berdekatan\" semua kabin letaknya berdekatan dengan rumah utama, mendorong gaya pertanian gotong royong. \"Berjauhan\" semua kabin letaknya berjauhan, cocok untuk para pemain yang ingin mandiri.^^Margin Laba: Sesuaikan margin laba (uang yang kamu hasilkan) pada barang yang dijual. 'Normal' adalah pengaturan asli Stardew Valley. Pemain yang berpengalaman",
+           "1": "sejumlah orang biasanya ingin margin-nya dikurangi."
          },
          "Character_CoopHelpString2": {
            "0": "Jenis Keuangan: Kamu bisa memilih bagaimana uang didapatkan dan digunakan. Di mode \"Berbagi\" semua pemain keuangannya jadi satu. Di mode \"Mandiri\"masing-masing pemain mengatur keuangannya sendiri. \"Berbagi\" adalah pengalaman klasik Stardew Valley."
