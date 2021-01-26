@@ -2485,8 +2485,7 @@
             "NoBed_0": "Where am I supposed to sleep...?$s",
             "NoBed_1": "I wasn't able to sleep well last night...$s",
             "NoBed_2": "I had to sleep on the floor last night...$s",
-            "NoBed_3": "Did something happen to our bed...?$s"
-         },
+            "NoBed_3": "Did something happen to our bed...?$s" },
          "Fields": {
             "Rainy_Day_0": { "0": "Diluar hujan. Jangan sampai kau kedinginan, sayang.#$e#Kalau bisa tetap di dalam.$h#$e#Kadang-kadang aku cemas!" },
             "Rainy_Day_1": { "0": "Sekarang hujan! Artinya hari ini kita tidak perlu menyiram tanaman.$h#$e#Alam kadang sangat membantu.#$e#Kau sudah memberi makan hewan ternak, sayang?" },
@@ -32978,7 +32977,78 @@
          "AGO_EasyMode": "Easy Mode",
          "AGO_EasyMode_Tooltip": "Makes some aspects of the game easier, and reduces penalties.",
          "ParrotPlatform_Question": "Take Parrot Express?",
-         "PlayerLimit": "Player Limit"
+         "PlayerLimit": "Player Limit",
+         "About_Credit_Mobile": "\n= Created by ConcernedApe\n< Published by Chucklefish\n= Ported by Sickhead Games\n< Localized by Playism & LocalizeDirect\n= Mobile Version by The Secret Police\n      ",
+         "mobile_options_vertical_toolbar": "Vertical Toolbar",
+         "mobile_options_menu_side_margin": "Menu padding",
+         "mobile_options_toolbar_padding": "Toolbar padding",
+         "mobile_button_craft": "Craft",
+         "shippingInstructionText": "Drop items here to ship them for sale.",
+         "animalText": "Preference:",
+         "tutorialWant": "Enable tutorial hints?",
+         "tutorialYes": "Yes please, I'm new to Stardew Valley on mobile.",
+         "tutorialNo": "No thanks, I've played before.",
+         "tutorial1": "First, let's choose your appearance and farm type. When you're finished designing, click the tick button to start playing.",
+         "tutorial2": "Good morning! Remember to head back to the farmhouse to sleep and save your game later on!",
+         "tutorial3": "You've received a gift! Tap on the package to open it!",
+         "tutorial4": "New quests are shown in the Journal. Tap on a quest to take a closer look - there's useful information there!",
+         "tutorial5": "Tap the Close button when you're finished with the Journal.",
+         "tutorial6": "Looks like quite a mess! Let's clear this place up.",
+         "tutorial7": "Tap on a weed to clear it.",
+         "tutorial8": "Well done! Try clearing some more weeds and rocks!",
+         "tutorial9": "You can use the hoe to prepare the soil for planting.",
+         "tutorial10": "Try preparing a nice patch to sow your first seeds.",
+         "tutorial11": "Great work... time to add some seeds?",
+         "tutorial12": "They look thirsty - there's a watering can in the toolbar.",
+         "tutorial13": "Well done! Remember to water your crops every day.",
+         "tutorial14": "Once you're finished watering, feel free to explore Pelican Town and meet your new neighbors!",
+         "tutorial15": "You can fill your watering can at a pond or river.",
+         "tutorial16": "Tap and hold to walk toward your finger.",
+         "tutorial17": "Hold and drag to follow your finger around.",
+         "tutorial18": "Let's take a look at some other game functions.",
+         "tutorial19": "The Inventory shows the items you're holding. You can drag them to rearrange, or to the trash to drop them.",
+         "tutorial20": "This page shows your skills - you can improve your skills by using tools, foraging, fishing and fighting.",
+         "tutorial21": "The Social page tells you about your relationships with the people you meet.",
+         "tutorial22": "This is where you can craft new items from the things you collect and grow. You will discover new crafting recipes throughout the game.",
+         "tutorial23": "Slide your finger over the map to explore Pelican Town and its surroundings.",
+         "tutorial24": "The Collections page keeps track of what you've shipped, fished, mined, cooked or discovered.",
+         "tutorial25": "In stores, tap on the counter in front of the shopkeeper to buy or sell goods.",
+         "tutorial26": "We need some seeds to plant... did you miss something back in the farmhouse?",
+         "confirmExit": "Are you sure you want to exit and lose any progress since the start of this game day?",
+         "mobile_options_auto_attack": "Auto Attack",
+         "mobile_options_green_squares": "Item Placement Guide",
+         "tutorial_auto_attack": "You can choose between auto and manual attack modes on the game options screen.",
+         "question_auto_attack": "The mines are a dangerous place and you may need to engage in combat. Would you like to enable the auto-attack feature to help you fight off any enemies?",
+         "question_restore_backup": "Would you like to restore from where you previously left off?",
+         "mobile_options_bigger_numbers": "Bigger Font for Numbers",
+         "mobile_options_auto_save": "Auto Save",
+         "save_backup": "Save Backup",
+         "swap_saves": "Swap to previous save",
+         "control_method_tap_to_move": "Tap-to-move & Auto-Attack",
+         "control_method_attack_joystick": "Tap-to-move & Attack Joystick",
+         "control_method_invis_2": "Invisible Joystick & 2 Buttons",
+         "control_method_invis_1": "Invisible Joystick & 1 Button",
+         "control_method_joystick_buttons": "Tap-to-move & Joystick & Buttons",
+         "control_method_joystick_buttons_no_tap_to_move": "Joystick & Buttons",
+         "control_method_joystick_buttons_b": "Tap-to-move & (Joystick & Buttons) (weapons)",
+         "control_method_joystick_buttons_c": "Tap-to-move & Joystick & (Buttons) (weapons)",
+         "control_method_joystick": "Tap-to-move & Joystick",
+         "show_controls_toggle_button": "Show controls toggle button",
+         "button_diameter": "Button Diameter",
+         "button_alpha": "Button Transparency",
+         "adjust_joypad_controls": "Adjust Joypad Controls",
+         "invisible_button_width": "Invisible Button Width",
+         "Default": "Default",
+         "pinch_zoom": "Pinch Zoom",
+         "store_demo": "This version of Stardew Valley has been created specifically for demonstration purposes.",
+         "permissions_info": "Read/write to external storage permission is required to save the game, and to allow to you transfer saves to and from other platforms. Please give permission in order to play.",
+         "permissions_manual_set": "Please go into phone Settings > Apps > Stardew Valley > Permissions, and enable Storage to play the game.",
+         "mobile_options_toolbar_slot_size": "Toolbar size",
+         "mobile_options_date_time_size": "Date box size",
+         "please_wait": "Please Wait...",
+         "save_error": "Save error",
+         "show_camerabutton": "Show Camera Button",
+         "save_version_incompatible": "This save is incompatible with this version of Stardew Valley. Please update your version of the game when the 1.4 update becomes available for your device."
        },
        "Fields": {
          "LearnedRecipe_cooking": {
@@ -35387,6 +35457,220 @@
          },
          "PlayerLimit": {
            "0": "Batas Pemain"
+         },
+         "About_Credit_Mobile": {
+           "0": "\n= Diciptakan oleh ConcernedApe\n< Dipublikasikan oleh Chucklefish\n= Ditranspor oleh Sickhead Games\n< Dilokalisasi oleh Playism & LocalizeDirect\n= Versi Mobile oleh The Secret Police\n      "
+         },
+         "mobile_options_vertical_toolbar": {
+           "0": "Toolbar Vertikal"
+         },
+         "mobile_options_menu_side_margin": {
+           "0": "Lebar Menu"
+         },
+         "mobile_options_toolbar_padding": {
+           "0": "Lebar Toolbar"
+         },
+         "mobile_button_craft": {
+           "0": "Rakit"
+         },
+         "shippingInstructionText": {
+           "0": "Taruh item di sini untuk menjualnya."
+         },
+         "animalText": {
+           "0": "Preferensi:"
+         },
+         "tutorialWant": {
+           "0": "Aktifkan petunjuk cara bermain?"
+         },
+         "tutorialYes": {
+           "0": "Iya, aku baru main Stardew Valley di Mobile"
+         },
+         "tutorialNo": {
+           "0": "Tidak, aku sudah pernah main."
+         },
+         "tutorial1": {
+           "0": "Pertama, buat penampilanmu dan pilih tipe kebun. Kalau sudah, klik tombol centang untuk bermain."
+         },
+         "tutorial2": {
+           "0": "Pagi! Jangan lupa nanti pulang dan tidur untuk menyimpan progresmu!"
+         },
+         "tutorial3": {
+           "0": "Kamu dapat hadiah! Sentuh kado untuk membukanya!"
+         },
+         "tutorial4": {
+           "0": "Tugas baru akan muncul di Jurnal. Sentuh tugas untuk melihat rinciannya - ada info berguna di sana!"
+         },
+         "tutorial5": {
+           "0": "Sentuh tombol Close sesudah membaca Jurnal."
+         },
+         "tutorial6": {
+           "0": "Berantakan sekali! Ayo bersihkan tempat ini!"
+         },
+         "tutorial7": {
+           "0": "Sentuh rumput untuk dipotong."
+         },
+         "tutorial8": {
+           "0": "Bagus! Terus bersihkan beberapa rumput dan batu!"
+         },
+         "tutorial9": {
+           "0": "Pakailah cangkul untuk membajak tanah sebelum ditanami."
+         },
+         "tutorial10": {
+           "0": "Bajaklah beberapa tanah untuk menyebar benih pertamamu."
+         },
+         "tutorial11": {
+           "0": "Bagus... waktunya menanam benih."
+         },
+         "tutorial12": {
+           "0": "Sepertinya mereka haus - ada Alat Penyiram di toolbar."
+         },
+         "tutorial13": {
+           "0": "Bagus! Jangan lupa siram tanamanmu setiap hari."
+         },
+         "tutorial14": {
+           "0": "Seusai menyiram, kamu bisa menjelajahi Pelican Town dan menyapa para tetangga barumu!"
+         },
+         "tutorial15": {
+           "0": "Kamu bisa mengisi Alat Penyiram di kolam atau sungai."
+         },
+         "tutorial16": {
+           "0": "Sentuh dan tahan untuk berjalan ke arah jarimu."
+         },
+         "tutorial17": {
+           "0": "Sentuh dan seret untuk mengikuti arah jarimu"
+         },
+         "tutorial18": {
+           "0": "Ayo kita lihat fitur game yang lain"
+         },
+         "tutorial19": {
+           "0": "Inventori menampilkan item yang kau bawa. Kau bisa seret untuk menata, atau membuang item."
+         },
+         "tutorial20": {
+           "0": "Antarmuka ini menampilkan skillmu - kau bisa meningkatkan skill dengan memakai peralatan, meramban, memancing, dan bertarung."
+         },
+         "tutorial21": {
+           "0": "Antarmuka Sosial menampilkan pertemananmu dengan orang yang telah kau temui."
+         },
+         "tutorial22": {
+           "0": "Di sini kamu bisa merakit item baru dari benda-benda yang kau dapatkan. Kau akan menemukan resep merakit baru sepanjang permainan."
+         },
+         "tutorial23": {
+           "0": "Geser jarimu di peta untuk menjelajahi Pelican Town dan sekitarnya."
+         },
+         "tutorial24": {
+           "0": "Antarmuka Koleksi menampilkan semua yang sudah kau jual, pancing, tambang, masak, atau temukan."
+         },
+         "tutorial25": {
+           "0": "Di toko, sentuh meja di depan kasir untuk menjual atau membeli barang."
+         },
+         "tutorial26": {
+           "0": "Kita butuh benih untuk ditanam... apa kau melupakan sesuatu di rumah?"
+         },
+         "confirmExit": {
+           "0": "Yakin mau keluar dan kehilangan progres sejak hari pertama?"
+         },
+         "mobile_options_auto_attack": {
+           "0": "Serang Otomatis"
+         },
+         "mobile_options_green_squares": {
+           "0": "Pemandu Letak Item"
+         },
+         "tutorial_auto_attack": {
+           "0": "Kau bisa memilih serangan manual atau otomatis di layar pengaturan."
+         },
+         "question_auto_attack": {
+           "0": "Tambang adalah tempat yang berbahaya dan kau harus selalu siap tempur. Apa kau mau mengaktifkan fitur Serang Otomatis untuk membantu melawan musuh?"
+         },
+         "question_restore_backup": {
+           "0": "Ingin melanjutkan dari terakhir kali kamu bermain?"
+         },
+         "mobile_options_bigger_numbers": {
+           "0": "Font Angka Besar"
+         },
+         "mobile_options_auto_save": {
+           "0": "Simpan Otomatis"
+         },
+         "save_backup": {
+           "0": "Backup Simpanan"
+         },
+         "swap_saves": {
+           "0": "Ganti ke simpanan sebelumnya"
+         },
+         "control_method_tap_to_move": {
+           "0": "Sentuh untuk jalan & Serang Otomatis"
+         },
+         "control_method_attack_joystick": {
+           "0": "Sentuh untuk jalan & Tombol Serang"
+         },
+         "control_method_invis_2": {
+           "0": "Tombol Arah Transparan & 2 Tombol"
+         },
+         "control_method_invis_1": {
+           "0": "Tombol Arah Transparan & 1 Tombol"
+         },
+         "control_method_joystick_buttons": {
+           "0": "Sentuh untuk jalan & Tombol Arah & Tombol"
+         },
+         "control_method_joystick_buttons_no_tap_to_move": {
+           "0": "Tombol Arah & Tombol"
+         },
+         "control_method_joystick_buttons_b": {
+           "0": "Sentuh untuk jalan & (Tombol Arah & Tombol) (senjata)"
+         },
+         "control_method_joystick_buttons_c": {
+           "0": "Sentuh untuk jalan & Tombol Arah & (Tombol) (senjata)"
+         },
+         "control_method_joystick": {
+           "0": "Sentuh untuk jalan & Tombol Arah"
+         },
+         "show_controls_toggle_button": {
+           "0": "Tampilkan tombol ganti kendali"
+         },
+         "button_diameter": {
+           "0": "Diameter Tombol"
+         },
+         "button_alpha": {
+           "0": "Transparansi Tombol"
+         },
+         "adjust_joypad_controls": {
+           "0": "Ganti Kendali Joypad"
+         },
+         "invisible_button_width": {
+           "0": "Lebar Tombol Transparan"
+         },
+         "Default": {
+           "0": "Default"
+         },
+         "pinch_zoom": {
+           "0": "Cubit untuk Zoom"
+         },
+         "store_demo": {
+           "0": "Versi Stardew Valley ini dibuat khusus untuk tujuan demonstrasi."
+         },
+         "permissions_info": {
+           "0": "Game membutuhkan izin baca",
+           "1": "tulis penyimpanan eksternal, supaya kamu bisa transfer file save dari atau ke platform lain. Tolong beri ijin untuk bermain dengan lancar."
+         },
+         "permissions_manual_set": {
+           "0": "Pada ponsel, buka menu Pengaturan > Aplikasi > Stardew Valley > Izin, dan izinkan Penyimpanan agar bisa bermain."
+         },
+         "mobile_options_toolbar_slot_size": {
+           "0": "Ukuran Toolbar"
+         },
+         "mobile_options_date_time_size": {
+           "0": "Ukuran Tanggal"
+         },
+         "please_wait": {
+           "0": "Harap Tunggu..."
+         },
+         "save_error": {
+           "0": "File Simpanan Error"
+         },
+         "show_camerabutton": {
+           "0": "Tampilkan Tombol Kamera"
+         },
+         "save_version_incompatible": {
+           "0": "File Save tidak cocok dengan versi Stardew Valley ini. Harap update game saat versi 1.4 sudah hadir untuk perangkatmu."
          }
        }
      },
