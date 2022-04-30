@@ -1,11 +1,10 @@
 {
-  "Name": "Indonesian Language Mod",
-  "Author": "dragonregure",
-  "Version": "1.5.3",
-  "Description": "It makes your stardew valley content(dialogue, non dialogue) translated to Indonesian Language.",
-  "UniqueID": "Dragonregure.IndonesianLanguageMod",
-  "MinimumApiVersion": "3.0.0",
-  "UpdateKeys": [ "Nexus:1057" ],
+  "Name": "Bahasa Indonesia",
+  "Author": "Dragonregure",
+  "Version": "1.5.4",
+  "Description": "Ngetes mod bahasa indonesia",
+  "UniqueID": "Dragonregure.BahasaIndonesia",
+  "UpdateKeys": [ "Nexus:???" ],
   "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher"
   }
