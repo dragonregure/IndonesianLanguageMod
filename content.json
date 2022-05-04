@@ -21,7 +21,7 @@
     {
       "LogName": "Menambah Tombol Bahasa",
       "Action": "Load",
-      "Target": "Mods/Dragonregure.BahasaIndonesia/Button",
+      "Target": "Mods/Dragonregure.IndonesianLanguageMod/Button",
       "FromFile": "assets/ButtonBahasaBaru.png"
     },
     {
