@@ -1,4 +1,25 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.Int32Reader",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "0": "House Plant/50/-300/Crafting -9/Menambah nuansa rumah atau kebun./true/true/0/Tanaman Rumahan",
   "1": "House Plant/50/-300/Crafting -9/Menambah nuansa rumah atau kebun./true/true/0/Tanaman Rumahan",
   "2": "House Plant/50/-300/Crafting -9/Menambah nuansa rumah atau kebun./true/true/0/Tanaman Rumahan",
@@ -166,4 +187,5 @@
   "275": "Hopper/0/-300/Crafting -9/Item yang ditaruh di sini secara otomatis disalurkan ke mesin di depannya./true/true/0/Hopper",
   "278": "Campfire/0/-300/Crafting -9/Bisa masak dimana saja!/true/true/1/Api Unggun",
   "280": "Statue Of True Perfection/0/-300/Crafting -9/Terbuat dari iridium murni./true/true/0/Patung Kesempurnaan Sejati"
+  }
 }

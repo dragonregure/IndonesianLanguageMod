@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "BarnDweller.cs.386": "{0} sedang tidur.",
   "BarnDweller.cs.387": "{0} tampak bahagia hari ini!",
   "BarnDweller.cs.388": "{0} tampak sedang kesal...",
@@ -241,8 +258,8 @@
   "Event.cs.1629": "Ya... aku tidak bisa menolak wajah yang lembut dan penuh kasih itu. Apa karena efek musim semi?",
   "Event.cs.1631": "Oke, ini pasti seru... Semoga kali ini aku tidak lupa dengan gerakannya! Sudah lama juga...$h",
   "Event.cs.1632": "Tentu aku mau berdansa denganmu!$h",
-  "Event.cs.1633": "Kamu mau berdansa denganku di Tarian Bunga?#$b#Tentu. Aku menantikannya.$h",
-  "Event.cs.1634": "Kamu mau berdansa denganku di Tarian Bunga?#$b#Oke! Dengan senang hati.$h",
+  "Event.cs.1633": "Kamu mau berdansa denganku di Dansa Bunga?#$b#Tentu. Aku menantikannya.$h",
+  "Event.cs.1634": "Kamu mau berdansa denganku di Dansa Bunga?#$b#Oke! Dengan senang hati.$h",
   "Event.cs.1635": "Maaf... aku sudah berdansa sama orang lain.",
   "Event.cs.1645": "Oranye",
   "Event.cs.1647": "Hijau",
@@ -1297,7 +1314,7 @@
   "SkillsPage.cs.11608": "Bertarung",
   "SkillsPage.cs.11609": "Keberuntungan",
   "SkillsPage.cs.11610": "Dompet",
-  "SocialPage.cs.11635": "(lajang)",
+  "SocialPage.cs.11635": "(jomblo)",
   "SocialPage.cs.11636": "(suami)",
   "SocialPage.cs.11637": "(istri)",
   "SocialPage.cs.11639": "(pacar)",
@@ -1528,7 +1545,7 @@
   "TV.cs.13137": "...dan sekarang, mari beralih ke Pelican Town dan wilayah pantai selatan.",
   "TV.cs.13138": "...dan itu adalah prediksi terbaik kami untuk {0}, pemirsa. Sekarang, bagaimana dengan Pelican Town?",
   "TV.cs.13140": "...Stasiun perkiraan cuaca Stardew Valley melaporkan data cuaca besok.",
-  "TV.cs.13141": "Saya Tom Laminar, melapor langsung dari KOZU 5... cuaca, berita, dan hiburan. Sekarang, laporan dari Stardew Valley...",
+  "TV.cs.13141": "Saya Tom Laminar, melaporkan cuaca, berita, dan hiburan langsung dari KOZU 5. Sekarang, laporan dari Stardew Valley...",
   "TV.cs.13142": "...Permisa dapat melihat variabel tekanan dari utara sini. Hanya ada satu arti untuk ini, pemirsa...",
   "TV.cs.13143": "...Jika anda sekalian melihat, Anda akan melihat beberapa fluktuasi suhu dengan tingkat rendah hingga sedang. Pemirsa, apa anda tau apa artinya?...",
   "TV.cs.13144": "...Di timur laut Anda dapat melihat tonjolan garis kering yang menjalar ke barat dekat gurun calico. Pemirsa, menurut saya cukup jelas...",
@@ -1549,14 +1566,14 @@
   "TV.cs.13187": "Akan sedikit berawan dengan angin sepoi-sepoi. Akan banyak serbuk sari!",
   "TV.cs.13189": "Cuaca akan mendung, dengan hembusan angin sepanjang hari.",
   "TV.cs.13190": "Akan turun salju sepanjang hari. Pastikan anda sekalian bersiap, pemirsa!",
-  "TV.cs.13191": "Spirit sedang sangat marah. Rupanya seseorang mencoba memberi mereka persembahan yang tidak berharga... Hmm. Tidak bijaksana untuk membuat lelucon kepada para spirit!",
-  "TV.cs.13192": "Para Spirit sangat tidak senang hari ini. Mereka akan melakukan yang terbaik untuk membuat hidup kalian sulit.",
-  "TV.cs.13193": "Para Spirit agak kesal hari ini. Keberuntungan tidak akan ada di pihak kalian.",
-  "TV.cs.13195": "Para Spirit agak sedikit terganggu hari ini. Keberuntungan tidak akan ada di pihak kalian.",
-  "TV.cs.13197": "Para Spirit sedang gembira! Seseorang memberi mereka persembahan yang bagus hari ini, dan mereka sangat senang.",
-  "TV.cs.13198": "Para Spirit sangat senang hari ini! Mereka akan melakukan yang terbaik untuk memberi semua orang dengan keberuntungan.",
-  "TV.cs.13199": "Para Spirit sedang dalam mood baik hari ini. Saya pikir Anda akan memiliki sedikit keberuntungan tambahan.",
-  "TV.cs.13200": "Para Spirit merasa netral hari ini. Hari ini ada di tanganmu.",
+  "TV.cs.13191": "Para Roh sedang sangat marah. Rupanya seseorang mencoba memberi mereka persembahan yang tidak berharga... Hmm. Tidak bijaksana untuk membuat lelucon kepada para roh!",
+  "TV.cs.13192": "Para Roh sangat tidak senang hari ini. Mereka akan melakukan yang terbaik untuk membuat hidup kalian sulit.",
+  "TV.cs.13193": "Para Roh agak kesal hari ini. Keberuntungan tidak akan ada di pihak kalian.",
+  "TV.cs.13195": "Para Roh agak sedikit terganggu hari ini. Keberuntungan tidak akan ada di pihak kalian.",
+  "TV.cs.13197": "Para Roh sedang gembira! Seseorang memberi mereka persembahan yang bagus hari ini, dan mereka sangat senang.",
+  "TV.cs.13198": "Para Roh sangat senang hari ini! Mereka akan melakukan yang terbaik untuk memberi semua orang dengan keberuntungan.",
+  "TV.cs.13199": "Para Roh sedang dalam mood baik hari ini. Saya pikir Anda akan memiliki sedikit keberuntungan tambahan.",
+  "TV.cs.13200": "Para Roh merasa netral hari ini. Hari ini ada di tanganmu.",
   "TV.cs.13201": "Ini sungguh langka. Para Spirit benar-benar netral hari ini.",
   "Wallpaper.cs.13203": "Lantai",
   "Wallpaper.cs.13204": "Kertas Dinding",
@@ -1941,7 +1958,7 @@
   "Tool.cs.14300": "{0} Besi",
   "Tool.cs.14301": "{0} Emas",
   "Tool.cs.14302": "{0} Iridium",
-  "Tool.cs.14303": "Level {0} {1}",
+  "Tool.cs.14303": "{1} Level {0}",
   "Tool.cs.14304": "Belati",
   "Tool.cs.14305": "Pentungan",
   "Tool.cs.14306": "Pedang",
@@ -2078,7 +2095,7 @@
   "TrashCan": "Tempat Sampah",
   "TrashCan_Description": "Saat membuang item, kamu bisa dapat {0}% dari nilainya.",
   "ToolReady": "{0}-mu sudah selesai.",
-  "ItemRecovery_Description": "Kehilangan item, ya? Aku bisa mencari salah satunya, dengan ongkos. Pilih baik-baik.",
+  "ItemRecovery_Description": "Kehilangan item? Aku bisa mencari salah satunya, sesuai biaya. Pilih baik-baik.",
   "ItemRecovery_Engaged": "Oke, malam ini akan aku cari {0}-mu yang hilang. Akan kukirim lewat pos besok pagi.",
   "ItemRecovery_Engaged_Stack": "Oke, malam ini akan aku cari {0}-mu yang hilang. Akan kukirim lewat pos besok pagi.",
   "Krobus_Engaged": "Sebuah Void Ghost pendant! Bagaimana kau...?$3#$b#Oh, wow.$7#$b#@... ya, aku mau tinggal denganmu, kalau itu maumu. Tapi kita harus menrahasiakan ini dari semua orang.#$b#Aku akan ke rumahmu beberapa hari lagi... oke?$h",
@@ -2240,4 +2257,5 @@
   "EndCredits_SongName": "Stardew Valley Forever",
   "RenovationBlocked": "Hilangkan semua item di area renovasi.",
   "Quest_FinalDay": "Hari Terakhir"
+  }
 }

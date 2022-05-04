@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Universal_Love": "74 446 797 373 279",
   "Universal_Like": "-2 -7 -26 -75 -80 72 395 613 634 635 636 637 638 724 459 873",
   "Universal_Neutral": "194 216 262 304 815",
@@ -38,4 +55,5 @@
   "Willy": "Ini hebat! Kalau saja ayahku masih ada, dia akan suka ini./72 143 149 154 276 337 698 459/Ini bagus. Terima kasih!/66 336 340 699 707 198 202 209 212 213 214 219 225 727 730 728 732 265/Hmmm... Kau suka ini? Hah./-7 -81 2 4 330/... *Endus~*... Yah, setidaknya bisa kucampur buat umpan.//Hadiah! Makasih./-4 227 228 242/",
   "Krobus": "Ini hadiah yang luar biasa. Bagi kaumku, suatu kebanggan bisa menerimanya./72 16 276 337 305 308/Terima kasih banyak./66 265 336 340/Manusia punya... selera yang menarik./-7 -81 2 330/Oh... Um. Aku akan menerimanya.//Terima kasih.//",
   "Leo": "Aku suka ini. Akan kutaruh di sarangku./444 289 834 906/Apa kau yakin? Wow, kamu baik sekali.../852 396 392 394 397 905/Oh... Aku tidak tau apa aku bisa menelan ini.../-7 -81 2 330 303 459 342 346 348/*Endus~* *Endus~*... Kenapa kau beri ini padaku? Kau ingin menguburnya?/257 253 247 271 283 304 303 346 873 348 459 167/Aku terima hadiahmu./-4 395/"
+  }
 }

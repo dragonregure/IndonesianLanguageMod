@@ -1,10 +1,28 @@
 {
-  "fall_9.000": "Erm... Dokter Harvey? Ini sepenuhnya rahasia, 'kan?",
-  "15.000": "Aku ingin mengecek bisnis lokal dan lihat bagaimana keadaan mereka.",
-  "6.000": "Aku di sini untuk menarik pajak Clint.",
-  "1.000": "Yah, ikannya berbau segar di musim ini.",
-  "Tue.000": "Aku belanja kebutuhan sehari-hari di sini.$h",
-  "3.000": "Aku di sini hanya untuk memastikan kebutuhan bisnis Marnie terpenuhi.",
-  "6.001": "Perpustakaan adalah salah satu fitur terhebat Pelican Town. Didanai dari pajak yang dikumpulkan dari bisnis lokal.",
-  "winter_16.000": "Kamu tahu, aku membeli item favoritku dari pasar ini..."
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "fall_9.000": "Erm... Dokter Harvey? Ini dirahasiakan, kan?",
+        "15.000": "Aku mau mengecek keadaan bisnis lokal.",
+        "6.000": "Aku disini untuk menagih pajak bisnis Clint.",
+        "1.000": "Wah, ikannya benar-benar segar musim ini.",
+        "Tue.000": "Aku belanja semua kebutuhanku disini.$h",
+        "3.000": "Aku disini hanya untuk memastikan semua kebutuhan bisnisnya Marnie terpenuhi.",
+        "6.001": "Perpustakaan adalah keistimewaannya Pelican Town. Tempat itu didanai dari pajak yang kami kumpulkan dari bisnis lokal.",
+        "winter_16.000": "Beberapa item favoritku aku beli dari pasar ini..."
+    }
 }

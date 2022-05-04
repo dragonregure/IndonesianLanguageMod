@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Introduction": "Sudahkan kau bertemu orang-orang di kota? Kedengarannya melelahkan.",
   "Resort": "Wow, lihat struktur bangunan disini!$h#$b#Aku yakin dibuat oleh seorang master builder. Aku benar-benar terkesan!",
   "Resort_Leaving": "Sangat menyenangkan!$h",
@@ -37,4 +54,5 @@
   "winter_Fri": "Orangtuaku menginginkanku aku menjadi tukang kayu.#$e#Mereka ketinggalan jaman.",
   "winter_Fri_inlaw_Sebastian": "Aku pikir berkebun menyehatkan bagi Sebby.",
   "winter_Sat": "Rumah kita sangat indah, apa yang kau pikirkan?#$e#Meskipun tertutup salju tapi tetap terasa indah."
+  }
 }

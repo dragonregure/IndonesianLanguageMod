@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Rainy_Day_0": "Diluar hujan. Jangan sampai kau kedinginan, sayang.#$e#Kalau bisa tetap di dalam.$h#$e#Kadang-kadang aku cemas!",
   "Rainy_Day_1": "Sekarang hujan! Artinya hari ini kita tidak perlu menyiram tanaman.$h#$e#Alam kadang sangat membantu.#$e#Kau sudah memberi makan hewan ternak, sayang?",
   "Rainy_Day_2": "Selamat pagi! Aku bangun lebih awal karena suara air hujan dan aku sudah masak beberapa makanan. [194 195 210 211 216]  #$e#Tetap hangatkan badanmu dan jangan bekerja terlalu keras. Aku khawatir kesehatanmu.",
@@ -210,4 +227,5 @@
   "NoBed_1": "Aku tidak bisa tidur dengan nyenyak tadi malam...$s",
   "NoBed_2": "Aku tidur di lantai tadi malam...$s",
   "NoBed_3": "Mana kasur kita...?$s"
+  }
 }

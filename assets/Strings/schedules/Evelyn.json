@@ -1,8 +1,26 @@
 {
-  "Thu.000": "Tempat ini penuh dengan kenangan bagiku. Terima kasih banyak telah mengembalikannya.$h",
-  "2.001": "Oh sayang, apakah ini darurat? Mengapa kamu di sini?$s",
-  "winter_17.000": "Ini adalah salah satu tradisi baru di Pelican Town... tapi kami melakukannya dengan cepat. Bukankah begitu, George?",
-  "23.000": "Sekarang, sayang... Penting bahwa Dokter Harvey memperhatikanmu dengan baik. Dia pria muda yang baik! Perlakukan dirimu, demi istrimu tersayang.",
-  "23.001": "Apakah anda bisa memeriksa paru-parunya? Dia mengi akhir-akhir ini.",
-  "2.000": "Kalau kamu sudah seusiaku, kamu harus mengunjungi dokter lebih sering."
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Thu.000": "Bagiku tempat ini penuh dengan kenangan. Terima kasih banyak telah memulihkannya.$h",
+        "2.001": "Oh, apa ada keadaan darurat? Kamu kenapa ada disini, cu?$s",
+        "winter_17.000": "Ini salah satu tradisi baru di Pelican Town... tapi kami yang tua juga merayakan. Benar kan, George?",
+        "23.000": "Sudah, sayang... Penting untuk memeriksakan diri ke Dokter Harvey. Dia pemuda yang baik! Jangan bertingkah, lakukan demi istrimu ini.",
+        "23.001": "Bisa tolong periksa paru-parunya? Belakangan ini batuknya parah.",
+        "2.000": "Saat kamu di usia sepertiku, kamu harus sering ke dokter."
+    }
 }

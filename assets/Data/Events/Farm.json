@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "5/e 3/v Abigail/t 600 800": "continue/64 15/farmer 64 16 2 Abigail 64 18 0/pause 1500/speak Abigail \"Hai. Eng... Aku mau minta maaf karena bertingkah aneh kemarin.#$b#Mungkin kau sudah tahu apa yang terjadi...$l#$b#Eh, baiklah... da-dah.\"/pause 500/end",
   "47/f Sam 2000/t 600 800/e 44": "continue/64 15/farmer 64 16 2 Sam 64 18 0/pause 1500/speak Sam \"Hei @. Bandku akan konser nanti malam, di Kota Zuzu!#$b#Temui aku di halte bis pukul 16:00 sebelum berangkat. Kuharap kamu mau datang!\"/pause 300/end dialogue Sam \"Aku gembira campur gugup karena mau tampil malam ini. Aku yakin semuanya akan berjalan lancar.\"",
   "2346097/f Abigail 2010/x abbySpiritBoard": "null",
@@ -54,4 +71,5 @@
   "992559/t 600 1130/n clothFound/O Emily/w sunny": "continue/64 15/farmer 64 16 2 Emily 64 18 0/skippable/pause 1500/speak Emily \"Selamat pagi, @.$h\"/pause 500/speak Emily \"Aku baru ingat... ada mesin jahit di rumahku!\"/pause 500/speak Emily \"Kalau kamu mau membuat pakaian, ke sanalah dan pakai mesin jahitnya.$h\"/pause 800/playSound reward/message \"Sekarang kamu bisa pakai Mesin Jahitnya Emily!\"/pause 800/speak Emily \"Untuk menjahit, kamu butuh selembar kain dan satu item lagi, itemnya terserah. Bereksperimenlah dan jelajahi semua model unik yang bisa kau dapatkan!#$b#Aku akan senang melihatmu ganti-ganti gaya baju!$h\"/pause 500/emote Emily 20/pause 500/end",
   "980558/t 600 1130/w sunny/f Gus 1250": "playful/64 15/farmer 64 16 2 Gus 64 18 0/skippable/pause 1500/speak Gus \"Selamat pagi!\"/pause 500/faceDirection Gus 3/pause 600/speak Gus \"Ah... hari yang indah, ya?\"/pause 400/faceDirection Gus 0/speak Gus \"Kau tahu, sebagai pemilik Saloon, aku selalu dengar apapun yang terjadi di kota.#$b#Aku ingat saat pertama kali kau datang... semua kurang yakin padamu.#$b#Orang asing dari kota... orang yang tidak diketahui kepribadiannya...$s\"/textAboveHead Gus \"Sebentar...\"/faceDirection Gus 2/animate Gus false true 250 24 25/pause 500/playSound slimeHit/pause 500/playSound slimeHit/pause 500/playSound slimeHit/pause 500/playSound slimeHit/pause 500/stopAnimation Gus/pause 500/faceDirection Gus 0/pause 500/speak Gus \"Maaf, aku harus mengaduk mangkok ini setiap 5 menit.\"/emote farmer 40/speak Gus \"Omong-omong, aku tadi bilang apa? Yah... kau tahu, ibarat seperti membuat bumbu...\"/playMusic none/speak Gus \"...kalau ditambah bahan baru bisa merusak citarasanya!$s\"/pause 500/playSound fireball/animate Gus false true 100 26/shake Gus 1000/specificTemporarySprite sauceFire/pause 2000/animate Gus false true 200 24 25/pause 400/playSound slimeHit/pause 400/playSound slimeHit/pause 400/playSound slimeHit/pause 400/playSound slimeHit/pause 400/playSound slimeHit/animate Gus false true 100 24/pause 500/playSound discoverMineral/specificTemporarySprite sauceGood/pause 800/playMusic distantBanjo/speak Gus \"...Tapi, selalu ada peluang akan jadi bumbu baru yang lebih sedap dan lezat! Benar 'kan? Hahahaha.$h\"/pause 100/stopAnimation Gus/faceDirection Gus 0/emote farmer 8/faceDirection Gus 3/faceDirection Gus 0/pause 500/speak Gus \"Ehh... Intinya...$s#$b#Kami senang kamu telah datang ke kota ini, aku sudah menganggapmu sebagai salah satu teman dekatku!\"/emote farmer 32/speak Gus \"Oh iya, aku datang untuk memberimu sesuatu...#$b#Saat bersih-bersih ruang belakang, aku menemukan Jukebox-Mini tua ini. Terimalah!\"/pause 800/itemAboveHead jukebox/playSound getNewSpecialItem/pause 3300/awardFestivalPrize jukebox/pause 200/message \"Mendapatkan sebuah 'Jukebox-Mini'\"/pause 800/speak Gus \"Sebenarnya itu salah satu proyekku bertahun-tahun yang lalu. Cara buatnya mudah kok!#$b#Ini, siapa tahu kau ingin membuat yang baru, aku bawakan rancangannya untukmu...\"/pause 200/playSound getNewSpecialItem/addCraftingRecipe Mini-Jukebox/pause 500/message \"Kamu sekarang bisa merakit 'Jukebox-Mini'\"/pause 800/speak Gus \"Ya sudah, aku pulang dulu. Aku harus mengembalikan bumbu marinara ini ke kompor! Sampai jumpa!\"/pause 500/end",
   "3872126/C/x willyBackRoomInvitation": "null"
+  }
 }

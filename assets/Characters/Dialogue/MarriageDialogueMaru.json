@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Rainy_Day_0": "Aku penasaran bagaimana kabar Penny? Mungkin aku akan menelfonnya nanti.",
   "Rainy_Day_1": "Aku baru saja melamun... apa kau pikir MARILDA baik saja? Kuharap ia menemukan tempat dimana ia seharusnya berada...",
   "Rainy_Day_2": "Hey! Tidurku bermasalah tadi malam jadi aku iseng bekerja dibengkel semalam. Ini, kubuat ini untukmu. [688 369 338 325 287]#$e#Kuharap kau dapat menggunakannya.",
@@ -56,4 +73,5 @@
   "fall_Maru": "Kehidupan berkebun sangatlah bagus, tapi aku senang masih bekerja di klinik... Itu sangat membantu orang-orang.",
   "winter_Maru": "Musim semi akan tiba. aku ingin membuat pie.",
   "spouseRoom_Maru": "#$c .5#Aku bangun terlalu pagi untuk melihat bintang-bintang.#$e#Aku harap kau tidak masalah jika aku menghabiskan banyak waktu dengan proyekku, sayang."
+  }
 }

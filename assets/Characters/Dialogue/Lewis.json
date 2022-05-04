@@ -1,7 +1,24 @@
 {
-  "Introduction": "Jadi, bagaimana rasanya bermalam di rumah tua itu?#$e#Dulu Kakekmu sering mengeluh karena kasur reyotnya. Tapi aku yakin, jauh dalam hatinya, dia mencintai rumah itu.",
-  "Resort": "Aku terkesan, @. Kau benar-benar memperbaikinya!$h",
-  "Resort_Leaving": "Semuanya naik! Kita akan kembali ke lembah!",
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": { 
+  "Introduction": "Jadi, gimana rasanya bermalam di rumah tua itu?#$e#Dulu Kakekmu sering mengeluh karena kasur reyotnya. Tapi aku yakin, jauh dalam hatinya, dia mencintai rumah itu.",
+  "Resort": "Aku terkesan, @. Kau benar-benar memulihkan tempatnya!$h",
+  "Resort_Leaving": "Semuanya naik! Waktunya pulang ke lembah!",
   "Resort_Shore": "Kesempatan berlibur seperti ini dapat mengembangkan ekonomi lokal!#$e#Aku tidak mau lama-lama kena sinar matahari, nanti kumisku kering.",
   "Resort_Chair": "Hehe... lihatlah tempat ini! Entah bagaimana kau melakukannya, tapi tempat ini jadi buah bibir warga kota.$h",
   "Resort_Bar": "Hehe... Gus benar-benar bersemangat.",
@@ -54,4 +71,5 @@
   "winter_Fri": "Semoga semuanya berjalan lancar di kebunmu.",
   "winter_Fri6": "Aku belum pernah menikah. Aku tidak punya keluarga. Yang kulakukan selama ini hanya jadi Walikota.$s#$e#Apakah ini sepadan?$s#$e#...*Hahh~*...$s",
   "winter_Sun": "Hai, @! Bagaimana harimu?$h#$e#Kalau ketemu Marnie, titipkan salamku padanya."
+  }
 }

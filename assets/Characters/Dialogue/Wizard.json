@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Introduction": "Ah, yes. Aku sudah memprediksi kau akan datang dulu sekali @.#$e#Bagaimanapun, takdirmu ada di tanganmu.",
   "accept_868": "Ah... sebuah pecahan arctic.#$b#Sebuah substance yang sangat powerful, dan terdapat element es yang kuat di dalamnya.#$b#KKalau tidak keberatan, aku ambil ini.#$b#...#$b#...Erm... Kau masih disini. Oh. Kau ingin sesuatu penggantinya?#$b#...Ambil ini.",
   "MovieInvitation": "Hmm... Mungkin aku bisa menemanimu... Ya. Saat kau sampai, aku juga akan muncul. Selamat tinggal.",
@@ -13,4 +30,5 @@
   "Sat": "Kau punya potensi magis di kebunmu.#$e#Aku membangun tempat ini karena ada maksud.",
   "Sat2": "Apakah kau pernah ke hutan mahluk halus?",
   "Sun": "Aku kadang ke kota dengan sembunyi-sembunyi.#$e#Aku harap aku menemukan sesuatu. Suatu hari aku ingin meninggalkan tempat ini, tapi aku harus menyiapkan batinku."
+  }
 }

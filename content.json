@@ -9,7 +9,7 @@
         "DragonRegure.BahasaIndonesia": {
           "ID": "Dragonregure.BahasaIndonesia",
           "LanguageCode": "id",
-          "ButtonTexture": "Mods/Dragonregure.BahasaIndonesia/Button",
+          "ButtonTexture": "Mods/Dragonregure.IndonesianLanguageMod/Button",
           "TimeFormat": "[HOURS_24_00]:[MINUTES]",
           "ClockTimeFormat": "[HOURS_24_00]:[MINUTES]",
           "ClockDateFormat": "[DAY_OF_WEEK]. [DAY_OF_MONTH]",
@@ -21,7 +21,7 @@
     {
       "LogName": "Menambah Tombol Bahasa",
       "Action": "Load",
-      "Target": "Mods/Dragonregure.BahasaIndonesia/Button",
+      "Target": "Mods/Dragonregure.IndonesianLanguageMod/Button",
       "FromFile": "assets/ButtonBahasaBaru.png"
     },
     {

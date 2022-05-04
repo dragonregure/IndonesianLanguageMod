@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "LostItemQuest_DefaultThankYou": "Kau menemukannya! Terima kasih.",
   "NewChild_SecondChild1": "Lihat keluarga kecil kita... Kita sudah sejauh ini, benar?",
   "NewChild_SecondChild2": "Dua anak yang sehat... Kita sudah sejauh ini, ya kan?",
@@ -35,8 +52,8 @@
   "Morris_Greeting": "Selamat datang di JojaMart! Apa kabarmu hari ini?#$b#Kurasa kita belum pernah bertemu. Aku Morris, kepala bagian Joja Customer Satisfaction Representative.#$b#Apabila kau memutuskan untuk bergabung, aku dengan senang hati membantumu untuk pengalaman baru.",
   "Morris_WeekendGreeting": "Selamat datang di JojaMart! Bagaimana akhir minggu mu?#$b#Kami sedang mengatur ulang sistem member di Joja. Kuharap kau akan bergabung!",
   "Morris_FirstGreeting": "Selamat datang di JojaMart! Apa kabarmu hari ini?#$b#Kami sedang mengatur ulang sistem member di Joja. Kuharap kau akan bergabung!",
-  "Morris_FirstGreeting_CommunityCenterComplete": "Selamat datang di JojaMart! Apa kabarmu hari ini?#$b#Sayangnya, karena beberapa alasan, pendaftaran membership Joja sedang tidak tersedia. Tapi saya takin akan segera tersedia kembali!",
-  "Morris_WeekendGreeting_CommunityCenterComplete": "Selamat datang di JojaMart! Apa kabarmu hari ini?#$b#Sayangnya, karena beberapa alasan, pendaftaran membership Joja sedang tidak tersedia. Tapi saya takin akan segera tersedia kembali!",
+  "Morris_FirstGreeting_CommunityCenterComplete": "Selamat datang di JojaMart! Apa kabarmu hari ini?#$b#Sayangnya, karena beberapa alasan, pendaftaran membership Joja sedang tidak tersedia. Tapi saya yakin akan segera tersedia kembali!",
+  "Morris_WeekendGreeting_CommunityCenterComplete": "Selamat datang di JojaMart! Apa kabarmu hari ini?#$b#Sayangnya, karena beberapa alasan, pendaftaran membership Joja sedang tidak tersedia. Tapi saya yakin akan segera tersedia kembali!",
   "Morris_WeekendGreeting_MembershipAvailable": "Selamat datang di JojaMart! Bagaimana liburan mu?#$b#Membership sudah tersedia sekarang! Dengan membership Joja, kau dapat mengembangkan komunitas menggunakan tenaga kerja kita... dengan gratis, tentunya.#$b#Oh, satu hal lagi... Walikota Lewis jika ada satu orang lagi yang bergabung maka ia mengijinkan merubah Balai Kota menjadi Gudang milik Joja. Bukankah itu luar biasa?#$q -1 -1#Harga Membership {0}g. Maukah kau bergabung?#$r -1 -1 Yes#Yes.#$r -1 -1 No#No.",
   "Morris_FirstGreeting_MembershipAvailable": "Selamat datang di JojaMart! Bagaimana harimu hari ini?#$b#Membership sudah tersedia sekarang! Dengan membership Joja, kau dapat mengembangkan komunitas menggunakan tenaga kerja kita... dengan gratis, tentunya.#$b#Oh, satu hal lagi... Walikota Lewis jika ada satu orang lagi yang bergabung maka ia mengijinkan merubah Balai Kota menjadi Gudang milik Joja. Bukankah itu luar biasa?#$q -1 -1#Harga Membership {0}g. Maukah kau bergabung?#$r -1 -1 Yes#Yes.#$r -1 -1 No#No.",
   "Morris_WeekendGreeting_SecondPlayer": "Selamat datang di JojaMart! Bagaimana dengan liburanmu?#$b#Hmm... Catatan kami menunjukan kau tinggal dengan orang lain... Maaf, tapi kita hanya menjual membership kepada pemilik rumah.",
@@ -148,4 +165,5 @@
   "SummitEvent_closingmessage3": "Pencapaian yang luar biasa!",
   "SummitEvent_closingmessage4": "Kita benar-benar menikmati setiap langkahnya",
   "SummitEvent_closingmessage5": "Dan kau telah membuat kami bangga!"
+  }
 }

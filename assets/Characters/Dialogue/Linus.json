@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Introduction": "Orang baru?... Halo.#$e#Jangan hiraukan aku. Aku tinggal di luar sendirian.",
   "reject_869": "Apa yang jau bawa itu? Sepertinya itu bisa jadi umpan pancing yang bagus.$h",
   "cc_Boulder": "Temanku, batu besar berkilau itu sudah hilang. Mungkin itu hal biasa, tapi bagiku ini adalah perubahan yang besar.#$b#Aku senang batu tua itu bisa melihat luasnya dunia.$h",
@@ -17,7 +34,7 @@
   "Fri4": "Kau bisa belajar banyak dari pohon.#$b#Luangkan waktumu bersama mereka, dan kau akan tahu rahasianya.#$e#Pikirkanlah, anak muda.",
   "Sat4": "Semua yang kubutuhkan untuk bertahan hidup sudah tersedia. Alam memainkan lantunan indah jika kau bisa mendengarnya.#$e#Aku juga suka membaca. Salah satu alasanku tinggal di lembah ini adalah perpustakaannya.",
   "Sun": "#$1 linusVandal#Semalam ada yang melempar batu ke tendaku... Aku menunggunya pergi.$s$k#$e#Aku tidak suka berdiam diri di satu tempat. Banyak pengalam berharga di dunia luar.",
-  "summer_Mon4": "Selama beberapa tahun aku menemukan rahasia kehidupan.#$e#Kamu akan menemukannya sendiri.",
+  "summer_Mon4": "Setelah bertahun-tahun aku telah menemukan beberapa rahasia kehidupan.#$e#Kamu harus menemukannya sendiri.",
   "summer_Mon": "#$1 LinusHeron#Tadi pagi aku melihat burung bangau yang indah diantara kabut.$k#$e#Sangat mudah terjebak di kabut era modern. Masa terbaikmu yang lewat akan terasa buram. Karena itu kamu harus berproses dengan pelan-pelan.",
   "summer_Tue4": "Bagaimana harimu, teman mudaku?",
   "summer_Wed6": "Ah... musim panas. Teriknya bisa untuk memanaskan makanan kaleng.#$b#Lalu malamnya aku bisa menikmatinya selagi hangat.",
@@ -37,4 +54,5 @@
   "winter_Fri4": "Pohon-pohon tertidur saat musim dingin. Di sini jadi agak sunyi.#$e#Tapi aku tidak akan mengganggu tidur mereka.$h",
   "winter_Sat4": "Terima kasih sudah mampir. Aku merasa agak kesepian pagi ini.#$e#Sudahkah kau melihat hal yang menarik di tambang?",
   "winter_Sun": "Tidur di tanah baik untuk punggungku.#$e#Lebih baik ambil sisi positif dari setiap hal.$h"
+  }
 }

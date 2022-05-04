@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Introduction": "Hey, Aku Sam. Senang bertemu denganmu.$h",
   "Resort_Entering": "Wow, tempat yang luar biasa!",
   "Resort": "Aku yakin banyak hal keren di bagian dalam pulau.#$e#Tapi, Willy bilang kita harus tetap disini... Katanya ia yang bertanggung jawab dan sebagainya.$s",
@@ -97,4 +114,5 @@
   "winter_Sat4": "Aku baru ingat aku harus mengganti string guitarku.#$b#Okey, Aku akan menulisnya di buku catatan nanti malam.#$e#Aku harus mencatatnya jika tidak aku akan mudah melupakannya.$h",
   "winter_Sun8": "Sangat menyenangkan bermain seluncur, bukan?#$e#Aku pikir kita tidak punya bukit yang bagus.$s#$e#Ditambah, aku tidak punya seluncur.#$e#Jadi, apa yang ingin kau lakukan?",
   "winter_Sun": "Jangan membuat rumahku berantakan atau ibu akan marah."
+  }
 }

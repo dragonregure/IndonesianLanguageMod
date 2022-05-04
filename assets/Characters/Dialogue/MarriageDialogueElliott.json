@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Rainy_Day_0": "Aku sedang terinspirasi hari ini... Kurasa aku akan menulis.",
   "Rainy_Day_1": "Suara hujan ini, membuatku teringat akan kabinku di pantai.#$e#Ladangnya indah kok, tapi aku sedang rindu suara lautan.",
   "Rainy_Day_2": "AKu bangun dulu dan membuatkanmu kopi.[395]#$e#Aku merasa bahwa secangkir minuman istimewa ini bisa membuat pagi jadi lebih menyenangkan.",
@@ -53,4 +70,5 @@
   "winter_1": "Musim dingin adalah waktu yang tepat untuk membaca buku dan bermain piano. Ingatlah untuk sesekali berhenti dan menikmati suasana yang tenang.",
   "winter_7": "Aku kurang berlatih, tapi aku akan ikut lomba memancing besok! Kamu akan punya lawan yang sulit, sayang.",
   "winter_28": "Selamat malam tahun baru, cintaku. Terimalah ini untuk merayakannya. [348]"
+  }
 }

@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Rainy_Day_0": "Aku penasaran kemana para serangga terbang ketika hujan, apakah mereka terkena air hujan?",
   "Rainy_Day_1": "Hari seperti ini adalah berkah dari Alam.",
   "Rainy_Day_2": "Selamat pagi... aku punya hadiah untukmu. Jangan khawatir, aku telah memurnikannya dengan Dupa Sage. [428 440 444 338 207]",
@@ -57,4 +74,5 @@
   "summer_Emily": "Wew! Sangat panas tapi terasa menyenangkan, ya kan?#$e#Maybe we'll see some wild parrots today.",
   "winter_Emily": "Ups, rambutku membeku lagi.$s",
   "spouseRoom_Emily": "Aku akan menghabiskan waktu dengan Kakatua hari ini. Sungguh malang ia tak dapat terbang lagi.$u"
+  }
 }

@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Introduction": "Oh... Hello! Aku Penny...",
   "Resort_Entering": "Pulau yang sangat indah!",
   "Resort_Leaving": "Liburan yang menyenangkan.$h",
@@ -33,7 +50,7 @@
   "Fri2": "Jika kau menggali tanah, kau akan menemukan beberapa hal menarik.#$e#Aku pernah menemukan sepotong guci tua. Aku membawanya ke Gunther dan dia bilang itu berusia lebih dari seribu tahun.",
   "Fri4": "Piring, piring, piring. Ugh ... Jika ibuku tidak pulang larut malam dari bar, mungkin dia bisa sedikit membantuku.$s",
   "Sat": "Ini adalah sebuah kota kecil. Kau tidak akan bisa menghindar dari orang-orang.#$e#Aku ingin tau rasanya tinggal dikota.",
-  "Sat2": "$d Joja#Hal berubah banyak setelah JojaMart berdiri. Ini benar-benar buruk bagi toko Pierre. Ibu menyukai JojaMart karena harganya murah, sehingga dia mampu lebih banyak di sana daripada di Pierre.|Ibu sudah mengeluh sejak Joja Mart ditutup. Saya pikir itu baik untuknya. Mungkin akan berhenti minum Joja Cola.",
+  "Sat2": "$d Joja#Hal berubah banyak setelah JojaMart berdiri. Ini benar-benar buruk bagi toko Pierre. Ibu menyukai JojaMart karena harganya murah, jadi dia bisa beli lebih banyak di sana daripada di Pierre.|Ibu sudah mengeluh sejak Joja Mart ditutup. Kupikir itu baik untuknya. Mungkin dia akan berhenti minum Joja Cola.",
   "Sun": "Hello. Ummm...$u#$b#Cuacanya bagus, bukan?#$e#Maaf...$u",
   "Sun4": "Aku sudah berusaha untuk menjaga tempatku bersih, tetapi selalu akan berantakan lagi.$s#$e#Sulit untuk menjalankan rumah tangga sendirian.$u",
   "event_speaker_kids1": "Oh tidak?$l#$b#Yah, aku kira itu masuk akal ... Kau sedang sibuk dengan hal-hal lain sekarang.",
@@ -81,4 +98,5 @@
   "winter_Tue": "Aku mencoba untuk tinggal di dalam rumah sebanyak mungkin selama musim dingin. Aku benci dingin.",
   "winter_Thu": "Oh... hai. Kau ingin mengobrol?$u#$e#Jika kau menemukan artefak menarik, Gunther dengan senang hati akan menampilkannya di museum.#$e#Dia bilang akan memberikan hadiah bagi siapa yang menyumbangkannya.",
   "winter_Mon": "Pada tanggal 25 kita akan mengadakan acara Feast of the Winter Star. Itu salah satu acara favoritku.#$e#Itu seharusnya menjadi waktu untuk bersyukur atas semua hal yang baik dalam hidup... tetapi bagi kebanyakan orang itu hanya waktu untuk bersantai dan bertukar kado."
+  }
 }

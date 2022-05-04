@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Mon": "Bekerja keraslah, Nak. Kurasa kau akan jadi bintang.#$e#Tinggal tanya kalau butuh sesuatu.",
   "Tue": "Aku tahu kau akan ke sini suatu hari nanti. Tentu saja, aku harus membuat sedikit rintangan agar kamu punya keinginan untuk mencapai kesuksesan.",
   "Wed": "Aku lahir sebagai anak biasa, tapi aku membuat keputusan bahwa aku akan menjadi luar biasa.",
@@ -13,4 +30,5 @@
   "QiNutRoom_Fri": "Lihatlah bintang yang paling jauh, dan jadikan itu sebagai tujuanmu.#$b#Kekuatanmu adalah dapat melangkah lebih jauh daripada apa yang kau bayangkan.",
   "QiNutRoom_Sat": "Ada beberapa hal yang tidak terikat ruang dan waktu, Nak. Salah satunya perasaan unik yang ada di setiap hati manusia... Bisikan untuk meraih mimpi.",
   "QiNutRoom_Sun": "Di sisi kiri, kau akan lihat papan dengan tantangan-tantangan spesial dariku... Kubuat khusus untukmu, Nak.#$b#Di sisi kanan, adalah hadiah bagi yang berhasil menyelesaikan tantangannya...#$b#Semoga beruntung, Nak."
+  }
 }

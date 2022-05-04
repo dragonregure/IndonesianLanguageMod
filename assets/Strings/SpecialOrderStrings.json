@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Willy_Name": "Butuh Serangga Segar!",
   "Willy_Text": "Hei semua, aku butuh banyak daging serangga. Lebih segar lebih baik... pokoknya cocok buat pakan kepiting... 100 saja cukup.",
   "Willy_Objective_0_Text": "Kumpulkan Daging Serangga",
@@ -130,4 +147,5 @@
   "QiChallenge12_Objective_3_Text": "Taruh 100 item berwarna hijau di kotak koleksi Qi.",
   "QiChallenge12_Objective_4_Text": "Taruh 100 item berwarna biru di kotak koleksi Qi.",
   "QiChallenge12_Objective_5_Text": "Taruh 100 item berwarna ungu di kotak koleksi Qi."
+  }
 }

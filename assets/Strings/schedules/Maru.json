@@ -1,10 +1,28 @@
 {
-  "marriage_Mon.002": "Kuharap Penny akan menikah suatu hari nanti.",
-  "winter_16.000": "Wow, teknologinya luar biasa!",
-  "marriageJob.000": "Aku sedang bekerja, sayang! Jangan sampai dokter tahu.",
-  "marriageJob.002": "Aku hampir selesai bekerja...",
-  "marriage_Mon.001": "Ayah membuat kemajuan bagus dalam eksperimennya.",
-  "summer.000": "Sulit untuk benar-benar memahami skala alam semesta.$8",
-  "marriage_Mon.000": "Hei! Ibu sepertinya baik-baik saja tanpa bantuanku. Dia wanita yang tangguh.",
-  "marriageJob.001": "Senang kamu mau mengunjungiku.$h"
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "marriage_Mon.002": "Semoga Penny segera menikah juga.",
+        "winter_16.000": "Wow, teknologinya luar biasa!",
+        "marriageJob.000": "Aku sedang kerja, sayang! Jangan sampai dokter tahu.",
+        "marriageJob.002": "Sebentar lagi aku selesai kerja...",
+        "marriage_Mon.001": "Eksperimen ayah berjalan dengan lancar.",
+        "summer.000": "Sulit untuk memahami keseimbangan semesta.$8",
+        "marriage_Mon.000": "Hei! Sepertinya ibu baik-baik saja tanpa aku. Dia wanita yang tangguh.",
+        "marriageJob.001": "Terima kasih sudah datang melihatku.$h"
+    }
 }

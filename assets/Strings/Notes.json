@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Missing": "Ada buku yang hilang di sini...",
   "0": "Tips Dalam Bertani--\n*Pakai berbagai jenis pupuk untuk meningkatkan kualitas panen, mengurangi beban kerja, atau mempercepat pertumbuhan tanaman.\n*Pohon buah butuh semusim penuh untuk tumbuh, tapi ia hanya butuh sedikit perawatan. Pastikan area sekitar tunas bersih, atau pohonnya tidak akan tumbuh dengan baik.\n*Tanaman akan mati saat musim berakhir, kecuali kalau mereka bisa tumbuh di banyak musim (Contoh. Jagung).\n*Beberapa tanaman, seperti kubis keriting and gandum, harus dipanen dengan sabit.",
   "1": "...Buku ini ditulis oleh Marnie.\n 'Binatang sangatlah sensitif. Mereka suka dielus-elus setiap hari, dan lebih suka dengan rumput di luar daripada jerami yang kering. Tapi mereka tidak suka diluar saat hujan turun. Binatang yang bahagia akan menghasilkan produk berkualitas tinggi!'",
@@ -21,4 +38,5 @@
   "18": "Catatan dari Gunther: Wow, perpusatakaan ini jadi tempat yang semakin hebat, semua berkat bantuanmu! Terima kasih banyak!",
   "19": "Goblin^oleh M. Jasper^^Spesie yang secara umum dikenal sebagai \"Goblin\" sepertinya berasal dari hutan di ujung timurlaut, melewati Bukit Bluemire. Dengan ciri-ciri kulit berwarna hijau, mata merah menyala, dan bau busuk, berjumpa dengan Goblin dapat menakutkan bagi wisatawan yang kurang pengalaman.^^Meskipun memiliki penampilan yang meresahkan, Goblin memeiliki kecerdasan dan kapasitas emosional yang mirip seperti manusia, dan tidak bermasalah saat mempelajari bahasa dan adat istiadat kita. Para goblin yang kutemui kebanyakan sangat ramah, setelah aku menunjukkan niat baikku. Sayangnya, berabad-abad diskriminasi dari manusia membuat beberapa goblin bekerja dengan penyihir, ahli nujum, dan sejenisnya.^^Diet tradisional goblin kebanyakan terdiri dari daging, khususnya dari varian daging yang besar dan padat yang berasal dari dekat hutan tempat goblin berasal. Pada kesempatan khusus, Goblin akan memanjakan diri dengan item yang disebut 'void mayonnaise'... yang dianggap terlezat dari semua hidangan Goblin.",
   "20": "Solok Ulan Paa Eno Ra Coto Ulan Coto Ulan Mabo Bel Eno Ra Teba Omi Walo Nemo^^Dop Ulan Coto Kui Mabo Awa Yoba Omi Solok Awa Lon Omi Omi Nemo^^Solok Teba Ra Awa Nemo Gawa Eno Bel Ulan Nemo Teba Omi Yoba Bel Omi Xi"
+  }
 }

@@ -1,4 +1,25 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.Int32Reader",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "1": "Location/Temui Penyihir/Kau mendapat surat dari Penyihir. Dia mengaku punya informasi mengenai Community Center./Masuk ke dalam Menara Penyihir./WizardHouse/-1/0/-1/false",
   "2": "Basic/Qi Yang Misterius/Di dalam kotak kunci rahasia, kau menemukan catatan dengan sebuah perintah aneh. Disitu tertanda 'Mr. Qi'./Taruh Rainbow Shell ke dalam kotak di peron kereta api./null/-1/0/-1/false",
   "3": "Basic/Qi Yang Misterius/Kau menemukan catatan lain yang ditulis 'Mr. Qi'. Kali ini perintahnya lebih aneh./Taruh 10 Beet ke dalam kulkas Walikota Lewis./null/-1/0/-1/false",
@@ -61,4 +82,5 @@
   "128": "SecretLostItem/.../.../.../Abigail 191 100 129/-1/0/-1/false/Kalung itu! Di mana kau menemukannya?$7#$b#Terima kasih sudah membawanya padaku, @. Ibuku tidak akan tahu...$h",
   "129": "SecretLostItem/.../.../.../Caroline 191 50 128/-1/0/-1/false/Ini apa? Kalung lamaku?$s#$b#Aneh, aku saja tidak tahu kalau ini hilang... Terima kasih sudah mengembalikannya, @.$h",
   "130": "Basic/Istri Bajak Laut/Seorang wanita tua di Ginger Island meminta tolong padamu untuk menemukan peninggalan suaminya. Dia memberimu foto lama seorang tentara yang terdampar di pantai, berharap fotonya bisa memberimu petunjuk./Temukan peninggalan dari suaminya Birdie./-1/-1/0/-1/false"
+  }
 }

@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Introduction": "Oh, iya... Katanya ada orang yang pindah ke kebun tua itu.#$e#Yah, sayang banget. Padahal aku suka menjelajahi kebun itu.$9",
   "Resort_Entering": "Semoga ada duyung yang mengunjungi pantai.",
   "Resort_Leaving": "Aku akan minta Willy biar nanti pulang kita lewat daerah yang pemandangannya indah.",
@@ -116,4 +133,5 @@
   "winter_Thu10": "Tahun ini akan segera berakhir...#$b#Tapi ini tahun yang menyenangkan, bagaimana menurutmu?$h",
   "winter_Wed6": "Pasti kau senang karena tidak perlu merawat tanaman di musim ini.#$e#Itu artinya kita bisa nongkrong lebih lama!$h",
   "winter_Fri10": "@, ada sesuatu yang ingin kukatakan padamu...#$e#Kalau... em... hmm... sepatumu! Sepatumu... terlihat sangat bersih... *glek*#$e#Itu saja... *Hahh~*$s"
+  }
 }

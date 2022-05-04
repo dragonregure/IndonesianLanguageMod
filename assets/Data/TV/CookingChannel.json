@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "1": "Stir Fry/Tumisan! Makanan ini adalah masakan hijau sehat yang bisa kamu sajikan di atas piringmu. tumis sayuranmu dengan minyak, pastikan kau juga memasukkan bawang putih dan jahe untuk menambah cita rasa. Aduk terus sampai masak... Dan, selesai.",
   "2": "Coleslaw/Coleslaw! Kamu tidak tahu cara memasak kubis? Jangan takut. Tanpa pengalaman memasak anda bisa memasak coleslaw. Cincang satu buah kubis segar. Beri kubis tersebut dengan sedikit cuka dan mayones lalu aduk sampai merata. Selesai.",
   "3": "Radish Salad/Radish Salad! Tidak ada yang lebih segar dibanding, salad lobak. Masakan ini mengingatkanku akan musim semi... Ibuku selalu memotong lobak tipis lalu menyajikannya diatas roti gandum. Ah, hari - hari itu. Sekarang saksikanlah cara pembuatannya...",
@@ -31,4 +48,5 @@
   "30": "Lobster Bisque/Lobster Bisque! kau bisa hidangkan masakan ini ke gubernur sekalipun. Masakan ini kaya akan rasa dan krim dengan tema seafood. Bagian tersulitnya adalah mencari lobsternya, tapi aku yakin kau bisa menangkapnya. Hmm, Jika kau beruntung kau bisa menangkapnya menggunakan crab pot!",
   "31": "Bruschetta/Bruschetta! Masakan ini sangatlah simple. Kau hanya butuh roti, tomat dan minyak sayur. Pertama - tama, kau harus memanggang roti. Potong tomat lalu taruh diatas roti yang sudah dipanggang sebelumnya. Lalu beri sedikit minyak sayur lalu hidangkan. Simple bukan!",
   "32": "Shrimp Cocktail/Shrimp Cocktail! Masakan ini cocok untuk makan malam bersama tamumu. Saus cocktail sangat menggugah selera, dan aku yakin kamu juga akan menyukainya. Sekarang, Pertama - tama... "
+  }
 }

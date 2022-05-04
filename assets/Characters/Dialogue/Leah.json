@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Introduction": "Halo senang bertemu denganmu. $h#$e#Kau memilih waktu yang tepat untuk pindah ke sini... musim seminya indah.",
   "Resort_Entering": "Jangan beritau siapapun, Willy membiarkanku mengendarai perahunya selama beberapa menit.$h",
   "Resort_Leaving": "Wah, liburan kali ini sangat menyenangkan.",
@@ -71,4 +88,5 @@
   "winter_Sat": "Halo. Kau butuh sesuatu?",
   "winter_Sat2": "Halo, @. Ada sesuatu yang ingin kau bicarakan?",
   "winter_Sun": "Apa kau pernah beristirahat?#$e#Istirahatlah sekali-kali."
+  }
 }

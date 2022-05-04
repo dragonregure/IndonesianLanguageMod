@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "2794460/f Sebastian 500/p Sebastian": "Hospital_Ambient/-1000 -1000/farmer 1 1 2 Sebastian 9 4 3 Robin -100 -100 2/skippable/doAction 1 3/removeTile 1 3 Buildings/removeTile 1 2 Front/playSound keyboardTyping/showFrame Sebastian 24/animate Sebastian false true 100 26 27 26 27 26 27 26/viewport 6 6 true/move farmer 0 4 1/move farmer 5 0 1/pause 1000/speak Sebastian \"Oh, hei. Tunggu sebentar.\"/pause 500/playSound keyboardTyping/pause 1000/question fork1 \"#Dia lagi sibuk... Aku pergi saja.#Tunggu.\"/fork didntLeave/move farmer -2 0 3/speak Sebastian \"Kamu mau ke mana?$u\"/pause 300/faceDirection farmer 1/stopAnimation Sebastian/speak Sebastian \"Maaf... Aku harus menyelesaikan ini sebelum aku lupa.\"/pause 500/move farmer 2 0 1/switchEvent sebastianRoom",
   "didntLeave": "pause 5500/stopAnimation Sebastian/speak Sebastian \"Oke. Maaf soal tadi, aku harus menyelesaikan pekerjaanku dulu.\"/switchEvent sebastianRoom",
   "sebastianRoom": "resetVariable/move farmer 0 2 1/playSound mouseClick/move farmer 3 0 0/playSound mouseClick/move farmer 0 -1 0/playSound mouseClick/move farmer 0 -1 0/pause 500/faceDirection farmer 0/question fork1 \"#Tanya apa yang dia kerjakan.#Puji dekorasi di kamarnya.\"/fork decor/pause 500/stopAnimation Sebastian/speak Sebastian \"Aku bekerja leas sebagai programmer.\"/switchEvent enterRobin",
@@ -23,4 +40,5 @@
   "finalBossWarrior": "pause 500/resetVariable/message \"Bangsawan Xarth sedang merapal mantra...\"/pause 500/question fork0 \"Apa yang kamu lakukan?#Serang dan ayunkan pedangmu.#Pakai perisaimu untuk melindungi rekanmu.\"/fork chargeAhead/pause 1200/message \"Xarth meluncurkan 'Shadow Bolt' pada Sebastian... tapi kamu mengangkat perisaimu tepat waktu untuk mementalkan serangannya!\"/pause 500/playSound debuffSpell/pause 400/playSound parry/updateMinigame -1/pause 1000/message \"Ketika Xarth merapal mantra lagi, kamu maju dan menyerangnya dengan pedangmu.\"/playSound swordswipe/pause 500/playSound killAnimal/updateMinigame 9/updateMinigame -1/pause 1000/message \"Tongkat Solarion bersinar dengan tenang ketika kamu angkat tinggi-tinggi. Kedamaian sudah kembali ke dunia!\"/pause 1000/playSound getNewSpecialItem/addMailReceived savedFriends/updateMinigame -2/switchEvent end",
   "leave": "pause 500/message \"Mencoba melupakan penampilan menjijikkan tahanan, kamu dan rekanmu dengan cepat memanjat tangganya.\"/pause 800/playSound woodyStep/pause 400/playSound woodyStep/pause 400/playSound woodyStep/pause 500/switchEvent wizardDoor",
   "end": "playMusic Hospital_Ambient/pause 9000/viewport 5 5 true/pause 800/showFrame Sebastian 29/speak Sebastian \"Hey, lumayan!$7#$b#Aku butuh tiga atau empat kali main untuk menamatkan skenario pertamaku.$7\"/emote farmer 32/pause 1000/speak Sebastian \"Terima kasih sudah mampir... Sampai jumpa lagi.$7\"/globalFade/viewport -1000 -1000/pause 1000/end"
+  }
 }

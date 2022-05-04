@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Wood Fence": "388 2/Field/322/false/l 0/Pagar Kayu",
   "Stone Fence": "390 2/Field/323/false/Farming 2/Pagar Batu",
   "Iron Fence": "335 1/Field/324 10/false/Farming 4/Pagar Besi",
@@ -129,4 +146,5 @@
   "Heavy Tapper": "709 30 910 1/Home/264/true/null/Penyadap Besar",
   "Hopper": "709 10 337 1 910 1/Home/275/true/null/Hopper",
   "Magic Bait": "909 1 684 3/Home/908 5/false/null/Umpan Ajaib"
+  }
 }

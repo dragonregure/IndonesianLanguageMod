@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Introduction": "Oh, orang asing! Namaku Vincent.#$b#Ibuku bilang jangan bicara dengan orang asing... Tapi kau kelihatannya orang baik.",
   "Resort_Entering": "Sangat seru! Aku akan jadi seorang kapten nanti!",
   "Resort_Leaving": "Aku tidak sabar datang ke sini lagi!",
@@ -18,4 +35,5 @@
   "Sat8": "Ayah kadang terlihat aneh saat pulang. Apa yang terjadi dengannya?$s#$b#Dia tidak ingin bermain denganku lagi.$s",
   "Sun": "Hai, kak!^Hai, kak.",
   "Sun10": "Hi kak @!^Hi kak @!#$e#Jangan bilang ibu... kau orang dewasa favoritku.$h"
+  }
 }

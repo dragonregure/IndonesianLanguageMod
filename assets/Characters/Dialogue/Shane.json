@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Mon": "Aku tidak kenal kau. Kenapa kau mengajakku bicara?",
   "Resort_Entering": "Buh... Kuharap bar nya buka.",
   "Resort_Leaving": "Hmm... Supplai Vitamin D tahunanku sudah terpenuhi. Sekarang aku bisa bermain game sampai akhir tahun.",
@@ -51,4 +68,5 @@
   "event_apologize3": "Wow, seserius itu kah? Aku bakan tak ingat...",
   "event_stadium1": "Oh ya? Itu masuk akal.$6#$b#Aku? Aku bosan dengan Pelican Town.#$b#Tapi... Aku suka karena kau berbeda. Kita saling melengkapi.$l",
   "event_stadium2": "Oh benarkah? Aku terkejut... Bukankah kau pindah kesini untuk menghindari kebisingan kota?$6#$b$#Maksudku... Jangan salah paham, Aku mengerti. Hidupku di Pelican Town cukup datar."
+  }
 }

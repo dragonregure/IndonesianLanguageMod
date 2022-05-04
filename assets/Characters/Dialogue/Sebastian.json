@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Introduction": "Oh. Kau yang baru pindah itu, kan? Keren.#$e#Diantara banyak tempat, kau memilih Pelican Town?",
   "Resort_Entering": "Aku suka perjalanan nya. Bahkan disatu waktu tidak terlihat pulau sama sekali..",
   "Resort_Leaving": "Aku siap untuk kembali ke rumah.",
@@ -101,4 +118,5 @@
   "winter_Sat6": "Aku suka musim dingin tapi aku merasa kasihan dengan hewan-hewan di luar sana.#$e#Aku pikir mereka aka kedinginan.",
   "winter_Sun": "Saat aku kecil. Aku membuat manusia salju tapi Demetrius mengacaukannya.#$e#Apa masalahnya?$u",
   "winter_Sun6": "Saat aku kecil. Aku membuat manusia salju tapi Demetrius mengacaukannya.. tapi Maru membuatkanku meskipun agak aneh!$a#$e#Lucu sekali."
+  }
 }

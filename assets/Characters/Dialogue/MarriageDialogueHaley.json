@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Rainy_Day_0": "musim selalu berganti, tapi tetap aku suka cuaca cerah.",
   "Rainy_Day_1": "Kadang aku bermimpi aku berlibur... bersantai di bantai Fern Islands!#$e#Kau pernah berpikiran seperti itu, @?",
   "Rainy_Day_2": "Selamat pagi! Aku bangun lebih awal dan memasak untukmu! [223 234 211 651 731]#$e#Aku tau kau kuat, tapi kau tetap butuh makanan bergizi!$h",
@@ -43,4 +60,5 @@
   "summer_Haley": "Aku suka melihat kuning-kunang saat malam musim panas. Itu seperti bintang yang sangat dekat.",
   "fall_Haley": "Muski aku lebih memilih musim panas, musim gigur mungkin waktu yang tepat untuk mengambil gambar...",
   "winter_Haley": "Aku masih ingat saat meminta tolong membukakkanku botol. Masih ingat?$h#$e#Itu sudha lama sekali.$l"
+  }
 }

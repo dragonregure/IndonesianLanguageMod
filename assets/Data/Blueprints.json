@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Silo": "390 100 330 10 334 5/3/3/-1/-1/-2/-1/null/Silo/Kamu bisa memotong rumput dan menyimpannya di sini untuk pakan./Buildings/none/48/128/-1/null/Farm/100/false",
   "Mill": "388 150 390 50 428 4/4/2/-1/-1/-2/-1/null/Penggiling/Bisa dipakai untuk menggiling gandum, ubi bit, dan beras./Buildings/none/64/128/-1/null/Farm/2500/false",
   "Earth Obelisk": "337 10 86 10/3/2/-1/-1/-2/-1/null/Obelisk Bumi/Dipakai untuk teleportasi ke gunung./Buildings/none/48/128/-1/null/Farm/500000/true",
@@ -32,4 +49,5 @@
   "Sheep": "animal/1500/64/96/Domba/ Dapat dicukur untuk wolnya yang berharga./null/Farm",
   "Goat": "animal/1500/64/96/Kambing/Menghasilkan susu kambing yang lezat!/null/Farm",
   "Pig": "animal/2000/64/96/Babi/Babi yang dilatih khusus untuk menemukan truffle./null/Farm"
+  }
 }

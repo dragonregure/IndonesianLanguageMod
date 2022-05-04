@@ -1,6 +1,24 @@
 {
-  "spring_16.001": "Apa aku sehat, Dokter Harvey?",
-  "marriage_Mon.000": "Halo, @. Aku sedang menikmati udara segar. Aku mulai rindu dengan kabinku.",
-  "winter_15.000": "Hmmm... lukisan asli Lupini? Lumayan...",
-  "spring_16.000": "Hai. Mau menemui dokter juga?"
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "spring_16.001": "Apa aku sehat, Dokter Harvey?",
+        "marriage_Mon.000": "Halo, @. Aku sedang menikmati udara segar. Aku mulai rindu sama kabinku.",
+        "winter_15.000": "Hmmm... lukisan asli Lupini? Lumayan...",
+        "spring_16.000": "Hai. Ada janji sama dokter?"
+    }
 }

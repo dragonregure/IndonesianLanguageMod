@@ -1,4 +1,25 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.Int32Reader",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "0": "Cowboy Hat/Kulitnya tua dan pecah-pecah, tapi masih lentur. Baunya apek./false/true/Topi Koboi",
   "1": "Bowler Hat/Terbuat dari kain yang halus./false/true/Topi Bowler",
   "2": "Top Hat/Topi klasik para pria./false/true/Topi Tinggi",
@@ -93,4 +114,5 @@
   "91": "Tiger Hat/Membuatmu tampak indah seperti harimau./hide/true/Topi Macan",
   "92": "???/???/hide/true/???",
   "93": "Warrior Helmet/Cangkang telur burung unta yang dijadikan helm./false/true/Helm Pendekar"
+  }
 }

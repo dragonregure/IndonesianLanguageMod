@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Introduction": "Halo! Perkenalkan, aku Gus, pemilik dari Stardrop Saloon.#$e#Mampirlah kalau ingin beristirahat. Aku selalu menyediakan kopi panas dan bir dingin.$h",
   "accept_865": "*endus* endus* ... bau tajam ini!#$b#*sruput* *sruput* ... rasa unik ini! Dan tekstur ini!#$b#Apalagi kalau bukan Gourmet Tomato Salt! Akan kubeli.",
   "Resort_Entering": "Hei, @! Senang kau disini. Aku akan memberimu 'barang bagus' di belakang bar.",
@@ -25,4 +42,5 @@
   "Fri4": "Aku sebenarnya jarang minum-minum. Aku melakukan ini untuk mencukupi hidup.#$e#Tapi aku selalu menikmati minuman dari Stardew Valley.",
   "Sat": "Apakah kau pandai memasak @?#$e#Kalau punya dapur dan sejumlah resep, kau bisa membuat hidangan yang nikmat.#$e#Hidangan buatan sendiri juga cocok sebagai hadiah.",
   "Sun": "Bisnisku cukup stabil berkat pelanggan setiaku."
+  }
 }

@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Introduction": "Hmmph... Pasti menyebalkan bertemu orang baru, kan?#$b#Namaku George... sekarang pergi dari hadapanku... Hmmph.",
   "accept_867": "Apa ini?#$b#Hmmph... jadi pencet dulu tombol ini? Apa fungsi tombol ini? Hmmph... *ngomel*#$b#Hehe! Lihat! Saluran baru!$h#$b#Ini, ambillah. Batu ini kutemukan saat masih jadi penambang. Uniknya, batu ini menyala biru dan tetap dingin selama 40 tahun. Seperti sihir!",
   "pamHouseUpgrade": "Terimakasih telah menggantikan mobil kemah tua itu... rumah baru lebih enak dipandang.#$e#Kurasa itu akan menaikkan harga rumah kami juga!",
@@ -24,4 +41,5 @@
   "Tue10": "Kau tahu, seharusnya aku tidak depresi dengan kakiku.#$e#Seharusnya aku bersyukur karena masih hidup.$h",
   "Thu10": "Saat kamu tua sepertiku, beradaptasi dengan hal baru akan sulit.#$e#Nanti kamu akan tahu maksudku.#$e#Pergilah, nikmati hidupmu selagi masih muda.",
   "winter_1": "Ohh... dingin sekali.#$e#Saat kau masih muda dinginnya tidak begitu terasa."
+  }
 }

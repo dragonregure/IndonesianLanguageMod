@@ -1,7 +1,25 @@
 {
-  "winter_15.000": "Aku suka melihat cahayanya.#$b#Mengingatkanku pada sesuatu yang terjadi dulu sekali...$s",
-  "winter.000": "Aku mau membaca semua buku di perpustakaan, aku tahu itu butuh waktu.#$b#Masih ada banyak yang belum kubaca...$s",
-  "school": "Aku harus fokus, @. Saat ini aku gggak bisa ngobrol ...",
-  "dinner": "Oh, kamu lapar? Tapi semua makanannya sudah kuhabiskan...$u",
-  "tent": "Kami tidak begitu mempermasalahkan hujan, tapi kalau di sini bisa kering sesekali kami akan senang."
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "winter_15.000": "Aku suka lihat cahayanya.#$b#Cahayanya mengingatkanku pada sesuatu, dulu, dulu sekali...$s",
+        "winter.000": "Aku mau membaca semua buku di perpustakaan, tapi itu akan lama selesainya.#$b#Masih banyak yang belum kubaca...$s",
+        "school": "Aku nggak bisa ngobrol, @. Aku harus fokus...",
+        "dinner": "Oh, apa kamu lapar? Aku sudah menghabiskan semuanya...$u",
+        "tent": "Kami tidak masalah dengan hujan, tapi lebih baik kalau kering."
+    }
 }

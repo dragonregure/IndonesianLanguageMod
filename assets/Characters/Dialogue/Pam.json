@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Introduction": "Hai nak, namaku Pam.#$e#Jangan kurangajar dan kita akan jadi teman baik.",
   "Resort_Shore": "Kelihatannya ada ikan unik yang hidup di perairan sini. Lain kali aku harus bawa pancinganku!",
   "Resort": "Heh... Di perjalanan, Willy memberikan dendeng ikan pada kami semua. Enak sekali!",
@@ -60,4 +77,5 @@
   "winter_Fri": "Penny suka buku-buka lama. Mungkin dia jauh lebih pintar dariku.#$e#Aku senang sekali.",
   "winter_Sat": "Aku ingin memancing, kan rumahku dekat sungai.",
   "winter_Sun": "Blah... halaman rumahku berantakan.$s"
+  }
 }
