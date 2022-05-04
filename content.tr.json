@@ -1,63 +1,59 @@
-{ 
+{
   "Format": "1.24.0",
   "Changes": [
     {
-      "LogName": "Pengaturan Penambahan Bahasa",
-      "Action": "EditData",
-      "Target": "Data/AdditionalLanguages",
-      "Entries": {
-        "DragonRegure.BahasaIndonesia": {
-          "ID": "Dragonregure.BahasaIndonesia",
-          "LanguageCode": "id",
-          "ButtonTexture": "Mods/Dragonregure.BahasaIndonesia/Button",
-          "TimeFormat": "[HOURS_24_00]:[MINUTES]",
-          "ClockTimeFormat": "[HOURS_24_00]:[MINUTES]",
-          "ClockDateFormat": "[DAY_OF_WEEK]. [DAY_OF_MONTH]",
-          "NumberComma": ".",
-          "UseLatinFont": true
-        }
-      }
-    },
-    {
-      "LogName": "Menambah Tombol Bahasa",
-      "Action": "Load",
-      "Target": "Mods/Dragonregure.BahasaIndonesia/Button",
-      "FromFile": "assets/ButtonBahasaBaru.png"
+      "LogName": "Mengganti Tombol Bahasa",
+      "Action": "EditImage",
+      "Target": "LooseSprites/LanguageButtons",
+      "FromFile": "assets/{{Target}}-id.png",
+      "FromArea": {
+        "X": 0,
+        "Y": 0,
+        "Width": 348,
+        "Height": 546
+      },
+      "ToArea": {
+        "X": 0,
+        "Y": 0,
+        "Width": 348,
+        "Height": 546
+      },
+      "PatchMode": "Overlay",
     },
     {
       "LogName": "Memuat Dialog NPC",
       "Action": "Load",
-      "Target": "Characters/Dialogue/Abigail, Characters/Dialogue/Alex, Characters/Dialogue/Caroline, Characters/Dialogue/Clint, Characters/Dialogue/Dwarf, Characters/Dialogue/Elliott, Characters/Dialogue/Emily, Characters/Dialogue/Evelyn, Characters/Dialogue/George, Characters/Dialogue/Gil, Characters/Dialogue/Gus, Characters/Dialogue/Haley, Characters/Dialogue/Harvey, Characters/Dialogue/Jas, Characters/Dialogue/Jodi, Characters/Dialogue/Kent, Characters/Dialogue/Krobus, Characters/Dialogue/Leah, Characters/Dialogue/Leo, Characters/Dialogue/LeoMainland, Characters/Dialogue/Lewis, Characters/Dialogue/Linus, Characters/Dialogue/Marnie, Characters/Dialogue/MarriageDialogue, Characters/Dialogue/MarriageDialogueAbigail, Characters/Dialogue/MarriageDialogueAlex, Characters/Dialogue/MarriageDialogueElliott, Characters/Dialogue/MarriageDialogueEmily, Characters/Dialogue/MarriageDialogueHaley, Characters/Dialogue/MarriageDialogueHarvey, Characters/Dialogue/MarriageDialogueKrobus, Characters/Dialogue/MarriageDialogueLeah, Characters/Dialogue/MarriageDialogueMaru, Characters/Dialogue/MarriageDialoguePenny, Characters/Dialogue/MarriageDialogueSam, Characters/Dialogue/MarriageDialogueSebastian, Characters/Dialogue/MarriageDialogueShane, Characters/Dialogue/Maru, Characters/Dialogue/Mister Qi, Characters/Dialogue/Pam, Characters/Dialogue/Penny, Characters/Dialogue/Pierre, Characters/Dialogue/rainy, Characters/Dialogue/Robin, Characters/Dialogue/Sam, Characters/Dialogue/Sandy, Characters/Dialogue/Sebastian, Characters/Dialogue/Shane, Characters/Dialogue/Vincent, Characters/Dialogue/Willy, Characters/Dialogue/Wizard",
+      "Target": "Characters/Dialogue/Abigail, Characters/Dialogue/Alex, Characters/Dialogue/Caroline, Characters/Dialogue/Clint, Characters/Dialogue/Demetrius, Characters/Dialogue/Dwarf, Characters/Dialogue/Elliott, Characters/Dialogue/Emily, Characters/Dialogue/Evelyn, Characters/Dialogue/George, Characters/Dialogue/Gil, Characters/Dialogue/Gus, Characters/Dialogue/Haley, Characters/Dialogue/Harvey, Characters/Dialogue/Jas, Characters/Dialogue/Jodi, Characters/Dialogue/Kent, Characters/Dialogue/Krobus, Characters/Dialogue/Leah, Characters/Dialogue/Leo, Characters/Dialogue/LeoMainland, Characters/Dialogue/Lewis, Characters/Dialogue/Linus, Characters/Dialogue/Marnie, Characters/Dialogue/MarriageDialogue, Characters/Dialogue/MarriageDialogueAbigail, Characters/Dialogue/MarriageDialogueAlex, Characters/Dialogue/MarriageDialogueElliott, Characters/Dialogue/MarriageDialogueEmily, Characters/Dialogue/MarriageDialogueHaley, Characters/Dialogue/MarriageDialogueHarvey, Characters/Dialogue/MarriageDialogueKrobus, Characters/Dialogue/MarriageDialogueLeah, Characters/Dialogue/MarriageDialogueMaru, Characters/Dialogue/MarriageDialoguePenny, Characters/Dialogue/MarriageDialogueSam, Characters/Dialogue/MarriageDialogueSebastian, Characters/Dialogue/MarriageDialogueShane, Characters/Dialogue/Maru, Characters/Dialogue/Mister Qi, Characters/Dialogue/Pam, Characters/Dialogue/Penny, Characters/Dialogue/Pierre, Characters/Dialogue/rainy, Characters/Dialogue/Robin, Characters/Dialogue/Sam, Characters/Dialogue/Sandy, Characters/Dialogue/Sebastian, Characters/Dialogue/Shane, Characters/Dialogue/Vincent, Characters/Dialogue/Willy, Characters/Dialogue/Wizard",
       "FromFile": "assets/{{Target}}.json",
-      "When": {"Language": "id"}
+      "When": {"Language": "tr"}
     },
     {
       "LogName":"Memuat Data Event",
       "Action": "Load",
       "Target": "Data/Events/AbandonedJojaMart, Data/Events/AnimalShop, Data/Events/ArchaeologyHouse, Data/Events/Backwoods, Data/Events/BathHouse_Pool, Data/Events/Beach, Data/Events/BoatTunnel, Data/Events/BusStop, Data/Events/CommunityCenter, Data/Events/ElliottHouse, Data/Events/Farm, Data/Events/FarmHouse, Data/Events/FishShop, Data/Events/Forest, Data/Events/HaleyHouse, Data/Events/HarveyRoom, Data/Events/Hospital, Data/Events/IslandHut, Data/Events/IslandNorth, Data/Events/IslandSouth, Data/Events/IslandWest, Data/Events/JoshHouse, Data/Events/LeahHouse, Data/Events/ManorHouse, Data/Events/Mine, Data/Events/Mountain, Data/Events/QiNutRoom, Data/Events/Railroad, Data/Events/Saloon, Data/Events/SamHouse, Data/Events/SandyHouse, Data/Events/ScienceHouse, Data/Events/SebastianRoom, Data/Events/SeedShop, Data/Events/Sewer, Data/Events/Sunroom, Data/Events/Temp, Data/Events/Town, Data/Events/Trailer, Data/Events/Trailer_Big, Data/Events/WizardHouse, Data/Events/Woods",
       "FromFile": "assets/{{Target}}.json",
-      "When": { "Language":"id" }
+      "When": { "Language":"tr" }
     },
     {
       "LogName":"Memuat Data Festival",
       "Action": "Load",
       "Target": "Data/Festivals/fall16, Data/Festivals/fall27, Data/Festivals/FestivalDates, Data/Festivals/spring13, Data/Festivals/Spring24,  Data/Festivals/summer11, Data/Festivals/summer28, Data/Festivals/winter8, Data/Festivals/Winter25",
       "FromFile": "assets/{{Target}}.json",
-      "When": { "Language":"id" }
+      "When": { "Language":"tr" }
     },
     {
       "LogName":"Memuat Data Televisi",
       "Action": "Load",
       "Target": "Data/TV/CookingChannel, Data/TV/InterviewShow, Data/TV/TipChannel",
       "FromFile": "assets/{{Target}}.json",
-      "When": { "Language":"id" }
+      "When": { "Language":"tr" }
     },
     {
       "LogName":"Memuat Data Lain-Lain",
       "Action": "Load",
       "Target": "Data/Achievements, Data/BigCraftablesInformation, Data/Blueprints, Data/Boots, Data/Bundles, Data/ClothingInformation, Data/Concessions, Data/CookingRecipes, Data/CraftingRecipes, Data/EngagementDialogue, Data/ExtraDialogue, Data/FarmAnimals, Data/Fish, Data/Furniture, Data/hats, Data/mail, Data/Monsters, Data/Movies, Data/MoviesReactions, Data/NPCDispositions, Data/NPCGiftTastes, Data/ObjectInformation, Data/Quests, Data/SecretNotes, Data/weapons",
       "FromFile": "assets/{{Target}}.json",
-      "When": { "Language":"id" }
+      "When": { "Language":"tr" }
     },
     {
       "LogName": "Memuat Map Billboard",
@@ -77,7 +73,7 @@
         "Height": 424
       },
       "PatchMode": "Overlay",
-      "When": {"Language": "id"}
+      "When": {"Language": "tr"}
     },
     {
       "LogName": "Memuat Map Kontroler",
@@ -97,14 +93,14 @@
         "Height": 1152
       },
       "PatchMode": "Overlay",
-      "When": {"Language": "id"}
+      "When": {"Language": "tr"}
     },
     {
       "LogName": "Mengganti TileSheet CraneGame ke versi Internasional",
       "Action": "Load",
       "Target": "LooseSprites/CraneGame",
       "FromFile": "assets/{{Target}}_international.png",
-      "When": {"Language": "id"}
+      "When": {"Language": "tr"}
     },
     // //masukin gambar terjemahan
     // {
@@ -124,7 +120,7 @@
     //     "Height": 26
     //   },
     //   "PatchMode": "Overlay",
-    //   "When": {"Language": "id"}
+    //   "When": {"Language": "tr"}
     // },
     // {
     //   "Action": "EditImage",
@@ -143,7 +139,7 @@
     //     "Height": 14
     //   },
     //   "PatchMode": "Replace",
-    //   "When": {"Language": "id"}
+    //   "When": {"Language": "tr"}
     // },
     // {
     //   "Action": "EditImage",
@@ -162,7 +158,7 @@
     //     "Height": 61
     //   },
     //   "PatchMode": "Replace",
-    //   "When": {"Language": "id"}
+    //   "When": {"Language": "tr"}
     // },
     // {
     //   "Action": "EditImage",
@@ -181,7 +177,7 @@
     //     "Height": 5
     //   },
     //   "PatchMode": "Replace",
-    //   "When": {"Language": "id"}
+    //   "When": {"Language": "tr"}
     // },
     // {
     //   "Action": "EditImage",
@@ -200,7 +196,7 @@
     //     "Height": 94
     //   },
     //   "PatchMode": "Overlay",
-    //   "When": {"Language": "id"}
+    //   "When": {"Language": "tr"}
     // },
     // {
     //   "Action": "EditImage",
@@ -219,7 +215,7 @@
     //     "Height": 19
     //   },
     //   "PatchMode": "Replace",
-    //   "When": {"Language": "id"}
+    //   "When": {"Language": "tr"}
     // },
     // {
     //   "Action": "EditImage",
@@ -238,7 +234,7 @@
     //     "Height": 7
     //   },
     //   "PatchMode": "Replace",
-    //   "When": {"Language": "id"}
+    //   "When": {"Language": "tr"}
     // },
     // {
     //   "Action": "EditImage",
@@ -257,7 +253,7 @@
     //     "Height": 30
     //   },
     //   "PatchMode": "Replace",
-    //   "When": {"Language": "id"}
+    //   "When": {"Language": "tr"}
     // },
     // {
     //   "Action": "EditImage",
@@ -276,14 +272,14 @@
     //     "Height": 17
     //   },
     //   "PatchMode": "Replace",
-    //   "When": {"Language": "id"}
+    //   "When": {"Language": "tr"}
     // },
     {
       "LogName": "Memuat Gambar di file Cursors",
       "Action": "Load",
       "Target": "LooseSprites/Cursors",
       "FromFile": "assets/{{Target}}-id.png",
-      "When":{ "Language":"id" }
+      "When":{ "Language":"tr" }
     },
     {
       "LogName": "Memuat Form Proyek Joja",
@@ -303,7 +299,7 @@
         "Height": 160
       },
       "PatchMode": "Overlay",
-      "When": {"Language": "id"}
+      "When": {"Language": "tr"}
     },
     {
       "LogName": "Memuat Gambar Pada Menu Bundel",
@@ -323,7 +319,7 @@
         "Height": 14
       },
       "PatchMode": "Replace",
-      "When": {"Language": "id"}
+      "When": {"Language": "tr"}
     },
     // {
     //   "Action": "EditImage",
@@ -342,7 +338,7 @@
     //     "Height": 77
     //   },
     //   "PatchMode": "Replace",
-    //   "When": {"Language": "id"}
+    //   "When": {"Language": "tr"}
     // },
     { //??? (masih belum tahu muncul dimana)
       "Action": "Load",
@@ -361,7 +357,7 @@
         "Height": 39
       },
       "PatchMode": "Replace",
-      "When": {"Language": "id"}
+      "When": {"Language": "tr"}
     },
     {
       "LogName": "Memuat logo SV pada Kredit",
@@ -381,7 +377,7 @@
         "Height": 104
       },
       "PatchMode": "Overlay",
-      "When": {"Language": "id"}
+      "When": {"Language": "tr"}
     },
     {
       "LogName": "Memuat TileSheet Pemandian",
@@ -401,7 +397,7 @@
         "Height": 256
       },
       "PatchMode": "Overlay",
-      "When": {"Language": "id"}
+      "When": {"Language": "tr"}
     },
     {
       "LogName": "Memuat TileSheet Kandang Ayam Shane",
@@ -421,7 +417,7 @@
         "Height": 336
       },
       "PatchMode": "Overlay",
-      "When": {"Language": "id"}
+      "When": {"Language": "tr"}
     },
     {
       "LogName": "Memuat TileSheet Gurun",
@@ -441,7 +437,7 @@
         "Height": 368
       },
       "PatchMode": "Overlay",
-      "When": {"Language": "id"}
+      "When": {"Language": "tr"}
     },
     {
       "LogName": "Memuat TileSheet Pantai di musim Fall",
@@ -461,7 +457,7 @@
         "Height": 496
       },
       "PatchMode": "Overlay",
-      "When": {"Language": "id"}
+      "When": {"Language": "tr"}
     },
     {
       "LogName": "Memuat TileSheet Outdoor di musim Fall",
@@ -481,7 +477,7 @@
         "Height": 1264
       },
       "PatchMode": "Overlay",
-      "When": {"Language": "id"}
+      "When": {"Language": "tr"}
     },
     {
       "LogName": "Memuat TileSheet Kota di musim Fall",
@@ -501,7 +497,7 @@
         "Height": 1152
       },
       "PatchMode": "Overlay",
-      "When": {"Language": "id"}
+      "When": {"Language": "tr"}
     },
     {
       "LogName": "Memuat TileSheet Festival",
@@ -521,7 +517,7 @@
         "Height": 512
       },
       "PatchMode": "Overlay",
-      "When": {"Language": "id"}
+      "When": {"Language": "tr"}
     },
     {
       "LogName": "Ganti TileSheet Bioskop Joja ke versi Internasional",
@@ -541,7 +537,7 @@
         "Height": 58
       },
       "PatchMode": "Replace",
-      "When": {"Language": "id"}
+      "When": {"Language": "tr"}
     },
     {
       "LogName": "Memuat TileSheet Pantai di musim Spring",
@@ -561,7 +557,7 @@
         "Height": 496
       },
       "PatchMode": "Overlay",
-      "When": {"Language": "id"}
+      "When": {"Language": "tr"}
     },
     {
       "LogName": "Memuat TileSheet Outdoor di musim Spring",
@@ -581,7 +577,7 @@
         "Height": 1264
       },
       "PatchMode": "Overlay",
-      "When": {"Language": "id"}
+      "When": {"Language": "tr"}
     },
     {
       "LogName": "Memuat TileSheet Kota pada musim Spring",
@@ -601,7 +597,7 @@
         "Height": 1152
       },
       "PatchMode": "Overlay",
-      "When": {"Language": "id"}
+      "When": {"Language": "tr"}
     },
     {
       "LogName": "Memuat TileSheet Objek",
@@ -621,7 +617,7 @@
         "Height": 624
       },
       "PatchMode": "Overlay",
-      "When": {"Language": "id"}
+      "When": {"Language": "tr"}
     },
     {
       "LogName": "Memuat TileSheet Pantai di musim Summer",
@@ -642,7 +638,7 @@
         "Height": 496
       },
       "PatchMode": "Overlay",
-      "When": {"Language": "id"}
+      "When": {"Language": "tr"}
     },
     {
       "LogName": "Memuat TileSheet Outdoor di musim Summer",
@@ -662,7 +658,7 @@
         "Height": 1264
       },
       "PatchMode": "Overlay",
-      "When": {"Language": "id"}
+      "When": {"Language": "tr"}
     },
     {
       "LogName": "Memuat TileSheet Kota di musim Summer",
@@ -682,7 +678,7 @@
         "Height": 1152
       },
       "PatchMode": "Overlay",
-      "When": {"Language": "id"}
+      "When": {"Language": "tr"}
     },
     {
       "LogName": "Memuat TileSheet Interior Warga Kota",
@@ -702,7 +698,7 @@
         "Height": 1088
       },
       "PatchMode": "Overlay",
-      "When": {"Language": "id"}
+      "When": {"Language": "tr"}
     },
     {
       "LogName": "Memuat TileSheet Pantai di musim Winter",
@@ -723,7 +719,7 @@
         "Height": 496
       },
       "PatchMode": "Overlay",
-      "When": {"Language": "id"}
+      "When": {"Language": "tr"}
     },
     {
       "LogName": "Memuat TileSheet Outdoor di musim Winter",
@@ -743,7 +739,7 @@
         "Height": 1264
       },
       "PatchMode": "Overlay",
-      "When": {"Language": "id"}
+      "When": {"Language": "tr"}
     },
     {
       "LogName": "Memuat TileSheet Kota di musim Winter",
@@ -763,7 +759,7 @@
         "Height": 1152
       },
       "PatchMode": "Overlay",
-      "When": {"Language": "id"}
+      "When": {"Language": "tr"}
     },
     {
       "LogName": "Memuat Event Player Saat Masih Bekerja di Joja",
@@ -783,7 +779,7 @@
         "Height": 800
       },
       "PatchMode": "Overlay",
-      "When": {"Language": "id"}
+      "When": {"Language": "tr"}
     },
     {
       "LogName": "Memuat Event Player Saat Pindah ke SV",
@@ -803,7 +799,7 @@
         "Height": 357
       },
       "PatchMode": "Overlay",
-      "When": {"Language": "id"}
+      "When": {"Language": "tr"}
     },
     {
       "LogName": "Memuat Tampilan Menu Utama",
@@ -823,21 +819,21 @@
         "Height": 655
       },
       "PatchMode": "Overlay",
-      "When": {"Language": "id"}
+      "When": {"Language": "tr"}
     },
     {
       "LogName": "Memuat String Pada Folder schedules",
       "Action": "Load",
       "Target": "Strings/schedules/Abigail, Strings/schedules/Alex, Strings/schedules/Caroline, Strings/schedules/Clint, Strings/schedules/Demetrius, Strings/schedules/Elliott, Strings/schedules/Emily, Strings/schedules/Evelyn, Strings/schedules/George, Strings/schedules/Gus, Strings/schedules/Haley, Strings/schedules/Harvey, Strings/schedules/Jas, Strings/schedules/Jodi, Strings/schedules/Leah, Strings/schedules/Leo, Strings/schedules/Lewis, Strings/schedules/Linus, Strings/schedules/Marnie, Strings/schedules/Maru, Strings/schedules/Pam, Strings/schedules/Penny, Strings/schedules/Pierre, Strings/schedules/Robin, Strings/schedules/Sam, Strings/schedules/Sandy, Strings/schedules/Sebastian, Strings/schedules/Shane, Strings/schedules/Vincent, Strings/schedules/Willy",
       "FromFile": "assets/{{Target}}.json",
-      "When": { "Language": "id"}
+      "When": { "Language": "tr"}
     },
     {
       "LogName": "Memuat Strings Lain-Lain",
       "Action": "Load",
       "Target": "Strings/animationDescriptions, Strings/Buildings, Strings/BundleNames, Strings/Characters, Strings/credits, Strings/EnchantmentNames, Strings/Events, Strings/FarmAnimals, Strings/Lexicon, Strings/Locations, Strings/Notes, Strings/NPCNames, Strings/Objects, Strings/Quests, Strings/SpecialOrderStrings, Strings/SpeechBubbles, Strings/StringsFromCSFiles, Strings/StringsFromMaps, Strings/UI",
       "FromFile": "assets/{{Target}}.json",
-      "When": { "Language": "id"}
-    },
+      "When": { "Language": "tr"}
+    }
   ]
 }
