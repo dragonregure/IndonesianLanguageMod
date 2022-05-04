@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Introduction": "Salam! Aku Demetrius, ilmuwan lokal dan seorang ayah. Terima kasih sudah mengenalkan diri!#$e#Aku meneliti flora dan fauna lokal di laboratoriumku.#$b#Kau sudah bertemu putriku, Maru? Dia ingin sekali bertemu denganmu.",
   "Resort_Entering": "Aku langsung lihat kepiting langka. Tempat ini memang hebat.$h",
   "Resort_Leaving": "Data ini bisa dianalisa selama berbulan-bulan.",
@@ -45,4 +62,5 @@
   "winter_Sat": "Mari kita lihat ... mungkin tingkat fiksasi nitrogen dipengaruhi oleh sekresi nematoda...$u#$b#Oh! Maaf. Aku sedang sibut meneliti dan aku tidak melihatmu.#$e#Apa kau butuh sesuatu?",
   "winter_Sun": "Jangan ragu untuk menyimpan banyak kayu dan batu untuk persediaan.",
   "winter_Fri4": "Terima kasih untuk mampir. Aku sementara harus berpikir selain penelitian kacang-kacangan.#$e#APa yag kau lakukan akhir-akhir ini?#$e#Kedenganrannya menarik."
+  }
 }

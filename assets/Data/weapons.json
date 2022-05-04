@@ -1,4 +1,25 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.Int32Reader",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "0": "Rusty Sword/Pedang tua tumpul dan berkarat./2/5/1/0/0/0/3/-1/-1/0/.02/3/Pedang Karatan",
   "1": "Silver Saber/Dilapisi dengan perak untuk mencegah karat./8/15/1/0/1/1/0/50/45/0/.02/3/Saber Perak",
   "2": "Dark Sword/Pedang ini dipenuhi energi vampir./30/45/1.5/-10/0/0/0/-1/-1/2/.04/3/Pedang Hitam",
@@ -12,7 +33,7 @@
   "10": "Claymore/Berat sekali./20/32/1.3/-8/0/2/3/86/50/0/.02/3/Claymore",
   "11": "Steel Smallsword/Pedang logam biasa./4/8/1/4/0/0/0/26/-1/0/.02/3/Pedang Kecil Baja",
   "12": "Wooden Blade/Lumayan buat pedang pahatan./3/7/1/0/0/0/0/3/-1/0/.02/3/Pedang Kayu",
-  "13": "Insect Head/Kurang nyaman saat diayunkan./10/20/1/4/9/0/0/-1/-1/0/.04/3/Kepal Serangga",
+  "13": "Insect Head/Kurang nyaman saat diayunkan./10/20/1/4/9/0/0/-1/-1/0/.04/3/Kepala Serangga",
   "14": "Neptune's Glaive/Pusaka dari dalam Laut Permata./18/35/1.4/-2/6/2/3/-1/-1/0/.02/3/Glaive Neptunus",
   "15": "Forest Sword/Diperkuat oleh sihir hutan./8/18/1/4/5/1/0/-1/-1/0/.02/3/Pedang Hutan",
   "16": "Carving Knife/Bilah kecil dan ringan./1/3/.5/0/0/0/1/18/-1/0/.04/3/Pisau Pahat",
@@ -64,4 +85,5 @@
   "62": "Infinity Blade/Bentuk sejati dari Pedang Galaksi./80/100/1/8/0/2/0/-1/-1/0/.02/3/Pedang Infinity",
   "63": "Infinity Gavel/Bentuk sejati dari Palu Galaksi./100/120/1/-4/0/1/2/-1/-1/0/.02/3/Palu Infinity",
   "64": "Infinity Dagger/Bentuk sejati dari Belati Galaksi./50/70/1/3/0/3/1/-1/-1/0/.06/3/Belati Infinity"
+  }
 }

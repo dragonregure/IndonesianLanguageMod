@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Mon": "Hai... Semua baik-baik saja?",
   "Mon4": "Aku sudah dengar banyak dari keluarga burung betetku...#$b#Tapi ada banyak hal di luar sana yang belum aku ketahui.$s",
   "Tue": "Saat Matahari sedang marah, di hutan rasanya malah nyaman.#$e#Matahari tidak bisa menemukan kita di bawah dedaunan pohon. Jadi dia tertipu! Haha...$h",
@@ -9,4 +26,5 @@
   "Fri3": "Apa rumahmu kelihatan dari puncak gunung berapi?",
   "Sat": "...Aku lagi sedih.$s#$e#Silakan... bersenang-senanglah. Biarkan aku bersedih.$s",
   "Sun": "Saat hujan, ada burung aneh yang ke sini.#$b#Dan saat kudekati... mereka malah pergi.$s#$b#Kurasa mereka tidak mau berteman...$s"
+  }
 }

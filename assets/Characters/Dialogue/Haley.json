@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Introduction": "Oh... kau petani baru itu, ya?^Oh... kau gadis petani baru itu, ya?#$e#Hah? Oh... Aku Haley.#$e#Hmm... Kalau bukan karena bajumu, kau pasti tampak ganteng.^Hmm... Kalau bukan karena bajumu, kau pasti tampak ganteng... Lupakan saja.$h",
   "Resort_Entering": "Aku melihat lumba-lumba saat perjalanan tadi!",
   "Resort_Leaving": "Entah kenapa sinar matahari di sini membuatku nyaman.",
@@ -105,4 +122,5 @@
   "winter_Fri8": "Apa kau berencana merawat kuda poni di kebunmu?",
   "winter_Sat8": "Aku senang kau jarang bekerja di musim dingin.#$e#Pasti enak bisa istirahat, ya?",
   "winter_Sun10": "@, kau terlihat kasar hari ini. Aku suka itu.^@, kau tampak cantik hari ini.#$e#...$h"
+  }
 }

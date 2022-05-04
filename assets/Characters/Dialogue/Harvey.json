@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Introduction": "Senang bertemu denganmu. Aku Harvey, dokter lokal.#$e#Aku melakukan pemeriksaan rutin dan prosedur kesehatan untuk semua penduduk Pelican Town. Ini adalah tugas yang mulia.#$e#Semoga kamu bisa menerima pekerjaanmu sebagai profesi yang mulia.$h",
   "Resort_Entering": "Tabir surya? Ok...#$b#Topi pantai? Ok...",
   "Resort_Leaving": "Kalau kulitmu terbakar, sedikit krim aloe vera akan membuat kulitmu nyaman.",
@@ -47,4 +64,5 @@
   "fall_Sat": "Ketika kau makan dengan benar, kau akan beraktivitas lebih baik.#$e#Makan 'Farmer's Brunch' bisa memberimu nutrisi yang cukup!",
   "winter_Wed": "Musim ini banyak yang flu. Sebaiknya kau hati-hati.#$e#Sering-sering juga cuci tangan.",
   "winter_Sun": "Aku benci bilang ini, tapi penghasilanku bertambah saat musim flu.#$e#Kalau tidak ada yang sakit, aku bisa bangkrut.#$e#Jangan salah paham! Aku ingin orang-orang sehat... sungguh!"
+  }
 }

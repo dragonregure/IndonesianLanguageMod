@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Introduction": "Oh, hei. Kamu cowok baru itu? Keren.^Hei, kamu si cewek baru itu? Kayaknya kita bakalan akrab. Namaku Alex.#$e#Sampai ketemu lagi.",
   "Resort_Entering": "Akhirnya kita sampai!",
   "Resort_Leaving": "Yah... Padahal aku masih betah.$s",
@@ -95,4 +112,5 @@
   "winter_Wed8": "Hei. Aku akan mulai membaca buku!",
   "winter_Thu6": "Andai saja aku bisa mengendalikan cuaca.",
   "winter_Thu10": "Kalau aku punya banyak uang, aku akan memakainya untuk menghidupi semua teman dan keluargaku.#$e#Itu artinya kamu juga termasuk.$h"
+  }
 }

@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Introduction": "Ooh!... Aku bisa membaca wajahmu. Kau akan suka tinggal di Pelican Town.#$b#Kalau ingin melakukan sesuatu di malam hari, pergilah ke Bar. Itu tempatku bekerja!",
   "Resort_Entering": "Oh, Aku suka tempat ini! Tempat ini dipenuhi burung Betet!",
   "Resort_Leaving": "Ah... paru-paruku terasa sehat kembali.",
@@ -78,4 +95,5 @@
   "winter_Sun": "Hai!#$e#...Ya?",
   "winter_Sun6": "Aku dan adikku sering bertengkar, tapi aku akan rindu padanya jika dia pergi.#$e#Kurasa dia akan jadi wanita dewasa suatu saat... Jangan beritahu dia.$h#$e#Jadi, ada yang ingin kau bicarakan?",
   "winter_Sun6_inlaw_Haley": "Titipkan salam ke adikku! Dan ingatkan dia untuk mampir besok."
+  }
 }

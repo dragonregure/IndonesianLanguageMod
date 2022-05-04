@@ -1,4 +1,25 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.Int32Reader",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Robin": "Hai!^Aku punya beberapa kayu tambahan... Kurasa kau bisa memanfaatkannya. Jaga dirimu! ^ -Robin %item object 388 50 %%[#]Hadiah Dari Robin",
   "Demetrius": "Halo @,^Tempo hari aku melakukan studi lapangan, dan aku menemukan spesimen ini. ^Semoga kau tertarik dengan apa yang kutemukan. ^ -Demetrius%item object 392 1 394 1 132 1 66 1 %%[#]Hadiah Dari Demetrius",
   "Linus": "Halo, temanku.^Belakangan ini danau gunung sangat baik padaku. Aku ingin berbagi keberuntungan denganmu. ^ -Linus %item object 136 1 143 1 202 1 227 1 228 1 %%[#]Hadiah Dari Linus",
@@ -177,4 +198,5 @@
   "passedOutIsland_Leo": "Hai @,^^Semalam aku menemukanmu pingsan.^Di sana bukan tempat yang aman, jadi teman-temanku menggotongmu ke kamar.^Tolong lebih hati-hati lagi.^^-Leo^^N.B. Willy membantuku menulis surat ini.",
   "guntherBones": "Hai @,^^Terima kasih atas tulang-tulangnya. Ada banyak yang harus kusortir! Menakjubkan mengingat bahwa setiap tulang ini dulunya milik makhluk hidup.^^Terimalah resep rakitan unik ini sebagai ucapan terima kasih!^^-Gunther%item craftingRecipe Bone_Mill %%[#]Catatan Gunther",
   "LeoCooking": "@,^Aku mengirim makanan khas rumahku, yang sering aku dan keluargaku nikmati. Semoga kamu suka. ^^ -Leo^^N.B. Willy membantuku menulis surat ini.%item cookingRecipe %%[#]Resep Leo"
+  }
 }

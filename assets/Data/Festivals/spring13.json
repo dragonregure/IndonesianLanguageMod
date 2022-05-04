@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "name": "Festival Telur",
   "conditions": "Town/900 1400",
   "shop": "BO 36 400 -1 BO 107 2000 1 O 745 100 -1 BO 184 350 -1 BO 188 350 -1 F 1684 500 -1 F 2624 1000 -1 F 2632 1000 -1",
@@ -78,4 +95,5 @@
   "Jas_y2": "Tahun ini aku akan berjuang untuk menang!",
   "Vincent_y2": "Aku mau tinggal di dalam telur yang besar!",
   "Willy_y2": "Ya... kalau sedang hujan, kamu bisa menemukan lele di perairan ini. Mereka agak sulit ditangkap, tapi sepadan dengan hasilnya!"
+  }
 }

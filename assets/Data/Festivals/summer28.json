@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "name": "Tarian Ubur-Ubur Bulan",
   "conditions": "Beach/2200 2400",
   "shop": "F 2626 800 -1 F 1687 1200 -1 F 1692 1200 -1 F 2631 1000 -1 F 2875 4000 -1 O 265 5000 1",
@@ -38,4 +55,5 @@
   "Vincent": "Aku ingin lihat ubur-ubur hijau yang langka!",
   "Willy": "Kebanyakan ikan malam takut dengan cahaya... Ubur-ubur ini memang aneh.",
   "Leo": "Ubur-ubur bulan adalah teman lamaku... mereka juga datang ke pulau setiap tahun."
+  }
 }

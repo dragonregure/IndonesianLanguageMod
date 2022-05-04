@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Introduction": "Oh! Kamu beda dari yang kubayangkan... tapi tak apa! Aku Jodi.#$e#Ini kota kecil yang tenang, jadi pasti menarik saat ada orang baru pindah!",
   "Resort_Entering": "Luar biasa!",
   "Resort_Leaving": "Sepertinya aku akan makan Seafood malam ini.$h",
@@ -38,4 +55,5 @@
   "winter_Thu8": "Kami menikah muda, karena Kent segera ditugaskan ke luar negeri... #$b#Aku hampir tidak pernah merasakan kebebasan masa muda, dan sekarang sudah terlambat untuk kembali.$s#$e#Tak kusangka aku akan cerita soal ini padamu.$4",
   "winter_Fri": "Sesekali bisa pergi liburan pasti menyenangkan...$s",
   "winter_Sun": "Jika aku kaya hal pertama yang aku lakukan adalah menyewa pembantu dan koki.#$e#Ya Tuhan, itu akan menyenangkan!$h"
+  }
 }

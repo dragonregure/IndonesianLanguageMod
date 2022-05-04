@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Introduction": "Oh, kau petani baru yang kami nantikan... dan memantik banyak perbincangan.#$b#Aku Elliott... Aku tinggal di kabin kecil dekat pantai. Senang bertemu denganmu.",
   "Resort_Entering": "Perjalanan yang menyenangkan!",
   "Resort_Leaving": "Sampai jumpa lagi di lembah.",
@@ -73,4 +90,5 @@
   "winter_Fri": "Aku harus menyisir rambut setiap hari, kalau tidak rambutku bisa kusut.#$e#Merepotkan sih.#$e#Tumben juga aku tidak ingin memangkasnya.$h#$e#Aku terlalu sayang sama rambutku.",
   "winter_Sat": "Kadang aku olahraga di rumah, kalau di luar terlalu dingin.#$e#Maaf kalau di kabin agak lembab.$s",
   "winter_Sun": "Aku harus membersihkan lantaiku. Sudah mulai berlumut.$s#$e#Apa kau sering bersih-bersih?"
+  }
 }

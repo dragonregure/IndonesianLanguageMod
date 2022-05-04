@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "AdventureGuild_KillList_Header": "------------------------------\n\t\t\t --Target Pembasmian Monster--\n \"Bantu kami menjaga lembah tetap aman.\"\n------------------------------",
   "AdventureGuild_KillList_LineFormat": "{0}/{1} {2}",
   "AdventureGuild_KillList_LineFormat_None": "{0}/{1} ????",
@@ -408,4 +425,5 @@
   "AnimalHouse_Incubator_Hatch_GoldenEgg": "Anak ayam emas telah menetas!",
   "SummitBoulder": "Sepertinya mustahil dipindahkan...",
   "Hint": "Petunjuk"
+  }
 }

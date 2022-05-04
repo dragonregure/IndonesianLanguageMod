@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "1": "Untuk para petani baru yang ada di luar sana: Potonglah pohon dan cari tumbuhan liar selagi menunggu tumbuhanmu panen!",
   "4": "Untuk para warga Stardew Valley. Kamu bisa menemukan spring onion di sebelah barat daya kota, dimana air laut dan sungai bertemu. Kamu bisa menemukan tanaman itu tumbuh di atas tanah.",
   "8": "Kita akan membahas tentang Pagar. Pagar digunakan untuk menjauhkan gulma dan menjaga tanamanmu. Pagar juga bisa dipakai untuk membatasi hewan ternakmu. Pagar sewaktu-waktu bisa rusak, tapi pagar batu, besi, dan kayu keras lebih tahan lama daripada pagar kayu biasa!",
@@ -63,4 +80,5 @@
   "214": "Dibawah salju musim dingin, biasanya benih - benih tanaman liar sudah mulai tumbuh, jadi jangan terkejut kebunmu di penuhi rumput musim semi nanti!",
   "218": "Jika kamu punya gold pan, perhatikan spot berkilauan di dalam air.^Biasanya logam berguna tedapat disana, dan kau bebas mengambilnya!",
   "221": "Para hadirin, Kami punya mengumuman penting. Ini adalah acara episode terakhir Hidup Di Pedesaan. Aku senang bisa menemani anda semua selama ini. Oh, dan juga mulai musim depan acara ini akan di siarkan tayangan ulangnya. Terima kasih!"
+  }
 }

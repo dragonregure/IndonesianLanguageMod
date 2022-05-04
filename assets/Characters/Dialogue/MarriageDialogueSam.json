@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Rainy_Day_0": "Hari yang bagus untuk memainkan gitar...#$e#Hey, kau bisa santai jika kau mau juga.",
   "Rainy_Day_1": "Apa kau pikir Sebastian dan Abigail akan benar-benar jadian?#$e#Heh... aku sudah menikah, aku mencoba agar orang lain bisa menikah juga.",
   "Rainy_Day_2": "Hey, aku menemukan ini dibelakang meja. [90 88 86 535]#$e#Mungkin kau bisa menggunakannya.",
@@ -52,4 +69,5 @@
   "winter_1": "Udara dingin membuat gel rambutku membeku. Itu sangat merepotkan.$s",
   "winter_7": "Apa kita akan ikut festival es besok? Sangat menyenangkan melihat semua orang lagi...",
   "winter_28": "Tahun yang menyenangkan, @... sungguh sedih ini akan berakhir.#$e#Kita harus membuat tahun depan lebih menyenangkan!$h"
+  }
 }

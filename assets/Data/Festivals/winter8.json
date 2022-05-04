@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "name": "Festival Es",
   "conditions": "Forest/900 1400",
   "shop": "BO 136 5000 1 F 1440 5000 -1 F 2730 2000 -1 F 2790 4000 -1 F 800 3000 -1 F 2653 800 -1 F 2750 1000 -1 F 1401 1000 -1 O 238 200 1 O 239 200 1 O 236 250 1",
@@ -48,4 +65,5 @@
   "Vincent": "Aku melihat ikan besar di bawah sana!",
   "Marlon": "Hei, selamat malam.",
   "Leo": "Kau bisa membuat iglo yang hangat jika memenuhi dindingnya dengan bulu!"
+  }
 }

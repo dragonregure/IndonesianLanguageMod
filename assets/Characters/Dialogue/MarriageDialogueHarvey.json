@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Rainy_Day_0": "Cuaca hujan menyebabkan flu itu mitos. Walau begitu, hati-hati jangan sampai terpeleset di lumpur!#$e#Aku sering mengkhawatirkanmu.",
   "Rainy_Day_1": "Dulu aku sangat kesepian tinggal di klinik sendirian... Sekarang aku jauh lebih bahagia.$h",
   "Rainy_Day_2": "Aku tadi bangun dulu tapi aku berusaha untuk tidak mengusikmu. Kamu terlihat nyenyak sekali.",
@@ -51,4 +68,5 @@
   "winter_1": "Udaranya sangat kering di musim dingin. Karena itu kulit kita kadang kena iritasi.#$e#Tidak usah khawatir, aku akan mengolesimu minyak truffle setiap malam.$l",
   "winter_7": "Apa kita akan datang ke festival es besok? Aku senang melihat igloo...",
   "winter_28": "Baiklah, tahun ini luar biasa. Aku percaya bahwa tahun depan akan lebih baik lagi!$h"
+  }
 }

@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "ScienceHouse_Robin_Raining1": "Hujan, ya?",
   "ScienceHouse_Robin_Raining2": "Tidak, kamu basah kuyup!",
   "ScienceHouse_Robin_NotRaining1": "Hei, lagi jalan-jalan?",
@@ -69,4 +86,5 @@
   "SeedShop_Pierre_Raining": "Hari yang indah untuk belanja!",
   "SeedShop_Pierre_NotRaining": "Selamat datang!",
   "SeedShop_Pierre_RareGreeting": "Apa kamu membawa dompetmu?"
+  }
 }

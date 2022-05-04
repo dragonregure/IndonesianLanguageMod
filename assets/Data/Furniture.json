@@ -1,4 +1,25 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.Int32Reader",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "0": "Oak Chair/chair/-1/-1/4/350/Kursi Ek",
   "3": "Walnut Chair/chair/-1/-1/4/350/Kursi Kenari",
   "6": "Birch Chair/chair/-1/-1/4/350/Kursi Betula",
@@ -346,4 +367,5 @@
   "2870": "Funky Rug/rug/5 4/5 4/1/10000/Karpet Funky",
   "2875": "Modern Rug/rug/5 4/5 4/1/10000/Karpet Modern",
   "2814": "Squirrel Figurine/decor/1 1/1 1/1/500/Figurin Tupai"
+  }
 }

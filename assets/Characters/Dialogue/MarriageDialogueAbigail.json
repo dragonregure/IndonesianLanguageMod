@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Rainy_Day_0": "Mendung... hujan... itu membuatku gembira.$l",
   "Rainy_Day_1": "Hey, ingat saat kita bermain di sungai? Cuacanya mengingatkanku.#$e#Kau mengejutkanku dengan kecapi... Aku tidak menyangkanya. Aku pikir itu alasan kenapa aku suka denganmu.$l",
   "Rainy_Day_2": "Hey! Aku aku bangun lebih awal dan seikit jalan-jalan. Aku menemukan ini dan mengingatkanku. [768 767 769 66 82]#$e#Kau pikir bisa menemukan lebih dari itu? Aku tidak yakin!$h",
@@ -71,4 +88,5 @@
   "fall_Abigail": "Baumu seperti labu? Atau hanya imajinasiku...$h",
   "winter_Abigail": "Ingat saat kita bermain 'Prairie King' di kamarku, dulu? Itu momen yang bagus.$h",
   "spouseRoom_Abigail": "#$c .5#Aku bangun lebih awal dan aku sudah memberi makan David Jr. Dia sangat aktif.#$e#Aku pikir kau tidak keberatan akan baunya."
+  }
 }

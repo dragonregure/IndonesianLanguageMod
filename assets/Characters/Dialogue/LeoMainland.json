@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "LeoDeparture": "Aku harus menemukan tempat tinggal...$s#$b#Tapi aku ada rencara... Aku akan bergantung pada teman-temanku.",
   "Thu8": "Awalnya terasa sedih... karena harus meninggalkan pulau dan pergi ke tempat asing.$s#$e#Tapi lama-lama jadi terbiasa.#$b#Karena aku orang yang mudah beradaptasi!$h",
   "Thu10": "Awalnya aku merasa asing di sini. Tapi aku dapat banyak teman!$h#$b#Dan setelah itu, aku merasa cocok berada di sini...",
@@ -17,4 +34,5 @@
   "Sat": "Mungkin nanti, aku akan pergi ke Kkota Zuzu...$u#$b#Tapi aku masih belum begitu siap. Dunia ini terasa sangat aneh bagiku, dan aku masih merasa nyaman di sini!$h",
   "Sun10": "Para burung betet berterima kasih atas semua Golden Walnuts yang kau beri. Mereka sangat menyukainya.$h",
   "Sat10": "@? Eng... Aku agak sungkan tanya soal ini...$u#$b#Menurutmu... apa Jas suka dengan cowok sepertiku?$u#$b#Apa aku terlalu aneh baginya?$s#$e#Hahaha... siapa peduli. Akan kucari tahu suatu saat nanti.$h"
+  }
 }

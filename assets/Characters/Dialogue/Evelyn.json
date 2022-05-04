@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Introduction": "Selamat datang di kota kecil kami! #$b#Kalau mau, kamu bisa memanggilku 'Nenek'.$h",
   "reject_867": "Oh, aku yakin George akan tertarik dengan ini!",
   "reject_866": "Sungguh mawar yang indah, cu. Coba tunjukkan itu pada Emily. Mawar ini mengingatkanku padanya.",
@@ -37,4 +54,5 @@
   "winter_Sat6": "Oh... Cucu. Matamu mirip seperti mata kakekmu...$s#$e#Iya, memang... aku sangat mengenalnya.",
   "winter_Sun": "Buatlah sup agar badanmu tetap hangat.#$e#Dan jangan lupa memakai jaket!",
   "winter_Sat8": "@, apa aku sudah bilang kalau aku dan George tinggal di sini lebih 30 tahun?#$e#Semoga kau tinggal disini lebih lama.$h"
+  }
 }

@@ -1,11 +1,29 @@
 {
-  "fall_11.000": "Aku harus berkunjung ke Om Dokter hari ini... Hebat.$7",
-  "winter_17.000": "Mungkin kalau semua rencanaku gagal, aku akan menjadi kapten kapal selam. Itu bakalan keren.",
-  "marriage_Fri.001": "Maaf, sayang. Aku sedang berkonsentrasi... $7",
-  "marriage_Mon.001": "Vincent tampak kesepian tanpaku. Aku dulu selalu bermain dengannya.",
-  "marriage_Fri.000": "Jangan bilang ibuku... tapi aku tadi kesana cuma ingin makan siang.$h",
-  "fall_11.002": "Aku baru saja keluar dari ruang dokter. Dengan keadaan yang sehat dan kuat, seperti dugaanku.$h",
-  "marriage_Mon.000": "Ibu sepertinya baik-baik saja. Mungkin dia terlalu bekerja keras.",
-  "fall_11.001": "Aku anak sehat, dok. Boleh aku pergi? Ini membosankan.",
-  "rain2.000": "Tidak ada yang bisa mengalahkan JojaCola dingin di hari yang basah, ya?#$e#Aku bercanda. Hehehe.$h"
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "fall_11.000": "Aku harus ke Om Dokter hari ini... Hadeh.$7",
+        "winter_17.000": "Mungkin kalau rencanaku gagal, aku bisa jadi kapten kapal selam. Itu cukup keren.",
+        "marriage_Fri.001": "Maaf, sayang. Aku lagi berkonsentrasi... $7",
+        "marriage_Mon.001": "Vincent agak kesepian tanpaku. Dulu aku sering bermain dengannya.",
+        "marriage_Fri.000": "Jangan beritahu ibuku... tapi aku kesini cuma karena makanan gratisnya.$h",
+        "fall_11.002": "Aku baru saja diperiksa dokter. Sehat dan bugar, sudah seperti dugaanku.$h",
+        "marriage_Mon.000": "Ibu sepertinya baik-baik saja. Cuma sedikit kebanyakan rutinitas.",
+        "fall_11.001": "Aku anak yang sehat, dok. Udah boleh pergi belum? Ini membosankan.",
+        "rain2.000": "Joja Cola yang dingin memang cocok diminum di hari hujan.#$e#Bercanda kok. Hehehe.$h"
+    }
 }

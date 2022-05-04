@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Rainy_Day_0": "Apakah kau juga menyukai hari-hari yang penuh dengan hujan, @?",
   "Rainy_Day_1": "Kita memiliki banyak perbedaan di berbagai hal... tapi itu tidak menjadi masalah bagiku.",
   "Rainy_Day_2": "Selamat pagi, @. Aku pergi lebih awal dan menemukan ini untukmu. [305 308 203 795 397]#$e#Aku harap ini tidak terlalu aneh.",
@@ -21,7 +38,7 @@
   "Indoor_Night_0": "Hari ini aku telah membersihkan semua serangga dari rumah... Maaf, aku tidak menyisakannya sedikitpun untukmu! *smack*$7",
   "Indoor_Night_1": "Kamu terasa keras... kadang aku berharap aku juga memiliki tulang...$s",
   "Indoor_Night_2": "Kadang aku bertanya-tanya apakah manusia dan 'shadow people' benar-benar dapat hidup berdampingan... Itu ide yang indah, tapi apakah itu realistis?$s#$e#Aku harap demikian...",
-  "Indoor_Night_3": "Kadang aku berhenti sejenak dan memikirkan semua yang telah saya pelajari tentang manusia darimu...#$b#Aku harap semua rekan 'shadow people'-ku bisa mengetahui perasaan ini.",
+  "Indoor_Night_3": "Kadang aku berhenti sejenak dan memikirkan semua yang telah kupelajari tentang manusia darimu...#$b#Aku harap semua rekan 'shadow people'-ku bisa mengetahui perasaan ini.",
   "Indoor_Night_4": "Aku ingin menjadi teman serumah yang baik untukmu, tapi aku tidak pernah tahu apakah aku cukup baik dalam melakukannya... *groan* $s#$e#Aku memiliki kesulitan dalam memahami ekspresi manusia. T... Tapi... kau senang tinggal denganku?#$e#Oke!$7",
   "Indoor_Night_Krobus": "Hai, @. Selamat datang. Nampaknya kau telah bekerja keras di luar sana!$h",
   "Outdoor_0": "Aku akan diam disini sebentar, tapi kita harus berhati-hati... jika ada yang mendekat, aku harus bersembunyi!",
@@ -75,7 +92,7 @@
   "fall_19": "...",
   "fall_26": "...",
   "spring_1": "Apa rencanamu untuk tahun baru, @?",
-  "spring_23": "Besok kamu harus ikut Tarian Bunga! Tak usah khawatir soal aku.",
+  "spring_23": "Besok kamu harus ikut Dansa Bunga! Tak usah khawatir soal aku.",
   "summer_1": "Kulitku mudah tersengat matahari, karena itu aku harus waspada di musim ini.",
   "summer_8": "Mmm... bau enak apa itu? Kamu pasti berkeringat semalaman...$h",
   "summer_15": "Musim panas... itu artinya di rumah akan ada banyak lalat.#$e#Tenang. Akan kuatasi mereka buat tambahan protein!$h",
@@ -88,4 +105,5 @@
   "summer_Krobus": "Kalian menyebut musim ini dengan 'Musim Panas', kan? Kehangatan dan kelembapannya bagus, cuma terlalu cerah.",
   "fall_Krobus": "Belakangan ini aku mulai merasa dingin, baunya juga pengap. Kalian menyebutnya 'musim gugur', ya?",
   "winter_Krobus": "Gelapnya musim ini membuatku sangat tenang. Andai saja lebih hangat!"
+  }
 }

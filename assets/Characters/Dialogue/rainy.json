@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Abigail": "Kota ini lebih menarik saat hujan... benar kan?",
   "Robin": "Hujan tidak akn menghentikanku dari pekerjaanku!$h#$e#Meskipun udara lembab tidak menyengangka.$s",
   "Demetrius": "Tetap di dalalm rumah jika kamu ingin tetap hangat.",
@@ -29,4 +46,5 @@
   "Sandy": "Aku dengan hujan sedang turun, sehingga kau kemari?$h#$e#Aku kadang tidak tau kalau sedang hujan, sungguh...$s",
   "Krobus": "Ah, salurannya mengalir dengan cepat hari ini. Ini akan sangat bagus. Aku sangat menyukainya.",
   "Leo": "Lembah ini terasa begitu damai ketika hujan.#$e#Bagiku... alam itu seperti manusia, dengan mood yang berbeda."
+  }
 }

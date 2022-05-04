@@ -1,4 +1,25 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.Int32Reader",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "0": "Greenhorn (15k)^Menghasilkan 15.000g^true^-1^18",
   "1": "Cowpoke (50k)^Menghasilkan 50.000g^true^0^21",
   "2": "Homesteader (250k)^Menghasilkan 250.000g^true^1^20",
@@ -29,4 +50,5 @@
   "31": "Polyculture^Jual 15 hasil dari masing-masing crop ke Shiping Bin.^true^-1^34",
   "32": "Monoculture^Jual 300 hasil dari satu macam crop ke Shipping Bin.^true^-1^33",
   "34": "Full Shipment^Jual setiap item ke Shipping Bin.^true^-1^9"
+  }
 }

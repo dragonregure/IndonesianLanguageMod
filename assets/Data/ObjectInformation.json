@@ -1,4 +1,25 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.Int32Reader",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "0": "Weeds/0/-1/Basic/Gulma./Sejumput rumput tak berguna.",
   "2": "Stone/0/-300/Basic/Batu/Bahan yang sangat berguna setelah dipecah oleh Beliung.",
   "4": "Stone/0/-300/Basic/Batu/Bahan yang sangat berguna setelah dipecah oleh Kapak.",
@@ -81,7 +102,7 @@
   "145": "Sunfish/30/5/Fish -4/Bluegill/Ikan sungai biasa./Day^Spring Summer",
   "146": "Red Mullet/75/10/Fish -4/Belanak Merah/Dulu ikan ini dirawat sebagai peliharaan./Day^Summer Winter",
   "147": "Herring/30/5/Fish -4/Haring/Ikan laut biasa./Day Night^Spring Winter",
-  "148": "Eel/85/12/Fish -4/Sidat/Ikan yang panjang. kecil dan licin./Night^Spring Fall",
+  "148": "Eel/85/12/Fish -4/Belut Laut/Ikan yang panjang. kecil dan licin./Night^Spring Fall",
   "149": "Octopus/150/-300/Fish -4/Gurita/Makhluk yang cerdas dan misterius./Day^Summer",
   "150": "Red Snapper/50/10/Fish -4/Kakap/Ikan populer dengan warna merah yang bagus./Day^Summer Fall Winter",
   "151": "Squid/80/10/Fish -4/Cumi-Cumi/Makhlut laut dalam yang bisa tumbuh hingga ukuran raksasa./Day^Winter",
@@ -95,7 +116,7 @@
   "159": "Crimsonfish/1500/15/Fish -4/Crimsonfish/Ikan yang tinggal di laut dalam, tapi suka bertelur di perairan musim panas yang hangat./Day^Winter",
   "160": "Angler/900/10/Fish -4/Ikan Sungut/Memakai sungutnya yang bercahaya untuk memancing mangsa./Day Night^Spring Summer Fall Winter",
   "161": "Ice Pip/500/15/Fish -4/Ice Pip/Ikan langka yang maapu bertahan hidup dalam kedinginan ekstrim./Day Night^Spring Summer Fall Winter",
-  "162": "Lava Eel/700/20/Fish -4/Sidat Lava/Entah bagaimana ikan ini bisa bertahan hidup dalam kolam lava./Day Night^Spring Summer Fall Winter",
+  "162": "Lava Eel/700/20/Fish -4/Belut Lava/Entah bagaimana ikan ini bisa bertahan hidup dalam kolam lava./Day Night^Spring Summer Fall Winter",
   "163": "Legend/5000/200/Fish -4/Legenda/Raja dari semua ikan! Banyak yang bilang ikan ini belum pernah tertangkap./Day^Winter",
   "164": "Sandfish/75/5/Fish -4/Ikan Pasir/Berusaha menyembunyikan diri dengan kamuflase./Day Night^Spring Summer Fall Winter",
   "165": "Scorpion Carp/150/-50/Fish -4/Gurami Kalajengking/Seperti gurami biasa tapi punya sengat yang tajam./Day Night^Spring Summer Fall Winter",
@@ -147,14 +168,14 @@
   "222": "Rhubarb Pie/400/86/Cooking -7/Pai Kelembak/Mmm, rasanya tajam dan manis!/food/0 0 0 0 0 0 0 0 0 0 0/0",
   "223": "Cookie/140/36/Cooking -7/Kukis/Sangat mudah dikunyah./food/0 0 0 0 0 0 0 0 0 0 0/0",
   "224": "Spaghetti/120/30/Cooking -7/Spaghetti/Makanan kesukaan banyak orang./food/0 0 0 0 0 0 0 0 0 0 0/0",
-  "225": "Fried Eel/120/30/Cooking -7/Sidat Goreng/Berminyak, tapi enak./food/0 0 0 0 1 0 0 0 0 0 0/600",
-  "226": "Spicy Eel/175/46/Cooking -7/Sidat Pedas/Sangat pedas! Hati-hati./food/0 0 0 0 1 0 0 0 0 1 0/600",
+  "225": "Fried Eel/120/30/Cooking -7/Belut Goreng/Berminyak, tapi enak./food/0 0 0 0 1 0 0 0 0 0 0/600",
+  "226": "Spicy Eel/175/46/Cooking -7/Belut Pedas/Sangat pedas! Hati-hati./food/0 0 0 0 1 0 0 0 0 1 0/600",
   "227": "Sashimi/75/30/Cooking -7/Sashimi/Ikan mentah yang diiris tipis-tipis./food/0 0 0 0 0 0 0 0 0 0 0/0",
   "228": "Maki Roll/220/40/Cooking -7/Maki Roll/Daging ikan dan nasi yang digulung dalam rumput laut./food/0 0 0 0 0 0 0 0 0 0 0/0",
   "229": "Tortilla/50/20/Cooking -7/Tortilla/Bisa dipakai sebagai alas makanan atau dimakan langsung./food/0 0 0 0 0 0 0 0 0 0 0/0",
   "230": "Red Plate/400/96/Cooking -7/Salad Merah/Penuh antioksidan./food/0 0 0 0 0 0 0 50 0 0 0/300",
   "231": "Eggplant Parmesan/200/70/Cooking -7/Terong Bakar Keju/Tajam, berkeju, dan luar biasa enaknya./food/0 0 1 0 0 0 0 0 0 0 3/400",
-  "232": "Rice Pudding/260/46/Cooking -7/Puding Nasi/camilan krim yang manis dan lezat./food/0 0 0 0 0 0 0 0 0 0 0/0",
+  "232": "Rice Pudding/260/46/Cooking -7/Puding Ketan/camilan krim yang manis dan lezat./food/0 0 0 0 0 0 0 0 0 0 0/0",
   "233": "Ice Cream/120/40/Cooking -7/Es Krim/Harusnya tidak ada yang benci dengan makanan ini./food/0 0 0 0 0 0 0 0 0 0 0/0",
   "234": "Blueberry Tart/150/50/Cooking -7/Tart Bluberi/Hidanga istimewa yang menyegarkan./food/0 0 0 0 0 0 0 0 0 0 0/0",
   "235": "Autumn's Bounty/350/88/Cooking -7/Karunia Musim Gugur/Hidangan dengan rasa penuh musim gugur./food/0 0 0 0 0 2 0 0 0 0 2/660",
@@ -701,4 +722,5 @@
   "928": "Golden Egg/500/10/Basic -5/Telur Emas/Telur istimewa dan sangat langka dengan cangkang emas.",
   "929": "Hedge/10/-300/Crafting -8/Tanaman Pagar/Semak yang dipangkas dan berfungsi sebagai pagar.",
   "930": "???/0/-300/Basic/???/???"
+  }
 }

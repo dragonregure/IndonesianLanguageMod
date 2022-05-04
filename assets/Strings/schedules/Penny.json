@@ -1,10 +1,28 @@
 {
-  "winter_4.001": "Hei! Hargai privasi orang, dong.$a",
-  "marriage_Mon.002": "Apakah Maru akan menikah suatu hari nanti?",
-  "marriageJob.000": "Hai, sayang. Kamu baik sekali mengunjungiku saat bekerja.$h",
-  "marriage_Mon.001": "Jangan khawatir, aku pakai uangku sendiri untuk beli ini.",
-  "marriage_Mon.000": "Hai, sayang! Aku sedang belanja.",
-  "winter_15.000": "Bisakah kau mencium bau itu? Udaranya agak pedas di sini...",
-  "winter_4.000": "Aku mau periksa di klinik nanti siang.",
-  "rain2.000": "Aku akan segera masuk, aku sedang menikmati kesunyian ini."
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "winter_4.001": "Hei! Minta tolong privasinya, ya?$a",
+        "marriage_Mon.002": "Kapan ya kira-kira Maru akan menikah?",
+        "marriageJob.000": "Hai, sayang. Terima kasih sudah melihatku kerja.$h",
+        "marriage_Mon.001": "Jangan cemas, aku pakai uangku sendiri untuk beli ini.",
+        "marriage_Mon.000": "Hai, sayang! Aku lagi belanja.",
+        "winter_15.000": "Apa kau menciumnya? Udaranya pedas disini...",
+        "winter_4.000": "Siang ini aku ada janji di klinik.",
+        "rain2.000": "Aku mau masuk dulu, aku cuma nyari tempat yang tenang."
+    }
 }

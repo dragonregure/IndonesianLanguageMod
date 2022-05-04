@@ -1,4 +1,25 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.Int32Reader",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Abigail": "teen/rude/outgoing/neutral/female/datable/Sebastian/Town/fall 13/Caroline 'ayah' Pierre 'ibu'/SeedShop 1 9/Abigail",
   "Caroline": "adult/polite/neutral/neutral/female/not-datable/Pierre/Town/winter 7/Pierre 'suami' Abigail ''/SeedShop 22 5/Caroline",
   "Clint": "adult/rude/shy/negative/male/not-datable/Emily/Town/winter 26/Emily ''/Blacksmith 3 13/Clint",
@@ -34,4 +55,5 @@
   "Sandy": "adult/neutral/outgoing/positive/female/not-datable/null/Desert/fall 15/Emily ''/SandyHouse 2 5/Sandy",
   "Krobus": "adult/polite/shy/neutral/male/secret/null/Other/winter 1//Sewer 31 17/Krobus",
   "Leo": "child/neutral/shy/neutral/male/not-datable/Leo/Other/summer 26//IslandHut 5 6/Leo"
+  }
 }

@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "4": "...Apa ada yang lain sepertiku di tambang? Maaf kalau mereka memusuhimu. Kami terbiasa takut pada manusia... karena banyak... pertemuan yang tidak menyenangkan.#$e#KAmu belum... membunuh teman-temanku, kan?",
   "8": "Perang 1000 tahun antara kaumku dan Dwarf baru-baru ini berakhir. Masih banyak kebencian di kedua sisi.",
   "15": "Tolong rahasiakan lokasiku. Kalau ada Dwarf yang tahu, mereka pasti mengirim pembunuh.",
@@ -17,4 +34,5 @@
   "Sun4": "Kau tidak seperti manusia lainnya.",
   "Sun8": "Kau telah membuka mataku ke dunia manusia. Aku hargai itu.",
   "divorced": "..."
+  }
 }

@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "LearnedRecipe_cooking": "memasak",
   "LearnedRecipe_crafting": "merakit",
   "LearnedRecipe": "Kamu dapat resep {0} baru: {1}",
@@ -472,22 +489,22 @@
   "FruitTree_Warning": "Pohon {0}mu tidak bisa tumbuh semalam.",
   "Workbench_Chest_Warning": "Salah satu Chest dekat Workbench sedang digunakan.",
   "Profile_GiftLog": "Riwayat Hadiah",
-  "Profile_GiftLog_NoGiftsGiven": "Kamu belum pernah memberikan hadiah ini.",
+  "Profile_GiftLog_NoGiftsGiven": "Kamu belum pernah memberikan hadiah kategori ini.",
   "Profile_Status": "Status",
   "Profile_Birthday": "Ulang Tahun",
   "Profile_Gift_Loved": "Hadiah Favorit",
-  "Profile_Gift_Liked": "Hadiah Yang Disukai",
-  "Profile_Gift_Neutral": "Hadiah Yang Netral",
+  "Profile_Gift_Liked": "Hadiah Kesukaan",
+  "Profile_Gift_Neutral": "Hadiah Netral",
   "Profile_Gift_Disliked": "Hadiah Yang Tidak Disukai",
   "Profile_Gift_Hated": "Hadiah Yang Dibenci",
-  "Profile_Gift_Category_LikedGifts": "Favoritnya {0}",
+  "Profile_Gift_Category_LikedGifts": "Favoritnya {0}", 
   "Profile_Gift_Category_FruitsAndVegetables": "Buah & Sayur",
   "Profile_Gift_Category_AnimalProduce": "Produk Ternak",
   "Profile_Gift_Category_ArtisanItems": "Item Kerajinan",
-  "Profile_Gift_Category_CookedItems": "Item Dimasak",
-  "Profile_Gift_Category_ForagedItems": "Item Bunga & Rambanan",
+  "Profile_Gift_Category_CookedItems": "Masakan",
+  "Profile_Gift_Category_ForagedItems": "Bunga & Rambanan",
   "Profile_Gift_Category_Fish": "Ikan",
-  "Profile_Gift_Category_Ingredients": "Bahan Masak",
+  "Profile_Gift_Category_Ingredients": "Bahan Memasak",
   "Profile_Gift_Category_MineralsAndGems": "Logam, Mineral & Permata",
   "Profile_Gift_Category_Misc": "Lain-lain",
   "Mini_JukeBox_Off": "Mati",
@@ -801,4 +818,5 @@
   "ParrotPlatform_Question": "Ambil Parrot Express?",
   "PlayerLimit": "Batas Pemain",
   "DisplayAdjustmentText": "Tekan atas/bawah untuk menyesuaikan ukuran tampilan agar sesuai dengan layar."
+  }
 }

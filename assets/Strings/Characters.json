@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "NameYourHorse": "Beri Nama Kudamu",
   "WipedMemory": "Kamu petani yang baru pindah itu, ya?#$e#Sepertinya... tidak. Aku yakin kita belum pernah bertemu.",
   "DefaultHorseName": "Grover",
@@ -149,4 +166,5 @@
   "Phone_Marlon_Open": "Dengan Marlon... Apa kau kehilangan sesuatu di tambang lagi? Ya, ya... Aku bisa mencarinya... asal ada ongkosnya.",
   "Phone_Marlon_AlreadyRecovering": "Halo?... Ya, aku akan mencari itemmu malam ini. Tenang saja. Jangan telpon terus! *klik*",
   "Phone_Marlon_NoDeathItems": "Apa? Kamu tidak kehilangan apa-apa di tambang? Oke. Berarti kau tidak butuh bantuanku. Jaga dirimu. *klik*"
+  }
 }

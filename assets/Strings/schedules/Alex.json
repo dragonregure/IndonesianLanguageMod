@@ -1,8 +1,26 @@
 {
-  "winter_17.000": "Kamu pernah melihat pertunjukan putri duyung? Itu favoritku...",
-  "marriage_Mon.000": "Aku akan nongkrong di sini sepanjang hari. Kakek nenek ku tidak bertambah muda...",
-  "summer_16.000": "Hai. Eh, aku hanya memutar pergelangan kakiku. Melihat apakah aku bisa merekatkannya.",
-  "summer_16.001": "Yah, yah... Saya baik, dok. Rekatkan saja, oke?",
-  "Sun.000": "%Alex benar-benar asyik dalam permainan. Dia tidak memperhatikan kehadiranmu.",
-  "Sun.000_married": "Hei, @! Kamu bisa menonton permainannya bersama kami jika kamu mau, tapi tidak ada tekanan jika kamu sibuk."
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "winter_17.000": "Apa kamu nonton penampilang duyungnya? Aku suka itu...",
+        "marriage_Mon.000": "Aku akan disini seharian. Kakekku sudah semakin tua...",
+        "summer_16.000": "Hai. Eh, engkelku keseleo. Aku mau minta diperban.",
+        "summer_16.001": "Ya, ya... Aku nggak apa-apa, dok. Perban saja kakinya, oke?",
+        "Sun.000": "%Alex sangat fokus dengan pertandingan. Dia tidak tahu ada kamu.",
+        "Sun.000_married": "Hei, @! Kalau mau nontonlah pertandingan dengan kami, tapi kalau sibuk tak perlu memaksakan diri."
+    }
 }

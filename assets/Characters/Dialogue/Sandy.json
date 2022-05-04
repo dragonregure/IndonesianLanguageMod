@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "accept_866": "Mawar Stardew Valley? Sangat cantik! Terimakasih!$h#$b#Setiap aku merindukan Valley, aku selalu mencium aroma mawar ini. Hehe.$h#$b#Ini, ambil ini. Ini sudah ada di lemariku selama 10 tahun dan tidak seorangpun membelinya. Kau boleh ambil ini!",
   "Mon": "Helo, sayang!#$b#Aku ingin busnya selesai diperbaiki. Aku ingin ketenangan di luar sana.#$e#...Aku hampir tidak ada pekerjaan.$s#$e#Hey, kau kesini ingin membeli bibit... benar, sayang?$h",
   "Tue": "Kau bisa menemukan kelapa dan buah kaktus di luar sana. Ambil sebanyak yang kau mau.#$e#Mereka enak sekali. Heeee!~$h",
@@ -14,4 +31,5 @@
   "Sun8": "Hai sayang. Yep, hanya aku dsini, di toko tua ini. Hmmm...#$e#Well, except for that creepy guy in the back. But he never moves a muscle, so I often forget about him.",
   "Wed10": "Hai @! aku senang bertemu kau, nak. Aku pikir kau tidak akan kesini!#$e#Jika aku tidak bisa menjalankan toko ini aku akan kembali ke kota bersama mu... hanya kau dan aku.$s#$e#Kau harus mengunjungiku lebih sering.$h",
   "Tue10": "Hi!~ Tinggallah disini lebih lama.#$e#Udaranya sanga enak, kan?"
+  }
 }

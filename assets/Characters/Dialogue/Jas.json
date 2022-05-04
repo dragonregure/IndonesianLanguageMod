@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Introduction": "...$u#$b#Hai...$u",
   "Resort_Entering": "Aku lihat kepiting!",
   "Resort_Leaving": "Sepatuku kemasukan pasir...$s",
@@ -23,4 +40,5 @@
   "Sun": "Em... apa...apa kau butuh sesuatu?$u#$e#Aku tidak boleh bicara dengan orang asing.$u",
   "Sun2": "Shane sering pergi dan Bibi Marnie sibuk setiap saat... jadi aku bermain sendiri.#$e#Aku bersyukur atas semua mainanku.$h",
   "Sun10": "Apa kau tahu kalau Shane itu ayah baptisku? Ia teman baik orangtuaku.$s#$e#...Tapi mereka sudah tiada.*hiks*$s"
+  }
 }

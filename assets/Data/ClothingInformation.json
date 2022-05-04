@@ -1,4 +1,25 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.Int32Reader",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "-1": "Pants/Celana/Celana yang bisa dikenakan./0/-1/50/255 235 203/true/Pants",
   "-2": "Shirt/Kemeja/Kemeja yang bisa dikenakan./0/-1/50/255 255 255/false/Shirt",
   "0": "Farmer Pants/Celana Petani/Nyaman dipakai selama berjam-jam di ladang./0/-1/50/255 235 203/true/Pants",
@@ -216,4 +237,5 @@
   "1997": "Magic Sprinkle Shirt/Kaos Bertabur Keajaiban/Kaos dengan taburan prismatik./272/-1/50/0 50 200/false/Shirt/Prismatic",
   "1998": "Prismatic Shirt/Kaos Prismatik/Berkilauan dengan energi prismatik. Lengannya hitam./289/-1/50/0 50 200/false/Shirt/Prismatic",
   "1999": "Prismatic Shirt/Kaos Prismatik/Celana yang berkilauan dengan energi prismatik. Lengannya putih./288/-1/50/0 50 200/false/Shirt/Prismatic"
+  }
 }

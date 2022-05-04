@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Rainy_Day_0": "Kadang aku menemukan isnpirasi saat cuaca seperti ini.",
   "Rainy_Day_1": "Saat cuaca hujan dikota aku merasa depresi. Tapi di Stardew Valley sangat indah.",
   "Rainy_Day_2": "Salamat pagi! Aku bangun lebih awal dan memasak jamur. Ini, pilih satu.[281 404 420 257]#$e#Mencari jamur sama seperti mencari harta karun. Sangat menyenangkan.$h",
@@ -72,4 +89,5 @@
   "winter_1": "Sekarang musim dingin, itu artinya ada crystal fruit di musim ini. Rasanya unik sekali, iyakan?",
   "winter_7": "AKu ingin memahat es. Aku melakukannya sekali dalam setahun, tapi itu sangat menyenangkan!",
   "winter_28": "Hey, bagaimana keadaan kebun %farm! Ayo kita bersenang-senang nanti malam! [348]$h#$e#Tahun depan akan sangat indah, aku bisa merasakannya."
+  }
 }

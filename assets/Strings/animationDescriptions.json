@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "abigail_videogames": "Urghh... Aku belum bisa juga menyelesaikan level pertama 'Journey of the Prairie King'!$u",
   "haley_photo": "%Haley terlalu fokus dengan kameranya.",
   "harvey_radio": "%Harvey sedang sibuk saat ini.",
@@ -20,4 +37,5 @@
   "sam_skateboarding": "%Sam sedang mencoba trik kickflip.",
   "sam_pool": "$c .5#Hmm... Kalau bola putihnya aku pukul agak ke atas, mungkin aku bisa...$7#$e#*Hahh~*... Aku kurang jago.$s",
   "sam_work": "%Sam sedang bekerja... lebih baik jangan diganggu."
+  }
 }

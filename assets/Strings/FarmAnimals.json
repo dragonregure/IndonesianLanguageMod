@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "TryingToSleep": "{0} sudah mau tidur",
   "MoodMessage_NewHome_Baby_Male": "{0} masih agak canggung setelah lahir. Dia penasaran dengan dunia barunya.",
   "MoodMessage_NewHome_Baby_Female": "{0} masih agak canggung setelah lahir. Dia penasaran dengan dunia barunya.",
@@ -15,4 +32,5 @@
   "MoodMessage_Sad": "{0} tampak sedih.",
   "MoodMessage_Fine": "{0} tampak baik-baik saja.",
   "MoodMessage_Happy": "{0} tampak bahagia hari ini!"
+  }
 }

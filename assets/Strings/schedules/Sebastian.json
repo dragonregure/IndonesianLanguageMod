@@ -1,11 +1,29 @@
 {
-  "summer_4.000": "Sial... aku hampir lupa. Aku harus menemui Dokter Harvey hari ini.",
-  "Fri.000": "Apa aku perlu mengalah dengan Sam sesekali? ...tidak ah.$h",
-  "marriage_Fri.001": "Kemampuanku belum menurun... Sam masih saja mudah dikalahkan.$h",
-  "summer_4.001": "Apa yang kamu lakukan di sini? Aku bisa saja telanjang!$a",
-  "marriage_Mon.001": "Wajah Ibu langsung cerah begitu aku datang. Dia layak untuk bahagia.$7",
-  "marriage_Fri.000": "Aku akan nongkrong dengan teman-temanku malam ini. Aku akan pulang nanti.",
-  "marriage_Mon.000": "Berdiri di sini membuatku ingin merokok... tapi aku sudah bertekad untuk berhenti.",
-  "rain.000": "Lautan paling baik dinikmati sendiri... iya 'kan?",
-  "winter_16.000": "Aku merasa lebih rileks di malam hari... Aku akan beli perhiasan kecil juga."
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "summer_4.000": "Sial... Hampir lupa. aku harus ke Dokter Harvey nanti.",
+        "Fri.000": "Apa aku harus mengalah sama Sam kali ini? ...nggak deh.$h",
+        "marriage_Fri.001": "Skillku masih bagus... Sam masih gampang dikalahkan.$h",
+        "summer_4.001": "Kamu ngapain disini? Kalau aku telanjang gimana!?$a",
+        "marriage_Mon.001": "Wajah ibu senang saat aku datang. Dia layak bahagia.$7",
+        "marriage_Fri.000": "Aku mau nongkrong sama teman-temanku. Nanti aku pulang.",
+        "marriage_Mon.000": "Berdiri disini membuatku ingin merokok... tapi aku sudah berniat untuk berhenti.",
+        "rain.000": "Lautan memang cocok kalau dinikmati sendiri...",
+        "winter_16.000": "Aku merasa lebih tenang di malam hari... Kayaknya aku harus beli pernak-pernik."
+    }
 }

@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Introduction": "Oh! Bukankah kamu yang baru saja pindah?#$b#Aku Maru. Aku tak sabar ingin bertemu denganmu!$h#$e#Kamu tahu, dengan kota kecil seperti ini, wajah baru benar-benar dapat mengubah dinamika komunitas. Sangat mengagumkan!",
   "Resort_Entering": "Willy bilang, kau membantu memperbaiki kapalnya. Untuk itu, terimakasih banyak!",
   "Resort_Leaving": "Tadi itu menyenangkan!",
@@ -85,4 +102,5 @@
   "winter_Fri6": "Kamu terlihat segar hari ini. Itulah pengaruh udara musim dingin yang sejuk.",
   "winter_Mon8": "Hai @!$h#$e#Hei, bukankah manusia salju buatanku terlihat mirip denganmu?",
   "winter_Thu10": "@, mendekatlah. Aku kedinginan.$l#$e#Tanganku sangat kering karena udara musim dingin. Maaf soal itu.$l"
+  }
 }

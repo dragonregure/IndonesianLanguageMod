@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Rainy_Day_0": "Kuharap Jas dan Marnie baik-baik saja tanpaku.#$e#Aku tak terlalu khawatir... Jas sudah cukup besar untuk mengurus hewan.",
   "Rainy_Day_1": "Kau tau? Kupikir aku kehilangan berat badan sejak aku hidup denganmu.$6",
   "Rainy_Day_2": "Sini... ambil ini.[346 174 303 305 215]#$e#Aku baru saja membeli ini dan hampir kadaluarsa...",
@@ -65,4 +82,5 @@
   "fall_17": "Aku mulai merasakan umurku... dan itu benar-benar tak nyaman.",
   "winter_1": "Ada rencana untuk musim dingin ini? Aku mungkin hanya menonton TV dan jalan-jalan disekitar kebun.",
   "winter_28": "Satu tahun lagi terlewati... Aku terlihat sedikit tua, tapi memang begitu seharusnya.$6"
+  }
 }

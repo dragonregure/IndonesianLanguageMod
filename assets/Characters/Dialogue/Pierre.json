@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Introduction": "Hai. @, seoorang petani baru! Aku Pierre, pemilik toko.^Hai. @, seoorang petani baru! Aku Pierre, pemilik toko.#$b#Jika kau butuh bibit, kau bisa membelinya di tokoku. Aku juga akan membeli hasil kebunmu dengan harga yang bagus!#$e#Aglikultural juga membantu perekonomian kita!",
   "Resort": "Kalau aku berlibur aku tidak bisa berjualan...$s#$b#Tapi, kau tau? Ini sungguh sepadan.",
   "Resort_Shore": "Mmm... aroma laut membuatku ingin makan sashimi.",
@@ -43,4 +60,5 @@
   "fall_Sun": "Jika aku tidak menjaga toko, aku akan keluar sekarang...#$e#Dau-daun terlihat hebat dan jamur mulai tumbuh.",
   "Event_naga1": "Tarima kasih, aku hargai itu. Tapi tolong lupakan yang kau lihat itu?$h#$b#...Dan aku akan melupakan bahwa kau menyelinap di menyelinapku!",
   "Event_naga2": "Kau melakukannya? Kau menyebalkan.$s#$b#Kau seharusnya tidak menyelinap ke kamarku! Kau tetangga yang buruk.$a"
+  }
 }

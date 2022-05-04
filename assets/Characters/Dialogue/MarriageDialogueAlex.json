@@ -1,4 +1,21 @@
 {
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
   "Rainy_Day_0": "Dengan ruang sebesar ini, aku bisa melatih seluruh bagian badanku.",
   "Rainy_Day_1": "Aku tidak punya banyak teman di kota... Kadang aku bertanya apa yang akan terjadi jika kamu tidak pindah ke sini.$9",
   "Rainy_Day_2": "Yah... Padahal aku mau jogging di luar. Tapi kalau cuacanya seperti ini tidak jadi.",
@@ -38,7 +55,7 @@
   "spring_1": "Akhirnya, saljunya meleleh dan matahari kembali! Tubuhku terasa hebat.$h",
   "spring_6": "Aku penasaran apa sedikit stardrop bisa membuatku lebih berotot...",
   "spring_12": "Apa kamu menantikan festival besok? Kurasa akan bagus kalau bisa mengumpulkan banyak telur gratis.",
-  "spring_23": "Oh... tarian bunganya besok, 'kan? Sebaiknya aku push-up lagi malam ini.$9#$e#Pakaian dansanya agak ketat... dan semuanya akan melihat dari dekat.",
+  "spring_23": "Oh... dansa bunganya besok, 'kan? Sebaiknya aku push-up lagi malam ini.$9#$e#Pakaian dansanya agak ketat... dan semuanya akan melihat dari dekat.",
   "summer_1": "Musim panas adalah waktu paling energik, dan badan juga ikut merasakannya! Aku merasa kuat.",
   "summer_10": "Apa kamu sudah tahu apa yang akan kamu masukkan ke sup luau?#$e#Aku tidak tahu apa yang bagus... 'kan kamu kokinya!$h",
   "summer_27": "Aw... musim panas hampir berakhir. Otot-ototku mulai mengempis...$s",
@@ -48,4 +65,5 @@
   "winter_1": "Pastikan kamu tetap hangat di musim dingin ini. Aku khawatir akan kulitmu.",
   "winter_7": "Apa kamu ikut lomba memancing besok? Kurasa kamu akan menang!",
   "winter_28": "Ini tahun yang bagus, @. Aku menantikan tahun depan! Nah, mendekatlah... $l"
+  }
 }
