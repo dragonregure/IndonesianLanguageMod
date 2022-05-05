@@ -1,0 +1,46 @@
+{
+    "header": {
+        "target": "a",
+        "formatVersion": 5,
+        "hidef": false,
+        "compressed": true
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+  "Introduction": "Ah, Walikota Lewis bilang kau baru saja tiba. Aku Marnie!#$e#Aku menjual hewan ternak dan perawatannya di peternakanku. Kau harus mampir kapan-kapan.$h",
+  "Resort": "Hehe... akhirnya ada kesempatan menunjukkan hasil jerih payahku di kelas aerobik.$h",
+  "Resort_Leaving": "Aku merasa hangat.",
+  "Resort_Shore": "Hee hee... Sangat menarik melihat semua orang dengan baju renang mereka.",
+  "Resort_Chair": "Ew... kursinya basah.",
+  "Resort_Bar": "Fiuh... Panas sekali!$s",
+  "reject_789": "Gah!$4#$b#...Em... Apa? Heh.. Aku tidak tau apa ini...$3",
+  "Mon": "Aku suka binatang, Tn. @. Kalau peliharaanmu dirawat dengan baik, kita bisa jadi teman dekat!^Aku suka binatang, Nn. @. Kalau peliharaanmu dirawat dengan baik, kita bisa jadi teman dekat!",
+  "Mon4": "Hewan begitu polos. Kalau bukan aku yang merawatnya, siapa lagi?$s#$e#Semoga ayamku tidak kecewa saat kuambil telurnya.$s",
+  "Thu_2": "Kau sudah di sini cukup lama... bagaimana kabar kebunmu?#$e#Merawat hewan itu mudah asal kau tidak lupa dengan mereka!$h",
+  "Saloon": "Akhirnya aku bisa bersantai dan beramah tamah di sini.",
+  "Saloon_Tue": "Hari ini. Tidak ada banyak orang di sini...$s",
+  "Saloon_Wed": "#$1 marnieAnimalSal#Aku menumpahkan seember susu di lantai hari ini, itu mengerikan. Kerja keras Belinda jadi sia-sia.$k$s#$e#Untung kamu mampir hari ini! Aku jadi agak senang.",
+  "Saloon_Thu": "Fiuh! Istirahat terasa lebih nikmat setelah bekerja keras seharian.",
+  "Saloon_Fri": "%Marnie tampaknya tidak tahu kalau ada kamu di sana...",
+  "Saloon_Sun": "*Hahh~*... Aku tidak produktif hari ini.",
+  "Saloon_Sat": "Aku selalu melihat Clint di sini, tapi ia tidak ngobrol dengan siapapun. Dia cuma melirik sesekali.$s",
+  "Tue": "Keponakanku Shane tinggal di tempatku beberapa bulan terakhir.#$e#Dia membantuku merawat ayam, jadi aku tidak mengeluh.",
+  "Wed": "Kau bisa memakai sabit untuk memotong rumput jadi pakan ternak.#$e#Atau kau bisa membelinya dariku!$h#$e#Aku juga butuh uang...$u#$e#Adios.",
+  "Thu": "Hai, perlu sesuatu?#$e#Mungkin nanti aku akan jual ternak jenis baru di toko.#$e#Tapi, aku harus memastikan pasarnya dulu, jadi kau harus membuktikan skill beternakmu dulu.#$e#Terus rawat ternakmu dengan kasih sayang dan hal-hal baik akan terjadi.",
+  "Fri": "Malam hari kau bisa menemuiku di Bar.#$e#Hewan ternak bisa jadi teman baik, tapi sesekali aku juga butuh komunikasi dengan manusia.",
+  "Fri4": "#$1 marnieLike#Kurasa seseorang di kota ada yang menyukaiku. *teehee*$k$h#$e#Aku akan sangat kesepian kalau Shane pindah.",
+  "Fri6": "Apa Tn. Lewis kesepian di rumah besarnya itu ya... $s#$e#Di sana sepi sekali, kan?",
+  "Sat": "Apa kau pernah ke menara aneh di barat rumahku?#$e#Aku pernah dengan suara-suara mengerikan dari sana.$s#$e#Kalau jadi kamu, aku akan menghindari tempat itu...",
+  "Sun": "Hai, senang bertemu denganmu!#$e#Jangan ragu untuk mampir kapanpun kau mau.",
+  "Sun8": "Hai @!$h#$e#Aku senang kita sudah jadi teman. Aku tahu kalau aku bisa mempercayakan hewan kesayanganku padamu."
+  }
+}
