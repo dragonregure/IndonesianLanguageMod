@@ -1,27 +1,26 @@
 {
-  "header": {
-      "target": "w",
-      "formatVersion": 5,
-      "hidef": true,
-      "compressed": 128
-  },
-  "readers": [
-      {
-          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
-          "version": 0
-      },
-      {
-          "type": "Microsoft.Xna.Framework.Content.StringReader",
-          "version": 0
-      }
-  ],
-  "content": {
+    "header": {
+        "target": "a",
+        "formatVersion": 5,
+        "hidef": false,
+        "compressed": true
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
   "Silo": "390 100 330 10 334 5/3/3/-1/-1/-2/-1/null/Silo/Kamu bisa memotong rumput dan menyimpannya di sini untuk pakan./Buildings/none/48/128/-1/null/Farm/100/false",
   "Mill": "388 150 390 50 428 4/4/2/-1/-1/-2/-1/null/Penggiling/Bisa dipakai untuk menggiling gandum, ubi bit, dan beras./Buildings/none/64/128/-1/null/Farm/2500/false",
   "Earth Obelisk": "337 10 86 10/3/2/-1/-1/-2/-1/null/Obelisk Bumi/Dipakai untuk teleportasi ke gunung./Buildings/none/48/128/-1/null/Farm/500000/true",
   "Water Obelisk": "337 5 372 10 393 10/3/2/-1/-1/-2/-1/null/Obelisk Air/Dipakai untuk teleportasi ke pantai./Buildings/none/48/128/-1/null/Farm/500000/true",
   "Desert Obelisk": "337 20 88 10 90 10/3/2/-1/-1/-2/-1/null/Obelisk Gurung/Dipakai untuk teleportasi ke gurun./Buildings/none/48/128/-1/null/Farm/1000000/true",
-  "Island Obelisk": "337 10 852 10 91 10/3/2/-1/-1/-2/-1/null/Obelisk Pulau/Dipakai untuk teleportasi ke Ginger Island./Buildings/none/48/128/-1/null/Farm/1000000/true",
   "Junimo Hut": "390 200 268 9 771 100/3/2/-1/-1/-2/-1/null/Gubuk Junimo/Para Junimo akan memanen tanaman di sekitar gubuk ini./Buildings/none/48/64/-1/null/Farm/20000/true",
   "Gold Clock": "/3/2/-1/-1/-2/-1/null/Jam Emas/Mencegah puing bermunculan di kebunmu. Dan mencegah pagar rusak./Buildings/none/48/80/-1/null/Farm/10000000/true",
   "Stable": "709 100 335 5/4/2/-1/-1/-2/-1/null/Kandang Kuda/Kamu bisa merawat dan mengendarai kuda. Kudanya sudah termasuk./Buildings/none/64/96/-1/null/Farm/10000/false",
