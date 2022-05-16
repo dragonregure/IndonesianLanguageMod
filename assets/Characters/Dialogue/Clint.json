@@ -1,0 +1,34 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+  "Introduction": "Kalau mau meningkatkan alat, kamu harus membawa bijih yang tepat.#$e#Dan tentunya, kau juga harus membayarku.",
+  "Wed": "Hei. Ada yang bisa dibantu?",
+  "Wed6": "Oh, hai @. Maaf aku kotor. Dari pagi aku kerja di depan tungku.$h#$e#Jadi, kamu butuh sesuatu atau cuma ingin menyapa?",
+  "Thu": "Belakangan ini bisnis lagi seret.#$e#Ada alat yang ingin kau tingkatkan nggak? Aku lagi butuh uang.",
+  "Fri": "Cuaca nggak berpengaruh kepadaku. Aku selalu di dalam toko sepanjang tahun.#$e#Menyedihkan, ya?",
+  "Sat": "Kadang aku penasaran gimana aku bisa ada di kota ini.$u",
+  "Sat6": "Sial, aku terlalu tua untuk melakukan hal-hal seru. Yang menantiku hanyalah pekerjaan di dekat perapian dalam beberapa tahun.",
+  "Sun": "Kamu lagi nggak ada kerjaan?",
+  "Sun4": "Gimana keadaan alat-alatmu, masih awet?",
+  "event_advice1": "Oke... Akan kuingat itu.",
+  "event_advice2": "Itu dia masalahnya... Aku sudah bersikap biasa... tapi aku tidak pernah berhasil.$s",
+  "summer_Mon4": "Bersyukurlah jadi petani, @. Lebih baik kerja di luar daripada kerja di depan tungku setiap hari.#$e#Aku jadi pandai besi karena disuruh ayahku.",
+  "summer_Wed6": "Oh, hai @. Maaf aku kotor. Dari pagi aku kerja di depan tungku.$h#$e#Jadi, kamu butuh sesuatu atau cuma ingin menyapa?",
+  "summer_Thu": "Belakangan ini bisnis lagi seret.#$e#Ada alat yang ingin kau tingkatkan nggak? Aku lagi butuh uang."
+  }
+}

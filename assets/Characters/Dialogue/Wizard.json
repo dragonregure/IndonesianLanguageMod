@@ -1,0 +1,34 @@
+{
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
+  "Introduction": "Ah, yes. Aku sudah memprediksi kau akan datang dulu sekali @.#$e#Bagaimanapun, takdirmu ada di tanganmu.",
+  "accept_868": "Ah... sebuah pecahan arctic.#$b#Sebuah substance yang sangat powerful, dan terdapat element es yang kuat di dalamnya.#$b#KKalau tidak keberatan, aku ambil ini.#$b#...#$b#...Erm... Kau masih disini. Oh. Kau ingin sesuatu penggantinya?#$b#...Ambil ini.",
+  "MovieInvitation": "Hmm... Mungkin aku bisa menemanimu... Ya. Saat kau sampai, aku juga akan muncul. Selamat tinggal.",
+  "Mon": "Aku punya penglihatan tentang masa depanmu @.#$e#Jika aku memberitahukannya, kau akan tau konsekuensinya",
+  "Tue": "Jika kau tidak punya kepentingan, tinggalkan aku saja. Aku punya banyak pekerjaan.",
+  "Tue4": "Aku memperbolehkanmu ke ruang bawah tanahku. Kau akan menemukan sesuatu yang menyenangkan disana.",
+  "Wed": "Butuh bertahun tahun untuk mengerti bahasa para elemental.#$e#Dan untuk bisa berbicara bahasa mereka butuh usaha seumur hidup.#$e#Nah sekarang, biarkan aku bekerja...",
+  "Thu": "Banyak sekali misteri di sekitar kita.Kau harus sabar mencarinya.",
+  "Thu10": "Kau tidak boleh bilang pada siapapun... Sebenarnya aku mulai curiga kalau salah satu warga adalah putriku...#$e#Bisa saja aku salah... Tapi tidak menutup kemungkinan.",
+  "Fri": "Warga kota takut kepadaku.#$e#Sayangnya, aku tidak tau kenapa bisa mereka takut kepadaku.",
+  "Fri6": "Aku sudah lama sekali menikah. Setelah kami berpisah, dia terbang ke warga kota dan mengutuk orang-orang.#$e#Dia tidak dewasa sekali saat marah.",
+  "Sat": "Kau punya potensi magis di kebunmu.#$e#Aku membangun tempat ini karena ada maksud.",
+  "Sat2": "Apakah kau pernah ke hutan mahluk halus?",
+  "Sun": "Aku kadang ke kota dengan sembunyi-sembunyi.#$e#Aku harap aku menemukan sesuatu. Suatu hari aku ingin meninggalkan tempat ini, tapi aku harus menyiapkan batinku."
+  }
+}

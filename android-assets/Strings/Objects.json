@@ -1,0 +1,42 @@
+{
+    "header": {
+        "target": "a",
+        "formatVersion": 5,
+        "hidef": false,
+        "compressed": true
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+  "Bookcase_Menu": "Mau baca buku apa?",
+  "Bookcase_Basics": "Dasar-dasar",
+  "Bookcase_MakingFriends": "Berteman",
+  "Bookcase_Improvements": "Peningkatan",
+  "TV_Menu": "Pilih acara TV untuk ditonton:",
+  "TV_Weather": "Cuaca",
+  "AncientFruitPot": "Akarnya tumbuh sangat dalam ke tanah... dia tidak akan senang tinggal di sini.",
+  "TV_Fortune": "Ramalan Keberuntungan",
+  "CaskNoCellar": "Hanya berfungsi di Rubanah.",
+  "DarkTalisman": "Dark Talisman",
+  "MagicInk": "Tinta Ajaib",
+  "MagnifyingGlass": "Kaca Pembesar",
+  "BearPaw": "Pengetahuan Beruang",
+  "SpringOnionBugs": "Master Daun Bawang",
+  "SpecialCharm": "Jimat Spesial",
+  "CatalogueDescription": "Memberikan akses tak terbatas untuk pilihan wallpaper dan lantai... demi kenyamanan rumahmu!",
+  "FurnitureCatalogueDescription": "Memberikan akses tak terbatas untuk pilihan furnitur... demi kenyamanan rumahmu!",
+  "DarkTalismanDescription": "Kamu telah menemukan {0}! Dilumuri dengan lendir serangga...",
+  "MagicInkDescription": "Kamu sudah menemukan {0} penyihir yang hilang! Segera berikan padanya.",
+  "MagnifyingGlassDescription": "Kamu menerima {0}! Sekarang kamu punya kemampuan untuk menemukan 'Secret Notes'. Catatan-catatan ini akan menunjukkan informasi yang berguna nan langka, dan bisa dibaca lagi di tab koleksimu.",
+  "SpecialCharmDescription": "Kamu menerima {0}! Kamu merasakan aura penuh keberuntungan mengelilingimu (hokimu meningkat secara permanen)!",
+  "ParsnipSeedPackage_SomeoneElse": "Paket ini milik orang lain."
+  }
+}

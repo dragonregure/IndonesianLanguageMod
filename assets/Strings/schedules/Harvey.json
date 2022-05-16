@@ -1,0 +1,27 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "Fri.000": "Benda ini bisa diikutkan dalam pola makan yang sehat.",
+        "marriageJob.000": "Hai Sayang. Ada perlu apa kamu ke klinik?#$e#Ah, Kamu cuma ingin melihatku. Terima kasih.$h",
+        "Fri.001": "Aku sedang menaruh belanjaanku.",
+        "marriage_Mon.001": "Suara air mengalir membuatku tenang.",
+        "marriage_Mon.000": "Hai! Aku cuma belanja kebutuhan harian, supaya aku bisa terus masak makanan sehat untuk kita.",
+        "Sat.000": "Aku sedang menaruh belanjaanku.",
+        "winter_15.000": "Musim dingin bisa jadi cuaca yang suram, tapi acara seperti ini menjadikannya lebih terang!"
+    }
+}

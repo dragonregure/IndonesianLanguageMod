@@ -1,0 +1,72 @@
+{
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
+  "Mon": "Aku tidak kenal kau. Kenapa kau mengajakku bicara?",
+  "Resort_Entering": "Buh... Kuharap bar nya buka.",
+  "Resort_Leaving": "Hmm... Supplai Vitamin D tahunanku sudah terpenuhi. Sekarang aku bisa bermain game sampai akhir tahun.",
+  "Resort_Shore": "Yap... Aku tidak mengenakan alas kaki apapun.#$b#Orang bilang kalau itu berbahaya.#$b#Tapi lihat kepiting disini, tidak ada yang pakai alas kaki.$h",
+  "Resort_Chair": "Hoo... Sangat nyaman istirahat disini.#$b#Kalau ada yang mencariku, bilang sedang mengasinkan diri disini.",
+  "Resort_Bar": "Whew... segelas minuman dingin terasa menyegarkan...#$e#Atau mungkin harus beberapa gelas...",
+  "Resort": "Okay, pasir disini sangat panas. Aku menyesal tidak pakai alas kaki.$s",
+  "danceRejection": "...Tidak.$s",
+  "pamHouseUpgrade": "Kudengar kau memberi Pam sebuah rumah... Kau sungguh dermawan...#$b#Kau tau, aku sedang butuh beberapa ratus ribu...#$e#*ahem* ...ah ...Hanya bercanda. ...Heh.",
+  "pamHouseUpgradeAnonymous": "Kudengar seseorang memberi Pam sebuah rumah... *Hah~*... Apa yang telah Pam lakukan hingga dapat hadiah seperti itu??",
+  "divorced": "...$a#$e#...Tinggalkan aku sendiri.$a",
+  "breakUp": "*gulp* Oh... Yeah, okay... Entah kenapa aku tau ini akan terjadi.$s#$b#Jadi... uh... sampai jumpa di Bar.",
+  "dumped_Guys": "%Tatapan Shane penuh kesedihan. Ia tidak ingin bicara denganmu.",
+  "secondChance_Guys": "Aku tidak mengerti pemikiranmu... *Hah~*...",
+  "Mon2": "Sungguh. Aku tidak kenal kau. Kenapa kau mengajakku bicara?",
+  "Mon4": "Maaf, aku sangat menjengkelkan saat kita pertama ali bertemu.#$e#Aku butuh waktu agar bisa mengenal orang asing.",
+  "Mon10": "Apa kau pernah merasa, dunia sepertinya melihatmu seperti seeokor serangga menjijikan?",
+  "Tue": "Apa? Apa maumu? Pergi sana!",
+  "Tue2": "Apa yang ingin kau inginkan dariku? Uang? Aku akan memberimu uang jika kau menginggalkankanku sendiri!",
+  "Tue4": "Setiap kali aku mencoba hal baru, aku selalu salah. Kau mngajariku arti pertemenan.",
+  "Tue6": "Hidup itu mudah... apalagi jika ada Pizza dan Telur. hehehe...$u",
+  "Wed": "Maaf, aku tidak punya waktu ngobrol denganmu.",
+  "Wed8": "IAku telah lama tinggal denga Marnie dan Jas. Kita sering berkumpul tapi aku rasa kita seperti kularga yang aneh.#$e#Saat aku kecil aku tidak punya banyak keluarga.$s",
+  "Wed4": "$d Joja#*sigh* ...Setiap hari sama saja. Merapikan rak, pergi ke bar, minum minuman setiap malam.$s|Aku benci pekerjaanku di JojaMart, tapi aku tidak ingin dipecat.$s",
+  "Thu": "Apa maumu? Tinggalkan aku!",
+  "Thu4": "Kau sangat gigih. Aku terkesan jika semua orang tertarik kepadaku.",
+  "Thu6": "Buh... mana Joja Colaku?",
+  "Thu8": "Kau suka berbicara denganku? Aku mempercayaimu... mungkin kita sama-sama aneh.$h",
+  "Fri": "Kau tidak punya perkerjaan?",
+  "JojaMart": "%Shane sedang bekerja. Sepertinya ia tidak ingin bicara.",
+  "Fri4": "$d Joja#Apa inti dari pekerjaan?|Aku tidak pernah membayar sewa, tapi Marnie' memperbolehkannya. Aku beruntung.",
+  "Fri6": "Aku akan ke bar nanti malam. Apa kau akan kesana?",
+  "Sat": "Kenapa kau mengikutiku? Aku ingin sendiri.",
+  "Sat2": "#$1 ShaneJOSH#Aku kaget kau masih ingin berteman denganku. Apa aku masih terlihat kasar padamu?#$e#*sigh*...$s",
+  "Sat4": "$d Joja#Marnie menyewakan kamarnya dengan haga murah. Kamarnya kecil tapi tidak masalah.|Jika aku bisa berreinkarnasi mungkin aku ingin jadi ayam. Aku suka sekali telur.",
+  "Sat8": "Aku senang merawat ayam milik Marnie.$h",
+  "Sun": "Aku sibuk, kau tidak paham?",
+  "Sun6": "...Aku pikir aku harus seedikit lebih gemuk.$s",
+  "Sun8": "Jika aku menonton TV mungkin aku bisa melupakan hidup. Itu caraku bersantai.$u",
+  "Sun10": "Hai, @. Hariku sangat menyenangkan.$h",
+  "Sun4": "Hmm... sekarang jam %time. Apa aku harus membuah pizza atau harus menunggu?$u",
+  "Sun2": "Kau lagi? Sudah berapa kali aku peringatkan, aku ingin sendiri?$s",
+  "event_room1": "Okey... itu butuh script yang bagus. Mungkin aku bisa bertanya ke Elliott besok jika aku bertemu dia di bar.$s",
+  "event_room2": "Kedengarannya bagus. Aku akan memberikan efek khusus agar terlihat keren.",
+  "event_noLoan1": "Aku baru tau kalau kau orang yang pelit...$s",
+  "event_noLoan2": "Ok, Ayah...$s^Ok, Ibu...$s",
+  "event_noLoan3": "Oh, wow...$s",
+  "event_apologize1": "...Yeah, aku juga.",
+  "event_apologize2": "Aku tau... itulah mengapa aku singgah, untuk memberitaumu tentang itu.",
+  "event_apologize3": "Wow, seserius itu kah? Aku bakan tak ingat...",
+  "event_stadium1": "Oh ya? Itu masuk akal.$6#$b#Aku? Aku bosan dengan Pelican Town.#$b#Tapi... Aku suka karena kau berbeda. Kita saling melengkapi.$l",
+  "event_stadium2": "Oh benarkah? Aku terkejut... Bukankah kau pindah kesini untuk menghindari kebisingan kota?$6#$b$#Maksudku... Jangan salah paham, Aku mengerti. Hidupku di Pelican Town cukup datar."
+  }
+}

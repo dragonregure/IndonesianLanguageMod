@@ -1,0 +1,68 @@
+{
+  "header": {
+      "target": "w",
+      "formatVersion": 5,
+      "hidef": true,
+      "compressed": 128
+  },
+  "readers": [
+      {
+          "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+          "version": 0
+      },
+      {
+          "type": "Microsoft.Xna.Framework.Content.StringReader",
+          "version": 0
+      }
+  ],
+  "content": {
+  "name": "Hari Raya Winter Star",
+  "conditions": "Town/900 1400",
+  "shop": "F 2625 1000 -1 F 1745 800 -1 F 1747 500 -1 F 1678 1000 -1 F 1390 700 -1 F 807 3000 -1 F 2798 1000 -1 F 2634 1000 -1 F 2633 500 -1 F 2635 500 -1 F 2636 700 -1 F 1440 5000 -1 F 1296 800 -1",
+  "set-up": "christmasTheme/-1000 -1000/farmer 12 54 1/changeToTemporaryMap Town-Christmas/loadActors Set-Up/playerControl christmas",
+  "secretSanta": "none/-1000 -1000/farmer 30 69 0/warp Emily 37 59/warp Haley 35 74/warp secretSanta 29 75/faceDirection secretSanta 0/viewport 30 67 true/pause 2000/move secretSanta 0 -4 0/move secretSanta 1 0 0/pause 500/shake secretSanta 100/playSound stoneStep/specificTemporarySprite secretGift/pause 100/faceDirection farmer 2/pause 200/jump farmer/pause 700/emote farmer 16/pause 100/move secretSanta -1 0 0/move secretSanta 0 -2 0/pause 700/faceDirection farmer 3/pause 300/faceDirection farmer 0/pause 500/faceDirection secretSanta 1/pause 500/speak secretSanta \"dialogue1\"/pause 300/faceDirection farmer 2/pause 800/showFrame 4/pause 300/playSound cut/specificTemporarySprite secretGiftOpen/pause 400/stopAnimation farmer/faceDirection farmer 2/pause 1000/cutscene addSecretSantaItem/pause 3000/null/faceDirection farmer 3/speak secretSanta \"dialogue2\"/pause 600/eyes 1 -1500/emote farmer 32/pause 1000/globalFade/viewport -1000 -1000/warp Emily 29 72/warp Haley 30 72/warp secretSanta warpX warpY/faceDirection farmer 2/cutscene clearTempSprites/playMusic christmasTheme/viewport 30 67 true/playerControl christmas2",
+  "Abigail_spouse": "Bolehkah aku menjillat tongkat permen ini...",
+  "Leah_spouse": "Aku bersyukur atas kehidupan sederhana kita.$h",
+  "Maru_spouse": "Hei, @. Jika kau ingin pulang bilang ya.",
+  "Penny_spouse": "Aku sangat bersyukur pernah bertemu denganmu...$l",
+  "Haley_spouse": "AH?... Oh, Aku sangat bersyukur atas... eh... aku akan tunjukkan saat kita di rumah nanti malam.$l",
+  "Sebastian_spouse": "Hei, @. aku sedang mendoakan kelancaran keluarga kita...",
+  "Sam_spouse": "*yawn*... Aku datang karna hadiah dan makanannya saja.$h",
+  "Alex_spouse": "Aku bersyukur untuk apa? Akan kutunjukkan saat kita dirumah nanti...$l",
+  "Harvey_spouse": "Aku sedikit kewalahan belakangan ini... akuu bersyukur masih bisa merasakan udara yang sejuk ini...$l",
+  "Elliott_spouse": "Kau tidak perlu memberiku apapun, karena kau adalah hadiah terbaik dari hadiah lainnya...$l",
+  "Abigail": "Tidak ada yang lebih menyenangkan daripada berkumpul di festival yang hangat di musim dingin seperti ini, ya kan?$h",
+  "Robin": "Hai, @. Kau boleh ikut kami, kalau kau butuh teman.$h",
+  "Demetrius": "Aku harap aku mendapat peralatan baru tahun ini... *sigh*",
+  "Maru": "Hai, @.$h",
+  "Shane": "Aku sudah bertemu dengan orang yang percaya dengan roh dan sihir... tapi bagitu? Aku tidak percaya sesuatu yang belum bisa dibuktikan ilmu pengetahuan.",
+  "Sebastian": "Terkadang menghabiskan waktu bersama keluargac cukup melelahkan.",
+  "Pierre": "Penghasilanku benar - benar fenomenal belakangan ini... ini semua berkat festival bintang ini!$h#$e#Hehe, hari libur adalah hari yang cocok untuk berbisnis. Aku penasaran apa aku bisa menjual lebih banyak lagi...",
+  "Caroline": "Ooohh... Aku terlalu banyak makan.$h",
+  "Linus": "Aku ingin ikut... tapi aku tak tahu apa aku diajak.$s",
+  "Alex": "Oh, hai.$s",
+  "George": "Festival untuk sebuah bintang bodonh? Humbug!",
+  "Evelyn": "Ya tuhan! Apa kau kedinginan, nak? Disisi sangat dingin!",
+  "Lewis": "Hari ini waktunya kita bersyukur atas tahun yang telah kita lewati ini. Lupakan masalahmu dan bersantailah!",
+  "Clint": "*huuh*... Senuanya berkumpul dengan keluarganya. Tapi bagiku, tahuni in tahun kesepian seperti biasanya.",
+  "Emily": "$y '@! Apa yang kau harapkan?_A Alat penyiram baru._Kau selalu memikirkan kerja? Kau tahu, itu tak menyenangkan sama sekali.$s_Sebuah dagin besar._Ooo... kedengarannya menarik. Pastikan kau mau membaginya padaku nanti.$h_Sepasang sepatu stylish._Begitukah. Itu akan menjadi hadiah spesial!'",
+  "Penny": "Pohon yang indah.$h",
+  "Pam": "Hmmph... Aku masih tidak percaya, aku kalah di kompetisi memancing waktu itu.$4",
+  "Haley": "Aku harap aku bisa mendapat kamera baru di tahun ini!",
+  "Jodi": "Tahun ini bukan waktu yang tepat untuk diet...$s",
+  "Kent": "Selamat malam, @.",
+  "Sam": "Aku bersyukur punya gitar dan skateboard. Oh, dan keluargaku kurasa.",
+  "Leah": "Gus bilang dialah yang membuat permen tongkatnya. *yawn*$u#$e#Aku pikir dia terlalu banyak memsukkan gula disana.",
+  "Marnie": "Selamat datang di festival bintang musim dingin!$h",
+  "Elliott": "Oh, hai @. Disini dingin, ya kan?",
+  "Gus": "Aku senang membuat tongkat permen. Aku harus mencari bahan - bahannya. Walaupun bahannya sulit didapat sekarang!$h#$e#Asal kau tahu, Aku biasanya menggunakan tumbuhan Fern dari pulau Ringfruit untuk mewarnai tongkatnya. Karna itulah warnanya merah terang...!#$e#Oh, dan apa kau inngin tahu rahasia tongkat permen deluxe milikku? Baiklah, tapi kau janji rahasiakan ini. *bisik* Rahasianya adalah vanila permen putih, benda ini bia mempertahankan rasa ceri.$h#$e#Dan, walau permen peppermint itu permen biasa, aku selalu memastikann untuk membuatnya juga.#$e#Hei, kau terlihat mengantuk. Apa kau tidak apa - apa?$s",
+  "Willy": "$y 'Apa kau ingin mendengar legenda bintang musim dingin?_Iya_Di langit musim dingin yang luas ini, di hari sama setiap tahun, hanya ada satu bintang yang bisa terlihat di langit valley. Tidak ada yang tahu bagaimana itu bisa terjadi... tapi oleh karena itu banyak orang datang berkumpul untuk menyaksikannya bersama - sama.*Mereka percaya, siapa saja yang menyaksikan bintang itu akan mendapat keberuntungan. Bahkan adaorang yang menanggap buah misterius =Stardrop ada hubungannya dengan bintang ini._Tidak terima kasih_Oh baiklah.'",
+  "Wizard": "Ahhh, bintang musim dingin yang misterius. Itu adalah salah satu alasanku mengapa aku memilih tempat ini untuk lokasi 'penelitianku'.",
+  "Harvey": "Aku bersyukur tidak ada yang terkena sakit keras tahun ini!",
+  "Sandy": "Aku dengar di rumah sedang hujan. Jadi karena itukah kau datang kesini?$h#$e#Jujur saja, aku merindukan hujan...$s",
+  "Jas": "Ohh! hadiah!$h",
+  "Vincent": "Bisa kita buka hadiahnya sekarang?!",
+  "Marlon": "Hei, selamat malam.",
+  "Leo": "Linus merasa canggung, jadi aku berusaha menemaninya.#$e#Kita mengadakan pesti kecil-kecilan secara pribadi... Dengan sedikit mashed winter root dan spice berry fish!$h"
+  }
+}

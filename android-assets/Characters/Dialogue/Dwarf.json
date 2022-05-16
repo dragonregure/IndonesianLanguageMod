@@ -1,0 +1,32 @@
+{
+    "header": {
+        "target": "a",
+        "formatVersion": 5,
+        "hidef": false,
+        "compressed": true
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+  "Introduction": "Hei, untuk seorang manusia, kamu cukup hebat dalam menambang.",
+  "Mon": "Aku dapat barang-barang ini dari permukaan. Kuambil dari manusia saat malam hari.#$e#Hmm? Apa itu \"properti pribadi\"?",
+  "Tue": "Ah... rebusan wortel gua, wortel gua panggang, sup wortel gua dan wortel gua dengan parutan keju.#$e#...Dan sebuah brulee wortel gua yang enak di malam hari.#$e#Apa?",
+  "Wed": "Hei, mau beli sesuatu?",
+  "Wed_6": "Dahulu kala, bangsaku tau rahasia teknologi canggih. Bukti arkeolog membenarkan hal itu.#$e#Tapi darimana datangnya itu? Dan ke mana semuanya? Beberapa pertanyaan memang sulit dijawab...",
+  "Thu_4": "Aku merasa paling nyaman di bawah tanah.#$e#Semakin dalam semakin baik.",
+  "Fri": "Kau belum pernah melihat Dwarf sebelumnya, ya?",
+  "Sat_8": "Tambang bisa jadi tempat yang berbahaya. Hati-hati, kawan.",
+  "Sat": "Tambang sangat berbahaya. Kenapa tidak beli sesuatu dariku untuk jaga-jaga?",
+  "Sun": "Suatu hari kau harus ceritakan minuman yang biasa kau sebut \"susu\" itu.",
+  "Thu": "Kau bukan mata-mata yang dikirim kaum Shadow People, kan?#$e#Aku akan terus mengawasimu.",
+  "Fri_2": "Kebanyakan manusia takut pada hal yang belum dipahami... karena itulah aku sembunyikan tokoku di sini.#$e#Kemampuan menambangmu membuatku percaya padamu."
+  }
+}

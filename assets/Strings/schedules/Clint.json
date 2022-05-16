@@ -1,0 +1,24 @@
+{
+    "header": {
+        "target": "w",
+        "formatVersion": 5,
+        "hidef": true,
+        "compressed": 128
+    },
+    "readers": [
+        {
+            "type": "Microsoft.Xna.Framework.Content.DictionaryReader`2[[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "version": 0
+        },
+        {
+            "type": "Microsoft.Xna.Framework.Content.StringReader",
+            "version": 0
+        }
+    ],
+    "content": {
+        "winter_16.002": "Bagaimana suara paru-paruku, dok? Kadang ada bunyi keras saat aku mengeluarkan napas.",
+        "winter_15.000": "Besok aku ada janji dengan dokter... Mungkin pertunjukan duyung akan membuatku tenang? Tapi kalau mereka pikir aku mata keranjang gimana... *glek*",
+        "winter_16.001": "Aku menemui dokter untuk periksa paru-paru... pasti ada efek setelah bernapas di antara debu batu bara.",
+        "winter_16.000": "Hari ini aku ada janji dengan dokter, jadi kalau mau beli sesuatu, cepat-cepat ya."
+    }
+}
