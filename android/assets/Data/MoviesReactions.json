@@ -1099,7 +1099,7 @@
           },
           "DuringMovie": {
             "ResponsePoint": "PK_villain",
-            "Script": "/message \"Mayor Lewis sedang berpikir...\"",
+            "Script": "/message \"Walikota Lewis sedang berpikir...\"",
             "Text": "(Minyak kumis apa yang dia pakai ya?)"
           },
           "AfterMovie": {
@@ -1158,13 +1158,13 @@
           "BeforeMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Sebagai mayor, aku harus tahu film apa saja yang ditayangkan. Kita juga harus mengkhawatirkan generasi muda!"
+            "Text": "Sebagai walikota, aku harus tahu film apa saja yang ditayangkan. Kita juga harus mengkhawatirkan generasi muda!"
           },
           "DuringMovie": null,
           "AfterMovie": {
             "ResponsePoint": null,
             "Script": "",
-            "Text": "Hah! Bagus sekali... Akan kulabeli film ini dengan 'Disetujui Mayor'.$h"
+            "Text": "Hah! Bagus sekali... Akan kulabeli film ini dengan 'Disetujui Walikota'.$h"
           }
         },
         "ID": "reaction_5"
