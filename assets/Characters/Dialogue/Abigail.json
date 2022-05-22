@@ -95,7 +95,7 @@
   "fall_Tue": "$d joja#Kadang seharian aku membantu di toko. Usaha jadi lebih sulit saat Joja Mart dibuka.|Sejak Joja Mart ditutup, toko kami jadi lebih laris!$h",
   "fall_Wed": "Aku sudah tidak sabar ingin melihat labu hari ini.$h#$e#Spirit Eve diadakan saat akhir musim. Festival di sini lebih sederhana dari yang ada di Kota Zuzu, tapi untuk seukuran kota kecil sudah cukup menyenangkan.",
   "fall_Thu": "#$1 AbigailHAND#Tadi malam aku mimpi tanganku berubah jadi %noun besar. Apa itu sebuah pertanda?#$e#%Abigail tidak ingin ngobrol.",
-  "fall_Sat": "$d cc#Aku tidak percaya kau memperbaiki Balai Kota sendirian. Aku sangat terkesan.|Apakah kau punya Scarecrow di kebun?",
+  "fall_Sat": "$d cc#Aku tidak percaya kau memperbaiki Balai Kota sendirian. Aku sangat terkesan.|Apa kamu punya orang-orangan di kebun?",
   "fall_Sun": "Hmm... apa yang harus kulakukan malam ini?#$q 27/28 fall_Sun_old#Aku ingin mewarnai rambutku lagi... apa yang kau suka?#$r 27 10 Sun_27#Hitam.#$r 27 10 Sun_27#Kenapa tidak pirang?#$r 27 20 Sun_WildColor#Bagaimana kalau bubblegum pink?#$r 28 0 Sun_28#Aku suka rambutmu yang sekarang!",
   "fall_Sun_old": "$p 27#Aku akan mewarnai rambutku tapi aku membatalkannya.|Iya? Ada apa?",
   "Sun_27": "Pilih warna yang aman, ya?#$e#Akan kupikirkan.",
