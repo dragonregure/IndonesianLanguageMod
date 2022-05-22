@@ -154,7 +154,7 @@
   "162": "??Foroguemon??/0/-300/Crafting -9/??Foroguemon??/true/true/0/??Foroguemon??",
   "163": "Cask/0/-300/Crafting -9/Gunakan ini di rubanah untuk memfermentasi produk seperti keju dan wine./true/true/0/Cask",
   "164": "Solid Gold Lewis/0/-300/Crafting -9/Proyek rahasia walikota./true/true/0/Patung Emas Lewis",
-  "165": "Auto-Grabber/0/-300/Crafting -9/Secara otomatis memanen produk binatang setiap pagi. Bisa digunakan di Kandang Unggas atau Kandang Besar./true/true/0/Pengambil Otomatis",
+  "165": "Auto-Grabber/0/-300/Crafting -9/Secara otomatis memanen produk binatang setiap pagi. Bisa digunakan di Kandang Unggas atau Kandang Hewan./true/true/0/Pengambil Otomatis",
   "167": "Deluxe Scarecrow/50/-300/Crafting -9/Mencegah gagak menyerang tanaman. Jangkauannya luas (sekitar 16 \"letas\")./true/true/0/Orang-Orangan Mewah",
   "174": "Barrel/0/-300/Crafting -9/.../true/true/0/Barrel",
   "175": "Crate/0/-300/Crafting -9/.../true/true/0/Crate",
@@ -183,7 +183,7 @@
   "256": "Junimo Chest/0/-300/Crafting -9/Melalui sihir hutan, semua Peti Junimo saling terhubung isinya./true/true/0/Peti Junimo",
   "264": "Heavy Tapper/0/-300/Crafting -9/Taruh di pohon mapel, ek, atau pinus dan tunggu sampai isinya penuh! Prosesnya 2x lebih cepat dari penyadap biasa./true/false/0/Penyadap Besar",
   "265": "Deconstructor/0/-300/Crafting -9/Menghancurkan item rakitan, tapi memungut bahan paling berharga./true/true/0/Dekonstruktor",
-  "272": "Auto-Petter/0/-300/Crafting -9/Teknologi yang dipatenkan oleh PT Joja untuk Kandang Unggas dan Kandang Besar. Menjaga ternakmu tetap nyaman, tapi belum bisa menyamai sentuhan manusia. Elusan dengan tangan bisa diberikan sebagai pelengkap./true/true/0/Pengelus Otomatis",
+  "272": "Auto-Petter/0/-300/Crafting -9/Teknologi yang dipatenkan oleh PT Joja untuk Kandang Unggas dan Kandang Hewan. Menjaga ternakmu tetap nyaman, tapi belum bisa menyamai sentuhan manusia. Elusan dengan tangan bisa diberikan sebagai pelengkap./true/true/0/Pengelus Otomatis",
   "275": "Hopper/0/-300/Crafting -9/Item yang ditaruh di sini secara otomatis disalurkan ke mesin di depannya./true/true/0/Hopper",
   "278": "Campfire/0/-300/Crafting -9/Bisa masak dimana saja!/true/true/1/Api Unggun",
   "280": "Statue Of True Perfection/0/-300/Crafting -9/Terbuat dari iridium murni./true/true/0/Patung Kesempurnaan Sejati"
