@@ -21,7 +21,7 @@
   "PiecesOfHay": "Jumlah jerami: {0}/{1}",
   "AddedHay": "Menambahkan {0} helai jerami ke silo.",
   "MillFull": "Tidak ada ruang lagi",
-  "CantMill": "Tidak bisa diproses di Mill",
+  "CantMill": "Tidak bisa diproses di Penggiling",
   "NeedSilo": "Dibutuhkan Silo",
   "CantEnter": "Tidak bisa masuk saat ini",
   "WrongFishType": "Ikan {0} tidak mau tinggal di kolam {1}.",
