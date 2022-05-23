@@ -6,8 +6,8 @@
       "Action": "EditData",
       "Target": "Data/AdditionalLanguages",
       "Entries": {
-        "DragonRegure.BahasaIndonesia": {
-          "ID": "Dragonregure.BahasaIndonesia",
+        "Dragonregure.IndonesianLanguageMod": {
+          "ID": "Dragonregure.IndonesianLanguageMod",
           "LanguageCode": "id",
           "ButtonTexture": "Mods/Dragonregure.IndonesianLanguageMod/Button",
           "TimeFormat": "[HOURS_24_00]:[MINUTES]",
