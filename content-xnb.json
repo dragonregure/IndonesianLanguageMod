@@ -55,7 +55,7 @@
     {
       "LogName":"Memuat Data Lain-Lain",
       "Action": "Load",
-      "Target": "Data/Achievements, Data/BigCraftablesInformation, Data/Blueprints, Data/Boots, Data/Bundles, Data/ClothingInformation, Data/CookingRecipes, Data/CraftingRecipes, Data/EngagementDialogue, Data/ExtraDialogue, Data/FarmAnimals, Data/Fish, Data/Furniture, Data/hats, Data/mail, Data/Monsters, Data/NPCDispositions, Data/NPCGiftTastes, Data/ObjectInformation, Data/Quests, Data/SecretNotes, Data/weapons",
+      "Target": "Data/Achievements, Data/BigCraftablesInformation, Data/Blueprints, Data/Boots, Data/ClothingInformation, Data/CookingRecipes, Data/CraftingRecipes, Data/EngagementDialogue, Data/ExtraDialogue, Data/FarmAnimals, Data/Fish, Data/Furniture, Data/hats, Data/mail, Data/Monsters, Data/NPCDispositions, Data/NPCGiftTastes, Data/ObjectInformation, Data/Quests, Data/SecretNotes, Data/weapons",
       "FromFile": "assets/{{Target}}.xnb",
       "When": { "Language":"id" }
     },
@@ -78,6 +78,16 @@
       "Target": "Strings/animationDescriptions, Strings/Buildings, Strings/BundleNames, Strings/Characters, Strings/EnchantmentNames, Strings/Events, Strings/FarmAnimals, Strings/Lexicon, Strings/Locations, Strings/Notes, Strings/NPCNames, Strings/Objects, Strings/Quests, Strings/SpecialOrderStrings, Strings/SpeechBubbles, Strings/StringsFromCSFiles, Strings/StringsFromMaps, Strings/UI",
       "FromFile": "assets/{{Target}}.xnb",
       "When": { "Language": "id"}
+    },
+    {
+      "LogName": "Memuat Data Bundles Setelah Event Junimo",
+      "Action": "Load",
+      "Target": "Data/Bundles",
+      "FromFile": "assets/{{Target}}.xnb",
+      "When": {
+          "Language": "id",
+          "HasFlag": "canReadJunimoText"
+      }
     },
     {
       "LogName": "Memuat Map Billboard",

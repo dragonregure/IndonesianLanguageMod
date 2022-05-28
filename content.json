@@ -55,9 +55,19 @@
     {
       "LogName":"Memuat Data Lain-Lain",
       "Action": "Load",
-      "Target": "Data/Achievements, Data/BigCraftablesInformation, Data/Blueprints, Data/Boots, Data/Bundles, Data/ClothingInformation, Data/Concessions, Data/CookingRecipes, Data/CraftingRecipes, Data/EngagementDialogue, Data/ExtraDialogue, Data/FarmAnimals, Data/Fish, Data/Furniture, Data/hats, Data/mail, Data/Monsters, Data/Movies, Data/MoviesReactions, Data/NPCDispositions, Data/NPCGiftTastes, Data/ObjectInformation, Data/Quests, Data/SecretNotes, Data/weapons",
+      "Target": "Data/Achievements, Data/BigCraftablesInformation, Data/Blueprints, Data/Boots, Data/ClothingInformation, Data/Concessions, Data/CookingRecipes, Data/CraftingRecipes, Data/EngagementDialogue, Data/ExtraDialogue, Data/FarmAnimals, Data/Fish, Data/Furniture, Data/hats, Data/mail, Data/Monsters, Data/Movies, Data/MoviesReactions, Data/NPCDispositions, Data/NPCGiftTastes, Data/ObjectInformation, Data/Quests, Data/SecretNotes, Data/weapons",
       "FromFile": "assets/{{Target}}.json",
       "When": { "Language":"id" }
+    },
+    {
+      "LogName": "Memuat Data Bundles Setelah Event Junimo",
+      "Action": "Load",
+      "Target": "Data/Bundles",
+      "FromFile": "assets/{{Target}}.json",
+      "When": {
+          "Language": "id",
+          "HasFlag": "canReadJunimoText"
+      }
     },
     {
       "LogName": "Memuat Map Billboard",
