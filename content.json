@@ -1,5 +1,5 @@
 { 
-  "Format": "1.28.0",
+  "Format": "2.3.0",
   "DynamicTokens": [
     // legacy mode
     {
@@ -23,7 +23,7 @@
     // game version
     {
         "Name": "GameVersion",
-        "Value": "1.6.0"
+        "Value": "1.6.8"
     },
     {
         "Name": "GameVersion",
@@ -31,7 +31,7 @@
         "When": {
             "LegacyMode |contains=enabled": true
         }
-    },
+    }
   ],
   "Changes": [
     {
@@ -88,7 +88,7 @@
     {
       "LogName":"Memuat Data Lain-Lain",
       "Action": "Load",
-      "Target": "Data/Achievements, Data/Blueprints, Data/Boots, Data/CookingRecipes, Data/CraftingRecipes, Data/EngagementDialogue, Data/ExtraDialogue, Data/Fish, Data/Monsters, Data/NPCDispositions, Data/NPCGiftTastes, Data/weapons",
+      "Target": "Data/Achievements, Data/Boots, Data/CookingRecipes, Data/CraftingRecipes, Data/EngagementDialogue, Data/ExtraDialogue, Data/Fish, Data/Monsters, Data/NPCDispositions, Data/NPCGiftTastes, Data/weapons",
       "FromFile": "assets/Content/{{Target}}.json",
       "When": { "Language":"id" }
     },
@@ -98,7 +98,8 @@
       "Target": "Data/Movies, Data/MoviesReactions, Strings/credits",
       "FromFile": "assets/Content/{{Target}}.json",
       "When": { "Language":"id" }
-    },    {
+    },
+    {
       "LogName": "Memuat String Pada Folder schedules",
       "Action": "Load",
       "Target": "Strings/schedules/Abigail, Strings/schedules/Alex, Strings/schedules/Caroline, Strings/schedules/Clint, Strings/schedules/Demetrius, Strings/schedules/Elliott, Strings/schedules/Emily, Strings/schedules/Evelyn, Strings/schedules/George, Strings/schedules/Gus, Strings/schedules/Haley, Strings/schedules/Harvey, Strings/schedules/Jas, Strings/schedules/Jodi, Strings/schedules/Leah, Strings/schedules/Leo, Strings/schedules/Lewis, Strings/schedules/Linus, Strings/schedules/Marnie, Strings/schedules/Maru, Strings/schedules/Pam, Strings/schedules/Penny, Strings/schedules/Pierre, Strings/schedules/Robin, Strings/schedules/Sam, Strings/schedules/Sandy, Strings/schedules/Sebastian, Strings/schedules/Shane, Strings/schedules/Vincent, Strings/schedules/Willy",
@@ -108,7 +109,7 @@
     {
       "LogName": "Memuat Strings Lain-Lain",
       "Action": "Load",
-      "Target": "Strings/animationDescriptions, Strings/Buildings, Strings/BundleNames, Strings/Characters, Strings/EnchantmentNames, Strings/Events, Strings/Lexicon, Strings/Locations, Strings/Notes, Strings/NPCNames, Strings/Objects, Strings/Quests, Strings/SpecialOrderStrings, Strings/SpeechBubbles, Strings/StringsFromCSFiles, Strings/StringsFromMaps, Strings/UI",
+      "Target": "Strings/animationDescriptions, Strings/BundleNames, Strings/Characters, Strings/EnchantmentNames, Strings/Events, Strings/Lexicon, Strings/Locations, Strings/Notes, Strings/NPCNames, Strings/Objects, Strings/Quests, Strings/SpecialOrderStrings, Strings/SpeechBubbles, Strings/StringsFromCSFiles, Strings/StringsFromMaps, Strings/UI",
       "FromFile": "assets/Content/{{Target}}.json",
       "When": { "Language": "id"}
     },

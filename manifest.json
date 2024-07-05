@@ -1,13 +1,13 @@
 {
   "Name": "Mod Bahasa Indonesia",
   "Author": "Dragonregure & NinjaQuince",
-  "Version": "2.0.5",
+  "Version": "2.0.6",
   "Description": "Membuat konten Stardew Valley (dialog, non dialog) jadi berbahasa Indonesia.",
   "UniqueID": "Dragonregure.IndonesianLanguageMod",
-  "MinimumApiVersion": "3.17.2",
+  "MinimumApiVersion": "4.0.8",
   "UpdateKeys": [ "Nexus:1057" ],
   "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher",
-    "MinimumVersion": "1.28.3"
+    "MinimumVersion": "2.3.0"
   }
 }
