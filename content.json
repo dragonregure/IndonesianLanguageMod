@@ -88,7 +88,7 @@
     {
       "LogName":"Memuat Data Lain-Lain",
       "Action": "Load",
-      "Target": "Data/Achievements, Data/Boots, Data/CookingRecipes, Data/CraftingRecipes, Data/EngagementDialogue, Data/ExtraDialogue, Data/Fish, Data/Monsters, Data/NPCDispositions, Data/NPCGiftTastes, Data/weapons",
+      "Target": "Data/Achievements, Data/Boots, Data/CookingRecipes, Data/CraftingRecipes, Data/EngagementDialogue, Data/ExtraDialogue, Data/Fish, Data/Monsters, Data/NPCDispositions, Data/NPCGiftTastes",
       "FromFile": "assets/Content/{{Target}}.json",
       "When": { "Language":"id" }
     },
@@ -109,7 +109,7 @@
     {
       "LogName": "Memuat Strings Lain-Lain",
       "Action": "Load",
-      "Target": "Strings/animationDescriptions, Strings/Buildings, Strings/BundleNames, Strings/Characters, Strings/EnchantmentNames, Strings/Events, Strings/Lexicon, Strings/Locations, Strings/Notes, Strings/NPCNames, Strings/Objects, Strings/Quests, Strings/SpecialOrderStrings, Strings/SpeechBubbles, Strings/StringsFromCSFiles, Strings/StringsFromMaps, Strings/UI",
+      "Target": "Strings/animationDescriptions, Strings/Buildings, Strings/BundleNames, Strings/Characters, Strings/EnchantmentNames, Strings/Events, Strings/Lexicon, Strings/Locations, Strings/Notes, Strings/NPCNames, Strings/Objects, Strings/Quests, Strings/SpecialOrderStrings, Strings/SpeechBubbles, Strings/StringsFromCSFiles, Strings/StringsFromMaps, Strings/UI, Strings/Weapons",
       "FromFile": "assets/Content/{{Target}}.json",
       "When": { "Language": "id"}
     },
