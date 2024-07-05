@@ -1,0 +1,17 @@
+{
+  "UnderConstruction": "Sedang dibangun.",
+  "DismountBeforeEntering": "Turun sebelum masuk",
+  "PiecesOfHay": "Jumlah jerami: {0}/{1}",
+  "AddedHay": "Menambahkan {0} helai jerami ke silo.",
+  "MillFull": "Tidak ada ruang lagi",
+  "CantMill": "Tidak bisa diproses di Penggiling",
+  "NeedSilo": "Dibutuhkan Silo",
+  "CantEnter": "Tidak bisa masuk saat ini",
+  "WrongFishType": "Ikan {0} tidak mau tinggal di kolam {1}.",
+  "WrongFishTypeCoral": "{0} hanya bisa ditempatkan di Kolam {0}.",
+  "CantPutInPonds": "Ikan {0} tidak akan senang tinggal di sana.",
+  "NoFish": "Ikan bisa ditempatkan di kolam ini.",
+  "PondFull": "Kolam ini penuh.",
+  "Paint_Region_Roof": "Atap",
+  "Paint_Region_Building": "Atap"
+}
