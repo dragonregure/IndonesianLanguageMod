@@ -64,6 +64,7 @@
       "FromFile": "assets/Content/{{Target}}.json",
       "When": {"Language": "id"}
     },
+    // Need to check V
     {
       "LogName":"Memuat Data Event",
       "Action": "Load",
@@ -99,10 +100,17 @@
       "FromFile": "assets/Content/{{Target}}.json",
       "When": { "Language":"id" }
     },
+    // {
+    //   "LogName":"Memuat Data Khusus Json",
+    //   "Action": "Load",
+    //   "Target": "Data/Movies, Data/MoviesReactions, Strings/credits",
+    //   "FromFile": "assets/Content/{{Target}}.json",
+    //   "When": { "Language":"id" }
+    // },
     {
       "LogName":"Memuat Data Khusus Json",
       "Action": "Load",
-      "Target": "Data/Movies, Data/MoviesReactions, Strings/credits",
+      "Target": "Strings/credits",
       "FromFile": "assets/Content/{{Target}}.json",
       "When": { "Language":"id" }
     },
