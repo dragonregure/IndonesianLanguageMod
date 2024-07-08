@@ -725,15 +725,22 @@
       }
     },
     // load json impact
+    // {
+    //   "Action": "Load",
+    //   "Target": "Characters/Dialogue/Emily, Characters/Dialogue/Lewis, Data/Festivals/fall27, Data/Festivals/spring13, Data/Festivals/spring24, Data/Festivals/summer11, Data/Festivals/summer28, Data/Festivals/winter8, Data/Festivals/winter25, Data/BigCraftablesInformation, Data/ClothingInformation, Data/Concessions, Data/Furniture, Data/hats, Data/mail, Data/Quests, Data/SecretNotes",
+    //   "FromFile": "assets/{{Branch}}/{{Target}}.json",
+    //   "When": {
+    //     "Language": "id"
+    //   }
+    // },
     {
       "Action": "Load",
-      "Target": "Characters/Dialogue/Emily, Characters/Dialogue/Lewis, Data/Festivals/fall27, Data/Festivals/spring13, Data/Festivals/spring24, Data/Festivals/summer11, Data/Festivals/summer28, Data/Festivals/winter8, Data/Festivals/winter25, Data/BigCraftablesInformation, Data/ClothingInformation, Data/Concessions, Data/Furniture, Data/hats, Data/mail, Data/Quests, Data/SecretNotes",
+      "Target": "Characters/Dialogue/Emily, Characters/Dialogue/Lewis, Data/Festivals/fall27, Data/Festivals/spring13, Data/Festivals/spring24, Data/Festivals/summer11, Data/Festivals/summer28, Data/Festivals/winter8, Data/Festivals/winter25, Data/BigCraftablesInformation, Data/ClothingInformation, Data/Concessions, Data/hats, Data/mail, Data/Quests, Data/SecretNotes",
       "FromFile": "assets/{{Branch}}/{{Target}}.json",
       "When": {
         "Language": "id"
-        }
-      },
-
+      }
+    },
     {
       "LogName": "Memuat File Legacy",
       "Action": "Load",
