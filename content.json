@@ -85,10 +85,17 @@
       "FromFile": "assets/Content/{{Target}}.json",
       "When": { "Language":"id" }
     },
+    // {
+    //   "LogName":"Memuat Data Lain-Lain",
+    //   "Action": "Load",
+    //   "Target": "Data/Achievements, Data/Boots, Data/CookingRecipes, Data/CraftingRecipes, Data/EngagementDialogue, Data/ExtraDialogue, Data/Fish, Data/Monsters, Data/NPCDispositions, Data/NPCGiftTastes",
+    //   "FromFile": "assets/Content/{{Target}}.json",
+    //   "When": { "Language":"id" }
+    // },
     {
       "LogName":"Memuat Data Lain-Lain",
       "Action": "Load",
-      "Target": "Data/Achievements, Data/Boots, Data/CookingRecipes, Data/CraftingRecipes, Data/EngagementDialogue, Data/ExtraDialogue, Data/Fish, Data/Monsters, Data/NPCDispositions, Data/NPCGiftTastes",
+      "Target": "Data/Boots, Data/EngagementDialogue",
       "FromFile": "assets/Content/{{Target}}.json",
       "When": { "Language":"id" }
     },
