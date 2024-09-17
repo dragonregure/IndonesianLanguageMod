@@ -1,12 +1,45 @@
 { 
-  "Format": "1.24.0",
+  "Format": "2.3.0",
+  "DynamicTokens": [
+    // legacy mode
+    {
+        "Name": "LegacyMode",
+        "Value": "disabled"
+    },
+
+    // branch
+    {
+        "Name": "Branch",
+        "Value": "Content"
+    },
+    {
+        "Name": "Branch",
+        "Value": "LegacyContent",
+        "When": {
+            "LegacyMode |contains=enabled": true
+        }
+    },
+
+    // game version
+    {
+        "Name": "GameVersion",
+        "Value": "1.6.8"
+    },
+    {
+        "Name": "GameVersion",
+        "Value": "1.5.6",
+        "When": {
+            "LegacyMode |contains=enabled": true
+        }
+    }
+  ],
   "Changes": [
     {
       "LogName": "Pengaturan Penambahan Bahasa",
       "Action": "EditData",
       "Target": "Data/AdditionalLanguages",
       "Entries": {
-        "Dragonregure.IndonesianLanguageMod": {
+        "DragonRegure.IndonesianLanguageMod": {
           "ID": "Dragonregure.IndonesianLanguageMod",
           "LanguageCode": "id",
           "ButtonTexture": "Mods/Dragonregure.IndonesianLanguageMod/Button",
@@ -22,72 +55,84 @@
       "LogName": "Menambah Tombol Bahasa",
       "Action": "Load",
       "Target": "Mods/Dragonregure.IndonesianLanguageMod/Button",
-      "FromFile": "assets/ButtonBahasaBaru.png"
+      "FromFile": "assets/Content/ButtonBahasaBaru.png"
     },
     {
       "LogName": "Memuat Dialog NPC",
       "Action": "Load",
-      "Target": "Characters/Dialogue/Abigail, Characters/Dialogue/Alex, Characters/Dialogue/Caroline, Characters/Dialogue/Clint, Characters/Dialogue/Demetrius, Characters/Dialogue/Dwarf, Characters/Dialogue/Elliott, Characters/Dialogue/Emily, Characters/Dialogue/Evelyn, Characters/Dialogue/George, Characters/Dialogue/Gil, Characters/Dialogue/Gus, Characters/Dialogue/Haley, Characters/Dialogue/Harvey, Characters/Dialogue/Jas, Characters/Dialogue/Jodi, Characters/Dialogue/Kent, Characters/Dialogue/Krobus, Characters/Dialogue/Leah, Characters/Dialogue/Leo, Characters/Dialogue/LeoMainland, Characters/Dialogue/Lewis, Characters/Dialogue/Linus, Characters/Dialogue/Marnie, Characters/Dialogue/MarriageDialogue, Characters/Dialogue/MarriageDialogueAbigail, Characters/Dialogue/MarriageDialogueAlex, Characters/Dialogue/MarriageDialogueElliott, Characters/Dialogue/MarriageDialogueEmily, Characters/Dialogue/MarriageDialogueHaley, Characters/Dialogue/MarriageDialogueHarvey, Characters/Dialogue/MarriageDialogueKrobus, Characters/Dialogue/MarriageDialogueLeah, Characters/Dialogue/MarriageDialogueMaru, Characters/Dialogue/MarriageDialoguePenny, Characters/Dialogue/MarriageDialogueSam, Characters/Dialogue/MarriageDialogueSebastian, Characters/Dialogue/MarriageDialogueShane, Characters/Dialogue/Maru, Characters/Dialogue/Mister Qi, Characters/Dialogue/Pam, Characters/Dialogue/Penny, Characters/Dialogue/Pierre, Characters/Dialogue/rainy, Characters/Dialogue/Robin, Characters/Dialogue/Sam, Characters/Dialogue/Sandy, Characters/Dialogue/Sebastian, Characters/Dialogue/Shane, Characters/Dialogue/Vincent, Characters/Dialogue/Willy, Characters/Dialogue/Wizard",
-      "FromFile": "assets/{{Target}}.json",
+      "Target": "Characters/Dialogue/Abigail, Characters/Dialogue/Alex, Characters/Dialogue/Caroline, Characters/Dialogue/Clint, Characters/Dialogue/Demetrius, Characters/Dialogue/Dwarf, Characters/Dialogue/Elliott, Characters/Dialogue/Evelyn, Characters/Dialogue/George, Characters/Dialogue/Gil, Characters/Dialogue/Gus, Characters/Dialogue/Haley, Characters/Dialogue/Harvey, Characters/Dialogue/Jas, Characters/Dialogue/Jodi, Characters/Dialogue/Kent, Characters/Dialogue/Krobus, Characters/Dialogue/Leah, Characters/Dialogue/Leo, Characters/Dialogue/LeoMainland, Characters/Dialogue/Linus, Characters/Dialogue/Marnie, Characters/Dialogue/MarriageDialogue, Characters/Dialogue/MarriageDialogueAbigail, Characters/Dialogue/MarriageDialogueAlex, Characters/Dialogue/MarriageDialogueElliott, Characters/Dialogue/MarriageDialogueEmily, Characters/Dialogue/MarriageDialogueHaley, Characters/Dialogue/MarriageDialogueHarvey, Characters/Dialogue/MarriageDialogueKrobus, Characters/Dialogue/MarriageDialogueLeah, Characters/Dialogue/MarriageDialogueMaru, Characters/Dialogue/MarriageDialoguePenny, Characters/Dialogue/MarriageDialogueSam, Characters/Dialogue/MarriageDialogueSebastian, Characters/Dialogue/MarriageDialogueShane, Characters/Dialogue/Maru, Characters/Dialogue/Mister Qi, Characters/Dialogue/Pam, Characters/Dialogue/Penny, Characters/Dialogue/Pierre, Characters/Dialogue/rainy, Characters/Dialogue/Robin, Characters/Dialogue/Sam, Characters/Dialogue/Sandy, Characters/Dialogue/Sebastian, Characters/Dialogue/Shane, Characters/Dialogue/Vincent, Characters/Dialogue/Willy, Characters/Dialogue/Wizard",
+      "FromFile": "assets/Content/{{Target}}.json",
       "When": {"Language": "id"}
     },
+    // Need to check V
     {
       "LogName":"Memuat Data Event",
       "Action": "Load",
-      "Target": "Data/Events/AbandonedJojaMart, Data/Events/AnimalShop, Data/Events/ArchaeologyHouse, Data/Events/Backwoods, Data/Events/BathHouse_Pool, Data/Events/Beach, Data/Events/BoatTunnel, Data/Events/BusStop, Data/Events/CommunityCenter, Data/Events/ElliottHouse, Data/Events/Farm, Data/Events/FarmHouse, Data/Events/FishShop, Data/Events/Forest, Data/Events/HaleyHouse, Data/Events/HarveyRoom, Data/Events/Hospital, Data/Events/IslandHut, Data/Events/IslandNorth, Data/Events/IslandSouth, Data/Events/IslandWest, Data/Events/JoshHouse, Data/Events/LeahHouse, Data/Events/ManorHouse, Data/Events/Mine, Data/Events/Mountain, Data/Events/QiNutRoom, Data/Events/Railroad, Data/Events/Saloon, Data/Events/SamHouse, Data/Events/SandyHouse, Data/Events/ScienceHouse, Data/Events/SebastianRoom, Data/Events/SeedShop, Data/Events/Sewer, Data/Events/Sunroom, Data/Events/Temp, Data/Events/Town, Data/Events/Trailer, Data/Events/Trailer_Big, Data/Events/WizardHouse, Data/Events/Woods",
-      "FromFile": "assets/{{Target}}.json",
+      "Target": "Data/Events/AbandonedJojaMart, Data/Events/AnimalShop, Data/Events/ArchaeologyHouse, Data/Events/Backwoods, Data/Events/BathHouse_Pool, Data/Events/Beach, Data/Events/BoatTunnel, Data/Events/BusStop, Data/Events/CommunityCenter, Data/Events/ElliottHouse, Data/Events/FarmHouse, Data/Events/FishShop, Data/Events/Forest, Data/Events/HaleyHouse, Data/Events/HarveyRoom, Data/Events/Hospital, Data/Events/IslandHut, Data/Events/IslandNorth, Data/Events/IslandSouth, Data/Events/IslandWest, Data/Events/JoshHouse, Data/Events/LeahHouse, Data/Events/ManorHouse, Data/Events/Mine, Data/Events/Mountain, Data/Events/QiNutRoom, Data/Events/Railroad, Data/Events/Saloon, Data/Events/SamHouse, Data/Events/SandyHouse, Data/Events/ScienceHouse, Data/Events/SebastianRoom, Data/Events/SeedShop, Data/Events/Sewer, Data/Events/Sunroom, Data/Events/Temp, Data/Events/Town, Data/Events/Trailer, Data/Events/Trailer_Big, Data/Events/WizardHouse, Data/Events/Woods",
+      "FromFile": "assets/Content/{{Target}}.json",
       "When": { "Language":"id" }
     },
     {
       "LogName":"Memuat Data Festival",
       "Action": "Load",
-      "Target": "Data/Festivals/fall16, Data/Festivals/fall27, Data/Festivals/FestivalDates, Data/Festivals/spring13, Data/Festivals/Spring24,  Data/Festivals/summer11, Data/Festivals/summer28, Data/Festivals/winter8, Data/Festivals/Winter25",
-      "FromFile": "assets/{{Target}}.json",
+      "Target": "Data/Festivals/fall16, Data/Festivals/FestivalDates",
+      "FromFile": "assets/Content/{{Target}}.json",
       "When": { "Language":"id" }
     },
     {
       "LogName":"Memuat Data Televisi",
       "Action": "Load",
-      "Target": "Data/TV/CookingChannel, Data/TV/InterviewShow, Data/TV/TipChannel",
-      "FromFile": "assets/{{Target}}.json",
+      "Target": "Data/TV/CookingChannel, Data/TV/TipChannel",
+      "FromFile": "assets/Content/{{Target}}.json",
       "When": { "Language":"id" }
     },
+    // {
+    //   "LogName":"Memuat Data Lain-Lain",
+    //   "Action": "Load",
+    //   "Target": "Data/Achievements, Data/Boots, Data/CookingRecipes, Data/CraftingRecipes, Data/EngagementDialogue, Data/ExtraDialogue, Data/Fish, Data/Monsters, Data/NPCDispositions, Data/NPCGiftTastes",
+    //   "FromFile": "assets/Content/{{Target}}.json",
+    //   "When": { "Language":"id" }
+    // },
     {
       "LogName":"Memuat Data Lain-Lain",
       "Action": "Load",
-      "Target": "Data/Achievements, Data/BigCraftablesInformation, Data/Blueprints, Data/Boots, Data/ClothingInformation, Data/Concessions, Data/CookingRecipes, Data/CraftingRecipes, Data/EngagementDialogue, Data/ExtraDialogue, Data/FarmAnimals, Data/Fish, Data/Furniture, Data/hats, Data/mail, Data/Monsters, Data/Movies, Data/MoviesReactions, Data/NPCDispositions, Data/NPCGiftTastes, Data/ObjectInformation, Data/Quests, Data/SecretNotes, Data/weapons",
-      "FromFile": "assets/{{Target}}.json",
+      "Target": "Data/Boots, Data/EngagementDialogue",
+      "FromFile": "assets/Content/{{Target}}.json",
+      "When": { "Language":"id" }
+    },
+    // {
+    //   "LogName":"Memuat Data Khusus Json",
+    //   "Action": "Load",
+    //   "Target": "Data/Movies, Data/MoviesReactions, Strings/credits",
+    //   "FromFile": "assets/Content/{{Target}}.json",
+    //   "When": { "Language":"id" }
+    // },
+    {
+      "LogName":"Memuat Data Khusus Json",
+      "Action": "Load",
+      "Target": "Strings/credits",
+      "FromFile": "assets/Content/{{Target}}.json",
       "When": { "Language":"id" }
     },
     {
       "LogName": "Memuat String Pada Folder schedules",
       "Action": "Load",
       "Target": "Strings/schedules/Abigail, Strings/schedules/Alex, Strings/schedules/Caroline, Strings/schedules/Clint, Strings/schedules/Demetrius, Strings/schedules/Elliott, Strings/schedules/Emily, Strings/schedules/Evelyn, Strings/schedules/George, Strings/schedules/Gus, Strings/schedules/Haley, Strings/schedules/Harvey, Strings/schedules/Jas, Strings/schedules/Jodi, Strings/schedules/Leah, Strings/schedules/Leo, Strings/schedules/Lewis, Strings/schedules/Linus, Strings/schedules/Marnie, Strings/schedules/Maru, Strings/schedules/Pam, Strings/schedules/Penny, Strings/schedules/Pierre, Strings/schedules/Robin, Strings/schedules/Sam, Strings/schedules/Sandy, Strings/schedules/Sebastian, Strings/schedules/Shane, Strings/schedules/Vincent, Strings/schedules/Willy",
-      "FromFile": "assets/{{Target}}.json",
+      "FromFile": "assets/Content/{{Target}}.json",
       "When": { "Language": "id"}
     },
     {
       "LogName": "Memuat Strings Lain-Lain",
       "Action": "Load",
-      "Target": "Strings/animationDescriptions, Strings/Buildings, Strings/BundleNames, Strings/Characters, Strings/credits, Strings/EnchantmentNames, Strings/Events, Strings/FarmAnimals, Strings/Lexicon, Strings/Locations, Strings/Notes, Strings/NPCNames, Strings/Objects, Strings/Quests, Strings/SpecialOrderStrings, Strings/SpeechBubbles, Strings/StringsFromCSFiles, Strings/StringsFromMaps, Strings/UI",
-      "FromFile": "assets/{{Target}}.json",
+      "Target": "Strings/animationDescriptions, Strings/Buildings, Strings/BundleNames, Strings/Characters, Strings/EnchantmentNames, Strings/Events, Strings/Lexicon, Strings/Locations, Strings/Notes, Strings/NPCNames, Strings/Objects, Strings/Quests, Strings/SpecialOrderStrings, Strings/SpeechBubbles, Strings/StringsFromCSFiles, Strings/StringsFromMaps, Strings/UI, Strings/Weapons",
+      "FromFile": "assets/Content/{{Target}}.json",
       "When": { "Language": "id"}
-    },
-    {
-      "LogName": "Memuat Data Bundles Setelah Event Junimo",
-      "Action": "Load",
-      "Target": "Data/Bundles",
-      "FromFile": "assets/{{Target}}.json",
-      "When": {
-          "Language": "id",
-          "HasFlag": "canReadJunimoText"
-      }
     },
     {
       "LogName": "Memuat Map Billboard",
       "Action": "EditImage",
       "Target": "LooseSprites/Billboard",
-      "FromFile": "assets/{{Target}}-id.png",
+      "FromFile": "assets/Content/{{Target}}.png",
       "FromArea": {
         "X": 0,
         "Y": 0,
@@ -107,7 +152,7 @@
       "LogName": "Memuat Map Kontroler",
       "Action": "EditImage",
       "Target": "LooseSprites/ControllerMaps",
-      "FromFile": "assets/{{Target}}-id.png",
+      "FromFile": "assets/Content/{{Target}}.png",
       "FromArea": {
         "X": 0,
         "Y": 0,
@@ -127,193 +172,21 @@
       "LogName": "Mengganti TileSheet CraneGame ke versi Internasional",
       "Action": "Load",
       "Target": "LooseSprites/CraneGame",
-      "FromFile": "assets/{{Target}}_international.png",
+      "FromFile": "assets/Content/{{Target}}_international.png",
       "When": {"Language": "id"}
     },
-    // //masukin gambar terjemahan
-    // {
-    //   "Action": "EditImage",
-    //   "Target": "LooseSprites/Cursors",
-    //   "FromFile": "assets/{{Target}}-id.png",
-    //   "FromArea": {
-    //     "X": 26,
-    //     "Y": 1364,
-    //     "Width": 63,
-    //     "Height": 26
-    //   }, //Joja SUCCESS flag
-    //   "ToArea": {
-    //     "X": 26,
-    //     "Y": 1364,
-    //     "Width": 63,
-    //     "Height": 26
-    //   },
-    //   "PatchMode": "Overlay",
-    //   "When": {"Language": "id"}
-    // },
-    // {
-    //   "Action": "EditImage",
-    //   "Target": "LooseSprites/Cursors",
-    //   "FromFile": "assets/{{Target}}-id.png",
-    //   "FromArea": {
-    //     "X": 128,
-    //     "Y": 1367,
-    //     "Width": 110,
-    //     "Height": 14
-    //   }, //Bundle Complete
-    //   "ToArea": {
-    //     "X": 128,
-    //     "Y": 1367,
-    //     "Width": 110,
-    //     "Height": 14
-    //   },
-    //   "PatchMode": "Replace",
-    //   "When": {"Language": "id"}
-    // },
-    // {
-    //   "Action": "EditImage",
-    //   "Target": "LooseSprites/Cursors",
-    //   "FromFile": "assets/{{Target}}-id.png",
-    //   "FromArea": {
-    //     "X": 648,
-    //     "Y": 1334,
-    //     "Width": 40,
-    //     "Height": 61
-    //   }, //Fishing Tutorial
-    //   "ToArea": {
-    //     "X": 648,
-    //     "Y": 1334,
-    //     "Width": 40,
-    //     "Height": 61
-    //   },
-    //   "PatchMode": "Replace",
-    //   "When": {"Language": "id"}
-    // },
-    // {
-    //   "Action": "EditImage",
-    //   "Target": "LooseSprites/Cursors",
-    //   "FromFile": "assets/{{Target}}-id.png",
-    //   "FromArea": {
-    //     "X": 353,
-    //     "Y": 1673,
-    //     "Width": 78,
-    //     "Height": 5
-    //   }, //Prairie King Control}
-    //   "ToArea": {
-    //     "X": 353,
-    //     "Y": 1673,
-    //     "Width": 78,
-    //     "Height": 5
-    //   },
-    //   "PatchMode": "Replace",
-    //   "When": {"Language": "id"}
-    // },
-    // {
-    //   "Action": "EditImage",
-    //   "Target": "LooseSprites/Cursors",
-    //   "FromFile": "assets/{{Target}}-id.png",
-    //   "FromArea": {
-    //     "X": 576,
-    //     "Y": 1728,
-    //     "Width": 64,
-    //     "Height": 94
-    //   }, //Prairie King Bubble Text
-    //   "ToArea": {
-    //     "X": 576,
-    //     "Y": 1728,
-    //     "Width": 64,
-    //     "Height": 94
-    //   },
-    //   "PatchMode": "Overlay",
-    //   "When": {"Language": "id"}
-    // },
-    // {
-    //   "Action": "EditImage",
-    //   "Target": "LooseSprites/Cursors",
-    //   "FromFile": "assets/{{Target}}-id.png",
-    //   "FromArea": {
-    //     "X": 244,
-    //     "Y": 1760,
-    //     "Width": 21,
-    //     "Height": 19
-    //   }, //Prairie King The End
-    //   "ToArea": {
-    //     "X": 244,
-    //     "Y": 1760,
-    //     "Width": 21,
-    //     "Height": 19
-    //   },
-    //   "PatchMode": "Replace",
-    //   "When": {"Language": "id"}
-    // },
-    // {
-    //   "Action": "EditImage",
-    //   "Target": "LooseSprites/Cursors",
-    //   "FromFile": "assets/{{Target}}-id.png",
-    //   "FromArea": {
-    //     "X": 152,
-    //     "Y": 1803,
-    //     "Width": 22,
-    //     "Height": 7
-    //   }, //Prairie King Press
-    //   "ToArea": {
-    //     "X": 152,
-    //     "Y": 1803,
-    //     "Width": 22,
-    //     "Height": 7
-    //   },
-    //   "PatchMode": "Replace",
-    //   "When": {"Language": "id"}
-    // },
-    // {
-    //   "Action": "EditImage",
-    //   "Target": "LooseSprites/Cursors",
-    //   "FromFile": "assets/{{Target}}-id.png",
-    //   "FromArea": {
-    //     "X": 612,
-    //     "Y": 1913,
-    //     "Width": 74,
-    //     "Height": 30
-    //   }, //Fishing HIT!
-    //   "ToArea": {
-    //     "X": 612,
-    //     "Y": 1913,
-    //     "Width": 74,
-    //     "Height": 30
-    //   },
-    //   "PatchMode": "Replace",
-    //   "When": {"Language": "id"}
-    // },
-    // {
-    //   "Action": "EditImage",
-    //   "Target": "LooseSprites/Cursors",
-    //   "FromFile": "assets/{{Target}}-id.png",
-    //   "FromArea": {
-    //     "X": 605,
-    //     "Y": 1965,
-    //     "Width": 22,
-    //     "Height": 17
-    //   }, //'Hats' on Hat Shop!
-    //   "ToArea": {
-    //     "X": 605,
-    //     "Y": 1965,
-    //     "Width": 22,
-    //     "Height": 17
-    //   },
-    //   "PatchMode": "Replace",
-    //   "When": {"Language": "id"}
-    // },
     {
       "LogName": "Memuat Gambar di file Cursors",
       "Action": "Load",
       "Target": "LooseSprites/Cursors",
-      "FromFile": "assets/{{Target}}-id.png",
+      "FromFile": "assets/Content/{{Target}}.png",
       "When":{ "Language":"id" }
     },
     {
       "LogName": "Memuat Form Proyek Joja",
       "Action": "EditImage",
       "Target": "LooseSprites/JojaCDForm",
-      "FromFile": "assets/{{Target}}-id.png",
+      "FromFile": "assets/Content/{{Target}}.png",
       "FromArea": {
         "X": 0,
         "Y": 0,
@@ -333,7 +206,7 @@
       "LogName": "Memuat Gambar Pada Menu Bundel",
       "Action": "EditImage",
       "Target": "LooseSprites/JunimoNote",
-      "FromFile": "assets/{{Target}}-id.png",
+      "FromFile": "assets/Content/{{Target}}.png",
       "FromArea": {
         "X": 519,
         "Y": 288,
@@ -349,29 +222,10 @@
       "PatchMode": "Replace",
       "When": {"Language": "id"}
     },
-    // {
-    //   "Action": "EditImage",
-    //   "Target": "LooseSprites/LanguageButtons",
-    //   "FromFile": "assets/{{Target}}-id.png",
-    //   "FromArea": {
-    //     "X": 0,
-    //     "Y": 0,
-    //     "Width": 173,
-    //     "Height": 77
-    //   }, //Language Buttons
-    //   "ToArea": {
-    //     "X": 0,
-    //     "Y": 0,
-    //     "Width": 173,
-    //     "Height": 77
-    //   },
-    //   "PatchMode": "Replace",
-    //   "When": {"Language": "id"}
-    // },
     { //??? (masih belum tahu muncul dimana)
       "Action": "Load",
       "Target": "LooseSprites/logo",
-      "FromFile": "assets/{{Target}}-id.png",
+      "FromFile": "assets/Content/{{Target}}.png",
       "FromArea": {
         "X": 331,
         "Y": 147,
@@ -391,7 +245,7 @@
       "LogName": "Memuat logo SV pada Kredit",
       "Action": "EditImage",
       "Target": "LooseSprites/yellowLettersLogo",
-      "FromFile": "assets/{{Target}}-id.png",
+      "FromFile": "assets/Content/{{Target}}.png",
       "FromArea": {
         "X": 0,
         "Y": 0,
@@ -411,7 +265,7 @@
       "LogName": "Memuat TileSheet Pemandian",
       "Action": "EditImage",
       "Target": "Maps/bathhouse_tiles",
-      "FromFile": "assets/{{Target}}-id.png",
+      "FromFile": "assets/Content/{{Target}}.png",
       "FromArea": {
         "X": 0,
         "Y": 0,
@@ -431,7 +285,7 @@
       "LogName": "Memuat TileSheet Kandang Ayam Shane",
       "Action": "EditImage",
       "Target": "Maps/coopTiles",
-      "FromFile": "assets/{{Target}}-id.png",
+      "FromFile": "assets/Content/{{Target}}.png",
       "FromArea": {
         "X": 0,
         "Y": 0,
@@ -451,7 +305,7 @@
       "LogName": "Memuat TileSheet Gurun",
       "Action": "EditImage",
       "Target": "Maps/DesertTiles",
-      "FromFile": "assets/{{Target}}-id.png",
+      "FromFile": "assets/Content/{{Target}}.png",
       "FromArea": {
         "X": 0,
         "Y": 0,
@@ -471,7 +325,7 @@
       "LogName": "Memuat TileSheet Pantai di musim Fall",
       "Action": "EditImage",
       "Target": "Maps/fall_beach",
-      "FromFile": "assets/{{Target}}-id.png",
+      "FromFile": "assets/Content/{{Target}}.png",
       "FromArea": {
         "X": 0,
         "Y": 0,
@@ -491,7 +345,7 @@
       "LogName": "Memuat TileSheet Outdoor di musim Fall",
       "Action": "EditImage",
       "Target": "Maps/fall_outdoorsTileSheet",
-      "FromFile": "assets/{{Target}}-id.png",
+      "FromFile": "assets/Content/{{Target}}.png",
       "FromArea": {
         "X": 0,
         "Y": 0,
@@ -511,7 +365,7 @@
       "LogName": "Memuat TileSheet Kota di musim Fall",
       "Action": "EditImage",
       "Target": "Maps/fall_town",
-      "FromFile": "assets/{{Target}}-id.png",
+      "FromFile": "assets/Content/{{Target}}.png",
       "FromArea": {
         "X": 0,
         "Y": 0,
@@ -531,7 +385,7 @@
       "LogName": "Memuat TileSheet Festival",
       "Action": "EditImage",
       "Target": "Maps/Festivals",
-      "FromFile": "assets/{{Target}}-id.png",
+      "FromFile": "assets/Content/{{Target}}.png",
       "FromArea": {
         "X": 0,
         "Y": 0,
@@ -551,7 +405,7 @@
       "LogName": "Ganti TileSheet Bioskop Joja ke versi Internasional",
       "Action": "EditImage",
       "Target": "Maps/MovieTheaterJoja_TileSheet",
-      "FromFile": "assets/{{Target}}_international.png",
+      "FromFile": "assets/Content/{{Target}}_international.png",
       "FromArea": {
         "X": 22,
         "Y": 130,
@@ -571,7 +425,7 @@
       "LogName": "Memuat TileSheet Pantai di musim Spring",
       "Action": "EditImage",
       "Target": "Maps/spring_beach",
-      "FromFile": "assets/{{Target}}-id.png",
+      "FromFile": "assets/Content/{{Target}}.png",
       "FromArea": {
         "X": 0,
         "Y": 0,
@@ -591,7 +445,7 @@
       "LogName": "Memuat TileSheet Outdoor di musim Spring",
       "Action": "EditImage",
       "Target": "Maps/spring_outdoorsTileSheet",
-      "FromFile": "assets/{{Target}}-id.png",
+      "FromFile": "assets/Content/{{Target}}.png",
       "FromArea": {
         "X": 0,
         "Y": 0,
@@ -611,7 +465,7 @@
       "LogName": "Memuat TileSheet Kota pada musim Spring",
       "Action": "EditImage",
       "Target": "Maps/spring_town",
-      "FromFile": "assets/{{Target}}-id.png",
+      "FromFile": "assets/Content/{{Target}}.png",
       "FromArea": {
         "X": 0,
         "Y": 0,
@@ -631,7 +485,7 @@
       "LogName": "Memuat TileSheet Objek",
       "Action": "EditImage",
       "Target": "Maps/springobjects",
-      "FromFile": "assets/{{Target}}-id.png",
+      "FromFile": "assets/Content/{{Target}}.png",
       "FromArea": {
         "X": 0,
         "Y": 0,
@@ -652,7 +506,7 @@
       "Action": "EditImage",
        //pakai asset spring beach karena warnanya sama
       "Target": "Maps/summer_beach",
-      "FromFile": "assets/{{Target}}-id.png",
+      "FromFile": "assets/Content/{{Target}}.png",
       "FromArea": {
         "X": 0,
         "Y": 0,
@@ -672,7 +526,7 @@
       "LogName": "Memuat TileSheet Outdoor di musim Summer",
       "Action": "EditImage",
       "Target": "Maps/summer_outdoorsTileSheet",
-      "FromFile": "assets/{{Target}}-id.png",
+      "FromFile": "assets/Content/{{Target}}.png",
       "FromArea": {
         "X": 0,
         "Y": 0,
@@ -692,7 +546,7 @@
       "LogName": "Memuat TileSheet Kota di musim Summer",
       "Action": "EditImage",
       "Target": "Maps/summer_town",
-      "FromFile": "assets/{{Target}}-id.png",
+      "FromFile": "assets/Content/{{Target}}.png",
       "FromArea": {
         "X": 0,
         "Y": 0,
@@ -712,7 +566,7 @@
       "LogName": "Memuat TileSheet Interior Warga Kota",
       "Action": "EditImage",
       "Target": "Maps/townInterior",
-      "FromFile": "assets/{{Target}}-id.png",
+      "FromFile": "assets/Content/{{Target}}.png",
       "FromArea": {
         "X": 0,
         "Y": 0,
@@ -733,7 +587,7 @@
       "Action": "EditImage",
       //pakai asset spring beach karena warnanya sama
       "Target": "Maps/winter_beach",
-      "FromFile": "assets/{{Target}}-id.png",
+      "FromFile": "assets/Content/{{Target}}.png",
       "FromArea": {
         "X": 0,
         "Y": 0,
@@ -753,7 +607,7 @@
       "LogName": "Memuat TileSheet Outdoor di musim Winter",
       "Action": "EditImage",
       "Target": "Maps/winter_outdoorsTileSheet",
-      "FromFile": "assets/{{Target}}-id.png",
+      "FromFile": "assets/Content/{{Target}}.png",
       "FromArea": {
         "X": 0,
         "Y": 0,
@@ -773,7 +627,7 @@
       "LogName": "Memuat TileSheet Kota di musim Winter",
       "Action": "EditImage",
       "Target": "Maps/winter_town",
-      "FromFile": "assets/{{Target}}-id.png",
+      "FromFile": "assets/Content/{{Target}}.png",
       "FromArea": {
         "X": 0,
         "Y": 0,
@@ -793,7 +647,7 @@
       "LogName": "Memuat Event Player Saat Masih Bekerja di Joja",
       "Action": "EditImage",
       "Target": "Minigames/jojacorps",
-      "FromFile": "assets/{{Target}}-id.png",
+      "FromFile": "assets/Content/{{Target}}.png",
       "FromArea": {
         "X": 0,
         "Y": 0,
@@ -813,7 +667,7 @@
       "LogName": "Memuat Event Player Saat Pindah ke SV",
       "Action": "EditImage",
       "Target": "Minigames/Intro",
-      "FromFile": "assets/{{Target}}-id.png",
+      "FromFile": "assets/Content/{{Target}}.png",
       "FromArea": {
         "X": 0,
         "Y": 0,
@@ -833,7 +687,7 @@
       "LogName": "Memuat Tampilan Menu Utama",
       "Action": "EditImage",
       "Target": "Minigames/TitleButtons",
-      "FromFile": "assets/{{Target}}-id.png",
+      "FromFile": "assets/Content/{{Target}}.png",
       "FromArea": {
         "X": 0,
         "Y": 0,
@@ -849,5 +703,53 @@
       "PatchMode": "Overlay",
       "When": {"Language": "id"}
     },
+    {
+      "LogName": "Memuat Data Bundles",
+      "Action": "Load",
+      "Target": "Data/Bundles",
+      "FromFile": "assets/Content/{{Target}}.json",
+      "When": {
+          "Language": "id",
+          "LegacyMode |contains=enabled": false
+      }
+    },
+    {
+      "LogName": "Memuat Data Bundles Setelah Event Junimo",
+      "Action": "Load",
+      "Target": "Data/Bundles",
+      "FromFile": "assets/{{Branch}}/{{Target}}.json",
+      "When": {
+        "Language": "id",
+        "HasFlag": "canReadJunimoText",
+        "LegacyMode |contains=enabled": true
+      }
+    },
+    // load json impact
+    // {
+    //   "Action": "Load",
+    //   "Target": "Characters/Dialogue/Emily, Characters/Dialogue/Lewis, Data/Festivals/fall27, Data/Festivals/spring13, Data/Festivals/spring24, Data/Festivals/summer11, Data/Festivals/summer28, Data/Festivals/winter8, Data/Festivals/winter25, Data/BigCraftablesInformation, Data/ClothingInformation, Data/Concessions, Data/Furniture, Data/hats, Data/mail, Data/Quests, Data/SecretNotes",
+    //   "FromFile": "assets/{{Branch}}/{{Target}}.json",
+    //   "When": {
+    //     "Language": "id"
+    //   }
+    // },
+    {
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Emily, Characters/Dialogue/Lewis, Data/Festivals/fall27, Data/Festivals/spring13, Data/Festivals/spring24, Data/Festivals/summer11, Data/Festivals/summer28, Data/Festivals/winter8, Data/Festivals/winter25, Data/hats, Data/mail, Data/Quests, Data/SecretNotes",
+      "FromFile": "assets/{{Branch}}/{{Target}}.json",
+      "When": {
+        "Language": "id"
+      }
+    },
+    {
+      "LogName": "Memuat File Legacy",
+      "Action": "Load",
+      "Target": "Data/FarmAnimals",
+      "FromFile": "assets/{{Branch}}/{{Target}}.json",
+      "When": {
+          "Language": "id",
+          "LegacyMode |contains=enabled": true
+      }
+  },
   ]
 }
