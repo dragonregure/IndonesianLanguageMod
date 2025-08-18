@@ -1,7 +1,7 @@
 
 # Indonesia Language Mod
 
-Reserved for later
+Don’t touch “_leftover” files if you are unsure what they are.
 
 
 ## Features
@@ -16,12 +16,7 @@ Reserved for later
 - Requirement 1
 - Requirement 2
 - Requirement 3
-## Assets
-[Indonesia Languange Mod V2.0.2](https://github.com/dragonregure/IndonesianLanguageMod/raw/usable_mod_file/IndonesianLanguageMod-2.0.2.zip)
-## Older Versions
-[Indonesia Languange Mod V2.0.1](https://github.com/dragonregure/IndonesianLanguageMod/raw/usable_mod_file/IndonesianLanguageMod-2.0.1.zip)
 
-[Indonesia Languange Mod V2.0.0](https://github.com/dragonregure/IndonesianLanguageMod/raw/usable_mod_file/IndonesianLanguageMod-2.0.0.zip)
 ## Installation
 
 - Step 1
